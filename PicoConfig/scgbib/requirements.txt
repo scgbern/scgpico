@@ -1,0 +1,295 @@
+
+# ---------------------------------------------------------------------------
+
+# BibTeX entry constants
+%BibTeXFields = (
+    article       => [author, title, journal, volume, number, "month + year",
+		      pages, note],
+
+    book          => [author, editor, "booktitle + edition", publisher,
+		      volume, series, address, "month + year", note],
+
+    booklet       => [title, author, howpublished, address, "month + year",
+		      note],
+
+    conference    => [author, title, booktitle, editor, series, volume,
+		      number, organization, publisher, address,
+		      "month + year", pages, note],
+
+    inbook        => [author, editor, booktitle, chapter, pages, publisher,
+		      "month + year", volume, series, address, edition, note],
+
+    incollection  => [author, title, booktitle, editor, chapter, pages, 
+		      publisher, address, "month + year", note],
+
+    inproceedings => [author, title, booktitle, editor, series, volume,
+		      number, organization, publisher, address,
+		      "month + year", pages, note],
+
+    manual        => [booktitle, author, organization, publisher, address,
+		      "month + year", note],
+
+    mastersthesis => [author, title, "*Masters thesis*", school,
+		      address, "month + year", note],
+
+    misc          => [author, title, howpublished, "month + year", note],
+
+    phdthesis     => [author, title, "*Ph.D. thesis*", school, address,
+		      "month + year", note],
+
+    proceedings   => [booktitle, editor, publisher, organization, address,
+		      "month + year", note],
+
+    techreport    => [author, title, "*Technical Report*", number,
+		      institution, "month + year", type, address, note],
+
+    unpublished   => [author, title, "month + year", note],
+);
+
+# ---------------------------------------------------------------------------
+
+# Formatting constants
+@BoldFace = (title);              # titles will be formatted boldface
+@Italic = (booktitle, journal);   # booktitle/journal will be formatted italic
+
+%Months = (jan => "January", feb => "February", mar => "March",
+	   apr => "April", may => "May", jun => "June", jul => "July",
+	   aug => "August", sep => "September", oct => "October",
+	   nov => "November", dec => "December",
+	   );
+
+# ---------------------------------------------------------------------------
+
+sub getBibTeX {
+    local ($count, $i) = (0, 0);
+    local ($reftypeFields) = ();
+
+    $ref = $lbl = $keys = $auth = $ed = $title = "";
+    $abstract = $url = $where = $junk = "";
+    @urlList = ();                # reset list of URLs
+    %entry = ();                  # reset entry hash
+
+    &parseBibTeX ();              # '%entry' contains list of key-value pairs
+
+    if ($entry{"lbl"} eq "") { print STDERR "Warning -- missing label:\n$_"; }
+
+    # as a start, set variables we are interested in...
+    $lbl = $entry{"lbl"};
+    $abstract = $entry{"abstract"};
+    $url = $entry{"url"};
+
+    # we do some preformatting here...
+    &bibPreFormat();
+
+    # finally, we do the formatting
+    $reftypeFields = $BibTeXFields{$entry{"bibtype"}};
+
+    # set appropriate fields to boldface and italic
+    foreach $elem (@BoldFace) {
+	if ($entry{$elem}) { $entry{$elem} = "$LQ" . $entry{$elem} . "$RQ"; }
+    }
+    foreach $elem (@Italic) {
+	if ($entry{$elem}) { $entry{$elem} = "$I" . $entry{$elem} . "$R"; }
+    }
+
+    # format all required fields
+    $count = @$reftypeFields - 1;
+    for $i ( 0 .. $count ) { 
+	# format ordinary fields
+	local ($newfield, $textfield) = ("", $reftypeFields->[$i]);
+
+	foreach $item (split / \+ /, $reftypeFields->[$i]) {
+	    if ($entry{$item}) {
+		$newfield .= " " . $entry{$item};
+		$found = 1;
+	    }
+	}
+	$newfield =~ s/ (.*)/\1/;       # strip leading blank
+
+	# add additional text constants
+	if ($textfield =~ s/\*([A-Za-z0-9\.\s]*)\*/\1/) {
+	    $newfield = $textfield;
+	}
+	if ($newfield) { $ref .= ",\n" . $newfield; }
+    }
+
+    $ref =~ s/,\n(.*)/\1/;     # remove leading comma, add trailing fullstop
+    $ref =~ s/$RQ,/,$RQ/go;    # fix commas
+
+    # if there is a valid entry, add a '.'
+    if ($ref) { $ref .= ".\n"; }
+    
+    # if ($bookstyle) { $ref = sprintf("[%s]\t%s", $entry{"lbl"}, $ref); }
+
+    # generate list of URLs
+    if ($url) {
+	foreach $elem (split /[, ]+/, $url) { push(@urlList,$elem); }
+    }
+}
+
+# ---------------------------------------------------------------------------
+
+# Parse a BibTeX entry and store key-value pairs in '%entry'
+
+sub parseBibTeX {
+
+    s/\n\s+/\n/g;           # remove leading new-line and white space
+
+    # enclose single word values in curly braces
+    s/([a-zA-Z]+)[ \t]*=[ \t]*([\w]+)(,\n)/\1 = \{\2\},\n/g;
+
+    # get the type and the label of the entry (must be done here !!)
+    s/\@([a-zA-Z]+)\{[ \t]*([a-zA-Z][a-zA-Z0-9_:-]*),\n//;
+    $entry{"bibtype"} = $1;
+    $entry{"lbl"} = $2;
+
+    $entry{"bibtype"} =~ tr/A-Z/a-z/;     # convert type to lower case...
+
+    # handle multiline entries (i.e. remove unnecessary '\n')
+    s/([\}\"],)\n/\1\^A/g;    # replace '\n' at end of entry with '\^A'
+    s/([\}\"])\n\}/\1\^A\}/g;
+    s/\}\n\n/\}\^A\^A/g;      # replace '\n' at end of record with '\^A'
+
+    s/\\\s*\n\s*/ /g;         # merge continuation lines with '\'
+    s/\n/ /g;                 # replace remaining '\n' with ' '
+    s/\^A/\n/g;               # replace '\^A' with '\n'
+
+    # get key-value pairs and assign to 'entry'
+    while (s/([a-zA-Z]+)[ \t]*=[ \t]*\{(.+)(\}([\s]*,[\s]*)\n)// ||
+	   s/([a-zA-Z]+)[ \t]*=[ \t]*\{(.+)(\}[\s]*\n\})// ||
+	   s/([a-zA-Z]+)[ \t]*=[ \t]*\"(.+)(\"[\s]*,[\s]*\n)// ||
+	   s/([a-zA-Z]+)[ \t]*=[ \t]*\{(.+)(\"[\s]*\n\})// ) {
+        $aKey = $1;
+	$aKey =~ tr/A-Z/a-z/;            # convert keyword to lower case...
+	$entry{$aKey} = $2;
+	$entry{$aKey} =~ s/[{}]//g;      # remove enclosing braces (for now)
+	# No!  accent::html will change this to a propert emdash! (oscar)
+	# $entry{$aKey} =~ s/\-\-/\-/g;
+    }
+}
+
+# ---------------------------------------------------------------------------
+
+sub bibPreFormat {
+    local ($bibtype);
+
+    # switch title to booktitle in 'book', 'inbook', 'manual', 'proceedings'
+    $bibtype = $entry{"bibtype"};
+    if (($bibtype eq "book") || ($bibtype eq "inbook") ||
+	($bibtype eq "manual") || ($bibtype eq "proceedings")) {
+	$entry{"booktitle"} = $entry{"title"};
+	$entry{"title"} = "";
+    }
+
+    # expand months (if not expanded)
+    if ($Months{$entry{"month"}}) {
+	$entry{"month"} = $Months{$entry{"month"}};
+    }
+
+    # add 'pages', 'volume, 'number', 'chapter'
+    if ($entry{"pages"}) { $entry{"pages"} = "pp. " . $entry{"pages"}; }
+    if ($entry{"volume"}) { $entry{"volume"} = "vol. " . $entry{"volume"}; }
+    if ($entry{"number"}) { $entry{"number"} = "no. " . $entry{"number"}; }
+    if ($entry{"chapter"}) { $entry{"chapter"}="chapter " . $entry{"chapter"};}
+
+    # format 'edition' (thanks to M. Rieger)
+    if ($entry{"edition"}) {
+	$entry{"edition"} =~ s/\b([a-z])/($_=$1,tr!a-z!A-Z!,$_)/ge;
+	if ($entry{"edition"} !~ m/[Ee]dition/) {
+	    $entry{"edition"} .= " edition";
+	}
+	$entry{"edition"} = "(". $entry{"edition"} . ")";
+    }
+
+    # swap authors and editors
+    $entry{"author"} = &swapBibNames ($entry{"author"});
+    $entry{"editor"} = &swapBibNames ($entry{"editor"});
+
+    # add '(Ed.)' or '(Eds.)' to editor field
+    if ($entry{"editor"}) {
+	if ($entry{"editor"} =~ m/ and /) {
+	    $entry{"editor"} .= " (Eds.)";          # more than one editor
+	} else { $entry{"editor"} .= " (Ed.)"; }
+    }
+}
+
+# ---------------------------------------------------------------------------
+
+# handle special format of name lists (i.e. for 'author' and 'editor')
+sub swapBibNames {
+    $newnames = "";
+
+    # for the moment, we only take simple author lists into account...
+    local @namelist = split / and /, @_->[0];
+    
+    if ($#namelist < 0) { return ""; }
+
+	for $i (0 .. $#namelist) {
+	$namelist[$i] =~ s/(.*), (.*)/$2 $1/; # Normalize names if comma present
+	}
+
+    if ($bookstyle) {
+    $namelist[0] =~ s/(.*) (\S+)$/\2, \1/; # attempt to put last name first
+    }
+
+	$newnames = join(", ", @namelist[0..($#namelist-1)]);
+
+	if ($#namelist > 0) {
+	if ($bookstyle) { $newnames .= ","; }
+	$newnames .= " and " . $namelist[$#namelist];
+	} else {
+	$newnames = $namelist[0];
+	}
+
+    return $newnames;
+}
+
+# ---------------------------------------------------------------------------
+
+# sort @bibList -- $y = sort by year first, then author; $r = reverse sort
+sub bibsort {
+	my($y,$r,@bibList) = @_;
+	
+	if ($y) {
+		if ($r) {
+			print sort { bib::yat($b) cmp bib::yat($a) } @bibList;
+		} else {
+			print sort { bib::yat($a) cmp bib::yat($b) } @bibList;
+		}
+	} else {
+		if ($r) {
+			print sort { bib::ayt($b) cmp bib::ayt($a) } @bibList;
+		} else {
+			print sort { bib::ayt($a) cmp bib::ayt($b) } @bibList;
+		}
+	}
+}
+
+# return year-author-tag
+sub yat {
+	local($ref) = @_;
+	@ayt = getStats($ref);
+	return sprintf "%s-%s-%s", @ayt[1,0,2];
+}
+
+# return author-year-tag
+sub ayt {
+	local($ref) = @_;
+	return sprintf "%s-%s-%s", getStats($ref);
+}
+
+# Extract author, year, tag
+# Modified to accept any garbage in the year field
+sub getStats {
+	local($ref) = @_;
+	local($auth, $tag) = ($ref =~ /@[^{]+{([A-Za-z]+)\d+([a-z]?)/);
+	# local($year) = ($ref =~ /year\s*=\s*{\s*(\d+)/);
+	local($year) = ($ref =~ /year\s*=\D*(\d+)/);
+	return ($auth,$year,$tag);
+}
+
+# ---------------------------------------------------------------------------
+
+1;
+
+# ---------------------------------------------------------------------------

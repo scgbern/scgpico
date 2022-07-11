@@ -19,6 +19,9 @@ rsync ${RSYNC} ${CONFIG}/config/ ${REMOTE}/config/
 rsync ${RSYNC} ${CONFIG}/themes/scg/ ${LOCAL}/themes/scg/
 rsync ${RSYNC} ${CONFIG}/themes/scg/ ${REMOTE}/themes/scg/
 
+rsync ${RSYNC} ${CONFIG}/scgbib/ ${LOCAL}/assets/scgbib/
+rsync ${RSYNC} ${CONFIG}/scgbib/ ${REMOTE}/assets/scgbib/
+
 rsync ${RSYNC} ${CONFIG}/htaccess ${LOCAL}/.htaccess
 rsync ${RSYNC} ${CONFIG}/htaccess ${REMOTE}/.htaccess
 
