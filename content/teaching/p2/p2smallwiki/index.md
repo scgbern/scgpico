@@ -1,0 +1,34 @@
+---
+Title: P2 Ãbungensbetrieb
+---
+
+Die P2-Vorlesung bietet einen Einblick in den Objekt-orientierten Aufbau von Software-Anwendungen. Schwerpunkte werden auf iterative Entwicklung, Testen und Abstraktion gesetzt. Praktische Ãbungen werden mit Java und Smalltalk durchgeführt.
+
+## Wichtigste Addressen 
+
+
+-  <big style="font-size:xx-large">[http://scglectures.unibe.ch/p2/](http://scglectures.unibe.ch/p2/)</big>
+
+
+-  <big style="font-size:xx-large">[p2-beratung@iam.unibe.ch](p2-beratung@iam.unibe.ch)</big>
+
+## Poolstunde
+
+
+-  <! Dienstag 15-17 Uhr, im Fedora-Pool (A95), EXWI> ???
+
+## P2 Folien
+
+
+-  [P2: Programming 2 &mdash; Object-Oriented Design](%base_url%/teaching/p2)
+
+
+---
+
+## Ãbungensbetrieb
+
+
+-  ???
+
+
+-  [JExample](%base_url%/research/jexample) (tutorial and download) 

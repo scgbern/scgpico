@@ -1,0 +1,36 @@
+---
+Title: Presentations Mistakes
+---
+
+
+-  No transition
+-  Unclear scope and purpose
+-  [Presenter talks for a long time on a text slide](%base_url%/staff/tudorgirba/storytellinginthedigitalage/presentertalksforalongtimeonatextslide)
+-  [No voice inflection](%base_url%/staff/tudorgirba/storytellinginthedigitalage/novoiceinflection)
+-  [No apparent mapping between the speech and the slide](%base_url%/staff/tudorgirba/storytellinginthedigitalage/noapparentmappingbetweenthespeechandtheslide)
+-  [Wide knowledge](%base_url%/staff/tudorgirba/storytellinginthedigitalage/wideknowledge)
+-  [Anonymous presentation no introduction](%base_url%/staff/tudorgirba/storytellinginthedigitalage/anonymouspresentationnointroduction)
+-  [Time overflow](%base_url%/staff/tudorgirba/storytellinginthedigitalage/timeoverflow)
+-  [No gestures](%base_url%/staff/tudorgirba/storytellinginthedigitalage/nogestures)
+-  [Too much gestures](%base_url%/staff/tudorgirba/storytellinginthedigitalage/toomuchgestures)
+-  [Unstill pointer](%base_url%/staff/tudorgirba/storytellinginthedigitalage/unstillpointer)
+-  [Shaky remote control](%base_url%/staff/tudorgirba/storytellinginthedigitalage/shakyremotecontrol)
+-  [Not knowing the environment](%base_url%/staff/tudorgirba/storytellinginthedigitalage/notknowingtheenvironment)
+-  Flat talk
+-  Silent talk
+-  Podium defense
+-  Screen saver surprise
+-  Out of battery
+-  Slides talk
+-  Talking to the slides
+-  Pointing to the wrong screen
+-  Apologizing speaker
+-  Wide knowledge
+-  The mumbling syndrome
+-  Forgetting to breath
+-  Not valuing the public questions
+-  Lengthy answer
+-  Animation oppression
+-  Going against all conditions
+-  [Not knowing the audience expectation, knowledge](%base_url%/staff/tudorgirba/storytellinginthedigitalage/notknowingtheaudienceexpectationknowledge)
+-  [Not facing the audience no feedback gathering](%base_url%/staff/tudorgirba/storytellinginthedigitalage/notfacingtheaudiencenofeedbackgathering)

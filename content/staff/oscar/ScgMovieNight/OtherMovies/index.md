@@ -1,0 +1,9 @@
+---
+Title: Other Movies
+---
+
+Other movies we have not seen ...
+
+- **[City Lights](http://en.wikipedia.org/wiki/City_Lights)**: 1931, Charlie Chaplin, 87 min. Silent with English titles. One of the top ten films of all time, and Chaplin's best. The scene in which the blind flower girl assumes the tramp is a millionaire is hilariously flawless (or flawlessly hilarious?), and the film's closing scene is still moving today. [100% on Rotten Tomatoes](http://www.rottentomatoes.com/m/city_lights/).
+- **[O Lucky Man!](http://en.wikipedia.org/wiki/O_Lucky_Man!)**: 1973, [Lindsay Anderson](xhttp://en.wikipedia.org/wiki/Lindsay_Anderson), 183 min. After making [If ...](http://en.wikipedia.org/wiki/If....) and [A Clockwork Orange](http://en.wikipedia.org/wiki/A_Clockwork_Orange_(film)), [Malcolm MacDowell](http://en.wikipedia.org/wiki/Malcolm_McDowell) scripted this bizarre story of [Mick Travis](http://en.wikipedia.org/wiki/Mick_Travis_films) (the erstwhile hero if If ...) who tries to make his career selling coffee, but is sidetracked by one misadventure after another. [92% on Rotten Tomatoes](http://www.rottentomatoes.com/m/o_lucky_man/)
+- **[Der Amerikanische Freund](http://en.wikipedia.org/wiki/The_American_Friend)** (AKA The American Friend): 1977, [Wim Wenders](http://en.wikipedia.org/wiki/Wim_Wenders), 127 min. Stars [Dennis Hopper](http://en.wikipedia.org/wiki/Dennis_Hopper) as [Tom Ripley](http://en.wikipedia.org/wiki/Tom_Ripley) and [Bruno Ganz](http://en.wikipedia.org/wiki/Bruno_Ganz) as the hapless picture framer that Ripley cons into performing an assassination in this early adaptation of [Ripley's Game](http://en.wikipedia.org/wiki/Ripley%27s_Game) by [Patricia Highsmith](http://en.wikipedia.org/wiki/Patricia_Highsmith). Fabulous example of [German New Wave Cinema](http://en.wikipedia.org/wiki/New_German_Cinema). [88% on Rotten Tomatoes](http://www.rottentomatoes.com/m/american_friend/)

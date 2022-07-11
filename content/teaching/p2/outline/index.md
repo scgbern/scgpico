@@ -1,0 +1,67 @@
+---
+Title: Outline
+---
+
+#Course Outline
+
+
+- Introduction
+- Goals of this course
+- Object-Oriented Design
+- Refactoring
+- Software Quality
+- Design by Contract
+- Contracts, exceptions, failures, defects and assertions
+- Data abstraction &mdash; Stack example
+- Class invariants
+- Programming by Contract
+- Assertions
+- A Testing Framework
+- JUnit &mdash; a testing framework
+- Testing practices
+- Money and MoneyBag &mdash; a testing case study
+- Double Dispatch &mdash; how to add different types of objects
+- Debugging and Tools
+- Testing &mdash; definitions and strategies
+- Understanding the run-time stack and heap
+- Debuggers
+- Timing benchmarks
+- Profilers
+- Version control systems
+- Iterative Development
+- The iterative software lifecycle
+- Responsibility-driven design
+- TicTacToe example
+- Inheritance and Refactoring
+- Uses of inheritance &mdash; conceptual hierarchy, polymorphism and code reuse
+- TicTacToe and Gomoku &mdash; interfaces and abstract classes
+- Refactoring &mdash; iterative strategies for improving design
+- Top-down decomposition &mdash; decomposing algorithms to reduce complexity
+- GUI Construction
+- Model-View-Controller
+- AWT and Swing Components, Containers and Layout Managers
+- Events and Listeners
+- Observers and Observables
+- Jar files, Ant and Javadoc
+- Applets
+- Java: Generics and Annotations
+- Generics
+- Annotations
+- Model-Driven Engineering
+- Guidelines, Idioms and Patterns
+- Idioms, Patterns and Frameworks &mdash; Programming style: Code Talks; Code Smells
+- Basic Idioms &mdash; Delegation, Super, Interface
+- Some Design Patterns &mdash; Adapter, Proxy, Template Method, Composite, Observer, Visitor, State
+- A bit of C\+\+
+- C\+\+ vs C
+- C\+\+ vs Java
+- References vs pointers
+- C\+\+ classes: Orthodox Canonical Form
+- Templates and STL
+- Industrial Practices
+- Invited talk
+- A bit of Smalltalk
+- Some history
+- Smalltalk syntax &amp; object model
+- The Smalltalk environment
+- Final Exam
