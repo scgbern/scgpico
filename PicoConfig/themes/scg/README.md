@@ -1,3 +1,8 @@
+
+The SCG theme is a modification of the Pico default theme, with different colours and CSS for sidebars.
+
+---
+
 Pico Default Theme
 ==================
 
