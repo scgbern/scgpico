@@ -21,7 +21,7 @@ Title: Root Environment
       <div class="postticker">![Post Ticker](%base_url%/system/components/postticker)</div>
 
       <h1>Search SCG Bibliography</h1>
-      <div><form method="GET" action="%assets_url%/scgbib"><input type="text" name="query" size="15" maxlength="800"/><input type="submit" value="scg bib"/></form></div>
+      <div><form method="GET" action="%assets_url%/scgbib"><input type="text" name="query" size="15" maxlength="800"/><input type="submit" value="scg bib"/></form></div>
 
     </div>
   </div>

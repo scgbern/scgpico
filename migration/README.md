@@ -25,7 +25,10 @@ NB: to keep the implementation is compact as possible, no new methods or class e
 
 * Handle fixed queries
 
+* 
+
 * Fix notExportedPages query to consider the PRComponent pages handled
+	- Check is CPBibFile is handled -- same as CPQueryBox page???
 
 * Handle other file types (subclasses of PRStructure)
 	There are 8 kinds of pages (See: PM new pageTypes):
