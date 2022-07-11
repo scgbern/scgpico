@@ -9,7 +9,7 @@ RSYNC="-avz --delete -e ssh --stats --progress"
 B=/Users/oscar/Documents/Projects/scgpico/migration/bin
 
 SOURCE=scg@cindy.inf.unibe.ch:/srv/scg.unibe.ch/app/export/
-CONTENT=/Users/oscar/Documents/Projects/scgpico/content
+CONTENT=/Users/oscar/Documents/Projects/scgpico/content/
 
 LOCAL=/Users/oscar/Sites/Pico/content/
 TARGET=scg@yogi.inf.unibe.ch:/srv/testscg.unibe.ch/pico-release-v2/content/

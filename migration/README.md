@@ -23,13 +23,25 @@ NB: to keep the implementation is compact as possible, no new methods or class e
 ---
 # To do
 
-* Compare reachable Pier pages with all existing instances
-	- compare by subclass of PRPage
+* Handle fixed queries
 
-* Handle the scgbib links
-	- Also embedded queries
+* Fix notExportedPages query to consider the PRComponent pages handled
 
-* Clean up PM method categories (scripts, queries, helpers)
+* Handle other file types (subclasses of PRStructure)
+	There are 8 kinds of pages (See: PM new pageTypes):
+	- PRPage: we write out the markdown
+	- PRFile: these are uploads copied to the assets folder
+	- TO DO:
+		* CPBibFile (1) -- the SCG bib file
+		* PRComponent (46) -- each of these is bound to a particular class
+			- See: PM new componentTypeDict
+			- The important ones are CPAuthorPage, CPFixedQuery and CPQueryBox
+			- Also 
+	- TO IGNORE
+		- CPWhatsNew (1) -- tracks updates to scgbib and generates a blog entry
+		- PBBlog (1) -- the News blog; to be exported
+		- PBPost (383) -- blog posts -- to be exported as files ...
+		- PBComment (8) -- comments to blog pages; ignore?
 
 * Some Wiki pages broken
 	- Writing errors -- embedded pages broken
@@ -47,22 +59,6 @@ NB: to keep the implementation is compact as possible, no new methods or class e
 		* PRValueLink (563) -- to do
 			PM new valueLinkDict
 		- SCGExternalLink (135) -- done link to download folder
-
-* Handle other file types (subclasses of PRStructure)
-	There are 8 kinds of pages (See: PM new pageTypes):
-	- PRPage: we write out the markdown
-	- PRFile: these are uploads copied to the assets folder
-	- TO DO:
-		* CPBibFile (1) -- the SCG bib file
-		* PRComponent (46) -- each of these is bound to a particular class
-			- See: PM new componentTypeDict
-			- The important ones are CPAuthorPage, CPFixedQuery and CPQueryBox
-			- Also 
-	- TO IGNORE
-		- CPWhatsNew (1) -- tracks updates to scgbib and generates a blog entry
-		- PBBlog (1) -- the News blog; to be exported
-		- PBPost (383) -- blog posts -- to be exported as files ...
-		- PBComment (8) -- comments to blog pages; ignore?
 
 * Fix sidebar to shift to bottom on small devices
 	- see example in main css style
@@ -96,6 +92,21 @@ NB: to keep the implementation is compact as possible, no new methods or class e
 
 ---
 ## DONE
+
+- Handle the scgbib query boxes
+	- the link +/scgbib/query+ points to a CPQueryBox PRComponent of the scgbib CPBibFile
+		- by default it generates ![Search SCG Bibliography](%base_url%/scgbib/query)
+		- there is only one such page, but it is linked from many places
+		- should be ![...](%assets_url/scgbib)
+		<form method="GET" action="%assets_url%/scgbib">
+			<input type="text" name="query" size="15" maxlength="800"/>
+			<input type="submit" value="scg bib"/>
+		</form>
+
+- Compare reachable Pier pages with all existing instances
+	- compare by subclass of PRPage
+
+- Clean up PM method categories (scripts, queries, helpers)
 
 - Set up scgbern pico github repo
 	- moved all old pier-migration scripts etc to new repo

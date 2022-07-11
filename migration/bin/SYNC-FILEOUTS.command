@@ -8,7 +8,7 @@ RSYNC="-avz --delete -e ssh --stats --progress"
 B=/Users/oscar/Documents/Projects/project-scg-pier-migration/bin
 
 SOURCE=scg@cindy.inf.unibe.ch:/srv/scg.unibe.ch/app/
-REPO=/Users/oscar/Documents/Projects/project-scg-pier-migration/FileOuts/
+REPO=/Users/oscar/Documents/Projects/scgpico/migration/FileOuts/
 
 for arg in PM.st PMMarkdownWriter.st
 do

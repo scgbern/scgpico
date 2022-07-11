@@ -6,4 +6,4 @@
 - [SCG Bachelors Projects](%base_url%/publications/scg-bp)
 - [How to link to the SCG Bibliography](%base_url%/wiki/howtos/howToLinkToScgBib)
 #Search SCG Bibliography
-![Search SCG Bibliography](%base_url%/scgbib/query)
+<form method="GET" action="%assets_url%/scgbib"><input type="text" name="query" size="15" maxlength="800"/><input type="submit" value="scg bib"/></form>

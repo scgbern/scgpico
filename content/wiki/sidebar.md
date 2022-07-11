@@ -3,4 +3,4 @@
 ![](value:children)
 
 #Search SCG Bibliography
-![Search SCG Bibliography](%base_url%/scgbib/query)
+<form method="GET" action="%assets_url%/scgbib"><input type="text" name="query" size="15" maxlength="800"/><input type="submit" value="scg bib"/></form>
