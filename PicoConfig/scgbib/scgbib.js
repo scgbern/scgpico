@@ -4,7 +4,7 @@ $(document).ready(function()
        var definitiveObjectArray;
        var objectArray;
        var textString, textArray;
-       fetch('./output.json') //http://scg.unibe.ch/download/scgbib/json-conversion/scgbib.json
+       fetch('./output.json') //http://scg.unibe.ch/download/scgbib/scgbib.json
       .then(response => response.json())
       .then(data => {
         definitiveObjectArray = data;

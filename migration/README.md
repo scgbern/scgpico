@@ -23,16 +23,11 @@ NB: to keep the implementation is compact as possible, no new methods or class e
 ---
 # To do
 
-* set up scgbib github repo
-	* clean up the README files
-	* add the JS interface
-	* set up github actions to test for errors and generate JS
-
-* set up scgbern pico github repo
-	- publish as github pages?
-
 * Compare reachable Pier pages with all existing instances
 	- compare by subclass of PRPage
+
+* Handle the scgbib links
+	- Also embedded queries
 
 * Clean up PM method categories (scripts, queries, helpers)
 
@@ -42,9 +37,6 @@ NB: to keep the implementation is compact as possible, no new methods or class e
 		- Possible solution: use an iframe with a dedicated css to hide the header and footer
 	- Front page: the value:children link is broken (generates list of children pages)
 		This is a PRValueLink
-
-* Handle the scgbib links
-	- Also embedded queries
 
 * check if mail and other links are working
 	PM new allLinksDict
@@ -95,8 +87,23 @@ NB: to keep the implementation is compact as possible, no new methods or class e
 	- https://github.com/alejandroliu/ForceHttpsPlugin
 	- PB: needs a certificate
 
+* Fix handling of accents in scgbib
+	* Fix the back-end js-conversion script in the new scgbib github repo
+
+* Clean up scgbib repo
+	* Install github repo in assets or download folder (can't git clone on yogi -- too old RSA)
+	* set up github actions to test for errors and generate JS
+
 ---
 ## DONE
+
+- Set up scgbern pico github repo
+	- moved all old pier-migration scripts etc to new repo
+	- updated scripts
+
+- set up scgbib github repo
+	- clean up the README files
+	- add the JS interface
 
 - Embed sidebars
 	- To do:
