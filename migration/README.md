@@ -25,8 +25,6 @@ NB: to keep the implementation is compact as possible, no new methods or class e
 
 * Handle fixed queries
 
-* 
-
 * Fix notExportedPages query to consider the PRComponent pages handled
 	- Check is CPBibFile is handled -- same as CPQueryBox page???
 
@@ -95,6 +93,11 @@ NB: to keep the implementation is compact as possible, no new methods or class e
 
 ---
 ## DONE
+
+- Generate a dictionary of pages to pages that link to them
+	- PM new linkDict
+	- Key: absolute path Values: all pages that link to that path
+	- PM new linkDict at: '/scgbib' -- all pages that link to scgbib
 
 - Handle the scgbib query boxes
 	- the link +/scgbib/query+ points to a CPQueryBox PRComponent of the scgbib CPBibFile
