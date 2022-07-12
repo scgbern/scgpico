@@ -93,10 +93,10 @@ The GTDebugger implements the idea of a moldable debugger as part of the [GToolk
 
 |[Andrei ChiÈ](http://andreichis.com)|
 |---|---
-|[Tudor GÃ®rba](http://tudorgirba.com)|
+|[Tudor Gîrba](http://tudorgirba.com)|
 
 #Publications
-[Fixed Query](%assets_url%/scgbib/?query=*)
+[Fixed Query](%assets_url%/scgbib/?query=*&filter=Year)
 
 #Blog articles
 

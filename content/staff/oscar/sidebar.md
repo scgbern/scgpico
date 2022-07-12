@@ -4,7 +4,7 @@
 
 - [CV](%assets_url%/download/oncv/oncv.pdf)
 - [Contact]()
-- [Publications](%base_url%/staff/oscar/onpubs) 
+- [Oscar Nierstrasz &mdash; Publications](%assets_url%/scgbib/?query=Nierstrasz&filter=Year) 
 - [Directions to INF](%base_url%/contact/maps)
 <form method="GET" action="http://scg.unibe.ch/scgbib">
 	<input type="text" name="query" size="15" maxlength="800"/>

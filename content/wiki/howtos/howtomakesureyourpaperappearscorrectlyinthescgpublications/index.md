@@ -15,7 +15,7 @@ In certain styles you cannot include the citation in the title. In this case put
 
 
 
--  Verify the pdf on the [SCG Publications](%assets_url%/scgbib/?query=scg-pub)
+-  Verify the pdf on the [SCG Publications](%assets_url%/scgbib/?query=scg-pub&filter=Year)
 
 
 -  Update the scg bib following the instructions in the [README file in the scgbib project](https://www.iam.unibe.ch/scg/svn_repos/scgbib/)

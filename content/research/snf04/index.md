@@ -26,7 +26,7 @@ Some of the most significant results include (i) both formal specification and a
  
 
 - [Intermediate report](%assets_url%/download/projectreports/snf04-intermediate.pdf) [pdf]
-- [Publications](%base_url%/scgbib) (papers and theses)
+- [Publications](%assets_url%/scgbib/?query=snf05&filter=Year) (papers and theses)
 
 #Final Report
 
@@ -36,4 +36,4 @@ Significant results have been achieved in the four areas covered by this project
 
 
 - [Final report](%assets_url%/download/projectreports/snf04-final.pdf) [pdf]
-- [Publications](%base_url%/scgbib) (papers and theses)
+- [Publications](%assets_url%/scgbib/?query=snf06&filter=Year) (papers and theses)

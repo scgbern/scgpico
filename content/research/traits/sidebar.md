@@ -1,3 +1,3 @@
 #Downloads
 
-- [Publications](%base_url%/scgbib)
+- [Publications](%assets_url%/scgbib/?query=traits&filter=Year)

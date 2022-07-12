@@ -29,4 +29,4 @@ Iâm a PhD candidate at the Software Composition Group, University of Bern s
 Please see [SCG Projects](%base_url%/wiki/projects)
 
 #Publications
-![Author Page](%base_url%/scgbib/author)
+[Author Page](%assets_url%/scgbib/?query=kursjan&filter=Year)

@@ -5,8 +5,8 @@ Title: ChangeBoxes
 Welcome to Modelling Change as a First Class Entity
 
 
-- Paper: [Encapsulating and Exploiting Change with Changeboxes](%base_url%/scgbib)
-- The [Master Thesis](%base_url%/scgbib) on Changeboxes
+- Paper: [Encapsulating and Exploiting Change with Changeboxes](%assets_url%/scgbib/?query=Denk07c&filter=Year)
+- The [Master Thesis](%assets_url%/scgbib/?query=Zumk07a&filter=Year) on Changeboxes
 
 ChangeBoxes are currently in development state, no stable version is available yet. This page documents the development processes.
 

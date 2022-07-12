@@ -28,15 +28,15 @@ Apart from this my research interests lie in the areas of:
 
 
 #Publications
-![Author Page](%base_url%/scgbib/author)
+[Author Page](%assets_url%/scgbib/?query=Andrei Chis&filter=Year)
 
 #Awards
 
 - *[SPLASH 2015 Distinguished Demo Award](http://2015.splashcon.org)* for [GTInspector: A Moldable Domain-Aware Object Inspector](http://2015.splashcon.org/event/splash2015-demos-gtinspector-a-moldable-domain-aware-object-inspector) by [Andrei ChiÈ](%base_url%/staff/andreichis), [Tudor Girba](http://www.tudorgirba.com/), [Oscar Nierstrasz](%base_url%/staff/oscar), [Aliaksei Syrel](%base_url%/wiki/alumni/AliakseiSyrel)
 - *[European Smalltalk User Group 2015 Technology Innovation Award (1st prize)](http://www.esug.org/wiki/pier/Conferences/2015/Innovation-Technology-Awards)* for [GT Spotter](http://gt.moosetechnology.org/) by Aliaksei Syrel, [Andrei ChiÈ](%base_url%/staff/andreichis), [Tudor Girba](http://www.tudorgirba.com/), [Juraj Kubelka](http://www.juraj-kubelka.cz/) and Stefan Reichhart
-- *[Software Language Engineering (SLE) 2014 Best Student Paper Award](http://www.sleconf.org/2014/AcceptedPapers.html)* for [The Moldable Debugger: A Framework for Developing Domain-Specific Debuggers](%base_url%/scgbib) by [Andrei ChiÈ](%base_url%/staff/andreichis), [Tudor Girba](http://www.tudorgirba.com/) and [Oscar Nierstrasz](%base_url%/staff/oscar)
+- *[Software Language Engineering (SLE) 2014 Best Student Paper Award](http://www.sleconf.org/2014/AcceptedPapers.html)* for [The Moldable Debugger: A Framework for Developing Domain-Specific Debuggers](%assets_url%/scgbib/?query=Chis14b&filter=Year) by [Andrei ChiÈ](%base_url%/staff/andreichis), [Tudor Girba](http://www.tudorgirba.com/) and [Oscar Nierstrasz](%base_url%/staff/oscar)
 - *[European Smalltalk User Group 2014 Technology Innovation Award (1st prize)](http://www.esug.org/wiki/pier/Conferences/2014/Innovation-Technology-Awards)* for [GT Inspector](http://gt.moosetechnology.org/) by [Andrei ChiÈ](%base_url%/staff/andreichis), [Tudor Girba](http://www.tudorgirba.com/) and Aliaksei Syrel
--  *[IWST 2014 Best Paper Award (3rd prize)](http://www.esug.org/wiki/pier/Conferences/2014/IWST14)* for [The Moldable Inspector: A framework for domain-specific object inspection](%base_url%/scgbib) by [Andrei ChiÈ](%base_url%/staff/andreichis), [Tudor Girba](http://www.tudorgirba.com/) and [Oscar Nierstrasz](%base_url%/staff/oscar)
+-  *[IWST 2014 Best Paper Award (3rd prize)](http://www.esug.org/wiki/pier/Conferences/2014/IWST14)* for [The Moldable Inspector: A framework for domain-specific object inspection](%assets_url%/scgbib/?query=Chis14a&filter=Year) by [Andrei ChiÈ](%base_url%/staff/andreichis), [Tudor Girba](http://www.tudorgirba.com/) and [Oscar Nierstrasz](%base_url%/staff/oscar)
 
 #Talks and tutorials
 

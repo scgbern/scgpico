@@ -107,10 +107,10 @@ Constructing and previewing queries over relational databases is typically done 
 |[Andrei ChiÈ](http://andreichis.com)|
 |---|---
 |[Aliaksei Syrel](https://twitter.com/AliakseiSyrel)|
-|[Tudor GÃ®rba](http://tudorgirba.com)|
+|[Tudor Gîrba](http://tudorgirba.com)|
 
 #Publications
-[Fixed Query](%assets_url%/scgbib/?query=*)
+[Fixed Query](%assets_url%/scgbib/?query=*&filter=Year)
 
 #Blog posts
 

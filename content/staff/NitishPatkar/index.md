@@ -9,4 +9,4 @@ Currently, I work as ![a research associate](https://www.fhnw.ch/en/about-fhnw/s
 
 
 #Publications
-![Author Page](%base_url%/scgbib/author)
+[Author Page](%assets_url%/scgbib/?query=patkar&filter=Year)

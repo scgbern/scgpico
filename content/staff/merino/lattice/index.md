@@ -127,5 +127,5 @@ Notice that trying this very small example in the Hasse diagram of Figure 1 seem
 Since Moose already includes Roassal and MooseAlgos installed you only need to do the step 3 from above.
 
 #To read
-![Author Page](%base_url%/scgbib/author)
-![Author Page](%base_url%/scgbib/author)
+[Author Page](%assets_url%/scgbib/?query=Deke02a&filter=Year)
+[Author Page](%assets_url%/scgbib/?query=Arev03c&filter=Year)

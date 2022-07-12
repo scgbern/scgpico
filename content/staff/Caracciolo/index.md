@@ -31,4 +31,4 @@ My PhD thesis deals with techniques that help keeping the architecture aligned w
 -  Software quality assessment
 
 ##\+ **Publications**
-![Author Page](%base_url%/scgbib/author)
+[Author Page](%assets_url%/scgbib/?query=caracciolo&filter=Year)

@@ -28,14 +28,14 @@ How to install from Pharo (pre-closures) (more extensive description: [INSTALL.t
 -  Recompile the image using class *PERecompiler* 
 
 #Publications
-[Fixed Query](%assets_url%/scgbib/?query=*)
+[Fixed Query](%assets_url%/scgbib/?query=*&filter=Year)
 
 #Users of Reflectivity
  Reflectivity has been used in some projects: 
 
--  Hermion: Exploiting Runtime Information in the IDE, [Paper](%base_url%/scgbib), (David R&ouml;thlisberger)
--  TypePlug: Pluggable Types for Squeak, [Paper](%base_url%/scgbib), (Nik Haldiman)
--  Transactional Memory for Smalltalk, [Paper](%base_url%/scgbib), (Lukas Renggli)
+-  Hermion: Exploiting Runtime Information in the IDE, [Paper](%assets_url%/scgbib/?query=roet08b&filter=Year), (David R&ouml;thlisberger)
+-  TypePlug: Pluggable Types for Squeak, [Paper](%assets_url%/scgbib/?query=hald07b&filter=Year), (Nik Haldiman)
+-  Transactional Memory for Smalltalk, [Paper](%assets_url%/scgbib/?query=reng07b&filter=Year), (Lukas Renggli)
 -  HistOOry. Manage simply the past: Persistent Objects. [HistOOry Website](http://decomp.ulb.ac.be/frdricpluquet/researchactivities/histoory/), (Fr&eacute;d&eacute;ric Pluquet) 
 
 #Contact

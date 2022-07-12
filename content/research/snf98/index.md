@@ -37,10 +37,10 @@ The intermediate report covers the period from Oct. 1, 1998 through Sept. 30, 19
  
 
 - [Intermediate report](%assets_url%/download/projectreports/snf98-intermediate.pdf) [pdf]
-- [Publications](%base_url%/scgbib) (papers and theses)
+- [Publications](%assets_url%/scgbib/?query=snf99&filter=Year) (papers and theses)
 
 #Final Report
 The final report covers the period from Oct. 1, 1999 through Sept. 30, 2000. 
 
 - [Final report](%assets_url%/download/projectreports/snf98-final.pdf) [pdf]
-- [Publications](%base_url%/scgbib) (papers and theses)
+- [Publications](%assets_url%/scgbib/?query=snf00&filter=Year) (papers and theses)

@@ -26,4 +26,4 @@ Download Bender VM package here to try it out: [Bender VM](%base_url%/wiki/proje
 ---
 # Publications
 Theoretical background of the Bender project.
-[Fixed Query](%assets_url%/scgbib/?query=*)
+[Fixed Query](%assets_url%/scgbib/?query=*&filter=Year)

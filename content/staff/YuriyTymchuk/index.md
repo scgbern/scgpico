@@ -48,4 +48,4 @@ Most of the following projects can be scaled from seminar project to a master th
 
 
 #Publications
-![Author Page](%base_url%/scgbib/author)
+[Author Page](%assets_url%/scgbib/?query=Tymchuk&filter=Year)

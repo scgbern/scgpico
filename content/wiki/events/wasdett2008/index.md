@@ -16,7 +16,7 @@ Links &rArr; [2nd WASDETT](http://wasdett2.wikispaces.com/) @ ICSM 2008
 
 # Workshop Report and Articles
 
-[Fixed Query](%assets_url%/scgbib/?query=*)
+[Fixed Query](%assets_url%/scgbib/?query=*&filter=Year)
 
 
 ---

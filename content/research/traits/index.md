@@ -12,17 +12,17 @@ A mailing list is available for discussion and questions [traits@iam.unibe.ch](t
 
 #Selected Publications
 
-The following papers give an overview of Traits and show their practical usability. Note that the material of all these papers and more is also available in Nathanael Schärli's dissertation [Traits &mdash; Composing Classes from Behavioral Building Blocks](%base_url%/scgbib).
+The following papers give an overview of Traits and show their practical usability. Note that the material of all these papers and more is also available in Nathanael Schärli's dissertation [Traits -- Composing Classes from Behavioral Building Blocks](%assets_url%/scgbib/?query=nathanael thesis traits composing classes from behavioral building blocks&filter=Year).
 
 
-- [Traits &mdash; Composable Units of Behavior](%base_url%/scgbib) is the concept paper introducing Traits. It also compares Traits to mixins and multiple inheritance, summarizes a formal model for Traits, briefly discusses our implementation and gives an overview of a realistic application: refactoring the Smalltalk collection hierarchy.
-- [Traits: A Mechanism for Fine-grained Reuse](%base_url%/scgbib) is a newer paper accepted to TOPLAS. This paper is a mature description of traits and contains a formal model of traits. 
-- [Applying Traits to the Smalltalk Collection Hierarchy](%base_url%/scgbib) is an experience report of applying Traits to refactor the Smalltalk collection hierarchy. 
-- [Uniform and Safe Metaclass Composition](%base_url%/scgbib) presents how traits can be used at the metalevel and offer safe metaclass composition model for Traits and defines some basic properties of Traits and classes.
-- [Traits: The Formal Model](%base_url%/scgbib) presents a formal model for Traits and defines some basic properties of Traits and classes.
-- [Traits: Tools and Methodology](%base_url%/scgbib) describes the Trait Browser and the programming methodology that we have developed around the use of Traits and the Trait Browser.
-- [A Browser for Incremental Programming](%base_url%/scgbib) describes the *virtual categories* used in the Trait Browser in more details.
-- [Traits in C#](%base_url%/scgbib) is a technical report about traits in a statically typed object-oriented language
+- [Traits -- Composable Units of Behavior](%assets_url%/scgbib/?query=nathanael traits composable units ecoop&filter=Year) is the concept paper introducing Traits. It also compares Traits to mixins and multiple inheritance, summarizes a formal model for Traits, briefly discusses our implementation and gives an overview of a realistic application: refactoring the Smalltalk collection hierarchy.
+- [Traits: A Mechanism for Fine-grained Reuse](%assets_url%/scgbib/?query=toplas traits&filter=Year) is a newer paper accepted to TOPLAS. This paper is a mature description of traits and contains a formal model of traits. 
+- [Applying Traits to the Smalltalk Collection Hierarchy](%assets_url%/scgbib/?query=nathanael applying traits to the collection hierarchy oopsla&filter=Year) is an experience report of applying Traits to refactor the Smalltalk collection hierarchy. 
+- [Uniform and Safe Metaclass Composition](%assets_url%/scgbib/?query=uniform and safe metaclass composition&filter=Year) presents how traits can be used at the metalevel and offer safe metaclass composition model for Traits and defines some basic properties of Traits and classes.
+- [Traits: The Formal Model](%assets_url%/scgbib/?query=traits the formal model&filter=Year) presents a formal model for Traits and defines some basic properties of Traits and classes.
+- [Traits: Tools and Methodology](%assets_url%/scgbib/?query=nathanael traits tools and methodology&filter=Year) describes the Trait Browser and the programming methodology that we have developed around the use of Traits and the Trait Browser.
+- [A Browser for Incremental Programming](%assets_url%/scgbib/?query=a browser for incremental programming computer languages&filter=Year) describes the *virtual categories* used in the Trait Browser in more details.
+- [Traits in C#](%assets_url%/scgbib/?query=stefan reichhart traits&filter=Year) is a technical report about traits in a statically typed object-oriented language
 
 #Implementations
 
@@ -47,7 +47,7 @@ Discussions on roles vs inheritance are quite active among Perl bloggers. See fo
 ##C#
 We have worked on a [Microsoft funded research project](%base_url%/research/rotor) aimed to bring Traits to C#/Rotor, the shared source implementation of .NET.
 
-Stefan Reichhart implemented a [simple prototype](%assets_url%/download/rotor/csharptdemo.zip) (including examples/demos) of traits in C# during a student project. The work is accompanied by a [technical report](%base_url%/scgbib) and [presentation slides](%assets_url%/download/rotor/sscli2005traitscsharp.pdf) from the [SSCLI Capstone Workshop 2005](http://research.microsoft.com/workshops/SSCLI2005/) at Microsoft Research, Redmond. 
+Stefan Reichhart implemented a [simple prototype](%assets_url%/download/rotor/csharptdemo.zip) (including examples/demos) of traits in C# during a student project. The work is accompanied by a [technical report](%assets_url%/scgbib/?query=stefan reichhart traits&filter=Year) and [presentation slides](%assets_url%/download/rotor/sscli2005traitscsharp.pdf) from the [SSCLI Capstone Workshop 2005](http://research.microsoft.com/workshops/SSCLI2005/) at Microsoft Research, Redmond. 
 
 ##VisualWorks Smalltalk
 Terry Raymonds from [Cincom](http://www.cincom.com) ported a variation of Traits to [VisualWorks Smalltalk](http://smalltalk.cincom.com).

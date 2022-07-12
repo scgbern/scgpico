@@ -13,14 +13,14 @@
 
 - [Wikipedia article](http://en.wikipedia.org/wiki/Smalltalk)
 - [Free books online](http://stephane.ducasse.free.fr/FreeBooks.html)
-- [Early History of Smalltalk](%base_url%/scgbib)
-- [SUnit Explained](%base_url%/scgbib)
-- [Quick reference](http://scgresources.unibe.ch/~scg/Literature/Smalltalk/Beck97aQuickReference.pdf) to [Smalltalk Best Practice Patterns](%base_url%/scgbib) (unibe only)
-- [Design Principles and Design Patterns](%base_url%/scgbib)
-- [Traits](%base_url%/scgbib)
+- [Early History of Smalltalk](%assets_url%/scgbib/?query=Kay93a&filter=Year)
+- [SUnit Explained](%assets_url%/scgbib/?query=Duca03e&filter=Year)
+- [Quick reference](http://scgresources.unibe.ch/~scg/Literature/Smalltalk/Beck97aQuickReference.pdf) to [Smalltalk Best Practice Patterns](%assets_url%/scgbib/?query=Beck97a&filter=Year) (unibe only)
+- [Design Principles and Design Patterns](%assets_url%/scgbib/?query=Mart00b&filter=Year)
+- [Traits](%assets_url%/scgbib/?query=stlit-traits&filter=Year)
 ##Seaside literature
 
 - [Dynamic Web Development with Seaside](http://book.seaside.st) (free book)
 - [HPI Seaside Tutorial](http://www.swa.hpi.uni-potsdam.de/seaside/tutorial) (book and web site)
-- [Seaside &mdash; a Multiple Control Flow Web Application Framework](%base_url%/scgbib) (article)
-- [Seaside: A Flexible Environment for Building Dynamic Web Applications](%base_url%/scgbib) (article)
+- [Seaside -- a Multiple Control Flow Web Application Framework](%assets_url%/scgbib/?query=Duca04e&filter=Year) (article)
+- [Seaside: A Flexible Environment for Building Dynamic Web Applications](%assets_url%/scgbib/?query=Duca07a&filter=Year) (article)

@@ -76,7 +76,7 @@ Download the textsc{JUnit3To4} jar from url{http://scg.unibe.ch/download/jexampl
 -  Run the created run configuration.
 
 #Publications
-[Fixed Query](%assets_url%/scgbib/?query=*)
+[Fixed Query](%assets_url%/scgbib/?query=*&filter=Year)
 
 #People
 

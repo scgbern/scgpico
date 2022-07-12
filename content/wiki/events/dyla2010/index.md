@@ -62,7 +62,7 @@ The program will be split over 3 different sessions and 6 presentations:
 
 - *Languages* (14:30 - 16:00)
 	- MichaÃ«l Hoste and Tom Mens. **Visual Scripting Language**. [PDF](http://bergel.eu/download/Dyla2010/dyla10_submission_6.pdf)
-	- Lukas Renggli, Stéphane Ducasse, Tudor GÃ®rba and Oscar Nierstrasz. **Practical Dynamic Grammars for Dynamic Languages**. [PDF](http://bergel.eu/download/Dyla2010/dyla10_submission_4.pdf)
+	- Lukas Renggli, Stéphane Ducasse, Tudor Gîrba and Oscar Nierstrasz. **Practical Dynamic Grammars for Dynamic Languages**. [PDF](http://bergel.eu/download/Dyla2010/dyla10_submission_4.pdf)
 
 - *Discussion/Coding session* (16:30 - 18:00)
 

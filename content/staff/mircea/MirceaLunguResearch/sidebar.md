@@ -1,7 +1,7 @@
 #Links
 
 -  [Dr. Mircea](%base_url%/staff/mircea)
--  [Publications](%base_url%/staff/mircea/pubs)
+-  [Mircea Lungu - Publications](%assets_url%/scgbib/?query=Lungu&filter=Year)
 -  [Student  Projects]()
 
 #Navigation

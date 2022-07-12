@@ -32,7 +32,7 @@ This project focuses on tools and models to support the transition towards compo
 For further details, please see:
 
 
-- [Intermediate report](%assets_url%/download/projectreports/snf00-intermediate.pdf) [pdf]<li[Publications](%base_url%/scgbib) (papers and theses)
+- [Intermediate report](%assets_url%/download/projectreports/snf00-intermediate.pdf) [pdf]<li[Publications](%assets_url%/scgbib/?query=snf01&filter=Year) (papers and theses)
 
 #Final Report
 
@@ -50,4 +50,4 @@ For further details, please see:
  
 
 - [Final report](%assets_url%/download/projectreports/snf00-final.pdf) [pdf]
-- [Publications](%base_url%/scgbib) (papers and theses)
+- [Publications](%assets_url%/scgbib/?query=snf02&filter=Year) (papers and theses)

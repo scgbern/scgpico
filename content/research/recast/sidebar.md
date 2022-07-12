@@ -6,10 +6,10 @@
 - [Intermediate report 03-04](%assets_url%/download/projectreports/RecastSNF03-04.pdf) [pdf] 
 - [Intermediate report 04-05](%assets_url%/download/projectreports/RecastSNF04-05.pdf) [pdf] 
 - [Final report 05-06](%assets_url%/download/projectreports/RecastSNF05-06.pdf) [pdf] 
-- [Publications in 2003](%base_url%/scgbib)
-- [Publications in 2004](%base_url%/scgbib)
-- [Publications in 2005](%base_url%/scgbib)
-- [Publications in 2006](%base_url%/scgbib)
+- [Publications in 2003](%assets_url%/scgbib/?query=recast03&filter=Year)
+- [Publications in 2004](%assets_url%/scgbib/?query=recast04&filter=Year)
+- [Publications in 2005](%assets_url%/scgbib/?query=recast05&filter=Year)
+- [Publications in 2006](%assets_url%/scgbib/?query=recast06&filter=Year)
 #Software
 
 

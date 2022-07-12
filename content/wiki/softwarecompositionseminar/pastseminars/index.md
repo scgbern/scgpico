@@ -65,7 +65,7 @@ Normally, the seminar takes place on Mondays at 14.00 in the afternoon in our se
 	-  [Melike Geçer](%base_url%/wiki/alumni/MelikeGecer) &mdash; [Debugging Spark Applications](%assets_url%/download/softwarecomposition/2019-12-10-MelikeGecer-Debugging Spark.pdf) (MSc final presentation)
 	-  Louis Müller &mdash; [Executable graph models in Bloc](%assets_url%/download/softwarecomposition/2019-12-10-LouisMueller-Executable graph models in Bloc.pdf) (seminar)
 
--  Dec 3 &mdash;Jonas Diesbach &mdash; [Paper Hunter](%assets_url%/download/softwarecomposition/2019-12-03-JonasDiesbachâPaperHunter.pdf) (seminar)
+-  Dec 3 &mdash;Jonas Diesbach &mdash; [Paper Hunter](%assets_url%/download/softwarecomposition/2019-12-03-JonasDiesbach&mdash;PaperHunter.pdf) (seminar)
 -  Nov 26 &mdash; Ivan Kravchenko &mdash; [Class commenting practices in Java](%assets_url%/download/softwarecomposition/2019-11-26-Ivan-classCommentAnalysis.pdf) (Seminar)
 -  Nov 12 &mdash; [Dean Klopsch](%base_url%/wiki/alumni/DeanKlopsch) &mdash; [Learning from nature: How nature resolves security issues](%assets_url%/download/softwarecomposition/2019-11-12-Klopsch-LearningFromNature.pdf) (Bachelors, first presentation)
 -  Nov 5 &mdash; [Olivier Flückiger](%base_url%/staff/oli) &mdash; [Å Melts Brains](%assets_url%/download/softwarecomposition/2019-11-05-Flueckiger-R.pdf) (SPLASH 2019 presentation)
@@ -168,7 +168,7 @@ Normally, the seminar takes place on Mondays at 14.00 in the afternoon in our se
 	-  [Rathesan (Radi) Iyadurai](%base_url%/wiki/alumni/RadiIyadurai) &mdash; [Throwing Cool and the gang at Pharo](%assets_url%/download/softwarecomposition/2017-11-28-Radi-ThrowingCoolAtPharo.pdf) (Seminar)
 	-  [Patrick Frischknecht](%base_url%/wiki/alumni/PatrickFrischknecht) &mdash; [Android Linting Intro](%assets_url%/download/softwarecomposition/2017-11-28-Frischknecht-SourceAnalysisAndroidApps.pdf) (Bachelors)
 
--  Nov 21 &mdash; Konstantin Lomotin &mdash; [Polyglot Development using GraalVM â MemeGen](%assets_url%/download/softwarecomposition/2017-11-21-KonstantinLomotin-GraalVM_MemeGen.pdf) (Seminar)
+-  Nov 21 &mdash; Konstantin Lomotin &mdash; [Polyglot Development using GraalVM &mdash; MemeGen](%assets_url%/download/softwarecomposition/2017-11-21-KonstantinLomotin-GraalVM_MemeGen.pdf) (Seminar)
 -  Nov 14 
 	-  [Mario Kaufmann](%base_url%/wiki/alumni/MarioKaufmann) &mdash; [Reproducible moldable interactions](%assets_url%/download/softwarecomposition/2017-11-14-Kaufmann-reproducible-moldable-interactions.pdf) (Masters)
 	-  [Tudor Girba](http://www.tudorgirba.com) &mdash; Software Environmentalism
@@ -384,7 +384,7 @@ Normally, the seminar takes place on Mondays at 14.00 in the afternoon in our se
 -  June 26 - Ramon Wenger: Modeling Water Infiltration with JavaScript (part 2)
 -  May 22 - Frederic Aebi â DCD6, Dead Code Detection Tool
 -  May 15 - Jan Kurs: Language Interoperability
--  May 8 - Andrea Caracciolo: DBP â A Benchmark for Design Pattern Detection Tools
+-  May 8 - Andrea Caracciolo: DBP &mdash; A Benchmark for Design Pattern Detection Tools
 -  Apr 3 - Michael Rüfenacht: Enable the Analysis of PHP Applications
 -  Mar 27 - Ramon Wenger: Modeling Water Infiltration with JavaScript
 -  Mar 20 - Dr. Alessandra Gorla, University of Lugano: Exploiting the intrinsic redundancy of software systems
@@ -422,7 +422,7 @@ Normally, the seminar takes place on Mondays at 14.00 in the afternoon in our se
 -  Oct 19: [Adrian Kuhn](%base_url%/wiki/alumni/adriankuhn) &mdash; "My summer at Microsoft"
 -  Sep 27: [Jorge Ressia](http://www.jorgeressia.com/) &mdash; ["Modeling Features at Runtime"](http://scg.unibe.ch/scgbib?query=Denk10a&display=abstract)
 -  July 26: [Andrea Quadri](%base_url%/wiki/alumni/quadri) &mdash; Reflection through operational decomposition
--  July 5: [Daniel Langone](%base_url%/wiki/alumni/daniellangone) â Modelling Subjectivity
+-  July 5: [Daniel Langone](%base_url%/wiki/alumni/daniellangone) &mdash; Modelling Subjectivity
 -  June 21: Michal Musial &mdash; Task Manager in the IDE
 -  May 17: [David Gurtner](%base_url%/wiki/alumni/DavidGurtner) &mdash; [ActiveContext](%base_url%/research/ActiveContext) in [Pinocchio](%base_url%/research/pinocchio); Max Leske &mdash; [GitFS](http://buildinggitfs.blogspot.com/)
 -  May 10: [Camillo Bruni](%base_url%/wiki/alumni/camillobruni) &mdash; [Pinocchio](%base_url%/research/pinocchio) VM

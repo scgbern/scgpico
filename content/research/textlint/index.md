@@ -34,4 +34,4 @@ TextLint is licensed under the [MIT license](http://en.wikipedia.org/wiki/MIT_Li
 -  [https://github.com/DamienCassou/textlint](https://github.com/DamienCassou/textlint)
 
 #Publications
-[Fixed Query](%assets_url%/scgbib/?query=*)
+[Fixed Query](%assets_url%/scgbib/?query=*&filter=Year)

@@ -22,7 +22,7 @@ In this project we will investigate visualization and mining techniques that eas
 
 #Further reading
 
-[Fixed Query](%assets_url%/scgbib/?query=*)
+[Fixed Query](%assets_url%/scgbib/?query=*&filter=Year)
 
 - Roassal: [http://agilevisualization.com](http://agilevisualization.com)
 

@@ -7,8 +7,8 @@
 
 
 
-- [Publications 2009](%base_url%/scgbib)
-- [Publications 2010](%base_url%/scgbib)
+- [Publications 2009](%assets_url%/scgbib/?query=snf09&filter=Year)
+- [Publications 2010](%assets_url%/scgbib/?query=snf10&filter=Year)
 
 #Activities
 

@@ -9,6 +9,6 @@ Many software visualizations have proven helpful to alleviate particular needs o
 In this project we will develop such support for the Unity3D engine. Our prototype will allow remote users of a same application to see and interact with each other in the virtual world.
 
 #Readings
-[Fixed Query](%assets_url%/scgbib/?query=*)
+[Fixed Query](%assets_url%/scgbib/?query=*&filter=Year)
 
 Contact: [Leonel Merino](%base_url%/staff/merino) 

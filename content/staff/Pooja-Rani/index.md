@@ -42,12 +42,12 @@ Currently I am working on gathering and identifying developers information needs
 
 #Teaching Activities
 
--  [P2: Programming 2 â Object-Oriented Design](http://scg.unibe.ch/teaching/p2)
+-  [P2: Programming 2 &mdash; Object-Oriented Design](http://scg.unibe.ch/teaching/p2)
 -  [SMA: Software Modeling and Analysis](http://scg.unibe.ch/teaching/sma)
 
 <h1> Contact Details</h1>
 <dl><dt> Email: <strong>pooja.rani |at| inf.unibe.ch</strong></dt><dt> Telephone: \+41 31 511 7639</dt><dt> Address: University of Bern, Software Composition Group,<br /> Room 106, Schützenmattstrasse 14, CH-3012 Bern</dt><dt> Webpage: <a title="http://scg.unibe.ch/staff/Pooja-Rani" class="external" href="http://scg.unibe.ch/staff/Pooja-Rani">http://scg.unibe.ch/staff/Pooja-Rani</a></dt></dl>
                                                                                                 
 #Publications
-![Author Page](%base_url%/scgbib/author)                                                             
+[Author Page](%assets_url%/scgbib/?query=pooja rani&filter=Year)                                                             
 </div>

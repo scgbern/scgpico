@@ -39,7 +39,7 @@ Significant results have been achieved in the following four areas:
 For further details see:
 
 - [Intermediate report](%assets_url%/download/projectreports/snf06-intermediate.pdf) [pdf]
-- [Publications](%base_url%/scgbib) (papers and theses)
+- [Publications](%assets_url%/scgbib/?query=snf07&filter=Year) (papers and theses)
 
 #Final Report
 The final report covers the period from Oct. 1, 2007 through Sept. 30, 2008.
@@ -54,4 +54,4 @@ In this project we investigated means to understand and enable the evolution of 
 For further details see:
 
 - [Final report](%assets_url%/download/projectreports/snf06-final.pdf) [pdf]
-- [Publications](%base_url%/scgbib) (papers and theses)
+- [Publications](%assets_url%/scgbib/?query=snf08&filter=Year) (papers and theses)

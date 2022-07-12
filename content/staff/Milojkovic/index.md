@@ -25,7 +25,7 @@ Nevena Milojković is a Postdoctoral researcher at the Software Composition Grou
 Please see [SCG Projects](%base_url%/wiki/projects)
 
 #Publications
-![Author Page](%base_url%/scgbib/author)
+[Author Page](%assets_url%/scgbib/?query=nevena&filter=Year)
 
 #Reviewing activities
 I co-reviewed for the following conferences/workshops:

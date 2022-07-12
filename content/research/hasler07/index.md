@@ -44,7 +44,7 @@ For further details, please consult the full intermediate report and the associa
 
 
 - [Intermediate report](%assets_url%/download/projectreports/hasler07-intermediate.pdf) [pdf]
-- [Publications](%base_url%/scgbib)
+- [Publications](%assets_url%/scgbib/?query=hasler08&filter=Year)
 
 #2nd Intermediate Report
 
@@ -58,7 +58,7 @@ The key results in the second year include:
 
 
 - [2nd intermediate report](%assets_url%/download/projectreports/hasler07-intermediate2.pdf) [pdf]
-- [Publications](%base_url%/scgbib)
+- [Publications](%assets_url%/scgbib/?query=hasler09&filter=Year)
 
 #Final Report
 
@@ -72,5 +72,5 @@ The most important results results in the third year include:
 
 
 - [Final report](%assets_url%/download/projectreports/hasler07-final.pdf) [pdf]
-- [Publications](%base_url%/scgbib)
+- [Publications](%assets_url%/scgbib/?query=hasler10&filter=Year)
 

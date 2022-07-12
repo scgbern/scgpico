@@ -6,7 +6,7 @@
 -  [Teaching]()
 -  [Service]()
 -  [Mentoring]()
--  [Publications](%base_url%/staff/mircea/pubs)
+-  [Mircea Lungu - Publications](%assets_url%/scgbib/?query=Lungu&filter=Year)
 -  [Contact]()
 
 #Other Resources

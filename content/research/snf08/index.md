@@ -39,7 +39,7 @@ This research has resulted in 5 journal papers, 11 full papers in international,
 For further details see:
 
 - [Intermediate report](%assets_url%/download/projectreports/snf08-intermediate.pdf)
-- [Publications](%base_url%/scgbib)
+- [Publications](%assets_url%/scgbib/?query=snf09&filter=Year)
 
 #Final report
 The final report covers the period from Oct. 1, 2009 through Sept. 30, 2010.
@@ -55,6 +55,6 @@ This research of the final year has resulted in 2 journal papers, 8 papers in in
 For further details see:
 
 - [Final report](%assets_url%/download/projectreports/snf08-final.pdf)
-- [Publications](%base_url%/scgbib)
+- [Publications](%assets_url%/scgbib/?query=snf10&filter=Year)
 
 For more information, please consult the [Research Plan](http://scg.unibe.ch/download/projectreports/snf08-part2.pdf) of the project [pdf].

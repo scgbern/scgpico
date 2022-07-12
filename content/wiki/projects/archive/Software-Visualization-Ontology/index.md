@@ -19,5 +19,5 @@ In this project, we will design and build a software visualization ontology that
 #Readings
 
 - [Noy, Natalya F., and Deborah L. McGuinness. "Ontology development 101: A guide to creating your first ontology." (2001)](http://liris.cnrs.fr/amille/enseignements/Ecole_Centrale/What%20is%20an%20ontology%20and%20why%20we%20need%20it.htm)
-- [Fixed Query](%assets_url%/scgbib/?query=*)
+- [Fixed Query](%assets_url%/scgbib/?query=*&filter=Year)
 Contact: [Leonel Merino](%base_url%/staff/merino)

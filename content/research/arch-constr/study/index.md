@@ -7,7 +7,7 @@ Software architecture is the result of a design effort aimed at ensuring a certa
 
 **Publications**
 
-[Fixed Query](%assets_url%/scgbib/?query=*)
+[Fixed Query](%assets_url%/scgbib/?query=*&filter=Year)
 
 **Related resources**:  
 

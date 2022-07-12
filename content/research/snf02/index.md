@@ -27,7 +27,7 @@ The key results in the first year include (1) techniques for extracting behaviou
  
 
 - [Intermediate report](%assets_url%/download/projectreports/snf02-intermediate.pdf) [pdf]
-- [Publications](%base_url%/scgbib) (papers and theses)
+- [Publications](%assets_url%/scgbib/?query=snf03&filter=Year) (papers and theses)
 
 #Final Report
 
@@ -37,4 +37,4 @@ The key results of the second year of this project include (1) empirical studies
 
 
 - [Final report](%assets_url%/download/projectreports/snf02-final.pdf) [pdf]
-- [Publications](%base_url%/scgbib) (papers and theses)
+- [Publications](%assets_url%/scgbib/?query=snf04&filter=Year) (papers and theses)

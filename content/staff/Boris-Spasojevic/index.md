@@ -23,4 +23,4 @@ Currently available student projects:
 -  [GTInspector + FreQ](%base_url%/wiki/projects/mastersbachelorsprojects/obsolete/GTInspector_FreQ)
 
 #Publications
-![Author Page](%base_url%/scgbib/author)
+[Author Page](%assets_url%/scgbib/?query=Boris Spasojev&filter=Year)

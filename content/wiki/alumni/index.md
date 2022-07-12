@@ -27,7 +27,7 @@ You may also want to add youself to the [scg alumni mailing list](https://www.ia
 -  [David Erni](%base_url%/wiki/alumni/daviderni)
 -  [Olivier Flückiger](%base_url%/staff/oli)
 -  [Markus Gaelli](http://www.emergent.de/)
--  [Tudor GÃ®rba](http://www.tudorgirba.com/)
+-  [Tudor Gîrba](http://www.tudorgirba.com/)
 -  [Orla Greevy](http://www.sw-eng.ibone.ch/team/greevy)
 -  [David Gurtner](%base_url%/wiki/alumni/DavidGurtner)
 -  [Daniel Langone](%base_url%/wiki/alumni/daniellangone)

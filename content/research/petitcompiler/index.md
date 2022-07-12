@@ -69,4 +69,4 @@ PetitCompiler supports [Pharo 5](http://smalltalkhub.com/#!/~JanKurs/PetitParser
 Do not hesitate to contact us, if you want to port into your own Smallatlk.
 
 #Publications
-![Author Page](%base_url%/scgbib/author)
+[Author Page](%assets_url%/scgbib/?query=petitcompiler&filter=Year)

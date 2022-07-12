@@ -10,4 +10,4 @@ for now, see [http://www.deif.ch/](http://www.deif.ch/) or [http://www.smartvote
 
 #Publications
 
-![Author Page](%base_url%/scgbib/author)
+[Author Page](%assets_url%/scgbib/?query=David Erni&filter=Year)

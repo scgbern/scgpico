@@ -4,7 +4,7 @@ Title: Oscar Nierstrasz
 
 [![/download/oscar/on-nov-2017-no-painting-small.jpg](%assets_url%/download/oscar/on-nov-2017-no-painting-small.jpg)](%base_url%/staff/oscar/oscar-free-picture)Oscar Nierstrasz is Professor Emeritus of Computer Science at the [Institute of Computer Science ](http://www.inf.unibe.ch/index_eng.html/) (INF) in the [Faculty of Science](http://www.philnat.unibe.ch/index_eng.html) of the [University of Bern](http://www.unibe.ch/index_eng.html), where he founded the [Software Composition Group](%base_url%/) in 1994. 
 He retired from the University of Bern at the end of 2021, and is currently working at [feenk.com](https://feenk.com/about/).
-He is co-author of over 300 [publications](%base_url%/staff/oscar/onpubs) and co-author of the open-source books *[Object-Oriented Reengineering Patterns](%assets_url%/download/oorp/)* and *[Pharo by Example](http://books.pharo.org)*.
+He is co-author of over 300 [Oscar Nierstrasz &mdash; Publications](%assets_url%/scgbib/?query=Nierstrasz&filter=Year) and co-author of the open-source books *[Object-Oriented Reengineering Patterns](%assets_url%/download/oorp/)* and *[Pharo by Example](http://books.pharo.org)*.
 [![/download/oorp/pictures/oorp.jpg](%assets_url%/download/oorp/pictures/oorp.jpg)](http://scg.unibe.ch/download/oorp)
 [![/download/pharobyexample/pbe.jpg](%assets_url%/download/pharobyexample/pbe.jpg)](http://books.pharo.org)
 
@@ -42,7 +42,7 @@ Oscar Nierstrasz was born in the Netherlands, but grew up in Canada. He complete
 #Odds and ends
 
 - My h-index is [54](https://scholar.google.com/citations?user=Yi00hUYAAAAJ)
-- My [Erdös number](http://www.oakland.edu/enp/) is 3: [Oscar Nierstrasz &mdash; David M. Jackson &mdash; E. Rodney Canfield &mdash; Paul Erdös](%base_url%/scgbib)
+- My [Erdös number](http://www.oakland.edu/enp/) is 3: [Oscar Nierstrasz -- David M. Jackson -- E. Rodney Canfield -- Paul Erdös](%assets_url%/scgbib/?query=onerdos123&filter=Year)
 - [Dagstuhls I have attended](%base_url%/staff/oscar/dagstuhl)
 - [This web page in 1999](http://web.archive.org/web/19990210095953/http://www.iam.unibe.ch/~oscar/) on the [Wayback machine](http://archive.org/web/web.php)
 

@@ -7,4 +7,4 @@ Lint-like program checkers are popular tools that ensure code quality by verifyi
 <div style="width: 100%" id="\__ss_4648610"><iframe src="http://www.slideshare.net/slideshow/embed_code/4648610" width="100%" height="450" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></div>
 
 #Publications
-[Fixed Query](%assets_url%/scgbib/?query=*)
+[Fixed Query](%assets_url%/scgbib/?query=*&filter=Year)

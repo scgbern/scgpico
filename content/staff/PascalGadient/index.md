@@ -65,4 +65,4 @@ Former supervisors: [Prof. Dr. Mohammad Ghafari](http://scg.unibe.ch/staff/Moham
 <br /><br />
 
 #Publications
-![Author Page](%base_url%/scgbib/author)
+[Author Page](%assets_url%/scgbib/?query=gadient&filter=Year)

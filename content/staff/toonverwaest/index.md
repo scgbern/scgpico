@@ -9,7 +9,7 @@ For my PhD I've worked on [Pinocchio](%base_url%/research/pinocchio), a fully op
 
 I just started at Google Munich where I'll work on the V8 JavaScript engine.
 
-[Contact](%base_url%/staff/toonverwaest/contact) | [Publications](%assets_url%/scgbib/?query=Toon Verwaest) | [CV](%base_url%/staff/toonverwaest/cv)
+[Contact](%base_url%/staff/toonverwaest/contact) | [Publications](%assets_url%/scgbib/?query=Toon Verwaest&filter=Year) | [CV](%base_url%/staff/toonverwaest/cv)
 
 ###Activities
 

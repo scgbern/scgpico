@@ -1,9 +1,9 @@
 #Publications
 
-- [Adding Traits to (Statically Typed) Languages](%base_url%/scgbib) (final project report)
-- [A Prototype of Traits for C#](%base_url%/scgbib) (technical report)
-- [Flattening Traits](%base_url%/scgbib) (technical report)
-- [All SCG Traits publications](%base_url%/scgbib)
+- [Adding Traits to (Statically Typed) Languages](%assets_url%/scgbib/?query=Nier05g&filter=Year) (final project report)
+- [A Prototype of Traits for C#](%assets_url%/scgbib/?query=Reic05a&filter=Year) (technical report)
+- [Flattening Traits](%assets_url%/scgbib/?query=Nier06a&filter=Year) (technical report)
+- [All SCG Traits publications](%assets_url%/scgbib/?query=traits&filter=Year)
 
 #Downloads
 

@@ -45,4 +45,4 @@ The following projects can be scaled up to a master thesis and down to a seminar
 |**Email:**|my last name at inf.unibe.ch
 
 #Publications
-![Author Page](%base_url%/scgbib/author)
+[Author Page](%assets_url%/scgbib/?query=osman&filter=Year)

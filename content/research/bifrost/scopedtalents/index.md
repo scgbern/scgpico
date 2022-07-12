@@ -33,4 +33,4 @@ by executing the following code in goferTalentedStreams in a workspace.
 ```
 
 #Publications
-[Fixed Query](%assets_url%/scgbib/?query=*)
+[Fixed Query](%assets_url%/scgbib/?query=*&filter=Year)

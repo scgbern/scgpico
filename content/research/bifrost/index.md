@@ -52,4 +52,4 @@ To get started you can either use a ready-made one-click image (suggested), or t
 Please report bugs or ask questions in the [Pharo](http://lists.gforge.inria.fr/mailman/listinfo/pharo-project) or [Moose](http://www.moosetechnology.org/about/contact) mailing-lists.
 
 #Publications
-[Fixed Query](%assets_url%/scgbib/?query=*)
+[Fixed Query](%assets_url%/scgbib/?query=*&filter=Year)

@@ -13,6 +13,6 @@ The figure below shows a visualization of the universe of 346 papers published i
 
 ![http://scg.unibe.ch/download/merino/review-vissoft/collaboration-vissoft.html](http://scg.unibe.ch/download/merino/review-vissoft/collaboration-vissoft.html)
 
-![Author Page](%base_url%/scgbib/author)
+[Author Page](%assets_url%/scgbib/?query=Meri16a&filter=Year)
 
 [Leonel Merino](%base_url%/staff/merino), [Dr. Mohammad Ghafari](%base_url%/staff/Mohammad-Ghafari), [Oscar Nierstrasz](%base_url%/staff/oscar)

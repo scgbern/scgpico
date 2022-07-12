@@ -12,6 +12,6 @@ For example:
 yields:
 
 ---
-![Author Page](%base_url%/scgbib/author)
+[Author Page](%assets_url%/scgbib/?query=Olthoff&filter=Year)
 In this case the query and the author regex are the same, but they need not be.
-You may also create a dedicated component of type *Author Page* and configure it as you like. See, for example: [Oscar Nierstrasz â Publications](%base_url%/staff/oscar/onpubs).
+You may also create a dedicated component of type *Author Page* and configure it as you like. See, for example: [Oscar Nierstrasz &mdash; Publications](%assets_url%/scgbib/?query=Nierstrasz&filter=Year).

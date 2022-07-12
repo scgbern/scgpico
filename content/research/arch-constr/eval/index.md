@@ -7,7 +7,7 @@ Architectural rules are often defined but rarely tested. Current tools offer lim
 
 **Publications**
 
-[Fixed Query](%assets_url%/scgbib/?query=*)
+[Fixed Query](%assets_url%/scgbib/?query=*&filter=Year)
 
 **Related resources**:  
 

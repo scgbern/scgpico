@@ -5,4 +5,4 @@
 #Quick Links
 
 -  [GitHub](https://github.com/pgadient)
--  [Publications](%base_url%/staff/PascalGadient/pgpubs) 
+-  [Pascal Gadient &mdash; Publications](%assets_url%/scgbib/?query=Gadient&filter=Year) 

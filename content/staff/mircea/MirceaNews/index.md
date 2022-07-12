@@ -24,4 +24,4 @@ August Joined SCG :)
 
 July [IWPSE-EVOL](http://soft.vub.ac.be/iwpse-evol/) accepted * "Replaying Past Changes on Multi-developer Projects" * (with [Lile Hattori](http://www.inf.usi.ch/phd/hattori/), and [Michele Lanza](http://www.inf.usi.ch/lanza)).
 
-June [ASE](http://soft.vub.ac.be/ase2010/) accepted * ["Recovering Inter-Project Dependencies in Software Ecosystems"](%base_url%/scgbib) * as a short paper (a joint project with [Romain Robbes](http://www.dcc.uchile.cl/~rrobbes/) and [Michele Lanza](http://www.inf.usi.ch/lanza)).
+June [ASE](http://soft.vub.ac.be/ase2010/) accepted * ["Recovering Inter-Project Dependencies in Software Ecosystems"](%assets_url%/scgbib/?query=recovering inter project dependencies software ecosystems&filter=Year) * as a short paper (a joint project with [Romain Robbes](http://www.dcc.uchile.cl/~rrobbes/) and [Michele Lanza](http://www.inf.usi.ch/lanza)).

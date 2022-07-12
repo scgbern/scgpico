@@ -10,7 +10,7 @@
 - [Podcast](https://tube.switch.ch/cast/channels/90852ef0-c6ea-4888-88c6-b7efe998edce)
 - [CC Resources](%base_url%/teaching/cc/resources)
 - [Semantic Analysis](http://scgresources.unibe.ch/Literature/Compilers/Appe02a-ch5-semantic_analysis.pdf) (unibe access only)
-- [supplementary reading](%base_url%/scgbib)
+- [supplementary reading](%assets_url%/scgbib/?query=cclit&filter=Year)
 - [mirrored PDFs](http://scgresources.unibe.ch/~scg/Literature/Compilers/) (unibe access only)
 - [Exam 2017](%assets_url%/download/lectures/cc-exercises-2019/CCExam2017.pdf)
 - [Design Patterns](http://scgresources.unibe.ch/~scg/Literature/Books/GOF/contfso.htm) (unibe only)

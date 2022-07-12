@@ -8,8 +8,8 @@ ByteSurgeon is a library to transform binary code in Smalltalk. It takes full ad
 
 ByteSurgeon has been used in a number of projects: 
 
--  Geppetto I, Unanticipated Partial Behavioral Reflection, [Paper](%base_url%/scgbib), [Source Repository](http://www.squeaksource.com/Geppetto.html) (David R&ouml;thlisberger)
--  Untuck, An Omniscient Debugger: [Paper](%base_url%/scgbib) (Christoph Hofer)
+-  Geppetto I, Unanticipated Partial Behavioral Reflection, [Paper](%assets_url%/scgbib/?query=roet07b&filter=Year), [Source Repository](http://www.squeaksource.com/Geppetto.html) (David R&ouml;thlisberger)
+-  Untuck, An Omniscient Debugger: [Paper](%assets_url%/scgbib/?query=hofe06a&filter=Year) (Christoph Hofer)
 -  Christo, Testcoverage Analysis: [Christo Wiki](http://smallwiki.unibe.ch/stefanreichhart/codecoverage/) (Stefan Reichart)
 -  Object History, Persistent Objects: [Object History Website](http://decomp.ulb.ac.be/frdricpluquet/researchactivities/objecthistory/) (Fr&eacute;d&eacute;ric Pluquet)
 
@@ -24,7 +24,7 @@ To install the code in an existing image:
 
 #Publications
 
--  Marcus Denker, St&eacute;phane Ducasse and &Eacute;ric Tanter, *Runtime Bytecode Transformation for Smalltalk*, **Journal of Computer Languages, Systems and Structures**, vol. 32, no. 2-3, July 2006, pp. 125-139. [Abstract](%base_url%/scgbib), [PDF](/archive/papers/Denk06aRuntimeByteCodeESUGJournal.pdf)
+-  Marcus Denker, St&eacute;phane Ducasse and &Eacute;ric Tanter, *Runtime Bytecode Transformation for Smalltalk*, **Journal of Computer Languages, Systems and Structures**, vol. 32, no. 2-3, July 2006, pp. 125-139. [Abstract](%assets_url%/scgbib/?query=denk06a&filter=Year), [PDF](/archive/papers/Denk06aRuntimeByteCodeESUGJournal.pdf)
 
 #Contact
 

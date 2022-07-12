@@ -51,7 +51,7 @@ This research has resulted in 9 full papers in international, peer-reviewed conf
 For further details see:
 
 - [Intermediate report](%assets_url%/download/projectreports/snf10-intermediate.pdf)
-- [Publications](%base_url%/scgbib)
+- [Publications](%assets_url%/scgbib/?query=snf11&filter=Year)
 
 
 ---
@@ -68,7 +68,7 @@ This project explores various ways of synchronizing software source code with im
 For further details see:
 
 - [Final report](%assets_url%/download/projectreports/snf10-final.pdf)
-- [Publications](%base_url%/scgbib)
+- [Publications](%assets_url%/scgbib/?query=snf12&filter=Year)
 
 
 ---

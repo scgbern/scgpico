@@ -24,8 +24,8 @@ Please be aware that the syntax of Piccola has evolved over time. The current do
 
 #Publications
 
-For a brief introduction to Piccola, see the paper [Applications = Components \+ Scripts &mdash; A tour of Piccola&quot;](%base_url%/scgbib) (This paper uses the Piccola 2 syntax.) For a more thorough and up-to-date overview, see the [JPiccola Guide](%base_url%/scgbib) (included in the JPiccola distribution).
+For a brief introduction to Piccola, see the paper [Applications = Components + Scripts &mdash; A tour of Piccola&quot;](%assets_url%/scgbib/?query=ache01a&filter=Year) (This paper uses the Piccola 2 syntax.) For a more thorough and up-to-date overview, see the [JPiccola Guide](%assets_url%/scgbib/?query=nier03a&filter=Year) (included in the JPiccola distribution).
 
-There are several [PhD theses](%base_url%/scgbib), [Diploma theses](%base_url%/scgbib) and [Student projects](%base_url%/scgbib) on Piccola.
+There are several [PhD theses](%assets_url%/scgbib/?query=piccola scg-phd&filter=Year), [Diploma theses](%assets_url%/scgbib/?query=piccola scg-msc&filter=Year) and [Student projects](%assets_url%/scgbib/?query=piccola scg-ip&filter=Year) on Piccola.
 
-The semantics of Piccola are described in the PhD thesis of Franz Achermann, *[Forms, Agents and Channels &mdash; Defining Composition Abstraction with Style](%base_url%/scgbib)*. Much of the motivation for introducing forms is explained in the paper, [Explicit Namespaces](%base_url%/scgbib).
+The semantics of Piccola are described in the PhD thesis of Franz Achermann, *[Forms, Agents and Channels &mdash; Defining Composition Abstraction with Style](%assets_url%/scgbib/?query=ache02a&filter=Year)*. Much of the motivation for introducing forms is explained in the paper, [Explicit Namespaces](%assets_url%/scgbib/?query=ache00b&filter=Year).

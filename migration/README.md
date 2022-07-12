@@ -23,10 +23,9 @@ NB: to keep the implementation is compact as possible, no new methods or class e
 ---
 # To do
 
-* Bug in scgbib -- no results are shown from 2022
-
-* Fix notExportedPages query to consider the PRComponent pages handled
-	- Check is CPBibFile is handled -- same as CPQueryBox page???
+* Handle scgbib query pages
+	- Sample: snf19 sidebar links to /scgbib with query parameters
+	- *Publications>/scgbib|query=snf-asa3|sortBy=categoryYear*
 
 * Handle other file types (subclasses of PRStructure)
 	There are 8 kinds of pages (See: PM new pageTypes):
@@ -34,10 +33,14 @@ NB: to keep the implementation is compact as possible, no new methods or class e
 	- PRFile: these are uploads copied to the assets folder
 	- TO DO:
 		* CPBibFile (1) -- the SCG bib file
+			- should be handled by visitLink:, not directly by the export script
 		* PRComponent (46) -- each of these is bound to a particular class
+			- These are handled indirectly by the visitLink: method
+				- Instead of generating a dedicated page, special links are generated
 			- See: PM new componentTypeDict
-			- The important ones are CPAuthorPage, CPFixedQuery and CPQueryBox
+			- Already handled: CPAuthorPage, CPFixedQuery and CPQueryBox
 			- See PM new componentLinkDict to see which are linked to
+			* Any more need to be handled?
 	- TO IGNORE
 		- CPWhatsNew (1) -- tracks updates to scgbib and generates a blog entry
 		- PBBlog (1) -- the News blog; to be exported
@@ -90,11 +93,18 @@ NB: to keep the implementation is compact as possible, no new methods or class e
 	* Fix the back-end js-conversion script in the new scgbib github repo
 
 * Clean up scgbib repo
-	* Install github repo in assets or download folder (can't git clone on yogi -- too old RSA)
 	* set up github actions to test for errors and generate JS
+	* set up assets/scgbib as a clone that can be pulled (won't work on yogi due to old RSA implementation)
 
 ---
 ## DONE
+
+- Added support for CPAuthorPage
+
+- Fixed bug in scgbib -- no results are shown from 2022
+	- Moved the front-end stuff to the new scgbib repo
+	- The full (new) scgbib repo is now synced to the assets folders to avoid JS access issues
+	- In future should be a clone of the repo so updates can be pulled
 
 - Handle fixed queries
 	- Added PM>>fixedQuery:text:

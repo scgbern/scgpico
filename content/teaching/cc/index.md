@@ -50,9 +50,9 @@ The final grade will be based 10% on exercises, 30% on a team project and 60% on
 |	-	|	19-Apr-19	|	**Good Friday**
 |	-	|	26-Apr-19	|	**Spring break**
 |	9	|	03-May-19	|	PEGs, Packrats and Parser Combinators (Jan Kurš)
-|	10	|	10-May-19	|	Truffle â a language implementation framework (Boris Spasojević)
+|	10	|	10-May-19	|	Truffle &mdash; a language implementation framework (Boris Spasojević)
 |	11	|	17-May-19	|	Program Transformation
-|	12	|	24-May-19	|	Compiling R â a case study (Olivier Flückiger)
+|	12	|	24-May-19	|	Compiling R &mdash; a case study (Olivier Flückiger)
 |	13	|	31-May-19	|	**Final Exam**
 
 **NB:** The lecture notes are based partly on similar courses offered by Profs. [Jens Palsberg](http://www.cs.ucla.edu/~palsberg/) ([CS132](http://www.cs.ucla.edu/~palsberg/course/cs132/S08/index.html)) and [Tony Hosking](http://www.cs.purdue.edu/homes/hosking/) ([CS502](http://www.cs.purdue.edu/homes/hosking/502/)).

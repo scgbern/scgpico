@@ -36,11 +36,11 @@ See also: [CC Resources](%base_url%/teaching/cc/resources)
 
 ##Lambda Calculus
 
-[Fixed Query](%assets_url%/scgbib/?query=*)
+[Fixed Query](%assets_url%/scgbib/?query=*&filter=Year)
 
 ##Prototypes and JavaScript
 
-- Henry Lieberman, **[Using Prototypical Objects to Implement Shared Behavior in Object Oriented Systems](http://scgresources.unibe.ch/~scg/Literature/PL/Lieb86a-Prototypes.pdf)**, Proceedings OOPSLA '86, ACM SIGPLAN Notices, 21 p. 214â223, November 1986.
+- Henry Lieberman, **[Using Prototypical Objects to Implement Shared Behavior in Object Oriented Systems](http://scgresources.unibe.ch/~scg/Literature/PL/Lieb86a-Prototypes.pdf)**, Proceedings OOPSLA '86, ACM SIGPLAN Notices, 21 p. 214&mdash;223, November 1986.
 	- See also [preprint on-line](http://web.media.mit.edu/~lieber/Lieberary/OOP/Delegation/Delegation.html)
 
 -  Guide and Reference: [Mozilla dev center](http://developer.mozilla.org/en/docs/JavaScript)
@@ -58,7 +58,7 @@ See also: [CC Resources](%base_url%/teaching/cc/resources)
 
 ##Types
 
-[Fixed Query](%assets_url%/scgbib/?query=*)
+[Fixed Query](%assets_url%/scgbib/?query=*&filter=Year)
 
 ##Denotational Semantics
 
@@ -75,7 +75,7 @@ See also: [CC Resources](%base_url%/teaching/cc/resources)
 ##Visual Programming
 
 -  [Selected papers](http://scgresources.unibe.ch/~scg/Literature/VisualProgramming/) (unibe access)
--  [Literature](%base_url%/scgbib)
+-  [Literature](%assets_url%/scgbib/?query=visprog&filter=Year)
 -  [Thinglab](http://wiki.squeak.org/squeak/607)
 -  [Squeakland (eToys)](http://www.squeakland.org/)
 	-  [SqueakJS / EToys](https://squeak.js.org/etoys/)

@@ -7,19 +7,19 @@ Title: Past events
 - *PC Member* of [ICSME 2021](https://icsme2021.github.io) (37th International Conference on Software Maintenance and Evolution &mdash; Luxembourg City, Sept. 27 - Oct. 1, 2021)
 ##2020
 
--  Keynote Speaker at [ASE 2020 Doctoral Symposium](https://conf.researchr.org/track/ase-2020/ase-2020-doctoral-symposium) (35th IEEE/ACM International Conference on Automated Software Engineering â Melbourne, Australia, Sept. 21, 2020) [[pdf slides](http://scg.unibe.ch/download/oscar/TamingYourPhD-ASE2020.pdf)]
+-  Keynote Speaker at [ASE 2020 Doctoral Symposium](https://conf.researchr.org/track/ase-2020/ase-2020-doctoral-symposium) (35th IEEE/ACM International Conference on Automated Software Engineering &mdash; Melbourne, Australia, Sept. 21, 2020) [[pdf slides](http://scg.unibe.ch/download/oscar/TamingYourPhD-ASE2020.pdf)]
 - *PC Member* of [SANER 2020](https://saner2020.csd.uwo.ca) (27th IEEE International Conference on Software Analysis, Evolution and Reengineering - London, Ontario, Canada, Feb. 18-21, 2020)
 ##2019
 
-- *General Chair* of [SLE 2019](https://conf.researchr.org/home/sle-2019) (ACM SIGPLAN International Conference on Software Language Engineering â Athens, Greece, Oct. 21-22, 2019)
-- *PC Member* of [SANER 2019](https://saner2019.github.io) (International Conference on Software Analysis, Evolution, and Reengineering â Hangzhou, People's Republic of China, February 24-27, 2019)
+- *General Chair* of [SLE 2019](https://conf.researchr.org/home/sle-2019) (ACM SIGPLAN International Conference on Software Language Engineering &mdash; Athens, Greece, Oct. 21-22, 2019)
+- *PC Member* of [SANER 2019](https://saner2019.github.io) (International Conference on Software Analysis, Evolution, and Reengineering &mdash; Hangzhou, People's Republic of China, February 24-27, 2019)
 ##2018
 
-- *PC Member* of [SCAM 2018](http://www.ieee-scam.org/2018/) (18th IEEE International Working Conference on Source Code Analysis and Manipulation â Madrid, Spain, Sept. 23-24, 2018)
-- *PC Member* of [SANER 2018](http://saner.unimol.it) (International Conference on Software Analysis, Evolution, and Reengineering â Campobasso, Italy, March 19-23, 2018)
+- *PC Member* of [SCAM 2018](http://www.ieee-scam.org/2018/) (18th IEEE International Working Conference on Source Code Analysis and Manipulation &mdash; Madrid, Spain, Sept. 23-24, 2018)
+- *PC Member* of [SANER 2018](http://saner.unimol.it) (International Conference on Software Analysis, Evolution, and Reengineering &mdash; Campobasso, Italy, March 19-23, 2018)
 ##2017
 
-- *PC Member* of [BENEVOL 2017](http://ansymore.uantwerpen.be/events/benevol2017) (16th BElgian-NEtherlands software eVOLution symposium â University of Antwerp, Belgium, Dec 4-5, 2017)
+- *PC Member* of [BENEVOL 2017](http://ansymore.uantwerpen.be/events/benevol2017) (16th BElgian-NEtherlands software eVOLution symposium &mdash; University of Antwerp, Belgium, Dec 4-5, 2017)
 - *Invited Speaker* at [Simula 50 Years](http://simula67.at.ifi.uio.no/50years/): ["Great Moments in the History of OOP](https://www.slideshare.net/onierstrasz/great-moments-in-the-history-of-oop") (50 years anniversary of Simula, the first object-oriented programming language &mdash; Oslo, Norway, Sept. 27, 2017)
 - *PC Member* of [ICSME 2017](https://icsme2017.github.io) (International Conference on Software Maintenance and Evolution &mdash; Shanghai, China, Sept. 17-23, 2017)
 - *PC Member* of [SANER 2017](http://saner.aau.at) (International Conference on Software Analysis, Evolution, and Reengineering &mdash;  Klagenfurt, Austria, Feb. 21-24, 2017)

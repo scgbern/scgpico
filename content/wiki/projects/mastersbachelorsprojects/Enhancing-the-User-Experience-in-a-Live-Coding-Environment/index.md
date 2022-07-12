@@ -2,7 +2,7 @@
 Title: Enhancing the User Experience in a Live Coding Environment
 ---
 
-GT â the [Glamorous Toolkit](https://gtoolkit.com) âÂ is a "moldable", live development environment for Pharo Smalltalk.
+GT &mdash; the [Glamorous Toolkit](https://gtoolkit.com) &mdash;Â is a "moldable", live development environment for Pharo Smalltalk.
 The environment can be easily adapted to support live development in a variety of application domains.
 
 The goal of this project would be to explore one of several directions that would enhance the user experience within GT.

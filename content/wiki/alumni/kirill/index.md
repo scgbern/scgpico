@@ -21,7 +21,7 @@ The following projects can be scaled up to a master thesis and down to a seminar
 
 ---
 #Publications
-![Author Page](%base_url%/scgbib/author)
+[Author Page](%assets_url%/scgbib/?query=levitin&filter=Year)
 
 ---
 </div>

@@ -51,7 +51,7 @@ I will maybe post some more detailed information about what we did during the we
 
 ## Publications
 
-[Fixed Query](%assets_url%/scgbib/?query=*)
+[Fixed Query](%assets_url%/scgbib/?query=*&filter=Year)
 
 ## Some links
 

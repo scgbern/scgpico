@@ -6,12 +6,12 @@ You are an employee of Make Money Inc.
 
 The boss of the company has recently visited a conference, and he decided he wants the company to build a visualization editor. The visualization editor should support pictures as found in the following articles:
 
--  [Polymetric Views &mdash; A Lightweight Visual Approach to Reverse Engineering](%base_url%/scgbib)
--  [The Class Blueprint: Visually Supporting the Understanding of Classes](%base_url%/scgbib)
--  [How Developers Drive Software Evolution](%base_url%/scgbib)
--  [Distribution Map](%base_url%/scgbib)
--  [How Developers Copy](%base_url%/scgbib)
--  [Mondrian: An Agile Visualization Framework](%base_url%/scgbib)
+-  [Polymetric Views -- A Lightweight Visual Approach to Reverse Engineering](%assets_url%/scgbib/?query=Lanz03d&filter=Year)
+-  [The Class Blueprint: Visually Supporting the Understanding of Classes](%assets_url%/scgbib/?query=Duca05b&filter=Year)
+-  [How Developers Drive Software Evolution](%assets_url%/scgbib/?query=Girb05c&filter=Year)
+-  [Distribution Map](%assets_url%/scgbib/?query=Duca06c&filter=Year)
+-  [How Developers Copy](%assets_url%/scgbib/?query=Bali06a&filter=Year)
+-  [Mondrian: An Agile Visualization Framework](%assets_url%/scgbib/?query=Meye06a&filter=Year)
 
 At the conference, he also saw an open source presentation where he saw a presentation of [ArgoUML](http://argouml.tigris.org/), he thinks it might be a good idea to use ArgoUML as an infrastructure for the new endeavor.
 
