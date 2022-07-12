@@ -77,7 +77,8 @@ University of Berne, <br/> Engehaldestr 8 <br/> Room 001 ([see directions](http:
 
 
 ##Hotels
-The venue is close to the center of the city. Several hotels offer special University prices that are lower than the listed ones. Please just mention "University Conference" in your reservation. If the hotel does not offer a different price, please [let us know](tudor@tudorgirba.com).
+The venue is close to the center of the city. Several hotels offer special University prices that are lower than the listed ones. Please just mention "University Conference" in your reservation. If the hotel does not offer a different price, please <a href="mailto:tudor@tudorgirba.com">tudor@tudorgirba.com</a>
+.
 
 Here are some suggestions:
 

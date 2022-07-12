@@ -32,7 +32,7 @@ Here are [slides](%assets_url%/download/softwarecomposition/2017-03-28-Merino-Me
 
 A video with captures of participants and the visualizations used in each medium are [here](https://www.youtube.com/watch?v=xzl8MbI7_rI) 
 
-A [paper](/archive/papers/Meri17b.pdf) published in the proceedings of VISSOFT 2017.
+A [paper](%assets_url%/archive/papers/Meri17b.pdf) published in the proceedings of VISSOFT 2017.
 
 A [replication package](https://zenodo.org/record/823023/files/artifact.zip) of the experiment.
 

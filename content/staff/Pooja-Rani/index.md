@@ -33,7 +33,7 @@ Currently I am working on gathering and identifying developers information needs
 
 #Past Proposals
 
--  Msc: [Investigating developerâs questions using web scraping](http://scg.unibe.ch/wiki/projects/mastersbachelorsprojects/Investigating-developer___s-questions-using-web-scraping)
+-  Msc: [Investigating developer's questions using web scraping](http://scg.unibe.ch/wiki/projects/mastersbachelorsprojects/Investigating-developer___s-questions-using-web-scraping)
 -  Bsc: [Analyzing the inconsistency between comments and source code in Pharo](http://scg.unibe.ch/wiki/projects/mastersbachelorsprojects/Analyzing-the-inconsistency-between-comments-and-source-code-in-Pharo)
 -  Seminar: [Plugin for Moose to Analyse Natural Language Questions](http://scg.unibe.ch/wiki/projects/archive/Moose-plugin-for-nlp)
 -  Seminar: [How do the class comments differ in common programming languages?](http://scg.unibe.ch/wiki/projects/mastersbachelorsprojects/How-class-comments-differ-in-common-programming-languages?)

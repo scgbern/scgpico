@@ -60,7 +60,7 @@ Questions to address during the experiment:
 -  Can your approach complement the other techniques (i.e. choosing landmark methods for paper 1)
 -  Does your technique identify different classes than the ones returned by the data-mining technique in paper 3
 
-5. Tewfik Ziadi Yann-GaÃ«l
+5. Tewfik Ziadi Yann-Gaël
 Automated Reverse-engineering of UML v2.0 Dynamic Models
 This paper extracts sequence diagrams and statecharts from traces in several steps. First, several traces are gathered and then a number of basic sequence diagrams are generated. Second, the basic sequence diagrams are combined in a single sequence diagram which is made readable using the composition operators provided by UML2.0 (seq, alt, loop, ...). Third, the information from the trace is complemented with information obtained from a static analysis to refine the Sequence Diagrams. Finally, they derive a statechart from a set of sequence diagrams.
 Questions

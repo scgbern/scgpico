@@ -15,4 +15,5 @@ This project will  address the following research questions:
 Minor questions to be addressed by this project are how to gather the information we use to assess software entities relatedness, how to store it, and how to keep/update it.
 Work concerning the assessment of relatedness based on dynamic communication between source artifacts has already been done.
 
-Contact: [David Roethlisberger](roethlis@iam.unibe.ch)
+Contact: <a href="mailto:roethlis@iam.unibe.ch">roethlis@iam.unibe.ch</a>
+

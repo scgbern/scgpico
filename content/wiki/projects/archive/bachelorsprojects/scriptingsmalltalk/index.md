@@ -8,4 +8,5 @@ But historically, almost all Smalltalk systems are only providing the graphical 
 
 The goal of the project is to build a prototype of a smallltalk scripting language based on Squeak.
 
-contact Alexandre Bergel [bergel@iam.unibe.ch](bergel@iam.unibe.ch)
+contact Alexandre Bergel <a href="mailto:bergel@iam.unibe.ch">bergel@iam.unibe.ch</a>
+

@@ -22,7 +22,7 @@ This 5 ECTS course is a common teaching unit of the three BeNeFri universities w
 Each theme is taught in a different university. Each session in a theme revolves around a particular problem and builds on top of the previous sessions. Students should complete exercises of a previous session before a new one starts. 
 
 #Registration
-Students should register in the student administration system of their home university according to the rules at the bachelorâs level. At the University of Bern, please register in KSL.
+Students should register in the student administration system of their home university according to the rules at the bachelor's level. At the University of Bern, please register in KSL.
 
 #Locations
 

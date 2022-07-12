@@ -2,7 +2,7 @@
 Title: Jan Kurš
 ---
 
-Iâm a PhD candidate at the Software Composition Group, University of Bern since 2012.
+I'm a PhD candidate at the Software Composition Group, University of Bern since 2012.
 
 -  email
 -  <a href=mailto:kurs@iam.unibe.ch>kurs@inf.unibe.ch</a>

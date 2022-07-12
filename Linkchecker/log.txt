@@ -1,0 +1,271 @@
+LinkChecker 10.1.0
+Copyright (C) 2000-2016 Bastian Kleineidam, 2010-2021 LinkChecker Authors
+LinkChecker comes with ABSOLUTELY NO WARRANTY!
+This is free software, and you are welcome to redistribute it under
+certain conditions. Look at the file `LICENSE' within this distribution.
+Read the documentation at https://linkchecker.github.io/linkchecker/
+Write comments and bugs to https://github.com/linkchecker/linkchecker/issues
+
+Start checking at 2022-07-12 18:59:35+002
+
+URL        `value:children'
+Parent URL http://testscg.unibe.ch/teaching, line 96, col 4
+Real URL   value:children
+Info       The URL is outside of the domain filter, checked only
+           syntax.
+Result     Error: URL is unrecognized or has invalid syntax
+
+URL        `value:toc'
+Name       `value:toc'
+Parent URL http://testscg.unibe.ch/research/bifrost, line 87, col 4
+Real URL   value:toc
+Info       The URL is outside of the domain filter, checked only
+           syntax.
+Result     Error: URL is unrecognized or has invalid syntax
+
+URL        `value:redirect'
+Name       `value:redirect'
+Parent URL http://testscg.unibe.ch/staff/ewernli, line 46, col 16
+Real URL   value:redirect
+Info       The URL is outside of the domain filter, checked only
+           syntax.
+Result     Error: URL is unrecognized or has invalid syntax
+
+URL        `/archive/lectures'
+Name       `Archive'
+Parent URL http://testscg.unibe.ch/teaching, line 85, col 5
+Real URL   http://testscg.unibe.ch/archive/lectures
+Check time 7.621 seconds
+Size       803B
+Result     Error: 404 Not Found
+
+URL        `hhttp://creativecommons.org/licenses/by/3.0/'
+Parent URL http://testscg.unibe.ch/staff/oscar/oscar-free-picture, line 49, col 1
+Real URL   hhttp://creativecommons.org/licenses/by/3.0/
+Info       The URL is outside of the domain filter, checked only
+           syntax.
+Result     Error: URL is unrecognized or has invalid syntax
+
+URL        `/archive/papers/Denk06aRuntimeByteCodeESUGJournal.pdf'
+Name       `PDF'
+Parent URL http://testscg.unibe.ch/research/bytesurgeon, line 64, col 331
+Real URL   http://testscg.unibe.ch/archive/papers/Denk06aRuntimeByteCodeESUGJournal.pdf
+Check time 3.445 seconds
+Size       803B
+Result     Error: 404 Not Found
+
+URL        `bergel@iam.unibe.ch'
+Name       `Alexandre Bergel'
+Parent URL http://testscg.unibe.ch/research/classboxes, line 61, col 5
+Real URL   http://testscg.unibe.ch/research/bergel@iam.unibe.ch
+Check time 2.845 seconds
+Size       803B
+Result     Error: 404 Not Found
+
+URL        `ducasse@iam.unibe.ch'
+Name       `St?phane Ducasse'
+Parent URL http://testscg.unibe.ch/research/classboxes, line 62, col 5
+Real URL   http://testscg.unibe.ch/research/ducasse@iam.unibe.ch
+Check time 3.108 seconds
+Size       803B
+Result     Error: 404 Not Found
+
+URL        `Roel.Wuyts@ulb.ac.be'
+Name       `Roel Wuyts'
+Parent URL http://testscg.unibe.ch/research/classboxes, line 63, col 5
+Real URL   http://testscg.unibe.ch/research/Roel.Wuyts@ulb.ac.be
+Check time 3.279 seconds
+Size       803B
+Result     Error: 404 Not Found
+
+URL        `/archive/papers/Schw11bDoodleDebug.pdf'
+Name       `Niko Schwarz. DoodleDebug, Objects Should Sketch Themselves For Code Understanding'
+Parent URL http://testscg.unibe.ch/wiki/projects/DoodleDebug, line 94, col 4
+Real URL   http://testscg.unibe.ch/archive/papers/Schw11bDoodleDebug.pdf
+Check time 3.977 seconds
+Size       803B
+Result     Error: 404 Not Found
+
+URL        `/archive/projects/Reic13a.pdf'
+Name       `Cedric Reichenbach (Bachelor's Thesis). DoodleDebug - A shot-gun marriage between System.out.println and object inspectors'
+Parent URL http://testscg.unibe.ch/wiki/projects/DoodleDebug, line 95, col 1
+Real URL   http://testscg.unibe.ch/archive/projects/Reic13a.pdf
+Check time 3.558 seconds
+Size       803B
+Result     Error: 404 Not Found
+
+URL        `/archive/masters/Reic15a.pdf'
+Name       `Cedric Reichenbach (Master's Thesis). DoodleDebug, Clustered - Morphing DoodleDebug into a clustered setup using fat clients'
+Parent URL http://testscg.unibe.ch/wiki/projects/DoodleDebug, line 96, col 1
+Real URL   http://testscg.unibe.ch/archive/masters/Reic15a.pdf
+Check time 3.701 seconds
+Size       803B
+Result     Error: 404 Not Found
+
+URL        `roethlis@iam.unibe.ch'
+Name       `David R?thlisberger'
+Parent URL http://testscg.unibe.ch/research/hermion, line 85, col 19
+Real URL   http://testscg.unibe.ch/research/roethlis@iam.unibe.ch
+Check time 3.377 seconds
+Size       803B
+Result     Error: 404 Not Found
+
+URL        `/archive/papers/Meri17b.pdf'
+Name       `paper'
+Parent URL http://testscg.unibe.ch/research/mediavis, line 69, col 6
+Real URL   http://testscg.unibe.ch/archive/papers/Meri17b.pdf
+Check time 3.513 seconds
+Size       803B
+Result     Error: 404 Not Found
+
+URL        `/archive/papers/Nier03aJPiccolaGuide.pdf'
+Name       `JPiccola Guide'
+Parent URL http://testscg.unibe.ch/research/piccola, line 72, col 5
+Real URL   http://testscg.unibe.ch/archive/papers/Nier03aJPiccolaGuide.pdf
+Check time 3.468 seconds
+Size       803B
+Result     Error: 404 Not Found
+
+URL        `/archive/papers/Meri17a.pdf'
+Name       `study'
+Parent URL http://testscg.unibe.ch/research/vison, line 64, col 159
+Real URL   http://testscg.unibe.ch/archive/papers/Meri17a.pdf
+Check time 3.840 seconds
+Size       803B
+Result     Error: 404 Not Found
+
+URL        `traits@iam.unibe.ch'
+Name       `traits@iam.unibe.ch'
+Parent URL http://testscg.unibe.ch/research/traits, line 49, col 61
+Real URL   http://testscg.unibe.ch/research/traits@iam.unibe.ch
+Check time 3.941 seconds
+Size       803B
+Result     Error: 404 Not Found
+
+URL        `http://testscg.unibe.ch/assets/download/rotor/csharptdemo.zip'
+Name       `simple prototype'
+Parent URL http://testscg.unibe.ch/research/traits, line 79, col 35
+Real URL   http://testscg.unibe.ch/assets/download/rotor/csharptdemo.zip
+Check time 3.640 seconds
+Size       803B
+Result     Error: 404 Not Found
+
+URL        `http://testscg.unibe.ch/assets/download/rotor/sscli2005traitscsharp.pdf'
+Name       `presentation slides'
+Parent URL http://testscg.unibe.ch/research/traits, line 79, col 401
+Real URL   http://testscg.unibe.ch/assets/download/rotor/sscli2005traitscsharp.pdf
+Check time 4.140 seconds
+Size       803B
+Result     Error: 404 Not Found
+
+URL        `patrick.frischknecht@students.unibe.ch'
+Name       `patrick.frischknecht@students.unibe.ch'
+Parent URL http://testscg.unibe.ch/wiki/alumni/PatrickFrischknecht, line 49, col 13
+Real URL   http://testscg.unibe.ch/wiki/alumni/patrick.frischknecht@students.unibe.ch
+Check time 4.041 seconds
+Size       803B
+Result     Error: 404 Not Found
+
+URL        `marc-andrea.tarnutzer@students.unibe.ch'
+Name       `marc-andrea.tarnutzer@students.unibe.ch'
+Parent URL http://testscg.unibe.ch/wiki/alumni/MarcAndreaTarnutzer, line 47, col 13
+Real URL   http://testscg.unibe.ch/wiki/alumni/marc-andrea.tarnutzer@students.unibe.ch
+Check time 4.251 seconds
+Size       803B
+Result     Error: 404 Not Found
+
+URL        `/archive/projects/Berg17a.pdf'
+Name       `Visually Exploring Scientific Communities ? Extending EggShell's Model and Visualization'
+Parent URL http://testscg.unibe.ch/staff/merino, line 102, col 25
+Real URL   http://testscg.unibe.ch/archive/projects/Berg17a.pdf
+Check time 3.748 seconds
+Size       803B
+Result     Error: 404 Not Found
+
+URL        `/archive/projects/Seli16a.pdf'
+Name       `EggShell ? A workbench for modeling scientific communities'
+Parent URL http://testscg.unibe.ch/staff/merino, line 103, col 22
+Real URL   http://testscg.unibe.ch/archive/projects/Seli16a.pdf
+Check time 4.140 seconds
+Size       803B
+Result     Error: 404 Not Found
+
+URL        `http://testscg.unibe.ch/assets/download/softwarecomposition/2017-12-19-SoftwareVisualizationOntology.pdf'
+Name       `Software Visualization Ontology'
+Parent URL http://testscg.unibe.ch/staff/merino, line 104, col 24
+Real URL   http://testscg.unibe.ch/assets/download/softwarecomposition/2017-12-19-SoftwareVisualizationOntology.pdf
+Check time 4.308 seconds
+Size       803B
+Result     Error: 404 Not Found
+
+URL        `theseion@students.unibe.ch'
+Name       `theseion@students.unibe.ch'
+Parent URL http://testscg.unibe.ch/wiki/alumni/maxleske, line 52, col 4
+Real URL   http://testscg.unibe.ch/wiki/alumni/theseion@students.unibe.ch
+Check time 3.634 seconds
+Size       803B
+Result     Error: 404 Not Found
+
+URL        `/files/c1/ha5z8woyb3x19db2de1sx1qejplpsz/AliakseiSyrel-mountains-300x300.png'
+Name       `AliakseiSyrel-avatar'
+Parent URL http://testscg.unibe.ch/wiki/alumni/AliakseiSyrel, line 46, col 13
+Real URL   http://testscg.unibe.ch/files/c1/ha5z8woyb3x19db2de1sx1qejplpsz/AliakseiSyrel-mountains-300x300.png
+Check time 4.741 seconds
+Size       803B
+Result     Error: 404 Not Found
+
+URL        `/files/91/mv1ypxi77wfour7tzeqb64t4qt9hwe/Medalles2016gold.png'
+Name       `GoldSmallMedalAwardsESUG2016'
+Parent URL http://testscg.unibe.ch/wiki/alumni/AliakseiSyrel, line 54, col 1
+Real URL   http://testscg.unibe.ch/files/91/mv1ypxi77wfour7tzeqb64t4qt9hwe/Medalles2016gold.png
+Check time 3.865 seconds
+Size       803B
+Result     Error: 404 Not Found
+
+URL        `/files/00/xyze0md1dwu74w5fado5xp4kjzljkk/Brick-Browser.png'
+Name       `Brick-Browser'
+Parent URL http://testscg.unibe.ch/wiki/alumni/AliakseiSyrel, line 75, col 5
+Real URL   http://testscg.unibe.ch/files/00/xyze0md1dwu74w5fado5xp4kjzljkk/Brick-Browser.png
+Check time 4.002 seconds
+Size       803B
+Result     Error: 404 Not Found
+
+URL        `/files/cc/hgt7cu4r2n277rz57sdj5rq80u1o2u/esug-logo.jpg'
+Name       `Esug-logo'
+Parent URL http://testscg.unibe.ch/wiki/alumni/AliakseiSyrel, line 77, col 1
+Real URL   http://testscg.unibe.ch/files/cc/hgt7cu4r2n277rz57sdj5rq80u1o2u/esug-logo.jpg
+Check time 4.024 seconds
+Size       803B
+Result     Error: 404 Not Found
+
+URL        `/files/e4/luerik9na5zyug0ap03di025opb31c/Spotter.png'
+Name       `Spotter'
+Parent URL http://testscg.unibe.ch/wiki/alumni/AliakseiSyrel, line 80, col 1
+Real URL   http://testscg.unibe.ch/files/e4/luerik9na5zyug0ap03di025opb31c/Spotter.png
+Check time 3.043 seconds
+Size       803B
+Result     Error: 404 Not Found
+
+URL        `/files/98/m9wc3cti1kbd0wmgja1t1nk4nvx0je/2015goldSmall.png'
+Name       `GoldSmallMedalAwardsESUG2015'
+Parent URL http://testscg.unibe.ch/wiki/alumni/AliakseiSyrel, line 82, col 1
+Real URL   http://testscg.unibe.ch/files/98/m9wc3cti1kbd0wmgja1t1nk4nvx0je/2015goldSmall.png
+Check time 3.205 seconds
+Size       803B
+Result     Error: 404 Not Found
+
+URL        `andrei@inf.unibe.ch'
+Name       `andrei@inf.unibe.ch'
+Parent URL http://testscg.unibe.ch/staff/andreichis, line 144, col 5
+Real URL   http://testscg.unibe.ch/staff/andrei@inf.unibe.ch
+Check time 3.219 seconds
+Size       803B
+Result     Error: 404 Not Found
+
+URL        `http://testscg.unibe.ch/assets/download/lectures/cp-exercises/PLEASE'
+Name       `http://testscg.unibe.ch/assets/download/lectures/cp-exercises/PLEASE'
+Parent URL http://testscg.unibe.ch/teaching/cp, line 183, col 61
+Real URL   http://testscg.unibe.ch/assets/download/lectures/cp-exercises/PLEASE
+Check time 3.814 seconds
+Size       803B
+Result     Error: 404 Not Found

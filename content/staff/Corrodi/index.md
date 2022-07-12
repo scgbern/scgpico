@@ -10,7 +10,7 @@ I am a PhD student at the Software Composition Group, University of Bern.
 - \+41 31 511 7639
 
 #Research Interests
-I am interested in improving developer tools, in particular in the context of IDEs. I think IDEs should allow developers to work in the domain of the particular project they are working on, using dynamic, specialized tools instead of the generic tools that are available in many current IDEs. Currently, I am working, in general, on improving debuggers to make them adaptable to oneâs domain. Furthermore, I want to make debuggers easier to use in oneâs context by providing better ways to express halting conditions than simple line-based breakpoints.
+I am interested in improving developer tools, in particular in the context of IDEs. I think IDEs should allow developers to work in the domain of the particular project they are working on, using dynamic, specialized tools instead of the generic tools that are available in many current IDEs. Currently, I am working, in general, on improving debuggers to make them adaptable to one's domain. Furthermore, I want to make debuggers easier to use in one's context by providing better ways to express halting conditions than simple line-based breakpoints.
 I am also interested, in general, in concurrent programming, software engineering and programming languages. I am open to work on ideas related to these topics. 
 
 #Seminar, Bachelor, and Master Project Proposals

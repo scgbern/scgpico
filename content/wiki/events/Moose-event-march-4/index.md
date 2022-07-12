@@ -7,7 +7,8 @@ Moose ([http://moosetechnology.org/](http://moosetechnology.org/)) platform for 
 
 The goal of the day is to get people working with Moose exchange ideas, learn and get things done. The audience is typically formed by both seasoned developers and newcomers. Everyone is welcome.
 
-To register, please send an email to [moose-dev@iam.unibe.ch](moose-dev@iam.unibe.ch) ([register here](https://www.iam.unibe.ch/mailman/listinfo/moose-dev)).
+To register, please send an email to <a href="mailto:moose-dev@iam.unibe.ch">moose-dev@iam.unibe.ch</a>
+ ([register here](https://www.iam.unibe.ch/mailman/listinfo/moose-dev)).
 
 #Before the day
 Please send to the mailing list the topics you want to see addressed. The idea is to compile a list of issues so that the day of the Dojo is as focused as possible.

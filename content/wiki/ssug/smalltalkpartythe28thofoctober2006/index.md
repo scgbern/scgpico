@@ -18,7 +18,8 @@ Saturday, 28h of October 2006, starting from 9:30am, open ended
 
 #Contact
 
-|Email|[denker@iam.unibe.ch](denker@iam.unibe.ch)
+|Email|<a href="mailto:denker@iam.unibe.ch">denker@iam.unibe.ch</a>
+
 |---|---
 |Phone|\+41 31 631 3547
 |Mobile|\+41 76 565 35 47

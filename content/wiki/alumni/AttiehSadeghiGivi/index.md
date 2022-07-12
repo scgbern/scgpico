@@ -8,4 +8,5 @@ Jan Kurs was supervising my progress in this project.
 
 **Contact**
 
-[attieh.sadeghi@gmail.com](attieh.sadeghi@gmail.com)
+<a href="mailto:attieh.sadeghi@gmail.com">attieh.sadeghi@gmail.com</a>
+

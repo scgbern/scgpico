@@ -20,7 +20,7 @@ However, in the field of secure mobile software engineering adaptations have bee
 #Task
 The goal of this project is to find security breaches in nature and to analyze and adapt the nature's solution, which could lead to novel security concepts for the mobile software industry.
 <br>
-For example, you could have come up with the concept of "Safe Grounds": As a safety measure to prevent plants from extinction, they invest only as much energy as required into their own offspring. Consequently, plants send roots only as far as they need them and donât try to "tough it out" where the soil or water levels are wrong for them [1].
+For example, you could have come up with the concept of "Safe Grounds": As a safety measure to prevent plants from extinction, they invest only as much energy as required into their own offspring. Consequently, plants send roots only as far as they need them and don't try to "tough it out" where the soil or water levels are wrong for them [1].
 <br>
 We could adapt this concept to computer science by replacing "plants" with "software applications", "roots" with "web interfaces", and the "soil" with "unverified web requests".
 <br>

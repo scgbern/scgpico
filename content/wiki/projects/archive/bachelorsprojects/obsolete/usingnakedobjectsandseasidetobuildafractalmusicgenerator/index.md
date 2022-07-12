@@ -24,4 +24,5 @@ Besides building a funky application you would learn about
 
 (Project reserved until July)
 
-Just drop a mail to [Markus Gaelli](gaelli@iam.unibe.ch)
+Just drop a mail to <a href="mailto:gaelli@iam.unibe.ch">gaelli@iam.unibe.ch</a>
+

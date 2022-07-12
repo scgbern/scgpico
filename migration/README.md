@@ -23,46 +23,50 @@ NB: to keep the implementation is compact as possible, no new methods or class e
 ---
 # To do
 
-* Handle scgbib query pages
-	- Sample: snf19 sidebar links to /scgbib with query parameters
-	- *Publications>/scgbib|query=snf-asa3|sortBy=categoryYear*
+* Fix display of PRValueLink links
+	- There are 9 types of these that display different kinds of things
+	- See: PM new valueLinkDict
+	- Of 135 links, all but 4 are embedded -- but probably all should be
+	* value:redirect (29)
+		- Page redirects
+		- Example: 
+		- link paremeters first value
+	* value:children (19)
+		- Lists links to children pages
+		- Often used in sidebars
+		- Example: /research/bifrost/
+			- +value:children|link+
+		- Example: /teaching
+			- value:children|link|select=Page|target=students
+	* value:toc (18)
+		- Generates TOC links to subsections
+		- Often used in sidebars
+		- Example: /research/bifrost/
+		- +value:toc+
+	- Ignore these:
+		- value:contents (2)
+			- lists contents of subpages instead of links
+			- only used in test page (removed)
+		- value:edited (26)
+			- admin -- lists owner and date of a change
+		- value:incoming (15)
+			- admin -- lists incoming links?
+		- value:parents
+			- admin? lists parents?
+		- value:structure (10)
+			- Seems ad hoc; no clear what it does
+		- value:user (6)
+			- admin -- current user?
 
-* Handle other file types (subclasses of PRStructure)
-	There are 8 kinds of pages (See: PM new pageTypes):
-	- PRPage: we write out the markdown
-	- PRFile: these are uploads copied to the assets folder
-	- TO DO:
-		* CPBibFile (1) -- the SCG bib file
-			- should be handled by visitLink:, not directly by the export script
-		* PRComponent (46) -- each of these is bound to a particular class
-			- These are handled indirectly by the visitLink: method
-				- Instead of generating a dedicated page, special links are generated
-			- See: PM new componentTypeDict
-			- Already handled: CPAuthorPage, CPFixedQuery and CPQueryBox
-			- See PM new componentLinkDict to see which are linked to
-			* Any more need to be handled?
-	- TO IGNORE
-		- CPWhatsNew (1) -- tracks updates to scgbib and generates a blog entry
-		- PBBlog (1) -- the News blog; to be exported
-		- PBPost (383) -- blog posts -- to be exported as files ...
-		- PBComment (8) -- comments to blog pages; ignore?
+* Check all links
+	- PB recommends https://linkchecker.github.io/linkchecker/
+	- fixed htaccess to allow file browsing
+	- /files and /archive links to be fixed to point to assets
 
-* Some Wiki pages broken
+* Fix embedded links
 	- Writing errors -- embedded pages broken
 		- Link style is +namedPage+
 		- Possible solution: use an iframe with a dedicated css to hide the header and footer
-	- Front page: the value:children link is broken (generates list of children pages)
-		This is a PRValueLink
-
-* check if mail and other links are working
-	PM new allLinksDict
-	There are five kinds of links: 
-		- PRExternalLink (4023) -- done
-		- PRInternalLink (3614) -- done, except for embedded links to pages
-		* PRMailLink (69) -- to do
-		* PRValueLink (563) -- to do
-			PM new valueLinkDict
-		- SCGExternalLink (135) -- done link to download folder
 
 * What to do about composite scgbib queries? eg Publications scg-bp|scg-ip
 
@@ -78,13 +82,6 @@ NB: to keep the implementation is compact as possible, no new methods or class e
 	- Add new translations there
 	* cat all .md files and delete all plain ascii lines to search for accented chars
 
-* Clone Pico repo?
-	- to enable easy pulling of new versions?
-	- https://github.com/picocms/Pico
-
-* Check all links
-	- PB recommends https://linkchecker.github.io/linkchecker/
-
 * Enable and force HTTPS
 	- https://github.com/alejandroliu/ForceHttpsPlugin
 	- PB: needs a certificate
@@ -98,6 +95,39 @@ NB: to keep the implementation is compact as possible, no new methods or class e
 
 ---
 ## DONE
+
+- Make sure all types of links are working -- only PRValueLink left
+	- PM new allLinksDict
+	- There are five kinds of links: 
+		- PRExternalLink (4023) -- done
+		- PRInternalLink (3614) -- done, except for embedded links to pages
+		- PRMailLink (69)
+			- Fix absoluteLinkFor: to return mail link
+		* PRValueLink (563) -- to do
+		- SCGExternalLink (135) -- done link to download folder
+
+- Handled most file types (subclasses of PRStructure)
+	There are 8 kinds of pages (See: PM new pageTypes):
+	- PRPage: we write out the markdown
+	- PRFile: these are uploads copied to the assets folder
+	- CPBibFile (1) -- the SCG bib file
+		- handled by visitLink:, not directly by the export script
+	- PRComponent (46) -- each of these is bound to a particular class
+		- These are handled indirectly by the visitLink: method
+			- Instead of generating a dedicated page, special links are generated
+		- See: PM new componentTypeDict
+		- Already handled: CPAuthorPage, CPFixedQuery and CPQueryBox
+		- See PM new componentLinkDict to see which are linked to
+		- Other component types seems to be unimportant ...
+	- TO IGNORE
+		- CPWhatsNew (1) -- tracks updates to scgbib and generates a blog entry
+		- PBBlog (1) -- the News blog; to be exported
+		- PBPost (383) -- blog posts -- to be exported as files ...
+		- PBComment (8) -- comments to blog pages; ignore?
+
+- Fixed scgbib query pages
+	- Sample: snf19 sidebar links to /scgbib with query parameters
+	- *Publications>/scgbib|query=snf-asa3|sortBy=categoryYear*
 
 - Added support for CPAuthorPage
 

@@ -22,7 +22,7 @@ An ontology is a formalization of a model to describe what is essential in a *do
 - *Who will use and maintain the ontology?* Software developers willing to adopt visualizations, and who have used a visualization from the ontology and want to add new supported questions to it. Also, researchers who want to add new data to the ontology for a new or an existing indexed visualization approach.
 ##Step 2. Consider reusing existing ontologies. 
 To the best of our knowledge this is the first ontology of software visualizations.
-##Step 3. Enumerate important terms in the ontology. We include the characteristics of software visualization and their evaluations presented in a previous [study ](/archive/papers/Meri17a.pdf).
+##Step 3. Enumerate important terms in the ontology. We include the characteristics of software visualization and their evaluations presented in a previous [study ](%assets_url%/archive/papers/Meri17a.pdf).
 ##Step 4. Define the concepts and the concept hierarchy.
 We opt for a bottom-up development process in which we start from instances of proposed software visualizations. For each, we identify the various concepts involved its context (e.g., tasks, media, environments, frameworks, questions, evaluation strategies). We define a hierarchy of concepts following an *is-a* relation. When defining the concepts we avoid to create cycles, and validate that siblings concepts (that are at the same level in the hierarchy) correspond to the same level of generality. 
 ##Step 5. Define the properties of concepts.

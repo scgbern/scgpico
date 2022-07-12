@@ -33,7 +33,7 @@ TRACKING - PAYWARE
 **VersionOne**
 
 - Size:
--  What they say: All VersionOne's products are designed from the ground up to support todayâs leading-edge development methodologies such as Scrum, XP, Kanban, AgileUP, and DSDM. From small teams to distributed enterprises, VersionOneâs suite of agile project and lifecycle management tools helps companies scale agile faster, easier, and smarter.
+-  What they say: All VersionOne's products are designed from the ground up to support today's leading-edge development methodologies such as Scrum, XP, Kanban, AgileUP, and DSDM. From small teams to distributed enterprises, VersionOne's suite of agile project and lifecycle management tools helps companies scale agile faster, easier, and smarter.
 -  Impression MKU: Trial available
 
 TESTING - FREE

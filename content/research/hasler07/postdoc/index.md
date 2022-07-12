@@ -32,7 +32,8 @@ The postdoc position is funded by the Hasler Foundation, Switzerland and will ru
 
  
 
-To apply, please send an email to Prof. Oscar Nierstrasz ([oscar&#46;nierstrasz&#64;iam&#46;unibe&#46;ch](oscar.nierstrasz@iam.unibe.ch)) by April 15, 2008. The application must include:
+To apply, please send an email to Prof. Oscar Nierstrasz (<a href="mailto:oscar.nierstrasz@iam.unibe.ch">oscar.nierstrasz@iam.unibe.ch</a>
+) by April 15, 2008. The application must include:
 
  
 

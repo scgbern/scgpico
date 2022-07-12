@@ -24,7 +24,7 @@ To install the code in an existing image:
 
 #Publications
 
--  Marcus Denker, St&eacute;phane Ducasse and &Eacute;ric Tanter, *Runtime Bytecode Transformation for Smalltalk*, **Journal of Computer Languages, Systems and Structures**, vol. 32, no. 2-3, July 2006, pp. 125-139. [Abstract](%assets_url%/scgbib/?query=denk06a&filter=Year), [PDF](/archive/papers/Denk06aRuntimeByteCodeESUGJournal.pdf)
+-  Marcus Denker, St&eacute;phane Ducasse and &Eacute;ric Tanter, *Runtime Bytecode Transformation for Smalltalk*, **Journal of Computer Languages, Systems and Structures**, vol. 32, no. 2-3, July 2006, pp. 125-139. [Abstract](%assets_url%/scgbib/?query=denk06a&filter=Year), [PDF](%assets_url%/archive/papers/Denk06aRuntimeByteCodeESUGJournal.pdf)
 
 #Contact
 

@@ -96,7 +96,7 @@ Title: Masters, Bachelors and Seminar Projects @ SCG
 
 #Past Seminar Topics (Autumn 2018)
 
--  [Investigating developerâs questions using web scraping](%base_url%/wiki/projects/mastersbachelorsprojects/Investigating-developer___s-questions-using-web-scraping) ([Pooja Rani](%base_url%/staff/Pooja-Rani))
+-  [Investigating developer's questions using web scraping](%base_url%/wiki/projects/mastersbachelorsprojects/Investigating-developer___s-questions-using-web-scraping) ([Pooja Rani](%base_url%/staff/Pooja-Rani))
 -  [Scriptable markdown pretty printer using GraalVM native-image](%base_url%/wiki/projects/mastersbachelorsprojects/Scriptable-markdown-pretty-printer-using-GraalVM-native-image) ([Boris Spasojević](%base_url%/staff/Boris-Spasojevic))
 -  [Domain specific Requirements Elicitation (RE) -- a user-centric approach](%base_url%/wiki/projects/mastersbachelorsprojects/Domain-specific-Requirements-Elicitation-_RE_-a-user-centric-approach) ([Nitish Patkar](%base_url%/staff/NitishPatkar))
 -  [Abusing HTML5 permissions on browsers](%base_url%/wiki/projects/mastersbachelorsprojects/Abusing-HTML5-permissions-on-browsers) ([Mohammadreza Hazhirpasand](%base_url%/staff/MohammadrezaHazhirpasand))

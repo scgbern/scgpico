@@ -10,4 +10,5 @@ Second, we want to see in this browser where hooks are already installed, i.e., 
 
 This project has to be done in the Squeak environment (Squeak 3.9 or newer).
 
-Contact: [David Roethlisberger](roethlis@iam.unibe.ch)
+Contact: <a href="mailto:roethlis@iam.unibe.ch">roethlis@iam.unibe.ch</a>
+

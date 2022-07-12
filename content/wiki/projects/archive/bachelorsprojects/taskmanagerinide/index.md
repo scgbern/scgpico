@@ -6,4 +6,5 @@ This project aims at implementing a task manager directly in an IDE (preferably 
 There should also be a relation to a bug tracking software on the web, maybe even to other collaborative systems (mailing lists, web-based task tracking systems). 
 The task manager should interact with the rest of the IDE, eg. to quickly navigate with the IDE to artifacts associated with the tasks, to add artifacts from within the IDE to the task, or to automatically change the completion progress of a task by working in the IDE on artifacts defined in the task.
 
-Contact: [David Roethlisberger](roethlis@iam.unibe.ch)
+Contact: <a href="mailto:roethlis@iam.unibe.ch">roethlis@iam.unibe.ch</a>
+

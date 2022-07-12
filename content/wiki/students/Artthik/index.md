@@ -16,8 +16,9 @@ A visual scenario builder that can be used to visualize the software to **any** 
 ##The Goal:
 The purpose of my work is to create such a visual tool for modelling software in Pharo using various UI tools and furthermore this tool shall generate functioning code and documentation.
 
-Iâm supervised by [Nitish Patkar](http://scg.unibe.ch/staff/NitishPatkar).
+I'm supervised by [Nitish Patkar](http://scg.unibe.ch/staff/NitishPatkar).
 
-Always open for suggestions: [Mail me!](artthik.sellathurai@students.unibe.ch)
+Always open for suggestions: <a href="mailto:artthik.sellathurai@students.unibe.ch">artthik.sellathurai@students.unibe.ch</a>
+
 
 Updated: 19. November 2018

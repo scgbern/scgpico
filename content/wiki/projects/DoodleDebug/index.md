@@ -42,9 +42,9 @@ An extended tutorial can be found by downloading and installing DoodleDebug (as 
 If everything went well, you should now see two new buttons on top, one to open the DoodleDebug output view and one to open the tutorial. The best way to check if DoodleDebug is working is to go through this tutorial. <span style="white-space: nowrap;">;-)</span>
 
 #Publications
-[Niko Schwarz. **DoodleDebug, Objects Should Sketch Themselves For Code Understanding**](/archive/papers/Schw11bDoodleDebug.pdf)<br>
-[Cedric Reichenbach (Bachelor's Thesis). **DoodleDebug - A shot-gun marriage between System.out.println and object inspectors**](/archive/projects/Reic13a.pdf)<br>
-[Cedric Reichenbach (Master's Thesis). **DoodleDebug, Clustered - Morphing DoodleDebug into a clustered setup using fat clients**](/archive/masters/Reic15a.pdf)
+[Niko Schwarz. **DoodleDebug, Objects Should Sketch Themselves For Code Understanding**](%assets_url%/archive/papers/Schw11bDoodleDebug.pdf)<br>
+[Cedric Reichenbach (Bachelor's Thesis). **DoodleDebug - A shot-gun marriage between System.out.println and object inspectors**](%assets_url%/archive/projects/Reic13a.pdf)<br>
+[Cedric Reichenbach (Master's Thesis). **DoodleDebug, Clustered - Morphing DoodleDebug into a clustered setup using fat clients**](%assets_url%/archive/masters/Reic15a.pdf)
 
 #Source Code
 [DoodleDebug on GitHub](https://github.com/CedricReichenbach/DoodleDebug)<br>

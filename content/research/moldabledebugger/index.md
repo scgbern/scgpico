@@ -15,7 +15,7 @@ All in all, the moldable debugger allows you to:
 #A quick example
 Have you ever had problems with identifying the difference between an expected result and the actual result when an equality assertion failed in a test case? It can be a daunting task especially if you have to compare two long collections or strings.
 
-Letâs look at an example. The code below simulates a problem in a test that compares two seemingly similar collections. As an exercise, execute this in a Moose image and find where the difference comes from in the debugger. Seriously, please give it a try before going on. It only takes a couple of minutes:
+Let's look at an example. The code below simulates a problem in a test that compares two seemingly similar collections. As an exercise, execute this in a Moose image and find where the difference comes from in the debugger. Seriously, please give it a try before going on. It only takes a couple of minutes:
 
 -  Download and run the [latest Moose 5.0 image](http://www.moosetechnology.org/download/5.0)
 -  Open a Workspace and execute the below code.
@@ -43,7 +43,7 @@ Letâs look at an example. The code below simulates a problem in a test that
 Executing the code should raise a debugger like this one:
 ![http://humane-assessment.com/pierfiles/5f/qfwvpy81517touapjhr5hx3ut4yvqq/default-debugger.png](http://humane-assessment.com/pierfiles/5f/qfwvpy81517touapjhr5hx3ut4yvqq/default-debugger.png)
 
-Did you manage to find why the assertion fails? Itâs probably not so easy. If you did manage to find it, did you actually manage both causes? Yes, there are two.
+Did you manage to find why the assertion fails? It's probably not so easy. If you did manage to find it, did you actually manage both causes? Yes, there are two.
 
 The problem is that the debugger does not make it easy for you to spot these differences. It bombards you with information about all sorts of irrelevant variables while all you care about is a simple diff view between the two compared values. This is recurrent problem that  requires dedicated tool support.
 
@@ -51,9 +51,9 @@ To address these kind of problems we worked on the concept of a moldable debugge
 
 How does this work in practice?
 
-Letâs turn to our assertion problem. SUnit is an example of a specific library that has specific needs. In our case, if assert:equals: is present in the debugged stack, we want to show a diff view.
+Let's turn to our assertion problem. SUnit is an example of a specific library that has specific needs. In our case, if assert:equals: is present in the debugged stack, we want to show a diff view.
 
-To see it in action, re-trigger the debugger with the above snippet, then click on the small triangle from on top of the first pane (the actual user interface is going to change in the future, but for now it is enough to show the concept), and then choose â'Available Debuggers/SUnit Debuggerâ. You will get a new debugger like the one below.
+To see it in action, re-trigger the debugger with the above snippet, then click on the small triangle from on top of the first pane (the actual user interface is going to change in the future, but for now it is enough to show the concept), and then choose â'Available Debuggers/SUnit Debugger'. You will get a new debugger like the one below.
 
 ![http://humane-assessment.com/pierfiles/f5/lj4jzvpig6eyjtehm48ekk2t6gpyn9/sunit-debugger.png](http://humane-assessment.com/pierfiles/f5/lj4jzvpig6eyjtehm48ekk2t6gpyn9/sunit-debugger.png)
 

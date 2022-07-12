@@ -3,7 +3,7 @@ Title: Comparison of commenting conventions covered by style guidelines and tool
 ---
 
 #Introduction
-Code comments are written in natural language and their syntax is neither imposed by a programming languageâs grammar nor checked by its compiler. Therefore, writing consistent comments across projects is a major concern. To motivate developers to write consistent and readable comments, various communities provide coding style guidelines, including, amongst others, naming conventions, formatting conventions, and commenting conventions.
+Code comments are written in natural language and their syntax is neither imposed by a programming language's grammar nor checked by its compiler. Therefore, writing consistent comments across projects is a major concern. To motivate developers to write consistent and readable comments, various communities provide coding style guidelines, including, amongst others, naming conventions, formatting conventions, and commenting conventions.
 
 #Problem
  What kinds of commenting conventions these style guidelines provide, is not explored. For example, âwhat information a class comment should containâ Is described differently in different programming language style guidelines. Oracle style guideline for Java mentions that class comments should contain summary, author description Whereas Python style guideline PEP257 mentions that class docstring should list its public methods and instance variables in addition to the summary. 

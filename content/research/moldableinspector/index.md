@@ -51,7 +51,7 @@ number := (($- asParser optional ,
 #Show connected objects
 In regular inspectors, the next objects are shown in either a separate window, or by replacing the existing pane. The Moldable Inspector is based on the Miller columns technique (also seen in Mac OS X Finder) and it shows the next selected objects to the right.
 
-One consequence of this design is that one inspector window holds one drill down session, and the programmer can at any time navigate through the steps to figure out how the current object was reached. Itâs true: the chosen design consumes more space. However, it provides for a fluid interaction and offers complete overview over the session history. This is particularly important when drilling consists of more than five or so steps.
+One consequence of this design is that one inspector window holds one drill down session, and the programmer can at any time navigate through the steps to figure out how the current object was reached. It's true: the chosen design consumes more space. However, it provides for a fluid interaction and offers complete overview over the session history. This is particularly important when drilling consists of more than five or so steps.
 
 But, the surprising feature of showing the connected objects in a finder-like interface is the support for creating simple workflows.
 

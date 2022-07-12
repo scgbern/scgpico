@@ -10,7 +10,8 @@ Die P2-Vorlesung bietet einen Einblick in den Objekt-orientierten Aufbau von Sof
 -  <big style="font-size:xx-large">[http://scglectures.unibe.ch/p2/](http://scglectures.unibe.ch/p2/)</big>
 
 
--  <big style="font-size:xx-large">[p2-beratung@iam.unibe.ch](p2-beratung@iam.unibe.ch)</big>
+-  <big style="font-size:xx-large"><a href="mailto:p2-beratung@iam.unibe.ch">p2-beratung@iam.unibe.ch</a>
+</big>
 
 ## Poolstunde
 

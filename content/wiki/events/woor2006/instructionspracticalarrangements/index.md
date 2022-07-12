@@ -7,7 +7,7 @@ Below find some late-breaking practical arrangements concerning the WOOR'05 Work
 <h2>SCHEDULE</h2>
 
 Below is a flexible schedule we will use for the workshop. The only constraints are that
-  (1) we have two 25 minute presentations where two volunteers (Andy Zaidman and Yann-GaÃ«l Guéhéneuc) will do their best to summarize the position papers;
+  (1) we have two 25 minute presentations where two volunteers (Andy Zaidman and Yann-Gaël Guéhéneuc) will do their best to summarize the position papers;
   (2) we will break up in two subgroups before lunch;
   (3) the lunch and coffe break times as set-up by the larger ECOOP organization
 
@@ -26,19 +26,19 @@ Below is a flexible schedule we will use for the workshop. The only constraints 
         Mining ArgoUML with Dynamic Analysis to Establish a Set of Key Classes for Program Comprehension
         4. Orla Greevy
         Characterizing the Functional Roles of Classes and Methods by Analyzing Feature Traces
-        5. Tewfik Ziadi, Yann-GaÃ«l Guéhéneuc
+        5. Tewfik Ziadi, Yann-Gaël Guéhéneuc
         Automated Reverse-engineering of UML v2.0 Dynamic Models
     10 minutes discussion
 
 <h3>10:30  - 11:00 &mdash; Coffee Break</h3>
 
 <h3>11:00  - 11:35 &mdash; Session 2: DESIGN RECOVERY</h3>
-<h4>    25 minute presentation by Yann-GaÃ«l Guéhéneucc</h4>
+<h4>    25 minute presentation by Yann-Gaël Guéhéneucc</h4>
         6. Danny Dig, Can Comertoglu, Darko Marinov, Ralph Johnson 
         Automatic Detection of Refactorings for Libraries and Frameworks
         7. Carlos LÃ²pez, Yania Crespo, RaÃ¹l Marticorena
         Parallel Inheritance Hierarchy: Detection from a Static View of the System
-        8. Naouel Moha, Yann-GaÃ«l Guéhéneuc
+        8. Naouel Moha, Yann-Gaël Guéhéneuc
         On the Automatic Detection and Correction of Software Architectural Defects in Object-Oriented Designs
         9. Ademar Aguiar, Nuno Flores
         JFREEDOM: a Reverse Engineering Tool to Recover Framework Design

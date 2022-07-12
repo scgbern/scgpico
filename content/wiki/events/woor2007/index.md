@@ -129,11 +129,11 @@ LISTIC
 [http://www.listic.univ-savoie.fr/~ducasse](http://www.listic.univ-savoie.fr/~ducasse)
 Prof. Stéphane Ducasse, from the University of Savoie, is a former member of the Software Composition Group led by Prof. Oscar Nierstrasz at University of Bern (Switzerland).
 
-Yann-GaÃ«l Guéhéneuc
+Yann-Gaël Guéhéneuc
 University of Montreal (Quebec, Canada)
 Department of Informatics and Operations Research
 [http://www.iro.umontreal.ca/~guehene](http://www.iro.umontreal.ca/~guehene)
-Prof. Yann-GaÃ«l Guéhéneuc leads the Ptidej project (in research Group on Open, Distributed Systems, Experimental Software Engineering) developing theories, methods, and tools, to evaluate and to improve the quality of object-oriented programs by promoting the use of idioms, design patterns, and architectural patterns.
+Prof. Yann-Gaël Guéhéneuc leads the Ptidej project (in research Group on Open, Distributed Systems, Experimental Software Engineering) developing theories, methods, and tools, to evaluate and to improve the quality of object-oriented programs by promoting the use of idioms, design patterns, and architectural patterns.
 
 Kim Mens
 Université catholique de Louvain (Belgium)

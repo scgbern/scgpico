@@ -9,6 +9,7 @@
 RSYNC="-avz --delete -e ssh --stats --progress"
 
 CONFIG=/Users/oscar/Documents/Projects/scgpico/PicoConfig
+SCGBIB=/Users/oscar/Documents/Projects/scgbib-NEW
 
 LOCAL=/Users/oscar/Sites/Pico/
 REMOTE=scg@yogi.inf.unibe.ch:/srv/testscg.unibe.ch/pico-release-v2/
@@ -19,8 +20,8 @@ rsync ${RSYNC} ${CONFIG}/config/ ${REMOTE}/config/
 rsync ${RSYNC} ${CONFIG}/themes/scg/ ${LOCAL}/themes/scg/
 rsync ${RSYNC} ${CONFIG}/themes/scg/ ${REMOTE}/themes/scg/
 
-rsync ${RSYNC} ${CONFIG}/scgbib/ ${LOCAL}/assets/scgbib/
-rsync ${RSYNC} ${CONFIG}/scgbib/ ${REMOTE}/assets/scgbib/
+rsync ${RSYNC} ${SCGBIB} ${LOCAL}/assets/scgbib/
+rsync ${RSYNC} ${SCGBIB} ${REMOTE}/assets/scgbib/
 
 rsync ${RSYNC} ${CONFIG}/htaccess ${LOCAL}/.htaccess
 rsync ${RSYNC} ${CONFIG}/htaccess ${REMOTE}/.htaccess

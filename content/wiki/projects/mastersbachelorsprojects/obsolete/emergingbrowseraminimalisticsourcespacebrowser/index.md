@@ -9,4 +9,5 @@ During this project you implement such an emerging browser based on one specific
 The main research question to be answered by this project is whether it is more efficient to navigate a source space basically starting with nothing else than a term describing the feature or area of a system we want to work on, then relying on a browser which takes us by the hand and presents us subsequently with the entities related to each other. This approach of browsing a source space of course has to be compared to the traditional approach where basically everything making up the system, eg. all of its packages, classes, method and all other artifacts, are presented to us.
 This project is very much related to the path in the forest project, the main difference being that here we invent a completely new approach to browse software instead of showing a navigation path in the context of an existing, traditional way of browsing software systems.
 
-Contact: [David Roethlisberger](roethlis@iam.unibe.ch)
+Contact: <a href="mailto:roethlis@iam.unibe.ch">roethlis@iam.unibe.ch</a>
+

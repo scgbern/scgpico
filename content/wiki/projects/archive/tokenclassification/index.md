@@ -27,4 +27,4 @@ beginnings and endings of the basic building blocks of programs.
 #Contact
 
 - [Jan Kurš](%base_url%/staff/kursjan)
-- [JoÃ«l Guggisberg](%base_url%/wiki/alumni/JoelGuggisberg)
+- [Joël Guggisberg](%base_url%/wiki/alumni/JoelGuggisberg)

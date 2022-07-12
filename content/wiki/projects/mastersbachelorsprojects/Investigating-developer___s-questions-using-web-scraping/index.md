@@ -1,5 +1,5 @@
 ---
-Title: Investigating developerâs questions using web scraping
+Title: Investigating developer's questions using web scraping
 ---
 
 #Seminar Project

@@ -15,4 +15,4 @@ Title: MSc registration Spring 2021
 
 -  [Request for Academia access](http://mcs.unibnf.ch/node/535) by **February 28, 2021**
 
-*See also:* [Studentâs ToDo list for every semester](https://mcs.unibnf.ch/organization/)
+*See also:* [Student's ToDo list for every semester](https://mcs.unibnf.ch/organization/)

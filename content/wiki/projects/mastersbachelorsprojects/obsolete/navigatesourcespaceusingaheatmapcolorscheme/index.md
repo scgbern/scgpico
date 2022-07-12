@@ -11,4 +11,5 @@ The contribution of this project is threefold:
 \* Implementing several of the criteria for color mapping mentioned above (techniques to gather the needed data have already being implemented partially)
 \* Experimenting with different criteria and assessing them empiricially by means of user experiments
 
-Contact: [David Roethlisberger](roethlis@iam.unibe.ch)
+Contact: <a href="mailto:roethlis@iam.unibe.ch">roethlis@iam.unibe.ch</a>
+

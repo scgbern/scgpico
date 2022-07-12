@@ -54,7 +54,8 @@ Lego Mindstorms:
 
 ---
 ##Contacts
-[Alexandre Bergel](bergel@iam.unibe.ch)
+<a href="mailto:bergel@iam.unibe.ch">bergel@iam.unibe.ch</a>
+
 
 ---
 ##Acknowledgment

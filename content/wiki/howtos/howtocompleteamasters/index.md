@@ -28,7 +28,8 @@ The final deliverable is the PDF of the thesis, which will be published in the [
 
 You should also provide a printed copy to the [ExWi library](%assets_url%/download/forms/Begleitbrief-englisch.pdf) and you should give your [consent](%assets_url%/download/forms/Declaration_Diss_E-Library_UB.pdf) to publish the electronic version on the University web site.
 
-After the Fall semester 2019, only an electronic copy needs to be delivered to [andrea.perez@natdek.unibe.ch](andrea.perez@natdek.unibe.ch).
+After the Fall semester 2019, only an electronic copy needs to be delivered to <a href="mailto:andrea.perez@natdek.unibe.ch">andrea.perez@natdek.unibe.ch</a>
+.
 
 (Students completing their MSc in Fall 2019 still need to provide the paper copy.)
 

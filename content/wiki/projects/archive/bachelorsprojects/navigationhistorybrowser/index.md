@@ -8,4 +8,5 @@ The whole navigation process developers perform during a coding session is not r
 
 The goal of this project is to first record the navigation history (all windows opened, all entities browsed, modified, removed, all operations performed - this has partly been solved) then second to provide an explicit access to this navigation history by implementing a browser allowing developers to access their own navigation history. They are able to re-open an already opened window, to go back to a previous state, to re-perform previous operations, etc. The navigation history typically has the form of a tree (we often "branch" when browsing software, eg. we open a window, browse in it, do some operations, etc., close it again, continue in another window). Hence this navigation history is not linear, increasing the need to have a good tool exploiting it, eg. making explicit these branches.
 
-Contact: [David Roethlisberger](roethlis@iam.unibe.ch)
+Contact: <a href="mailto:roethlis@iam.unibe.ch">roethlis@iam.unibe.ch</a>
+

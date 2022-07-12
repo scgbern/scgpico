@@ -17,7 +17,7 @@ Accepted position papers follow in random order with attending participants in b
 -  (![WOOR2006 Paper 3](%assets_url%/files/5a/t9yc7qpzm25mo1gf85jryltrqgrae5/WOOR2006 Paper 3)) Program Comprehension and Design Pattern Detection: An Experience Report by <b>Claudia Raibulet</b> and <b>Francesca Arcelli</b>.
 -  (![WOOR2006 Paper 4](%assets_url%/files/4c/5k9twaxnemkejg17f4foc3b7oah7lk/WOOR2006 Paper 4)) Extending a Taxonomy of Bad Code Smells with Metrics by <b>RaÃºl Marticorena</b>, <b>Carlos LÃ³pez</b>, and Yania Crespo.
 -  (![WOOR2006 Paper 5](%assets_url%/files/1d/ag0y5l6iq1r8kc2jo6q42vidinfm9w/WOOR2006 Paper 5)) Difference Visualization: Impact Interaction between Code and Model by <b>Susanne Jucknath-John</b> and Sebastian Doltze. 
--  (![WOOR2006 Paper 6](%assets_url%/files/0d/jdpg77fo45s9mpcz79oy56s9czlrjj/WOOR2006 Paper 6)) Correction of High-Level Design Defects with Refactorings by <b>Naouel Moha</b>, Saliha Bouden, and <b>Yann-GaÃ«l Guéhéneuc</b>.
+-  (![WOOR2006 Paper 6](%assets_url%/files/0d/jdpg77fo45s9mpcz79oy56s9czlrjj/WOOR2006 Paper 6)) Correction of High-Level Design Defects with Refactorings by <b>Naouel Moha</b>, Saliha Bouden, and <b>Yann-Gaël Guéhéneuc</b>.
 -  (![WOOR2006 Paper 7](%assets_url%/files/0d/dutkw8jbog10dsu16cyfafh4cvldh7/WOOR2006 Paper 7)) Refactoring of Assertions in Design by Contract by <b>Daniel Rodriguez</b>, Manonjaran Satpathy, Josep Covas, and Juan-Jose Cuadrado.
 
 Other participants:
@@ -55,9 +55,9 @@ Specifically, the schedule so far is planned as:
 
 -  11:00- 11:45 &mdash; Session 2: Using refactorings
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Presentation of papers 4, 6, and 7
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- RaÃºl or Carlos will present Naouel, Saliha, and Yann-GaÃ«l's paper entitled "Correction of High-Level Design Defects with Refactorings"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- RaÃºl or Carlos will present Naouel, Saliha, and Yann-Gaël's paper entitled "Correction of High-Level Design Defects with Refactorings"
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Naouel or Yann-GaÃ«l will present Daniel, Manonjaran, Josep, and Juan-Jose's paper entitled "Refactoring of Assertions in Design by Contract"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Naouel or Yann-Gaël will present Daniel, Manonjaran, Josep, and Juan-Jose's paper entitled "Refactoring of Assertions in Design by Contract"
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Daniel will present RaÃºl, LÃ³pez, and Yania's paper entitled "Extending a Taxonomy of Bad Code Smells with Metrics"
 
@@ -105,7 +105,9 @@ Workshop date: <b>4th of July 2006</b>.
 In previous years, participants to the workshop have been actively contributing to the state-of-the-art on reengineering of object-oriented systems. In particular, they developed a taxonomy to classify design recovery tools, at the heart of any reengineering effort. Recognising the importance of this endeavour and the need for the community's feedback and support, the workshop expects two forms of contributions:
 
 
--  The first form of contributions targets design recovery tool builders and users. It consists in filling out the questionnaire (soon) available at this [Form](%base_url%/wiki/events/woor2006/form) and submitting it along with a short text detailing the rationale for the choice of the tools. This information, in addition to the discussions during the workshop, will help building a map of the design recovery tools out there. <b>If you are interested in this form of contribution or have any question, please contact either Yann-GaÃ«l Guéhéneuc ([guehene@iro.umontreal.ca](guehene@iro.umontreal.ca)) or Roel Wuyts ([roel.wuyts@ulb.ac.be](roel.wuyts@ulb.ac.be)).</b> (The questionnaire will be soon available at [http://smallwiki.unibe.ch/woor/questionnaire/](http://smallwiki.unibe.ch/woor/questionnaire/).)
+-  The first form of contributions targets design recovery tool builders and users. It consists in filling out the questionnaire (soon) available at this [Form](%base_url%/wiki/events/woor2006/form) and submitting it along with a short text detailing the rationale for the choice of the tools. This information, in addition to the discussions during the workshop, will help building a map of the design recovery tools out there. <b>If you are interested in this form of contribution or have any question, please contact either Yann-Gaël Guéhéneuc (<a href="mailto:guehene@iro.umontreal.ca">guehene@iro.umontreal.ca</a>
+) or Roel Wuyts (<a href="mailto:roel.wuyts@ulb.ac.be">roel.wuyts@ulb.ac.be</a>
+).</b> (The questionnaire will be soon available at [http://smallwiki.unibe.ch/woor/questionnaire/](http://smallwiki.unibe.ch/woor/questionnaire/).)
 -  The second form of contributions targets researchers and industrials active in reengineering. We explicitly solicit experience reports from the software industry as well as contributions from researchers, tool producers, and methodology providers. Areas of interests include, but are not limited to:
 
 -  Experiences on re-engineering large object-oriented systems
@@ -145,7 +147,9 @@ If you submit a contribution of the second form (i.e., an industrial or academic
 -  BE STANDARD. There exists a lot of work on re-engineering, which may give rise to some terminology conflicts. We encourage people to use the re-engineering taxonomy defined in Reverse Engineering and Design Recovery: A Taxonomy by E.J. Chikofsky and J.H. Cross II - IEEE Software, January 1990. Check [http://www.tcse.org/revengr/taxonomy.html](http://www.tcse.org/revengr/taxonomy.html) for an online summary.
 
 
--  BE ELECTRONIC. Submit your position paper in HTML, PostScript, or PDF (preferred), so that we can collect all of the submissions on the web-site. A separate abstract including the e-mail addresses of the authors and a URL to their home pages MUST be submitted in HTML. Submit everything by e-mail to both of the two following e-mail addresses [guehene@iro.umontreal.ca](guehene@iro.umontreal.ca) and [roel.wuyts@ulb.ac.be](roel.wuyts@ulb.ac.be).
+-  BE ELECTRONIC. Submit your position paper in HTML, PostScript, or PDF (preferred), so that we can collect all of the submissions on the web-site. A separate abstract including the e-mail addresses of the authors and a URL to their home pages MUST be submitted in HTML. Submit everything by e-mail to both of the two following e-mail addresses <a href="mailto:guehene@iro.umontreal.ca">guehene@iro.umontreal.ca</a>
+ and <a href="mailto:roel.wuyts@ulb.ac.be">roel.wuyts@ulb.ac.be</a>
+.
 
 
 -  BE SHORT. Propose only one idea. We all know that you are a quality researcher with plenty of good ideas. Only, we have limited resources and we must focus. Please keep all position papers under five pages. Perhaps a workshop reader will be organized again this year.
@@ -173,11 +177,11 @@ LISTIC
 Prof. Stéphane Ducasse, from the University of Savoie, is a former member of the Software Composition Group led by Prof. Oscar Nierstrasz at University of Bern (Switzerland).
 
 
--  Yann-GaÃ«l Guéhéneuc
+-  Yann-Gaël Guéhéneuc
 University of Montreal (Quebec, Canada)
 Department of Informatics and Operations Research
 [http://www.iro.umontreal.ca/~guehene](http://www.iro.umontreal.ca/~guehene)
-Prof. Yann-GaÃ«l Guéhéneuc leads the Ptidej project (in research Group on Open, Distributed Systems, Experimental Software Engineering) developing theories, methods, and tools, to evaluate and to improve the quality of object-oriented programs by promoting the use of idioms, design patterns, and architectural patterns.
+Prof. Yann-Gaël Guéhéneuc leads the Ptidej project (in research Group on Open, Distributed Systems, Experimental Software Engineering) developing theories, methods, and tools, to evaluate and to improve the quality of object-oriented programs by promoting the use of idioms, design patterns, and architectural patterns.
 
 
 -  Kim Mens

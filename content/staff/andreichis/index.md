@@ -10,7 +10,7 @@ I am a PhD Candidate at the University of Bern in the Software Composition Group
 
 #Research Interests
 <div>
-I maintain that integrated development environments (IDEs) have to be moldable, that is, they have to be aware of the application under development and the developerâs tasks and enable rapid and effective customization to new applications and development tasks. In my current research I build new solutions that make this vision possible. At the moment, as part of the [Glamorous Toolkit](http://gt.moosetechnology.org/) team, I am working on:
+I maintain that integrated development environments (IDEs) have to be moldable, that is, they have to be aware of the application under development and the developer's tasks and enable rapid and effective customization to new applications and development tasks. In my current research I build new solutions that make this vision possible. At the moment, as part of the [Glamorous Toolkit](http://gt.moosetechnology.org/) team, I am working on:
 </div>
 
 -  [Moldable Debugger](http://scg.unibe.ch/research/moldabledebugger): make the creation of domain-specific debuggers an easy and cheap activity;
@@ -40,7 +40,7 @@ Apart from this my research interests lie in the areas of:
 
 #Talks and tutorials
 
--  *GTâs Moldable Tools* at  [Pharo Days 2016](http://pharodays2016.pharo.org) &mdash; Namur, Belgium, March 31 - April 1, 2016
+-  *GT's Moldable Tools* at  [Pharo Days 2016](http://pharodays2016.pharo.org) &mdash; Namur, Belgium, March 31 - April 1, 2016
 
 
 -  *[The Glamorous Toolkit for Pharo](http://www.esug.org/wiki/pier/Conferences/2015/Conference-Schedule)* by Andrei Chis and Aliaksei Syrel at [ESUG](http://www.esug.org/wiki/pier/Conferences/2015/) &mdash; Brescia, Italy, July 13-17, 2015
@@ -85,7 +85,8 @@ I co-reviewed for the following conferences/workshops:
 
 |**Phone(Office):**|\+41 31 511 7643 |**Office number:**|206
 |---|---|---|---
-|**Email:**|[andrei@inf.unibe.ch](andrei@inf.unibe.ch)|**Webpage:**|[andreichis.com](http://www.andreichis.com)
+|**Email:**|<a href="mailto:andrei@inf.unibe.ch">andrei@inf.unibe.ch</a>
+|**Webpage:**|[andreichis.com](http://www.andreichis.com)
 
 [![http://scg.unibe.ch/download/andrei/Wordpress_s.png](http://scg.unibe.ch/download/andrei/Wordpress_s.png)](https://chisvasileandrei.wordpress.com)
 [![http://scg.unibe.ch/download/andrei/Twitter_s.png](http://scg.unibe.ch/download/andrei/Twitter_s.png)](https://twitter.com/Chis_Andrei) 

@@ -30,7 +30,10 @@ The model is implemented and fully usable. A browser has been designed that allo
 
 #Contact
 
-- [Alexandre Bergel](bergel@iam.unibe.ch) 
-- [St&eacute;phane Ducasse](ducasse@iam.unibe.ch)
-- [Roel Wuyts](Roel.Wuyts@ulb.ac.be)
+- <a href="mailto:bergel@iam.unibe.ch">bergel@iam.unibe.ch</a>
+ 
+- <a href="mailto:ducasse@iam.unibe.ch">ducasse@iam.unibe.ch</a>
+
+- <a href="mailto:Roel.Wuyts@ulb.ac.be">Roel.Wuyts@ulb.ac.be</a>
+
 - [Oscar Nierstrasz](http://www.iam.unibe.ch/~oscar/)

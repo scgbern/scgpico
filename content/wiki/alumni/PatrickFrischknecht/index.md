@@ -8,4 +8,5 @@ A typical security tip to protect the users from phishing is to check the URL, e
 
 The goal of the master thesis is to study the prevalence of phishing attacks with look-alike domains and how companies protect their domains and more generally their brands from such attacks.
 
-Contact: [patrick.frischknecht@students.unibe.ch](patrick.frischknecht@students.unibe.ch)
+Contact: <a href="mailto:patrick.frischknecht@students.unibe.ch">patrick.frischknecht@students.unibe.ch</a>
+

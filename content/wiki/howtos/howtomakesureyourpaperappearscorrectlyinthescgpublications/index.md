@@ -10,7 +10,7 @@ title{Correlating Features and Code \\ Using A Compact Two-Sided Trace Analysis 
 In certain styles you cannot include the citation in the title. In this case put it in the abstract.
 
 
--  Copy the PDF file to [/archive/papers](/archive/papers)
+-  Copy the PDF file to [/archive/papers](%assets_url%/archive/papers)
 	-  The name of the PDF should start with the citation key, for example, if the key is Gree05a, then the PDF might be called Gree05aCSMR2005Features.pdf
 
 

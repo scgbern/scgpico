@@ -8,7 +8,7 @@ There is a nice paper called [âWhat Makes a Good Bug Report?â](http://
 
 In other words, bug reporters often miss very valuable information about the bugs in their reports. That leads to delayed fixes.
 
-The idea is to develop a tool that takes a bug report, analyzes it, and ranks it on a scale from 1 to 5. Also the tool should give suggestions to the reporter about whatâs missing in the bug report to improve the quality and, consequently, the likelihood of getting the bug fixed sooner.
+The idea is to develop a tool that takes a bug report, analyzes it, and ranks it on a scale from 1 to 5. Also the tool should give suggestions to the reporter about what's missing in the bug report to improve the quality and, consequently, the likelihood of getting the bug fixed sooner.
 
 #Implementation Roadmap:
 

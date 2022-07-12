@@ -62,4 +62,5 @@ Auf der Kommandozeile
 ``` svn help
 ```
 
-Oder mail an [p2-beratung@iam.unibe.ch](p2-beratung@iam.unibe.ch)
+Oder mail an <a href="mailto:p2-beratung@iam.unibe.ch">p2-beratung@iam.unibe.ch</a>
+

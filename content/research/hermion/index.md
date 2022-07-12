@@ -32,5 +32,6 @@ This will load the latest version considered as being stable while from the Mont
 
 #Contact 
 
-- Main Contact: [David Röthlisberger](roethlis@iam.unibe.ch)
+- Main Contact: <a href="mailto:roethlis@iam.unibe.ch">roethlis@iam.unibe.ch</a>
+
 - Mailing list:  [Google Group](http://groups.google.com/group/omnibrowser-dev?hl=en) (OmniBrowser Development)

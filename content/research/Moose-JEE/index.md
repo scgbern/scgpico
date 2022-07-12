@@ -72,4 +72,5 @@ Choose below among the supported downloads:
 #Contact
 
 
-- Main Contact: Fabrizio Perin [mail](perin@iam.unibe.ch) [web page](http://scg.unibe.ch/staff/fabrizioperin)
+- Main Contact: Fabrizio Perin <a href="mailto:perin@iam.unibe.ch">perin@iam.unibe.ch</a>
+ [web page](http://scg.unibe.ch/staff/fabrizioperin)

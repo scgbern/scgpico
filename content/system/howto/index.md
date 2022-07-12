@@ -8,7 +8,7 @@ Please use lowercase characters to name pages and files. This is what you get as
 #Uploads
 
 -  Embedded files such as images are uploaded through Pier. Add a new structure of type File and upload the file through the web-browser.
--  PDF documents should go to the archive folder on haddock.unibe.ch:/srv/scg.unibe.ch/web/archive, refer to them using an URL like [/archive](/archive).
+-  PDF documents should go to the archive folder on haddock.unibe.ch:/srv/scg.unibe.ch/web/archive, refer to them using an URL like [/archive](%assets_url%/archive).
 -  Downloads should go to the download folder on haddock.unibe.ch:/srv/scg.unibe.ch/web/download, refer to them using an URL like [/download](%assets_url%/download).
 
 #News

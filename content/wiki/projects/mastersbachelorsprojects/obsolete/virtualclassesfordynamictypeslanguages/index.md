@@ -6,4 +6,5 @@ The goal of this project is to implement a virtual classes mechanism in Squeak a
 
 More on virtual classes: [Beta](http://www.daimi.au.dk/~beta/), [CeasarJ](http://www.caesarj.org/), [Objectteams](http://www.objectteams.org/index.html)
 
-Contact: [Alexandre Bergel](bergel@iam.unibe.ch)
+Contact: <a href="mailto:bergel@iam.unibe.ch">bergel@iam.unibe.ch</a>
+

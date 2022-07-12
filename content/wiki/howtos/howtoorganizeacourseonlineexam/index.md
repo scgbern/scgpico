@@ -64,7 +64,7 @@ Students should set up their zoom account using @students.unibe email address
 
 -  Setup multiple desktops before the exam to hold the different zoom calls. Start the zoom call half an hour before. This would give you enough time to verify each student waiting to join the call (in the zoom waiting room) from the KSL registration lists. 
 -  For two call groups, you should at least have two people responsible for the call and two assistants available for the verification of the submissions parallelly.
--  Do not block any studentâs request by mistake as once you block the student, you can not add them back until you organise a new call.
+-  Do not block any student's request by mistake as once you block the student, you can not add them back until you organise a new call.
 -  Before accepting a student in the call we should check that if he/she is registered for the exam on KLS. After accepting them in the call, make sure their camera is located in the mentioned position.
 -  Once verified all the students, share the presentation screen where they are provided with all session details. Describe the sub-sessions.
 -  Send the questions pdf via zoom chat, and start the timer for the first sub-session ( questions clarification)  of the first session. The students can print the exam during this session and should ask the questions via zoom chat. Once this sub-session is over, start the next sub-session â answering the questions". Monitor students closely during this session. Inform the student for any suspicious activity.
@@ -80,7 +80,8 @@ Students should set up their zoom account using @students.unibe email address
 
 ##Notes
 
--  Know the support emails/contact numbers of various online services (zoom) and university support ([pruefungen@lehre.unibe.ch](pruefungen@lehre.unibe.ch)).
+-  Know the support emails/contact numbers of various online services (zoom) and university support (<a href="mailto:pruefungen@lehre.unibe.ch">pruefungen@lehre.unibe.ch</a>
+).
 -  Ask students to use their unibe email account address to send any exam related documents.
 -  Make sure the limit of email attachments.
 -  Get the recent self-declaration form.

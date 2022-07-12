@@ -7,4 +7,5 @@ Title: Bettina Choffat
 -  Fax
 -  \+41 31 631 3355 (fax)
 -  Email
--  [choffat@inf.unibe.ch](choffat@inf.unibe.ch)
+-  <a href="mailto:choffat@inf.unibe.ch">choffat@inf.unibe.ch</a>
+

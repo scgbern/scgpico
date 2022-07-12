@@ -2,7 +2,7 @@
 Title: CollaborationExplorer
 ---
 
-Collaboration networks express how collaborators participate in common projects. Groups of collaborators may work together on a number of different projects, within a particular community. Understanding which groups have been active in the past, which are currently active in a community, and which are relevant for oneâs own work can be challenging. Although graph- based visualization of collaboration networks can provide insights into groups, the evolution of activity, and impact in the community, they suffer from edge cluttering. We address this issue by modelling collaboration networks as a bigraph that reduces overlapping edges, and provides users with an identifiable representation of projects. The following figure compares a small network modelled as a graph (left) and a bigraph (right). 
+Collaboration networks express how collaborators participate in common projects. Groups of collaborators may work together on a number of different projects, within a particular community. Understanding which groups have been active in the past, which are currently active in a community, and which are relevant for one's own work can be challenging. Although graph- based visualization of collaboration networks can provide insights into groups, the evolution of activity, and impact in the community, they suffer from edge cluttering. We address this issue by modelling collaboration networks as a bigraph that reduces overlapping edges, and provides users with an identifiable representation of projects. The following figure compares a small network modelled as a graph (left) and a bigraph (right). 
 
 
 |![Bi-graph](%assets_url%/files/7f/bp9wnd7d86cjeoi9n3i6hcu0zki5vj/bigraph.png)

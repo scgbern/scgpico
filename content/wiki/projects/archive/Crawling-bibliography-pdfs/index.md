@@ -4,7 +4,7 @@ Title: Bibliography PDF crawler
 
 The Software Composition Group maintains a BibTeX (http://www.bibtex.org/) 
 bibliography file containing references to relevant work throughout the group, 
-including references used in Bachelorâs, Masterâs, PhD theses, and research 
+including references used in Bachelor's, Master's, PhD theses, and research 
 papers.
 
 BibTeX entries may contain a wide range of fields, some of which can help 

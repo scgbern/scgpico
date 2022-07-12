@@ -8,7 +8,8 @@ Unlike mixins and multiple inheritance, Traits do not employ inheritance as the 
 
 We have implemented Traits in [Squeak](http://www.squeak.org), an open-source Smalltalk-80 dialect. In the meantime, Traits have had a significant practical impact and have been [ported to various other languages](%base_url%/research/traits).
 
-A mailing list is available for discussion and questions [traits@iam.unibe.ch](traits@iam.unibe.ch), but you need to [register](https://www.iam.unibe.ch/mailman/listinfo/traits) first. 
+A mailing list is available for discussion and questions <a href="mailto:traits@iam.unibe.ch">traits@iam.unibe.ch</a>
+, but you need to [register](https://www.iam.unibe.ch/mailman/listinfo/traits) first. 
 
 #Selected Publications
 

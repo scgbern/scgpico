@@ -39,7 +39,7 @@ Participants are required to bring their smart phone/tablet and headphones for s
 - Energy in Presentations
 - Ways to begin & end dynamically
 - Presenting Data
-- Doâs & Don'ts
+- Do's & Don'ts
 *15.15. Coffee Break.*
 
 15:30 - 17:00
@@ -54,7 +54,8 @@ Participants are required to bring their smart phone/tablet and headphones for s
 ##Notes. 
 
 - Students need to come with laptops (and headphones) and have ready material regarding their research for giving a short talk (3 mins. / 3-4 slides) at the beginning of the day.
-- Let me know in advance ([merino@inf.unibe.ch](merino@inf.unibe.ch) **before 1st Nov.**) if you prefer to have a printed version of the slides used in the seminar, otherwise you will receive a digital version of them. 
+- Let me know in advance (<a href="mailto:merino@inf.unibe.ch">merino@inf.unibe.ch</a>
+ **before 1st Nov.**) if you prefer to have a printed version of the slides used in the seminar, otherwise you will receive a digital version of them. 
 
 #When?
 Thursday, 19 of November 2015

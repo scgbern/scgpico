@@ -67,7 +67,7 @@ Diving in a sender reveals the senders and implementors. Thus, this simple inter
 
 ![http://humane-assessment.com/pierfiles/d3/ip0cr4lel83giguvrl5sda56da7qx1/gtspotter-dive-class-method-sender.png](http://humane-assessment.com/pierfiles/d3/ip0cr4lel83giguvrl5sda56da7qx1/gtspotter-dive-class-method-sender.png)
 
-But, Spotter is about objects, not about code. To exemplify the implication of this, letâs consider the typical use case of looking for a file somewhere in the directory structure inside the current directory. In the below picture, the main Spotter finds a directory.
+But, Spotter is about objects, not about code. To exemplify the implication of this, let's consider the typical use case of looking for a file somewhere in the directory structure inside the current directory. In the below picture, the main Spotter finds a directory.
 
 ![http://humane-assessment.com/pierfiles/3e/i0cn3jd9fl5w9olsenwnl4iqzbn5qs/gtspotter-folder.png](http://humane-assessment.com/pierfiles/3e/i0cn3jd9fl5w9olsenwnl4iqzbn5qs/gtspotter-folder.png)
 

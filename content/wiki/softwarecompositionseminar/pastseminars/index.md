@@ -89,11 +89,11 @@ Normally, the seminar takes place on Mondays at 14.00 in the afternoon in our se
 -  Mar 12 &mdash; [Nitish Patkar](%base_url%/staff/NitishPatkar) &mdash; [Towards a Catalogue of Mobile Ruquirements Elicitation Techniques](%assets_url%/download/softwarecomposition/2019-03-12-NitshPatkar-TowardsACatalogueOfMobileRequirementsElicitation.pdf)
 -  Feb 26 &mdash; [Artthik Sellathurai](%base_url%/wiki/students/Artthik) &mdash; [Visual scenario builder in Pharo](%assets_url%/download/softwarecomposition/2019-02-26-Artthik-Visual-scenario-builde-in-Pharo.pdf) (Bachelors first presentation)
 -  Feb 19 &mdash; [MSc seminar topic](%base_url%/wiki/projects/mastersbachelorsprojects) presentations and obligatory quiz.
--  Feb 12 &mdash; [Jonas Richner](%base_url%/wiki/alumni/JonasRichner) &mdash; [Software Developersâ Information Needs](%assets_url%/download/softwarecomposition/2019-02-12-Richner-DeveloperNeeds.pdf) (Bachelors final presentation)
+-  Feb 12 &mdash; [Jonas Richner](%base_url%/wiki/alumni/JonasRichner) &mdash; [Software Developers' Information Needs](%assets_url%/download/softwarecomposition/2019-02-12-Richner-DeveloperNeeds.pdf) (Bachelors final presentation)
 -  Feb 5 &mdash; [Manuela Eschler](%base_url%/wiki/alumni/ManuelaEschler) &mdash; [Search interface implementation for a Learning Management System](%assets_url%/download/softwarecomposition/2019-02-05-Eschler-SearchInterface.pdf) (Bachelors final presentation)
 -  Jan 29 &mdash; [Mario Hess](%base_url%/wiki/alumni/MarioHess) &mdash; [PerfVis: Visualization in Immersive Augmented Reality for Software Performance - A User Study](%assets_url%/download/softwarecomposition/2019-01-29-Hess-PerfVis.pdf) (Bachelors, final presentation)
 -  Jan 15 &mdash; [Dominik Briner](http://scg.unibe.ch/wiki/students/DominikBriner) &mdash; [Mobile Security Support for Android Developers](%assets_url%/download/softwarecomposition/2019-01-15-Briner-MobileSecuritySupportForAndroidDevelopers.pdf) (Bachelors)
--  Jan 8 &mdash; Mathias Birrer &mdash; [Investigating developerâs questions using web scraping (Seminar)](%assets_url%/download/softwarecomposition/2019-01-08-Mathias-Investigating_developers_questions_using_web scraping.pdf)
+-  Jan 8 &mdash; Mathias Birrer &mdash; [Investigating developer's questions using web scraping (Seminar)](%assets_url%/download/softwarecomposition/2019-01-08-Mathias-Investigating_developers_questions_using_web scraping.pdf)
 
 ##2018
 
@@ -297,7 +297,7 @@ Normally, the seminar takes place on Mondays at 14.00 in the afternoon in our se
 -  Mar 3 - [Michael Rüfenacht](%base_url%/wiki/alumni/MichaelRuefenacht) &mdash; [Error Recovery in PEGs](%assets_url%/download/softwarecomposition/2015-03-03-Ruefenacht-PEGS-Error-Recovery.pdf) (MSc)
 -  Feb 24 - Alejandro Infante - [Identifying Shareable Objects](%assets_url%/download/softwarecomposition/2015-03-24-Infante-ShareableObjects.pdf) (Guest)
 -  Feb 17 - Introduction to available seminar projects
--  Feb 03 - [JoÃ«l Guggisberg](%base_url%/wiki/alumni/JoelGuggisberg)  - [Token Classification](%assets_url%/download/softwarecomposition/2015-02-03-Guggisberg-TokenClassification.pdf) (Bachelors)
+-  Feb 03 - [Joël Guggisberg](%base_url%/wiki/alumni/JoelGuggisberg)  - [Token Classification](%assets_url%/download/softwarecomposition/2015-02-03-Guggisberg-TokenClassification.pdf) (Bachelors)
 -  Jan 27  - [Bledar Aga](%base_url%/wiki/alumni/bledaraga) - [Marea &mdash; A Tool for Breaking Dependency Cycles Between Packages](%assets_url%/download/softwarecomposition/2015-01-27-Aga-Marea.pdf) (MSc)
 -  Jan 20  - [Rathesan (Radi) Iyadurai](%base_url%/wiki/alumni/RadiIyadurai) - [Parsing Ruby](%assets_url%/download/softwarecomposition/2015-01-20-Iyadurai-ParsingRuby.pdf)
 -  Jan  6

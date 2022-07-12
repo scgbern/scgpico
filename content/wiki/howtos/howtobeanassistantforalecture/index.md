@@ -20,7 +20,9 @@ Title: How to be an assistant for a lecture
 	-  Find the Hilfsassistants
 		-  Ask Hilfsassistants of the previous years
 		-  Ask the students of the previous years
-		-  Send a mail to [iam-all@iam.unibe.ch](iam-all@iam.unibe.ch) and [exwi-all@iam.unibe.ch](exwi-all@iam.unibe.ch)
+		-  Send a mail to <a href="mailto:iam-all@iam.unibe.ch">iam-all@iam.unibe.ch</a>
+ and <a href="mailto:exwi-all@iam.unibe.ch">exwi-all@iam.unibe.ch</a>
+
 
 	-  Ask Iris to coordinate the employment
 	-  Go to [Bettina Choffat](http://www.iam.unibe.ch/til/staff/choffat), she is responsible for the employment of hilfsassistants for bachelor courses, or to [Iris Keller](http://scg.unibe.ch/staff/iriskeller) for master courses

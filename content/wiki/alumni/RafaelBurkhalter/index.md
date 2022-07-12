@@ -7,4 +7,5 @@ The thesis also contains different variants of how to mitigate attack vectors wh
 
 Supervisors: Dr. Mohammad Ghafari, Prof. Dr. Oscar Nierstrasz
 
-Contact E-Mail: [rafael.burkhalter@students.unibe.ch](rafael.burkhalter@students.unibe.ch)
+Contact E-Mail: <a href="mailto:rafael.burkhalter@students.unibe.ch">rafael.burkhalter@students.unibe.ch</a>
+

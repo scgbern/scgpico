@@ -8,4 +8,5 @@ The different high-level views are based on schemas and patterns identified in t
 
 The goal of this master project is a framework of (semi) automatic interpretation of data extracted from lattices to increment our catalog of schemas or patterns.
 
-Contact [Gabriela Arevalo](arevalo@iam.unibe.ch)
+Contact <a href="mailto:arevalo@iam.unibe.ch">arevalo@iam.unibe.ch</a>
+

@@ -49,7 +49,8 @@ There is the PyPy mailinglist,
 
 
 -  [Subscription page](http://codespeak.net/mailman/listinfo/pypy-dev)
--  [pypy-dev@codespeak.net](pypy-dev@codespeak.net) 
+-  <a href="mailto:pypy-dev@codespeak.net">pypy-dev@codespeak.net</a>
+ 
 
 and the PyPy channel on freenode.
 

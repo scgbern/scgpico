@@ -12,4 +12,5 @@ The base functionality of ServeUnit would be to
 -  runs all existing tests
 -  display them using Seaside
 
-contact [Markus Gaelli](gaelli@iam.unibe.ch)
+contact <a href="mailto:gaelli@iam.unibe.ch">gaelli@iam.unibe.ch</a>
+

@@ -3,7 +3,7 @@ Title: Derive the contextual information from developer's questions
 ---
 
 #Introduction
-Itâs natural for developers to ask questions about software systems when they perform various tasks like refactoring, searching, developing a new feature and understanding the source code.  Common questions are asked regarding classes, functions, and project structure etc. Understanding a question fully can be very useful to derive the answer.
+It's natural for developers to ask questions about software systems when they perform various tasks like refactoring, searching, developing a new feature and understanding the source code.  Common questions are asked regarding classes, functions, and project structure etc. Understanding a question fully can be very useful to derive the answer.
 
 For example:
 Question: What are the deprecated classes?

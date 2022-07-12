@@ -14,6 +14,7 @@ cd to the pico download and evaluate the following to link to the scgpico files.
 	rm -rf assets
 	mkdir assets
 	cd assets
+	ln -s /Users/oscar/Mirrors/home/scg/scg.unibe.ch/web/archive .
 	ln -s /Users/oscar/Mirrors/home/scg/scg.unibe.ch/web/download .
 	ln -s /Users/oscar/Mirrors/home/scg/scg.unibe.ch/web/files .
 

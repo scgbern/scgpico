@@ -9,7 +9,7 @@ Title: The Large Word Collider
 #Context
 [zeeguu](https://www.zeeguu.org) aims at completely revolutionizing the way a user acquires the vocabulary of a new language. 
 
-Zeeguu keeps track of all the words a user is learning in an online profile and provides an API for accessing it. Since the transfer to long term memory of a new word is only achieved after seven or more repetitions, this project aims at increasing the userâs exposure to the new words he is learning, while browsing the web. 
+Zeeguu keeps track of all the words a user is learning in an online profile and provides an API for accessing it. Since the transfer to long term memory of a new word is only achieved after seven or more repetitions, this project aims at increasing the user's exposure to the new words he is learning, while browsing the web. 
 
 #Goal
 The goal of The Large Word Collider project is to design and build a browser extension which will provide for the user an increased exposure to the words that he is learning. Some ways in which you could do this are: 

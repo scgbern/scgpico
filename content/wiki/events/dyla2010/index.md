@@ -61,7 +61,7 @@ The program will be split over 3 different sessions and 6 presentations:
 	- Rocky Bernstein. **Debuggers in Dynamic Languages**. [PDF](http://bergel.eu/download/Dyla2010/dyla10_submission_1.pdf)
 
 - *Languages* (14:30 - 16:00)
-	- MichaÃ«l Hoste and Tom Mens. **Visual Scripting Language**. [PDF](http://bergel.eu/download/Dyla2010/dyla10_submission_6.pdf)
+	- Michaël Hoste and Tom Mens. **Visual Scripting Language**. [PDF](http://bergel.eu/download/Dyla2010/dyla10_submission_6.pdf)
 	- Lukas Renggli, Stéphane Ducasse, Tudor Gîrba and Oscar Nierstrasz. **Practical Dynamic Grammars for Dynamic Languages**. [PDF](http://bergel.eu/download/Dyla2010/dyla10_submission_4.pdf)
 
 - *Discussion/Coding session* (16:30 - 18:00)
@@ -103,7 +103,8 @@ above, this should foster participation from all targeted communities.
 # Organizers
 
 - [Alexandre Bergel](http://bergel.eu), University of Chile, Santiago, Chile
-- [Carl Friedrich Bolz](cfbolz@gmx.de), Heinrich-Heine-Universität, Düsseldorf, Germany
+- <a href="mailto:cfbolz@gmx.de">cfbolz@gmx.de</a>
+, Heinrich-Heine-Universität, Düsseldorf, Germany
 - [Simon Denier](http://www.simondenier.eu), RMoD Research group, INRIA Lille-Nord Europe, France
 - [Michael Haupt](http://www.hpi.uni-potsdam.de/hirschfeld/people/haupt/), Hasso-Plattner-Institut, Potsdam, Germany
 - [Adrian Kuhn](http://scg.unibe.ch/staff/adriankuhn), University of Bern, Switzerland
