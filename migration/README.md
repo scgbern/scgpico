@@ -37,7 +37,7 @@ NB: to keep the implementation is compact as possible, no new methods or class e
 		* PRComponent (46) -- each of these is bound to a particular class
 			- See: PM new componentTypeDict
 			- The important ones are CPAuthorPage, CPFixedQuery and CPQueryBox
-			- Also 
+			- See PM new componentLinkDict to see which are linked to
 	- TO IGNORE
 		- CPWhatsNew (1) -- tracks updates to scgbib and generates a blog entry
 		- PBBlog (1) -- the News blog; to be exported
