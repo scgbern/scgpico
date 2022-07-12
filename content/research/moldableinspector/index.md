@@ -110,7 +110,7 @@ Constructing and previewing queries over relational databases is typically done 
 |[Tudor GÃ®rba](http://tudorgirba.com)|
 
 #Publications
-![Fixed Query](%base_url%/scgbib/fixedquery)
+[Fixed Query](%assets_url%/scgbib/?query=*)
 
 #Blog posts
 

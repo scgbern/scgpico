@@ -23,7 +23,7 @@ NB: to keep the implementation is compact as possible, no new methods or class e
 ---
 # To do
 
-* Handle fixed queries
+* Bug in scgbib -- no results are shown from 2022
 
 * Fix notExportedPages query to consider the PRComponent pages handled
 	- Check is CPBibFile is handled -- same as CPQueryBox page???
@@ -61,6 +61,8 @@ NB: to keep the implementation is compact as possible, no new methods or class e
 			PM new valueLinkDict
 		- SCGExternalLink (135) -- done link to download folder
 
+* What to do about composite scgbib queries? eg Publications scg-bp|scg-ip
+
 * Fix sidebar to shift to bottom on small devices
 	- see example in main css style
 
@@ -93,6 +95,9 @@ NB: to keep the implementation is compact as possible, no new methods or class e
 
 ---
 ## DONE
+
+- Handle fixed queries
+	- Added PM>>fixedQuery:text:
 
 - Generate a dictionary of pages to pages that link to them
 	- PM new linkDict

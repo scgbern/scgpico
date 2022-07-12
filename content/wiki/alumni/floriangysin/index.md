@@ -40,4 +40,4 @@ Switzerland<br>
 
 ---
 # Publications
-![Fixed Query](%base_url%/scgbib/fixedquery)
+[Fixed Query](%assets_url%/scgbib/?query=*)

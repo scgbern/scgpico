@@ -13,4 +13,4 @@ SCG carries out several research projects in the realm of big software data. Som
 
 Some of our work on big software data is captured in our publications: 
 
-![Fixed Query](%base_url%/scgbib/fixedquery)
+[Fixed Query](%assets_url%/scgbib/?query=*)

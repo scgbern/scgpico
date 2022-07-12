@@ -32,4 +32,4 @@ To get started you can either use a ready-made one-click image (suggested), or t
 ```
 
 #Publications
-![Fixed Query](%base_url%/scgbib/fixedquery)
+[Fixed Query](%assets_url%/scgbib/?query=*)

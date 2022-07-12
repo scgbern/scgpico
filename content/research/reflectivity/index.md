@@ -28,7 +28,7 @@ How to install from Pharo (pre-closures) (more extensive description: [INSTALL.t
 -  Recompile the image using class *PERecompiler* 
 
 #Publications
-![Fixed Query](%base_url%/scgbib/fixedquery)
+[Fixed Query](%assets_url%/scgbib/?query=*)
 
 #Users of Reflectivity
  Reflectivity has been used in some projects: 

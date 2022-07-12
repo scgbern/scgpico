@@ -9,6 +9,6 @@ In a recent study, we developed [CityVR](%base_url%/research/cityvr), an immersi
 In this project we will develop such support, and so provide developers an API to build visualizations. Firstly, we will implement a few of basic elements such as shapes, and layouts. Then, we will define a few visualizations to port to Unity.
 
 #Readings
-![Fixed Query](%base_url%/scgbib/fixedquery)
+[Fixed Query](%assets_url%/scgbib/?query=*)
 
 Contact: [Leonel Merino](%base_url%/staff/merino)

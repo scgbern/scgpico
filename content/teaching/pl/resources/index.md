@@ -36,7 +36,7 @@ See also: [CC Resources](%base_url%/teaching/cc/resources)
 
 ##Lambda Calculus
 
-![Fixed Query](%base_url%/scgbib/fixedquery)
+[Fixed Query](%assets_url%/scgbib/?query=*)
 
 ##Prototypes and JavaScript
 
@@ -58,7 +58,7 @@ See also: [CC Resources](%base_url%/teaching/cc/resources)
 
 ##Types
 
-![Fixed Query](%base_url%/scgbib/fixedquery)
+[Fixed Query](%assets_url%/scgbib/?query=*)
 
 ##Denotational Semantics
 

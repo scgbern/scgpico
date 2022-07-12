@@ -94,4 +94,4 @@ Please report bugs or ask questions in the [Pharo](http://lists.gforge.inria.fr/
 PetitParser is licensed under the [MIT license](http://en.wikipedia.org/wiki/MIT_License).
 
 #Publications
-![Fixed Query](%base_url%/scgbib/fixedquery)
+[Fixed Query](%assets_url%/scgbib/?query=*)

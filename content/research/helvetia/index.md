@@ -38,4 +38,4 @@ Feel free to ask questions and report bugs on the [Pharo mailing-list](http://li
 Helvetia is licensed under the [MIT license](http://en.wikipedia.org/wiki/MIT_License).
 
 #Publications
-![Fixed Query](%base_url%/scgbib/fixedquery)
+[Fixed Query](%assets_url%/scgbib/?query=*)

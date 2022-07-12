@@ -3,7 +3,7 @@ Title: Publications
 ---
 
 #SCG Publications
-Most of our [publications](%base_url%/publications/scg-pub) are available in electronic form as postscript, HTML or PDF files.
+Most of our [SCG Publications](%assets_url%/scgbib/?query=scg-pub) are available in electronic form as postscript, HTML or PDF files.
 
 [![/download/pharobyexample/pbe.jpg](%assets_url%/download/pharobyexample/pbe.jpg)](http://PharoByExample.org)
 #Pharo by Example

@@ -11,4 +11,4 @@ We introduce CityVR âan interactive software visualization tool that implem
 - [Demo](https://youtu.be/R0C-HMAtgnk)
 - Preprint (below)
 
-![Fixed Query](%base_url%/scgbib/fixedquery)
+[Fixed Query](%assets_url%/scgbib/?query=*)

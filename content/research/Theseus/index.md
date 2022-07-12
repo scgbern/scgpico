@@ -10,4 +10,4 @@ The name of the project comes from [Theseus' paradox](http://en.wikipedia.org/wi
 
 **Publications**
 
-![Fixed Query](%base_url%/scgbib/fixedquery)
+[Fixed Query](%assets_url%/scgbib/?query=*)

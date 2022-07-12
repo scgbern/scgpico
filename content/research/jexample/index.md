@@ -68,4 +68,4 @@ JExample is open source and available [for download](http://scg.unibe.ch/downloa
 
 # Publications
 
-![Fixed Query](%base_url%/scgbib/fixedquery)
+[Fixed Query](%assets_url%/scgbib/?query=*)

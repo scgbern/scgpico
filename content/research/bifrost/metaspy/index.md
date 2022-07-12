@@ -7,4 +7,4 @@ Domain-specific languages and models are increasingly used within general-purpos
 <div style="width: 100%" id="\__ss_8459769"><iframe src="http://www.slideshare.net/slideshow/embed_code/8459769" width="100%" height="450" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></div>
 
 #Publications
-![Fixed Query](%base_url%/scgbib/fixedquery)
+[Fixed Query](%assets_url%/scgbib/?query=*)

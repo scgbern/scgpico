@@ -17,4 +17,4 @@ Download a prototype here:
 ---
 # Thesis
 Theoretical background of the Bender project.
-![Fixed Query](%base_url%/scgbib/fixedquery)
+[Fixed Query](%assets_url%/scgbib/?query=*)
