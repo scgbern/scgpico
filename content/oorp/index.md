@@ -2,4 +2,4 @@
 Title: __goto__oorp
 ---
 
-![value:redirect](value:redirect)
+<head><meta http-equiv="refresh" content="1; url='/download/oorp'" /></head><body><p>Please follow <a href="/download/oorp">this link</a>.</p></body>

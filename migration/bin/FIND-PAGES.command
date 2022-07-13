@@ -1,6 +1,8 @@
 #! /bin/sh
+#
+# Generic script to search for pages with funny characters or particular incantations
 
-SEARCH='¡'
+SEARCH='value:redirect'
 
 CONTENT=/Users/oscar/Documents/Projects/scgpico/content
 cd ${CONTENT}

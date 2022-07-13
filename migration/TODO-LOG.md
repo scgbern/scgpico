@@ -10,10 +10,10 @@ This file lists pending migration todos, past todos (done) and a brief FAQ.
 	- There are 9 types of these that display different kinds of things
 	- See: PM new valueLinkDict
 	- Of 135 links, all but 4 are embedded -- but probably all should be
-	* value:redirect (29)
-		- Page redirects
-		- Example: 
-		- link paremeters first value
+	- value:redirect (29)
+		- Added page redirects using meta refresh
+		- Example: /staff/jorgeressia
+		- link parameters first value
 	* value:children (19)
 		- Lists links to children pages
 		- Often used in sidebars
@@ -24,6 +24,9 @@ This file lists pending migration todos, past todos (done) and a brief FAQ.
 	* value:toc (18)
 		- Generates TOC links to subsections
 		- Often used in sidebars
+		* Problem: how does the sidebar know which page it belongs to?
+			- Obviously this is done somehow by the other visitors
+			- The PRValueLink gets this information, but needs the current “Context” -- what is this?
 		- Example: /research/bifrost/
 		- +value:toc+
 	- Ignore these:
