@@ -1,5 +1,5 @@
 ---
-Title: Get the "Lead" Out
+Title: Get the Lead Out
 ---
 
 

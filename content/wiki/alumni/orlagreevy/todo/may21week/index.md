@@ -16,7 +16,7 @@ Title: May21Week
 
 
 -  P2 RMI exercise (done)
--  install CDT Plugin and write C![May21Week](%base_url%/wiki/alumni/orlagreevy/todo/may21week) exercise
+-  install CDT Plugin and write C- [May21Week](%base_url%/wiki/alumni/orlagreevy/todo/may21week) exercise
 
 ##Reading 
 

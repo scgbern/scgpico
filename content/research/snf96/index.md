@@ -421,7 +421,7 @@ We want to create a (visual) modelling environment for creating and composing ab
 
  
 
-It is our long-term goal to implement the meta-modelling techniques and the modelling environment on top of piccola, thus integrating the two forms of abstraction building. In the current project we will use a Self/Kansas based implementation of the visual composition environment as a testbed [44], and we will port our work to C![Infrastructure for Software Component Frameworks ]().
+It is our long-term goal to implement the meta-modelling techniques and the modelling environment on top of piccola, thus integrating the two forms of abstraction building. In the current project we will use a Self/Kansas based implementation of the visual composition environment as a testbed [44], and we will port our work to C- [Infrastructure for Software Component Frameworks ]().
 
  
 
@@ -481,7 +481,7 @@ This work will consist in:
 
 
 - Coordination Language: formal specification of Piccola; implementation of first prototype by, e.g., translation to Pict
-- Modelling Environment: meta-modelling of design patterns, porting of the modelling environment to C![Infrastructure for Software Component Frameworks ]().
+- Modelling Environment: meta-modelling of design patterns, porting of the modelling environment to C- [Infrastructure for Software Component Frameworks ]().
 - Proof Systems: investigation of compositional proof systems for sequential objects
 - Coordination Framework: survey and evaluation of coordination models; executable specification of framework with Piccola or Pict 
 ###Second year

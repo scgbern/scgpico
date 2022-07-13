@@ -6,11 +6,11 @@ Title: Workshop participants
 
 
 -     **Neil Walkinshaw** (<a href="mailto:nw@cis.strath.ac.uk">nw@cis.strath.ac.uk</a>
-), Marc Roper, Murray Wood. <br> [Extracting User-Level Functions from Object-Oriented Code](%assets_url%/files/15/5mgoznzravsmixktg0hzdawhpbd4i6/Extracting User-Level Functions from Object-Oriented Code) <br>
+), Marc Roper, Murray Wood. <br> [Extracting User-Level Functions from Object-Oriented Code](%assets_url%/files/15/5mgoznzravsmixktg0hzdawhpbd4i6/Extracting%20User-Level%20Functions%20from%20Object-Oriented%20Code) <br>
 -     **Michael Pacione**<br> VANESSA: Visualisation Abstraction NEtwork for Software Systems Analysis <br> *(paper only available to the workshop organizers for internal purposes)*
 -     **Andy Zaidman** \+ Serge Demeyer <br> \*Mining ArgoUML with Dynamic Analysis to Establish a Set of Key Classes for Program Comprehension\*
--     **Orla Greevy** <br> [Characterizing the Functional Roles of Classes and Methods by Analyzing Feature Traces](%assets_url%/files/d7/y34c7ciznpq3poy2tgvccbuflha2tp/Characterizing the Functional Roles of Classes and Methods by Analyzing Feature Traces)
--     **Danny Dig** (co-authors : Can Comertoglu, Darko Marinov, Ralph Johnson) <br> [Automatic Detection of Refactorings for Libraries and Frameworks](%assets_url%/files/02/wgzz48xp6ru2tvkj66aixdl2n8xuxm/Automatic Detection of Refactorings for Libraries and Frameworks)
+-     **Orla Greevy** <br> [Characterizing the Functional Roles of Classes and Methods by Analyzing Feature Traces](%assets_url%/files/d7/y34c7ciznpq3poy2tgvccbuflha2tp/Characterizing%20the%20Functional%20Roles%20of%20Classes%20and%20Methods%20by%20Analyzing%20Feature%20Traces)
+-     **Danny Dig** (co-authors : Can Comertoglu, Darko Marinov, Ralph Johnson) <br> [Automatic Detection of Refactorings for Libraries and Frameworks](%assets_url%/files/02/wgzz48xp6ru2tvkj66aixdl2n8xuxm/Automatic%20Detection%20of%20Refactorings%20for%20Libraries%20and%20Frameworks)
 -     **RaÃºl Marticorena** (<a href="mailto:rmartico@ubu.es">rmartico@ubu.es</a>
 ) \+ **Carlos López** (<a href="mailto:clopez@ubu.es">clopez@ubu.es</a>
 ) \+ Yania Crespo <br> \*../parallelinheritancehierarchydetectionfromastaticviewofthesystem\*

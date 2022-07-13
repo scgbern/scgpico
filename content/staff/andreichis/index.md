@@ -49,7 +49,7 @@ Apart from this my research interests lie in the areas of:
 
 
 -  *A domain-specific debugger for the PetitParser parser framework* by Andrei Chis, Tudor Girba and Oscar Nierstrasz at [Parsing@SLE](http://www.sleconf.org/2014/Parsing-at-SLE.html) &mdash; Västerås, Sweden, September 14, 2014 ([abstract](http://scg.unibe.ch/download/andrei/PetitParserDebugger-ParsingSLE-Abstract.pdf), [slides](http://www.sleconf.org/2014/parsing-slides/7-PetitParserDebugger.pdf)).
--  *[GTInspector: hands on](http://esug.org/wiki/pier/Conferences/2014/Conference-Schedule)* by Andrei Chis and Tudor Girba at [ESUG, http://esug.org/wiki/pier/Conferences/2014](ESUG, http://esug.org/wiki/pier/Conferences/2014) &mdash; Cambridge, England, August 18-22, 2014 
+-  *[GTInspector: hands on](http://esug.org/wiki/pier/Conferences/2014/Conference-Schedule)* by Andrei Chis and Tudor Girba at [ESUG, http://esug.org/wiki/pier/Conferences/2014](ESUG,%20http://esug.org/wiki/pier/Conferences/2014) &mdash; Cambridge, England, August 18-22, 2014 
 -  *[The GTInspector: A moldable object inspector](http://ecoop14.it.uu.se/programme/demos.php/#gtinspector)* by Andrei Chis, Tudor Girba and Oscar Nierstrasz at [ECOOP - Demos and Tutorials](http://ecoop14.it.uu.se/programme/demos.php) &mdash; Uppsala, Sweden, July 30, 2014
 -  *The Moldable Debugger* at [PharoConf/MooseDay](http://scg.unibe.ch/wiki/events/pharoconf-mooseday-2013) &mdash; Bern, Switzerland, April 2-4, 2013
 

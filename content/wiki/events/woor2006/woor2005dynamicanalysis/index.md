@@ -19,7 +19,7 @@ which stands for "New project"
 -  Class BachelorStudent no attributes, no methods
 -  Class MasterStudent no attribues, no method
 -  Subclass relationship between Student-BachelorStudent and Student-MasterStudent
-4) Select "Layout" from the "Arrange" menu to make sure the layout is nice and tidy. You should result in a diagram which looks like the following [ArgoUML screendump](%assets_url%/files/48/6b96mlmbizz28vzj298vxdxawjdsm8/ArgoUML screendump).
+4) Select "Layout" from the "Arrange" menu to make sure the layout is nice and tidy. You should result in a diagram which looks like the following [ArgoUML screendump](%assets_url%/files/48/6b96mlmbizz28vzj298vxdxawjdsm8/ArgoUML%20screendump).
 5) Save the project and give it a name.
 6) Close ArgoUML
 

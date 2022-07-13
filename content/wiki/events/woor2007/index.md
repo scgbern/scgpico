@@ -10,12 +10,12 @@ It will take place on July 30, 2007 in Berlin, Germany.
 #Accepted Papers
 
 
--  [Discussion on the Results of the Detection of Design Defects](%assets_url%/files/e7/jsvehfzbz6qpcu256jkbszua3t1oda/Discussion on the Results of the Detection of Design Defects) by Naouel Moha, Yann-Gael Gueheneuc, Laurence Duchien, and Anne-Francoise Le Meur
--  [NMARPLE .NET Reverse Engineering with MARPLE](%assets_url%/files/6c/3z2qdwubmn0nafun1m8gao2t1116i2/nMARPLE .NET Reverse Engineering with MARPLE) by Francesca Arcelli, Luca Cristina, and Daniele Franzosi
+-  [Discussion on the Results of the Detection of Design Defects](%assets_url%/files/e7/jsvehfzbz6qpcu256jkbszua3t1oda/Discussion%20on%20the%20Results%20of%20the%20Detection%20of%20Design%20Defects) by Naouel Moha, Yann-Gael Gueheneuc, Laurence Duchien, and Anne-Francoise Le Meur
+-  [NMARPLE .NET Reverse Engineering with MARPLE](%assets_url%/files/6c/3z2qdwubmn0nafun1m8gao2t1116i2/nMARPLE%20.NET%20Reverse%20Engineering%20with%20MARPLE) by Francesca Arcelli, Luca Cristina, and Daniele Franzosi
 -  Analytical and Synthetical Structures in Code by Daniel Speicher and Holger Mügge
--  [Challenges in Model Refactoring](%assets_url%/files/6d/w1yfmtgw3ocsbq3v0yglwj8gqt8obm/Challenges in Model Refactoring) by Tom Mens, Gabriele Taentzer and Dirk Müller
--  [Must Tool Building Remain a Craft](%assets_url%/files/1e/qw62vwl047elcz4aw94b3i2n4zukiy/Must Tool Building Remain a Craft) by Holger M. Kienle
--  [A Meta-model Approach to Inconsistency Management](%assets_url%/files/c6/srqmsrph01zxoainc5g9vjet4ymtat/A Meta-model Approach to Inconsistency Management) by Anne Keller and Serge Demeyer
+-  [Challenges in Model Refactoring](%assets_url%/files/6d/w1yfmtgw3ocsbq3v0yglwj8gqt8obm/Challenges%20in%20Model%20Refactoring) by Tom Mens, Gabriele Taentzer and Dirk Müller
+-  [Must Tool Building Remain a Craft](%assets_url%/files/1e/qw62vwl047elcz4aw94b3i2n4zukiy/Must%20Tool%20Building%20Remain%20a%20Craft) by Holger M. Kienle
+-  [A Meta-model Approach to Inconsistency Management](%assets_url%/files/c6/srqmsrph01zxoainc5g9vjet4ymtat/A%20Meta-model%20Approach%20to%20Inconsistency%20Management) by Anne Keller and Serge Demeyer
 
 All position papers are also available from [http://www.lore.ua.ac.be/Events/WOOR07/](http://www.lore.ua.ac.be/Events/WOOR07/)
 

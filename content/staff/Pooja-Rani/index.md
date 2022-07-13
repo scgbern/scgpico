@@ -19,7 +19,7 @@ Currently I am working on gathering and identifying developers information needs
 -  [How do code documentation efforts spread over class hierarchy?](http://scg.unibe.ch/wiki/projects/mastersbachelorsprojects/How-code-documentation-efforts-spread-over-hierarchy?)
 -  [Identify the comment issues pointed out in the code review phase](http://scg.unibe.ch/wiki/projects/mastersbachelorsprojects/Identify-comments-related-issues-in-code-review)
 -  [Identification of the class responsibility information from the Pharo class comments](http://scg.unibe.ch/wiki/projects/mastersbachelorsprojects/Identification-of-the-class-responsibilty-information-from-the-Pharo-class-comment)
--  [Searching code examples in IDE using natural language queries]( http://scg.unibe.ch/wiki/projects/mastersbachelorsprojects/Searching-code-examples-in-IDE)
+-  [Searching code examples in IDE using natural language queries](%20http://scg.unibe.ch/wiki/projects/mastersbachelorsprojects/Searching-code-examples-in-IDE)
 -  [Derive the contextual information from developer's questions](http://scg.unibe.ch/wiki/projects/mastersbachelorsprojects/Derive-the-context)
 -  Individual projects available on request.
 

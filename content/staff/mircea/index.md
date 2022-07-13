@@ -28,7 +28,7 @@ My research interests are in software engineering, software evolution, ecosystem
 </div>
 Here you can find several projects that are available at the moment. If you have other ideas that are related to any of these topics, feel free to contact me. 
 
--  [**How I Know My System**]( http://scg.unibe.ch/research/HIK-MSY) &mdash; Source code improvement via gamification  
+-  [**How I Know My System**](%20http://scg.unibe.ch/research/HIK-MSY) &mdash; Source code improvement via gamification  
 -  **[Polite for EV3](%base_url%/wiki/projects/mastersbachelorsprojects/polite-for-ev3)** - API design for controlling the Mindstorms from Polite 
 -  **[The Large Word Collider](http://scg.unibe.ch/wiki/projects/mastersbachelorsprojects/largewordcollider)** - Increasing the chance of a learner encountering his learned material
 -  **[Intelligent eBook Reader](%base_url%/wiki/projects/mastersbachelorsprojects/ebookreaderandroid)** - Innovative app supporting language acquisition

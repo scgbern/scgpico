@@ -21,10 +21,10 @@ Contact: [Jan Kurš](%base_url%/staff/kursjan) or [Milan Kubicek](%base_url%/wik
 
 [Project introduction](http://scg.unibe.ch/download/softwarecomposition/2015.01.06_FSharp_Intro_MilanKubicek_compr.pdf)
 
-[Project results]( https://www.dropbox.com/s/9uq5jof7ziouldq/2015.09.29_Parsing_FSharp_BSC_Presentation_2_Milan_Kubicek.pdf?dl=0)
+[Project results](%20https://www.dropbox.com/s/9uq5jof7ziouldq/2015.09.29_Parsing_FSharp_BSC_Presentation_2_Milan_Kubicek.pdf?dl=0)
 
 **Code**
 
-PetitParser F# grammar and parser on [SmallTalk Hub]( http://smalltalkhub.com/#!/~MilanKubicek/FSharpGrammar)
+PetitParser F# grammar and parser on [SmallTalk Hub](%20http://smalltalkhub.com/#!/~MilanKubicek/FSharpGrammar)
 
-F# code to get the untyped AST nodes textually encoded from the F# open edition compiler on [GitHub]( http://github.com/mkubicek/FSharpAST)
+F# code to get the untyped AST nodes textually encoded from the F# open edition compiler on [GitHub](%20http://github.com/mkubicek/FSharpAST)

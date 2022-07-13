@@ -1,5 +1,5 @@
 ---
-Title: The "Moldable Debugger"
+Title: The Moldable Debugger
 ---
 
 Debuggers are crucial tools for developing object-oriented software systems as they give developers direct access to the running systems. Nevertheless, traditional debuggers rely on generic mechanisms to explore and exhibit the execution stack and system state, while developers reason about and formulate domain-specific questions using concepts and abstractions from their application domains. This creates an abstraction gap between the debugging needs and the debugging support leading to an inefficient and error-prone debugging effort. To reduce this gap, we propose a framework for developing domain-specific debuggers called the Moldable Debugger. 
@@ -105,4 +105,4 @@ The GTDebugger implements the idea of a moldable debugger as part of the [GToolk
 |---|---
 |[A bytecode debugger](https://chisvasileandrei.wordpress.com/2015/01/15/a-bytecode-debugger/)|
 |[Extending the Pharo debugger with custom actions](https://chisvasileandrei.wordpress.com/2015/07/09/extending-the-pharo-debugger-with-custom-actions/)|
-|[](Debugging tests and parsers with GTDebugger (demo)>http://www.humane-assessment.com/blog/debugging-tests-and-parsers-with-gtdebugger-demo/)|
+|[](Debugging%20tests%20and%20parsers%20with%20GTDebugger%20(demo)>http://www.humane-assessment.com/blog/debugging-tests-and-parsers-with-gtdebugger-demo/)|

@@ -1,5 +1,5 @@
 ---
-Title: How do I rename the "References" section?
+Title: How do I rename the References section?
 ---
 
 - **Q How do I rename the "References" section?**

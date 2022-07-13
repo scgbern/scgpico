@@ -17,8 +17,8 @@ Title: Suite2009 Environment
     <div class="sidebar column span-6 prepend-2 last">![Sidebar Document](%base_url%/system/components/sidebar)</div>
     <div class="contents column span-16">![Suite2009 Contents](%base_url%/wiki/events/suite2009/suite2009contents)</div>
   </div>
-  <div class="footnote">![Latest Change](%base_url%/system/components/latestchange)</div>
-  ![Admin](%base_url%/system/components/admin)
+  <div class="footnote">- [Latest Change](%base_url%/system/components/latestchange)</div>
+  - [Admin](%base_url%/system/components/admin)
 </div>
 <div class="hidden">
 ![Tools](%base_url%/system/components/tools)

@@ -1,5 +1,5 @@
 ---
-Title: No comma before "that"
+Title: No comma before that
 ---
 
 

@@ -1,28 +1,7 @@
 #Navigation
-- [VisualSourceCodeQueries.pdf](sattose2009/VisualSourceCodeQueries.pdf)
-- [pdf](sattose2009/helvetia.pdf)
-- [rmod.pdf](sattose2009/Rmod.pdf)
-- [SATTOSE-ahindle-2009.pdf](sattose2009/SATTOSE-ahindle-2009.pdf)
-- [SATTOSE2009KimMens](sattose2009/SATTOSE2009forWIKI.pdf)
-- [Slides Andy](sattose2009/SlidesAndy.pdf)
-- [pdf](sattose2009/Bergel-SATTOSE2009.pdf)
-- [pdf](sattose2009/DSM-Sattose09.pdf)
-- [pdf](sattose2009/SATTOSEJorgePinna.pdf)
-- [pdf](sattose2009/ContextOrientedConcurrencyProgramming.pdf)
-- [Hattori.pdf](sattose2009/hatori.pdf)
-- [Migod-CLIP.pdf](sattose2009/migod-CLIP.pdf)
-- [Perin.pdf](sattose2009/perin.pdf)
-- [Denier-mapmaking.pdf](sattose2009/denier-mapmaking.pdf)
 - [Smart tools/IDE](sattose2009/smartide)
-- [Lincke-EUWD](sattose2009/Lincke-EUWD.pdf)
 - [Visualisations](sattose2009/Visualisations)
-- [pdf](sattose2009/marianneHuchardsattose.pdf)
-- [pdf (long)](sattose2009/hevetia-full.pdf)
 - [Identifer analysis](sattose2009/identifiers.pdf)
-- [TalkIdentifiers.pdf](sattose2009/talkIdentifiers.pdf)
-- [Paper](sattose2009/paper)
-- [Presentation](sattose2009/presentation)
-- [pdf](sattose2009/inconsistencyManagementInSoftware.pdf)
 
 
 #Photos

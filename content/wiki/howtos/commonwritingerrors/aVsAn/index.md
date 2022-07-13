@@ -1,5 +1,5 @@
 ---
-Title: "A" vs. "an"
+Title: A vs. an
 ---
 
 

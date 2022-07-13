@@ -10,7 +10,7 @@ The sixth edition will be hosted at the 19th European Conference on Object-Orien
 What is available right now:
 
 -  [WOOR05ReportFinal.pdf](%assets_url%/files/7e/1wxr1b1p76wxnaj6msi7sopsvd6c3n/WOOR05ReportFinal.pdf) (in PDF)
--  [WOOR2005 Call For Contributions](%assets_url%/files/8b/xt4qbmkwl9cerh01s7uvjztuhz0uc6/WOOR2005 Call For Contributions)
+-  [WOOR2005 Call For Contributions](%assets_url%/files/8b/xt4qbmkwl9cerh01s7uvjztuhz0uc6/WOOR2005%20Call%20For%20Contributions)
 -  [Previous Editions](%base_url%/wiki/events/woor2006/previouseditions)
 -  [WOOR2005 Participants](%base_url%/wiki/events/woor2006/woor2005participants)
 -  [WOOR2005 Instructions  Practical arrangements](%base_url%/wiki/events/woor2006/woor2005instructionspracticalarrangements)

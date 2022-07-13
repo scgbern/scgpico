@@ -17,13 +17,13 @@ Relying just on a generic debugger can make finding the right information diffic
 # Goal
 
 
-The goal of these project is to create a domain-specific debugger for [Zinc HTTP Components](http://zn.stfx.eu/ ), an open source Smalltalk framework to deal with HTTP. It models most concepts of HTTP and its related standards and offers both client and server functionality. It can be used to create web applications and web servers.
+The goal of these project is to create a domain-specific debugger for [Zinc HTTP Components](http://zn.stfx.eu/%20), an open source Smalltalk framework to deal with HTTP. It models most concepts of HTTP and its related standards and offers both client and server functionality. It can be used to create web applications and web servers.
 
 The new debugger should focus on providing a new user-interface that displays relevant contextual informations, like requests, responses, cookies, etc. 
 
 # Benefits/Requirements/Challenges
 
-This project will give you the chance to learn about HTTP, web servers, web clients and about the construction of debuggers. The project will be done in [Pharo](http://www.pharo-project.org/ ), an open-source Smalltalk-inspired environment. You will see a language quite different from Java and C#. The new debugger will be implemented using the ["Moldable Debugger"](http://scg.unibe.ch/research/moldabledebugger), a framework for creating domain-specific debuggers.
+This project will give you the chance to learn about HTTP, web servers, web clients and about the construction of debuggers. The project will be done in [Pharo](http://www.pharo-project.org/%20), an open-source Smalltalk-inspired environment. You will see a language quite different from Java and C#. The new debugger will be implemented using the ["Moldable Debugger"](http://scg.unibe.ch/research/moldabledebugger), a framework for creating domain-specific debuggers.
 
 You should apply for this project if you have good programming skills in any object-oriented language and a basic knowledge of HTTP. Knowing anything about Pharo or having advanced HTTP knowledge is not required.
 
@@ -36,7 +36,7 @@ Available as a bachelor or master project.
 -  [2] [The "Moldable Debugger" framework](http://scg.unibe.ch/research/moldabledebugger)
 -  [3] [A first look at the Pharo debugger](http://chisvasileandrei.wordpress.com/2013/10/24/a-first-look-at-the-pharo-debugger/)
 -  [4] [Zinc](http://zn.stfx.eu/zn)
--  [5] [Zinc documentation](http://zn.stfx.eu/zn/zinc-http-components-paper.html )
+-  [5] [Zinc documentation](http://zn.stfx.eu/zn/zinc-http-components-paper.html%20)
 -  [6] [Zinc tutorial](http://zn.stfx.eu/zn/build-and-deploy-1st-webapp)
 
 Contact: [Andrei ChiÈ](%base_url%/staff/andreichis)

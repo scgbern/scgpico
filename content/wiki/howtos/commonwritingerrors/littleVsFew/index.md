@@ -1,5 +1,5 @@
 ---
-Title: "Little" vs. "few"
+Title: Little vs. few
 ---
 
 

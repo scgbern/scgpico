@@ -1,5 +1,5 @@
 ---
-Title: SmaCC pops up an annoying "silence not found in the Sound library" when I click on the tabs -- how do I get it to stop?
+Title: SmaCC pops up an annoying silence not found in the Sound library when I click on the tabs -- how do I get it to stop?
 ---
 
 - **Q SmaCC pops up an annoying "silence not found in the Sound library" when I click on the tabs &mdash; how do I get it to stop?**

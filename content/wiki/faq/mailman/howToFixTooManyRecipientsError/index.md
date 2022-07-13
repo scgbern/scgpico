@@ -1,5 +1,5 @@
 ---
-Title: What can I do about a "Too many recipients to the message" error?
+Title: What can I do about a Too many recipients to the message error?
 ---
 
 - **Q What can I do about a "Too many recipients to the message" error?**

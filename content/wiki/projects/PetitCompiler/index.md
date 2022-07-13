@@ -2,4 +2,4 @@
 Title: PetitCompiler
 ---
 
-![PetitParser Compiler](%base_url%/research/petitcompiler)
+- [PetitParser Compiler](%base_url%/research/petitcompiler)

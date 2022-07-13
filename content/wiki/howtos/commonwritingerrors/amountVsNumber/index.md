@@ -1,5 +1,5 @@
 ---
-Title: "Amount" vs. "number"
+Title: Amount vs. number
 ---
 
 

@@ -6,7 +6,7 @@ Title: Organizing Committee
 - [Sushil Bajracharya](http://www.ics.uci.edu/~sbajrach), University of California Irvine, USA.
 -  [Adrian Kuhn](%base_url%/wiki/alumni/adriankuhn), University of Bern, Switzerland.
 -  [Joel Ossher](http://www.ics.uci.edu/~jossher/), University of California Irvine, USA.
-- [Yunwen Ye]( http://www.sra.co.jp/people/ye), SRA, Japan. 
+- [Yunwen Ye](%20http://www.sra.co.jp/people/ye), SRA, Japan. 
 
 #Program Committee
 

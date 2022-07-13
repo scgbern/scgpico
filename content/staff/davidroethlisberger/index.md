@@ -8,4 +8,4 @@ For more information please visit my website: [http://www.droethlisberger.ch](ht
 
 [Towards a better IDE](%base_url%/staff/davidroethlisberger/towardsabetteride)
 
-[Future IDE](%base_url%/staff/davidroethlisberger/Future IDE)
+[Future IDE](%base_url%/staff/davidroethlisberger/Future%20IDE)

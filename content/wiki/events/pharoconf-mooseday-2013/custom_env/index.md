@@ -12,8 +12,8 @@ Title: Custom_env
 		<div class="sidebar column span-5 prepend-3 last">![Sidebar Document](%base_url%/system/components/sidebar)</div>
 		<div class="contents column span-16">![Custom_contents](%base_url%/wiki/events/pharoconf-mooseday-2013/custom_contents)</div>
 	</div>
-	<div class="footnote">![Latest Change](%base_url%/system/components/latestchange)</div>
-	![Admin](%base_url%/system/components/admin)
+	<div class="footnote">- [Latest Change](%base_url%/system/components/latestchange)</div>
+	- [Admin](%base_url%/system/components/admin)
 </div>
 <div class="hidden">
 ![Tools](%base_url%/system/components/tools)

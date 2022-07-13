@@ -1,5 +1,5 @@
 ---
-Title: How do I get rid of "Message has implicit destination" warnings?
+Title: How do I get rid of Message has implicit destination warnings?
 ---
 
 - **Q How do I get rid of "Message has implicit destination" warnings?**

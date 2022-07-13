@@ -36,5 +36,5 @@ The properties are specified in orla.properties
 -  Write the TraceScraper code to load in the xml as a trace.
 -  load the Pier Trace
 -  Try out Markus RMI Uebung (done - modify for ant).
--  Try out C![May14Week](%base_url%/wiki/alumni/orlagreevy/todo/may14week) Uebung
+-  Try out C- [May14Week](%base_url%/wiki/alumni/orlagreevy/todo/may14week) Uebung
 -  Read architecture paper from Stef

@@ -8,7 +8,7 @@ Goto &rArr; [Publications](%base_url%/wiki/alumni/adriankuhn/pubs) | [Slides](ht
 
 
 ---
-![About Adrian Kuhn](%base_url%/wiki/alumni/adriankuhn/about)
+- [About Adrian Kuhn](%base_url%/wiki/alumni/adriankuhn/about)
 
 &nbsp;
 
@@ -16,10 +16,10 @@ Goto &rArr; [Publications](%base_url%/wiki/alumni/adriankuhn/pubs) | [Slides](ht
 
 
 ---
-![Research of Adrian Kuhn](%base_url%/wiki/alumni/adriankuhn/research)
+- [Research of Adrian Kuhn](%base_url%/wiki/alumni/adriankuhn/research)
 
 ---
-![Teaching by Adrian Kuhn](%base_url%/wiki/alumni/adriankuhn/teaching)
+- [Teaching by Adrian Kuhn](%base_url%/wiki/alumni/adriankuhn/teaching)
 
 ---
-![Random Notes](%base_url%/wiki/alumni/adriankuhn/random)
+- [Random Notes](%base_url%/wiki/alumni/adriankuhn/random)

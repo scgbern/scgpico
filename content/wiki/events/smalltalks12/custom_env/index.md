@@ -14,11 +14,11 @@ Title: Custom_env
   </div>  
   <div class="column span-24 last mainbody">
     <h1 class="heading"></h1>
-    <div class="sidebar column span-6 prepend-2 last">![Sidebar](%base_url%/wiki/events/smalltalks12/sidebar)</div>
+    <div class="sidebar column span-6 prepend-2 last">- [Sidebar](%base_url%/wiki/events/smalltalks12/sidebar)</div>
     <div class="contents column span-16">![Custom_contents](%base_url%/wiki/events/smalltalks12/custom_contents)</div>
   </div>
-  <div class="footnote">![Latest Change](%base_url%/system/components/latestchange)</div>
-  ![Admin](%base_url%/system/components/admin)
+  <div class="footnote">- [Latest Change](%base_url%/system/components/latestchange)</div>
+  - [Admin](%base_url%/system/components/admin)
 </div>
 <div class="hidden">
 ![Tools](%base_url%/system/components/tools)

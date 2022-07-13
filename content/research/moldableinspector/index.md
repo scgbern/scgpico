@@ -1,5 +1,5 @@
 ---
-Title: The "Moldable Inspector"
+Title: The Moldable Inspector
 ---
 
 Answering run-time questions in object-oriented systems involves reasoning about and exploring connections between multiple objects. Different developer questions exercise different aspects of an object and require different kinds of interactions depending on the relationships between objects, the application domain and the differing developer needs. 

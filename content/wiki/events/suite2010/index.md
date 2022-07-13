@@ -13,7 +13,7 @@ efforts from academia and industry in supporting software engineers with special
 
 # Importante Dates
 
-![Important Dates](%base_url%/wiki/events/suite2010/dates)
+- [Important Dates](%base_url%/wiki/events/suite2010/dates)
 
 # We are looking for Submissions
 

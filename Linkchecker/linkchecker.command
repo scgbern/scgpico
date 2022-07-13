@@ -9,3 +9,4 @@ cd "$D"
 
 linkchecker http://testscg.unibe.ch > log.txt
 
+open log.txt

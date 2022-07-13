@@ -2,5 +2,5 @@
 Title: Footer
 ---
 
-<div class="footnote">![Current user](%base_url%/system/components/currentuser)</div>
-![Admin](%base_url%/system/components/admin)
+<div class="footnote">- [Current user](%base_url%/system/components/currentuser)</div>
+- [Admin](%base_url%/system/components/admin)

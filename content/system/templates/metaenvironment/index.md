@@ -10,6 +10,6 @@ Title: _Meta Environment
 		![Contents](%base_url%/system/components/contents)
 	</div>
 	<div class="span-24 last metafooter">
-		![Admin](%base_url%/system/components/admin)
+		- [Admin](%base_url%/system/components/admin)
 	</div>
 </div>

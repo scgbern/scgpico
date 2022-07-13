@@ -1,5 +1,5 @@
 ---
-Title: "Such that" vs "so that"
+Title: Such that vs so that
 ---
 
 

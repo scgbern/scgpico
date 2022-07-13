@@ -18,12 +18,12 @@
 
 
 -  [Suite 2010, PREPRINTS](http://scg.unibe.ch/download/suite/suite2010-preprints.zip) new!
--  [Suite-2010-call-for-papers.pdf]( http://www.iam.unibe.ch/~scg/download/suite/suite-2010-call-for-papers.pdf)
+-  [Suite-2010-call-for-papers.pdf](%20http://www.iam.unibe.ch/~scg/download/suite/suite-2010-call-for-papers.pdf)
 -  [Suite-2009-workshop-reader.pdf](http://www.iam.unibe.ch/~scg/download/suite/Suite-2009-workshop-reader.pdf)
 -  [Suite2009.bib](http://scg.unibe.ch/download/suite/suite2009.bib)
 
 # Web 2.0
 
 
--  [Follow us on Twitter]( http://twitter.com/suite2010)
+-  [Follow us on Twitter](%20http://twitter.com/suite2010)
 -  [Join Facebook Group](http://www.facebook.com/posted.php?id=80771124885)

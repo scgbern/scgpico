@@ -3,7 +3,6 @@
 - [SCG Library](wiki/scglibrary)
 - [Around and About Bern](wiki/aroundandaboutbern)
 - [SSUG](wiki/ssug)
-- [P2Pic](wiki/p2pic)
 - [SCG Job List](wiki/scgjoblist)
 - [How To's](wiki/howtos)
 - [Frequently Asked Questions](wiki/faq)

@@ -62,8 +62,8 @@ Normally, the seminar takes place on Mondays at 14.00 in the afternoon in our se
 	-  [Patrick Frischknecht](http://scg.unibe.ch/wiki/students/PatrickFrischknecht) &mdash; [HTTP security headers in Web APIs](%assets_url%/download/softwarecomposition/2019-12-17-Frischknecht-HttpSecurityHeaders.pdf) (seminar)
 
 -  Dec 10 
-	-  [Melike Geçer](%base_url%/wiki/alumni/MelikeGecer) &mdash; [Debugging Spark Applications](%assets_url%/download/softwarecomposition/2019-12-10-MelikeGecer-Debugging Spark.pdf) (MSc final presentation)
-	-  Louis Müller &mdash; [Executable graph models in Bloc](%assets_url%/download/softwarecomposition/2019-12-10-LouisMueller-Executable graph models in Bloc.pdf) (seminar)
+	-  [Melike Geçer](%base_url%/wiki/alumni/MelikeGecer) &mdash; [Debugging Spark Applications](%assets_url%/download/softwarecomposition/2019-12-10-MelikeGecer-Debugging%20Spark.pdf) (MSc final presentation)
+	-  Louis Müller &mdash; [Executable graph models in Bloc](%assets_url%/download/softwarecomposition/2019-12-10-LouisMueller-Executable%20graph%20models%20in%20Bloc.pdf) (seminar)
 
 -  Dec 3 &mdash;Jonas Diesbach &mdash; [Paper Hunter](%assets_url%/download/softwarecomposition/2019-12-03-JonasDiesbach&mdash;PaperHunter.pdf) (seminar)
 -  Nov 26 &mdash; Ivan Kravchenko &mdash; [Class commenting practices in Java](%assets_url%/download/softwarecomposition/2019-11-26-Ivan-classCommentAnalysis.pdf) (Seminar)
@@ -93,7 +93,7 @@ Normally, the seminar takes place on Mondays at 14.00 in the afternoon in our se
 -  Feb 5 &mdash; [Manuela Eschler](%base_url%/wiki/alumni/ManuelaEschler) &mdash; [Search interface implementation for a Learning Management System](%assets_url%/download/softwarecomposition/2019-02-05-Eschler-SearchInterface.pdf) (Bachelors final presentation)
 -  Jan 29 &mdash; [Mario Hess](%base_url%/wiki/alumni/MarioHess) &mdash; [PerfVis: Visualization in Immersive Augmented Reality for Software Performance - A User Study](%assets_url%/download/softwarecomposition/2019-01-29-Hess-PerfVis.pdf) (Bachelors, final presentation)
 -  Jan 15 &mdash; [Dominik Briner](http://scg.unibe.ch/wiki/students/DominikBriner) &mdash; [Mobile Security Support for Android Developers](%assets_url%/download/softwarecomposition/2019-01-15-Briner-MobileSecuritySupportForAndroidDevelopers.pdf) (Bachelors)
--  Jan 8 &mdash; Mathias Birrer &mdash; [Investigating developer's questions using web scraping (Seminar)](%assets_url%/download/softwarecomposition/2019-01-08-Mathias-Investigating_developers_questions_using_web scraping.pdf)
+-  Jan 8 &mdash; Mathias Birrer &mdash; [Investigating developer's questions using web scraping (Seminar)](%assets_url%/download/softwarecomposition/2019-01-08-Mathias-Investigating_developers_questions_using_web%20scraping.pdf)
 
 ##2018
 
@@ -106,7 +106,7 @@ Normally, the seminar takes place on Mondays at 14.00 in the afternoon in our se
 -  Oct 30 &mdash; [Sabine Brunner](%base_url%/wiki/alumni/SabineBrunner) &mdash; [Analyzing the inconsistency between comments and source code in Pharo](%assets_url%/download/softwarecomposition/2018-10-30-Brunner-AnalyzingInconsistency.pdf) (Bachelors)
 -  Oct 23 &mdash; [Marc-Andrea Tarnutzer](%base_url%/wiki/alumni/MarcAndreaTarnutzer) &mdash; [Targeted attacks supported by recovered data structures of web API's](%assets_url%/download/softwarecomposition/2018-10-23-Tarnutzer-WebAPIs.pdf) (Masters)
 -  Oct 16 &mdash; [Jonas Richner](%base_url%/wiki/alumni/JonasRichner) &mdash; [Understanding developers questions](%assets_url%/download/softwarecomposition/2018-10-16-JonasRichner-UnderstandingDevQuestions.pdf) (Bachelors)
--  Oct 9 &mdash; [Manuela Eschler](%base_url%/wiki/alumni/ManuelaEschler) &mdash; [Search interface implementation for a Learning Management System](%assets_url%/download/softwarecomposition/2018-10-09-Eschler-Search Interface Implementation.pdf) (Bachelors)
+-  Oct 9 &mdash; [Manuela Eschler](%base_url%/wiki/alumni/ManuelaEschler) &mdash; [Search interface implementation for a Learning Management System](%assets_url%/download/softwarecomposition/2018-10-09-Eschler-Search%20Interface%20Implementation.pdf) (Bachelors)
 -  Oct 2 &mdash; [Sofija Hotomski](http://www.ifi.uzh.ch/en/rerg/people/hotomski.html) &mdash; [Keeping Evolving Requirements and Acceptance Tests Consistent via Automatically Generated Guidance](%assets_url%/download/softwarecomposition/2018-10-02-Hotomski-GuideGen.pdf) (guest speaker)
 -  Sept 25 &mdash; [Marcel Chavez](%base_url%/wiki/alumni/MarcelChavez) &mdash; [Digital archive in small companies : Advantages and challenges](%assets_url%/download/softwarecomposition/2018-09-25-Chavez-DigitalArchive.pdf) (Bachelors)
 -  Sept 18 &mdash; [MSc seminar topic](%base_url%/wiki/projects/mastersbachelorsprojects) presentations and obligatory quiz.
@@ -144,7 +144,7 @@ Normally, the seminar takes place on Mondays at 14.00 in the afternoon in our se
 -  March 6 &mdash; [Eve Mendoza](%base_url%/wiki/alumni/EveMendoza) &mdash; [Visualizing Objects In Pharo](%assets_url%/download/softwarecomposition/2018-03-06-Mendoza-Object_Set_Visualization.pdf) (Bachelors)
 -  Feb 20 &mdash; [MSc seminar topic](%base_url%/wiki/projects/mastersbachelorsprojects) presentations and obligatory quiz.
 -  Feb 13 &mdash; [Lars Wüthrich](%base_url%/wiki/alumni/LarsWuethrich) &mdash; [Writing A Shape Grammar Interpreter](%assets_url%/download/softwarecomposition/2018-02-13-Wuethrich-WritingAShapeGrammarInterpreter.pdf) (Bachelors)
--  Feb 6 &mdash; [Sébastien Broggi](%base_url%/wiki/alumni/SebastienBroggi) &mdash; [Bug prediction with neural nets](%assets_url%/download/softwarecomposition/2018-02-06-Broggi-BugPredictionWithNeural Nets.pdf) (Bachelors)
+-  Feb 6 &mdash; [Sébastien Broggi](%base_url%/wiki/alumni/SebastienBroggi) &mdash; [Bug prediction with neural nets](%assets_url%/download/softwarecomposition/2018-02-06-Broggi-BugPredictionWithNeural%20Nets.pdf) (Bachelors)
 -  Jan 30 &mdash; [Simon Curty](%base_url%/wiki/alumni/SimonCurty) &mdash; [A bug report classifier](%assets_url%/download/softwarecomposition/2018-01-30-Curty-IssueReportAssessment.pdf) (Bachelors)
 -  Jan 23 &mdash; [Timo Spring](%base_url%/wiki/alumni/TimoSpring) &mdash; [Benchmarking Android Security Analyses](%assets_url%/download/softwarecomposition/2018-01-23-Spring-Benchmarking_Android_Security_Analyses.pdf) (Bachelors)
 -  Jan 16 &mdash;[Andreas Hohler](%base_url%/wiki/alumni/AndreasHohler) &mdash; [BiCo: Towards an Infrastructure for Commit Analysis](%assets_url%/download/softwarecomposition/2018-01-16-AndreasHohler-BiCo.pdf) (Master)
@@ -162,7 +162,7 @@ Normally, the seminar takes place on Mondays at 14.00 in the afternoon in our se
 
 -  Dec 5
 	-  [Aliaksei Syrel](%base_url%/wiki/alumni/AliakseiSyrel) &mdash; The Moldable Editor (Bachelors)
-	-  Renato Corti &mdash; [Sandboxing Android app execution](%assets_url%/download/softwarecomposition/2017-12-05-Corti-Sandboxing an Android application.pdf) (Seminar)
+	-  Renato Corti &mdash; [Sandboxing Android app execution](%assets_url%/download/softwarecomposition/2017-12-05-Corti-Sandboxing%20an%20Android%20application.pdf) (Seminar)
 
 -  Nov 28
 	-  [Rathesan (Radi) Iyadurai](%base_url%/wiki/alumni/RadiIyadurai) &mdash; [Throwing Cool and the gang at Pharo](%assets_url%/download/softwarecomposition/2017-11-28-Radi-ThrowingCoolAtPharo.pdf) (Seminar)
@@ -229,8 +229,8 @@ Normally, the seminar takes place on Mondays at 14.00 in the afternoon in our se
 -  Nov 29 &mdash; Simon Curty &mdash; [Bug Report Classifier](%assets_url%/download/softwarecomposition/2016-11-29-Curty-Bug-Report-Classifier.pdf) (Bachelors)
 -  Nov 22 &mdash; [Claudio Corrodi](%base_url%/staff/Corrodi) &mdash; [Verifying Concurrency Runtimes using Graph Transformation Systems](%assets_url%/download/softwarecomposition/2016-11-22-Corrodi-scoop.pdf) (PhD)
 -  Nov 15 &mdash; Jakob Shaerer &mdash; [The Evolution of Exceptions in Java Systems](%assets_url%/download/softwarecomposition/2016-11-15-Schaerer-EvolutionOfExceptions.pdf) (Seminar)
--  Nov 08 &mdash; Mathias Fuchs &mdash; [Recognizing Structural Patterns](%assets_url%/download/softwarecomposition/2016-11-08-Fuchs-Recognising structural patterns in code.pdf) (Bachelors)
--  Nov 01 &mdash; Silas Berger &mdash; [Visually Mining Scientific Communities](%assets_url%/download/softwarecomposition/2016-11-01-Berger_ExtendedEggShell first presentation.pdf) (Bachelors)
+-  Nov 08 &mdash; Mathias Fuchs &mdash; [Recognizing Structural Patterns](%assets_url%/download/softwarecomposition/2016-11-08-Fuchs-Recognising%20structural%20patterns%20in%20code.pdf) (Bachelors)
+-  Nov 01 &mdash; Silas Berger &mdash; [Visually Mining Scientific Communities](%assets_url%/download/softwarecomposition/2016-11-01-Berger_ExtendedEggShell%20first%20presentation.pdf) (Bachelors)
 -  Oct 18
 	- [Aliaksei Syrel](%base_url%/wiki/alumni/AliakseiSyrel) &mdash; Towards moldable text editor for Pharo (Bachelors)
 	-  Luca Liechti &mdash; [Using Formal Concept Analysis to Infer Schemas for Semi-Structured Data](%assets_url%/download/softwarecomposition/2016-10-18-Liechti-FCA-SChemaInference.pdf) (Bachelors)
@@ -584,7 +584,7 @@ Normally, the seminar takes place on Mondays at 14.00 in the afternoon in our se
 -  March 17th: Stephane Ducasse "Moose Internals: adding Reference into Moose"
 -  March 17th: [Markus Gälli](%base_url%/wiki/alumni/markusglli) "E.g.: Enhancing understandability and testability of objects and methods by giving explicit examples" &mdash; February 3rd: Tobias Aebi: presenting diploma in work: type detection, high-level models
 -  27 January 2003, Stefan Kneubuehl, presenting diploma in work: "Typeful Compositional Styles"
--  20 January 2003, [Frank Buchli](%assets_url%/files/56/tohahzez5cmb9jvz9pr3x88nnaqkcv/Frank Buchli), presenting diploma work proposal: Detecting Software Patterns Using Formal Concept Analysis
+-  20 January 2003, [Frank Buchli](%assets_url%/files/56/tohahzez5cmb9jvz9pr3x88nnaqkcv/Frank%20Buchli), presenting diploma work proposal: Detecting Software Patterns Using Formal Concept Analysis
 - 6 January 2003, Andreas Schlapbach, master's thesis: <i>Enabling white-box reuse in a pure composition language.</i>. The thesis can be accessed: <a href="http://www.iam.unibe.ch/~schlpbch/mastersThesis.html">here.</a>
 
 ##2002
@@ -604,14 +604,14 @@ Normally, the seminar takes place on Mondays at 14.00 in the afternoon in our se
 ##2000
 
 - 11 December 2000, [Lukas Steiger](%base_url%/wiki/alumni/lukassteiger) &mdash; Evolution Recovery of Software Systems using Metrics"
-- 4 December 2000, [Roel Wuyts](%assets_url%/files/91/9zlw7q8c3gq2xbzqby21qgg56nsrzg/Roel Wuyts) &mdash; Logic Meta Programming for Co-evolution of Design and Implementation"
+- 4 December 2000, [Roel Wuyts](%assets_url%/files/91/9zlw7q8c3gq2xbzqby21qgg56nsrzg/Roel%20Wuyts) &mdash; Logic Meta Programming for Co-evolution of Design and Implementation"
 - 17 January 2000, Jean-Guy Schneider &mdash; "A Metamodel for Concurrent, Object-based Programming" (LMO2000 trial talk).
 
 ##1999 
 
 - 13 November: Serge Demeyer &mdash; (http://www.iam.unibe.ch/~demeyer/). "Object-Oriented Reengineering &mdash; The FAMOOS Experience". 
 - 29 November: Thomas Hofmann &mdash; Open Spaces 
-- 27 October: [Sander Tichelaar](%assets_url%/files/d2/fwlcmo5x2id8gh4wvl9jvw517ki6zh/Sander Tichelaar) &mdash; Language Independent Refactorings 
+- 27 October: [Sander Tichelaar](%assets_url%/files/d2/fwlcmo5x2id8gh4wvl9jvw517ki6zh/Sander%20Tichelaar) &mdash; Language Independent Refactorings 
 - 20 October: Serge Demeyer &mdash; Why Unified is not Universal. UML Shortcomings for Coping with Round-trip Engineering, (UML'99 Presentation) [http://www.iam.unibe.ch/~demeyer](http://www.iam.unibe.ch/~demeyer) 
 - 1 October: Michele Lanza &mdash; A Hybrid Reverse Engineering Approach Combining Metrics and Program Visualization (WCRE'99 Presentation) 
 - 1 October: Stephane Ducasse &mdash; Patterns for Reverse Engineering (WCRE'99 Presentation) 

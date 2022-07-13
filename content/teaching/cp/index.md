@@ -62,4 +62,4 @@ The weekly discussion will be held in presence in the classroom (conditions perm
 
 
 #Exercises
-[PLEASE READ THIS FIRST! - How to submit your solutions](%assets_url%/download/lectures/cp-exercises/PLEASE READ THIS FIRST!.pdf)
+[PLEASE READ THIS FIRST! - How to submit your solutions](%assets_url%/download/lectures/cp-exercises/PLEASE%20READ%20THIS%20FIRST!.pdf)

@@ -66,7 +66,7 @@ An MSE implementation MUST support all nodes and commands below
 
 Edit of February 24, 2009
 
--  Fixed format of floating point numbers, now covers all variations of Smalltalk, Java and C/C![MSE Specification](%base_url%/wiki/projects/archive/fame/msespecification) &mdash; gosh, and I assumed IEEE to be a standard.
+-  Fixed format of floating point numbers, now covers all variations of Smalltalk, Java and C/C- [MSE Specification](%base_url%/wiki/projects/archive/fame/msespecification) &mdash; gosh, and I assumed IEEE to be a standard.
 -  Removed references to deprecated idref command.
 
 Edit of December 3, 2007

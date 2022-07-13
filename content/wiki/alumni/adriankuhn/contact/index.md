@@ -2,7 +2,7 @@
 Title: Coordinates of Adrian Kuhn
 ---
 
-![Email of Adrian Kuhn](%base_url%/wiki/alumni/adriankuhn/email)
+- [Email of Adrian Kuhn](%base_url%/wiki/alumni/adriankuhn/email)
 
 My working office is Room 206 in [Schützenmattstrasse 14](http://map.search.ch/bern/schuetzenmattstrasse-14). 
 

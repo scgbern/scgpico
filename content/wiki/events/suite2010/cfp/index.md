@@ -2,7 +2,7 @@
 Title: Call for Papers
 ---
 
-![Important Dates](%base_url%/wiki/events/suite2010/dates)
+- [Important Dates](%base_url%/wiki/events/suite2010/dates)
 
 # Goals and Motivation
 
@@ -21,7 +21,7 @@ retrieval, user studies and HCI, benchmarking and evaluation.
 
 # Topics
 
-![Topics](%base_url%/wiki/events/suite2010/topics)
+- [Topics](%base_url%/wiki/events/suite2010/topics)
 
 # Intended Audience
 
@@ -65,4 +65,4 @@ Submissions can span one or more of the following general categories:
 
 # Organizing Committee
 
-![Organizing Committee](%base_url%/wiki/events/suite2010/committee)
+- [Organizing Committee](%base_url%/wiki/events/suite2010/committee)

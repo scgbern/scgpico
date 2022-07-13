@@ -1,5 +1,5 @@
 ---
-Title: Never say "allows to" again
+Title: Never say allows to again
 ---
 
 

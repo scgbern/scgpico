@@ -1,5 +1,5 @@
 ---
-Title: "Which" vs. "that"
+Title: Which vs. that
 ---
 
 

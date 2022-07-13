@@ -6,27 +6,19 @@ This file lists pending migration todos, past todos (done) and a brief FAQ.
 ---
 # To do
 
-* Fix embedded links
-	- Writing errors -- embedded pages broken
-		- Link style is +namedPage+
-		- Possible solution: use an iframe with a dedicated css to hide the header and footer
-
 * Check all links
 	- PB recommends https://linkchecker.github.io/linkchecker/
 	- fixed htaccess to allow file browsing
 	- /files and /archive links to be fixed to point to assets
 
-* What to do about composite scgbib queries? eg Publications scg-bp|scg-ip
-
 * Fix some broken tables
 	- Example: /staff/Nataliia-Stulova
 
 * Don't display sidebar if file is absent
+	- Alternatively add a default sidebar if one is missing
 
 * Fix sidebar to shift to bottom on small devices
 	- see example in main css style
-
-* Reduce the sizes of large images (esp. my home page)
 
 * ... Fix accented characters
 	* Use FIND-BAD-ACCENTS.command to find unusual chars
@@ -38,15 +30,36 @@ This file lists pending migration todos, past todos (done) and a brief FAQ.
 	- https://github.com/alejandroliu/ForceHttpsPlugin
 	- PB: needs a certificate
 
-* Fix handling of accents in scgbib
-	* Fix the back-end js-conversion script in the new scgbib github repo
-
 * Clean up scgbib repo
 	* set up github actions to test for errors and generate JS
 	* set up assets/scgbib as a clone that can be pulled (won't work on yogi due to old RSA implementation)
 
 ---
+# scgbib to do
+
+* Fix handling of accents in scgbib
+	* Fix the back-end js-conversion script in the new scgbib github repo
+
+* What to do about composite scgbib queries? eg Publications scg-bp|scg-ip
+
+---
 ## DONE
+
+- Reduce the sizes of large images (esp. my home page)
+
+- Fix embedded links
+	- Example: /wiki/howtos/commonwritingerrors
+	- Writing errors -- embedded pages broken
+		- Link style is +namedPage+
+		- Possible solution: use an iframe with a dedicated css to hide the header and footer
+	- See PM new allEmbeddedPageLinks -- there are 203 of them in 41 pages
+	- There is no easy way -- so just turn them into lists of links
+
+- Fixed spaces in URLs
+	- Must translate to %20
+
+- Fixed broken titles
+	- Must remove double quotes from meta header title
 
 - Fix display of PRValueLink links
 	- There are 9 types of these that display different kinds of things

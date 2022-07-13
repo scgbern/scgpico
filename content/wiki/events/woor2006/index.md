@@ -12,13 +12,13 @@ As with previous editions, the 7th edition will be hosted at the 20th European C
 Accepted position papers follow in random order with attending participants in bold:
 
 
--  (![WOOR2006 Paper 1](%assets_url%/files/b4/adwgv7x0ypmakwq7maysym1ar8plns/WOOR2006 Paper 1)) Reverse-engineering of UML 2.0 Sequence Diagrams from Execution Traces by <b>Romain Delamare</b>, <b>Benoit Baudry</b>, and Yves Le Traon. 
--  (![WOOR2006 Paper 2](%assets_url%/files/93/trgo527p6ecixiz5kv7ovvdc0ypl16/WOOR2006 Paper 2)) ModelExtractor: An Automatic Parametric Model Extractor by Régis Chevrel, Jean Bézivin, Hugo BruneliÃ¨re, Albin Jossic, William Piers, and Frédéric Jouault.
--  (![WOOR2006 Paper 3](%assets_url%/files/5a/t9yc7qpzm25mo1gf85jryltrqgrae5/WOOR2006 Paper 3)) Program Comprehension and Design Pattern Detection: An Experience Report by <b>Claudia Raibulet</b> and <b>Francesca Arcelli</b>.
--  (![WOOR2006 Paper 4](%assets_url%/files/4c/5k9twaxnemkejg17f4foc3b7oah7lk/WOOR2006 Paper 4)) Extending a Taxonomy of Bad Code Smells with Metrics by <b>RaÃºl Marticorena</b>, <b>Carlos López</b>, and Yania Crespo.
--  (![WOOR2006 Paper 5](%assets_url%/files/1d/ag0y5l6iq1r8kc2jo6q42vidinfm9w/WOOR2006 Paper 5)) Difference Visualization: Impact Interaction between Code and Model by <b>Susanne Jucknath-John</b> and Sebastian Doltze. 
--  (![WOOR2006 Paper 6](%assets_url%/files/0d/jdpg77fo45s9mpcz79oy56s9czlrjj/WOOR2006 Paper 6)) Correction of High-Level Design Defects with Refactorings by <b>Naouel Moha</b>, Saliha Bouden, and <b>Yann-Gaël Guéhéneuc</b>.
--  (![WOOR2006 Paper 7](%assets_url%/files/0d/dutkw8jbog10dsu16cyfafh4cvldh7/WOOR2006 Paper 7)) Refactoring of Assertions in Design by Contract by <b>Daniel Rodriguez</b>, Manonjaran Satpathy, Josep Covas, and Juan-Jose Cuadrado.
+-  (![WOOR2006 Paper 1](%assets_url%/files/b4/adwgv7x0ypmakwq7maysym1ar8plns/WOOR2006%20Paper%201)) Reverse-engineering of UML 2.0 Sequence Diagrams from Execution Traces by <b>Romain Delamare</b>, <b>Benoit Baudry</b>, and Yves Le Traon. 
+-  (![WOOR2006 Paper 2](%assets_url%/files/93/trgo527p6ecixiz5kv7ovvdc0ypl16/WOOR2006%20Paper%202)) ModelExtractor: An Automatic Parametric Model Extractor by Régis Chevrel, Jean Bézivin, Hugo BruneliÃ¨re, Albin Jossic, William Piers, and Frédéric Jouault.
+-  (![WOOR2006 Paper 3](%assets_url%/files/5a/t9yc7qpzm25mo1gf85jryltrqgrae5/WOOR2006%20Paper%203)) Program Comprehension and Design Pattern Detection: An Experience Report by <b>Claudia Raibulet</b> and <b>Francesca Arcelli</b>.
+-  (![WOOR2006 Paper 4](%assets_url%/files/4c/5k9twaxnemkejg17f4foc3b7oah7lk/WOOR2006%20Paper%204)) Extending a Taxonomy of Bad Code Smells with Metrics by <b>RaÃºl Marticorena</b>, <b>Carlos López</b>, and Yania Crespo.
+-  (![WOOR2006 Paper 5](%assets_url%/files/1d/ag0y5l6iq1r8kc2jo6q42vidinfm9w/WOOR2006%20Paper%205)) Difference Visualization: Impact Interaction between Code and Model by <b>Susanne Jucknath-John</b> and Sebastian Doltze. 
+-  (![WOOR2006 Paper 6](%assets_url%/files/0d/jdpg77fo45s9mpcz79oy56s9czlrjj/WOOR2006%20Paper%206)) Correction of High-Level Design Defects with Refactorings by <b>Naouel Moha</b>, Saliha Bouden, and <b>Yann-Gaël Guéhéneuc</b>.
+-  (![WOOR2006 Paper 7](%assets_url%/files/0d/dutkw8jbog10dsu16cyfafh4cvldh7/WOOR2006%20Paper%207)) Refactoring of Assertions in Design by Contract by <b>Daniel Rodriguez</b>, Manonjaran Satpathy, Josep Covas, and Juan-Jose Cuadrado.
 
 Other participants:
 
@@ -86,7 +86,7 @@ Specifically, the schedule so far is planned as:
 
 #Outcome of the Workshop
 
-This year again, the workshop has been successful in stirring new ideas and in creating new collaborations. In particular, the two "halves" of the workshop worked tirelessly to provide directions to some issues raised during the presentations (one half) and (other half) to sketch a solution to the research question "Are implicit design patterns useful in program comprehension" collaboratively. A workshop report and more detailled results will be posted here soon. In the meantime, here are some pictures of the participants: [WOOR2006 Photo 1](%assets_url%/files/56/oqftxrpzljsjydnmrpoip3qrxmupcw/WOOR2006 Photo 1) and [WOOR2006 Photo 2](%assets_url%/files/71/zr7ph0aikg24ch9bx1yp8ravi8z4cw/WOOR2006 Photo 2).
+This year again, the workshop has been successful in stirring new ideas and in creating new collaborations. In particular, the two "halves" of the workshop worked tirelessly to provide directions to some issues raised during the presentations (one half) and (other half) to sketch a solution to the research question "Are implicit design patterns useful in program comprehension" collaboratively. A workshop report and more detailled results will be posted here soon. In the meantime, here are some pictures of the participants: [WOOR2006 Photo 1](%assets_url%/files/56/oqftxrpzljsjydnmrpoip3qrxmupcw/WOOR2006%20Photo%201) and [WOOR2006 Photo 2](%assets_url%/files/71/zr7ph0aikg24ch9bx1yp8ravi8z4cw/WOOR2006%20Photo%202).
 
 
 ---
