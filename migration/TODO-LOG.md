@@ -11,8 +11,6 @@ This file lists pending migration todos, past todos (done) and a brief FAQ.
 	- fixed htaccess to allow file browsing
 	- /files and /archive links to be fixed to point to assets
 
-* Add a default sidebar for each page?
-
 * ... Fix accented characters
 	* Use FIND-BAD-ACCENTS.command to find unusual chars
 	* Use FIND-PAGES.command to find pages with those chars
@@ -21,9 +19,6 @@ This file lists pending migration todos, past todos (done) and a brief FAQ.
 
 ---
 # pico style to do
-
-* Don't display sidebar if file is absent
-	- Alternatively add a default sidebar if one is missing
 
 * Fix sidebar to shift to bottom on small devices
 	- see example in main css style
@@ -49,6 +44,8 @@ This file lists pending migration todos, past todos (done) and a brief FAQ.
 
 ---
 ## DONE
+
+- Changed background color of sidebar to white
 
 - Removed all ugly yellow spans (in fixaccents script)
 
