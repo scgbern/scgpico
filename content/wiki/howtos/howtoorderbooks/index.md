@@ -18,4 +18,4 @@ Please fill in the order form (the part about book information) and send it to [
 
 It is still possible to order books for permanent loan to our offices.  The library will deliver such books to us once a week.
 
-New: it is possible to mark books available to our students (âsemester depositoryâ) for courses.
+New: it is possible to mark books available to our students (“semester depository”) for courses.

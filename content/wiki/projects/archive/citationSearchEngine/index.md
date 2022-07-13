@@ -6,9 +6,9 @@ Title: CiteWise: The Citation Search Engine
 
 During the writing of a paper, one of the main difficulties is to find the right citation for some claims. For example: 
 
--  âDynamically-typed languages are more effective during development timeâ
--  âDevelopers spend most of their time in the IDEâ
--  âPredicting bugs at the module level is not usefulâ
+-  “Dynamically-typed languages are more effective during development time”
+-  “Developers spend most of their time in the IDE”
+-  “Predicting bugs at the module level is not useful”
 
 Such claims are needed in many situations to build up a nice argument in a paper but only if we put the right citations.
 

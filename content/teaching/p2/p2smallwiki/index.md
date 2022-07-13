@@ -1,8 +1,8 @@
 ---
-Title: P2 Ãbungensbetrieb
+Title: P2 Übungensbetrieb
 ---
 
-Die P2-Vorlesung bietet einen Einblick in den Objekt-orientierten Aufbau von Software-Anwendungen. Schwerpunkte werden auf iterative Entwicklung, Testen und Abstraktion gesetzt. Praktische Ãbungen werden mit Java und Smalltalk durchgeführt.
+Die P2-Vorlesung bietet einen Einblick in den Objekt-orientierten Aufbau von Software-Anwendungen. Schwerpunkte werden auf iterative Entwicklung, Testen und Abstraktion gesetzt. Praktische Übungen werden mit Java und Smalltalk durchgeführt.
 
 ## Wichtigste Addressen 
 
@@ -26,7 +26,7 @@ Die P2-Vorlesung bietet einen Einblick in den Objekt-orientierten Aufbau von Sof
 
 ---
 
-## Ãbungensbetrieb
+## Übungensbetrieb
 
 
 -  ???

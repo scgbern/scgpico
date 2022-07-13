@@ -50,7 +50,7 @@ Title: Survey
 -  [Grounded Theory(German)](http://de.wikipedia.org/wiki/Grounded_Theory)
 -  [Grounded Theory(English)](http://en.wikipedia.org/wiki/Grounded_theory)
 -  [Grounded theory: a thumbnail sketch](http://www.scu.edu.au/schools/gcm/ar/arp/grounded.html)
--  [Grounded Theory.Ein Ãberblick über ihre charakteristischen Merkmale](http://www.martin-dilger.de/science/grounded_theory.pdf), in particular III
+-  [Grounded Theory.Ein Überblick über ihre charakteristischen Merkmale](http://www.martin-dilger.de/science/grounded_theory.pdf), in particular III
 -  [http://www.pflegewiki.de/wiki/Grounded_Theory](http://www.pflegewiki.de/wiki/Grounded_Theory)
 -  [Keys to building an effective team](http://www.suite101.com/content/keys-to-building-an-effective-team-a74979) -> his criteria for a successful team, in brackets the corresponding items of our theory: 
 	- clear goals (*visibility)*, 
@@ -96,5 +96,5 @@ The Scrum wall/board is essential to the sucess of Scrum due to its informal, in
 -  At the beginning: no theory/hypothesis, just the examination area
 -  The theory is object of continuous modification/adaption
 -  individual cases enrich the theory
--  theoretical Coding: e.g. "Persons reads the manual for the video player" -> GT: "information retrieval" or âWhen I have arthritic pain, I take Aspirin. After a while I feel betterâ -> GT: "Condition: have, phenomen: arthritic pain, strategy: Aspirin, Consequence: feel better."
-- "Gütekriterien für eine gute Grounded Theory Studie sind: <br />1. Angemessenheit, d.h., die Theorie sollte dem realen Leben entsprechen<br />2. Verständlichkeit, d.h. sie sollte für Informanten und professionell Tätige verständlich und nachvollziehbarsein <br />3. Generalisierbarkeit, d.h. die sollte in einer Vielzahl von Â´SettingsÂ´und Kontexten anwendbar sein<br />4. Ãberprüfbarkeit, d.h. man soll nachvollziehen können, dass die Theorie wirklich aus den Daten gebildet wurden. "<br />
+-  theoretical Coding: e.g. "Persons reads the manual for the video player" -> GT: "information retrieval" or âWhen I have arthritic pain, I take Aspirin. After a while I feel better“ -> GT: "Condition: have, phenomen: arthritic pain, strategy: Aspirin, Consequence: feel better."
+- "Gütekriterien für eine gute Grounded Theory Studie sind: <br />1. Angemessenheit, d.h., die Theorie sollte dem realen Leben entsprechen<br />2. Verständlichkeit, d.h. sie sollte für Informanten und professionell Tätige verständlich und nachvollziehbarsein <br />3. Generalisierbarkeit, d.h. die sollte in einer Vielzahl von "Settings"und Kontexten anwendbar sein<br />4. Überprüfbarkeit, d.h. man soll nachvollziehen können, dass die Theorie wirklich aus den Daten gebildet wurden. "<br />

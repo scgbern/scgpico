@@ -60,7 +60,7 @@ TBA
 
 #Organizers
 
-- [FAST](http://fast.org.ar), FundaciÃ³n Argentina de Smalltalk
+- [FAST](http://fast.org.ar), Fundación Argentina de Smalltalk
 
 
 #Program chair

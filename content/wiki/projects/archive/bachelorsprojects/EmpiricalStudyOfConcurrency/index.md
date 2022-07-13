@@ -19,7 +19,7 @@ How to obtain large amounts of source code?
 -  Look at online repositories: Ohloh, SqueakSource, ScalaForge, RubyForge
 
 Challenge #2:
-How toÂ detect concurrency?
+How to detect concurrency?
 
 -  reserved keywords, basic APIs (synchronize, Thread, Runnable, wait(), notify(), etc.)
 -  well known APIs (e.g. java.util.concurrent)

@@ -53,7 +53,7 @@ How does this work in practice?
 
 Let's turn to our assertion problem. SUnit is an example of a specific library that has specific needs. In our case, if assert:equals: is present in the debugged stack, we want to show a diff view.
 
-To see it in action, re-trigger the debugger with the above snippet, then click on the small triangle from on top of the first pane (the actual user interface is going to change in the future, but for now it is enough to show the concept), and then choose â'Available Debuggers/SUnit Debugger'. You will get a new debugger like the one below.
+To see it in action, re-trigger the debugger with the above snippet, then click on the small triangle from on top of the first pane (the actual user interface is going to change in the future, but for now it is enough to show the concept), and then choose `'Available Debuggers/SUnit Debugger'. You will get a new debugger like the one below.
 
 ![http://humane-assessment.com/pierfiles/f5/lj4jzvpig6eyjtehm48ekk2t6gpyn9/sunit-debugger.png](http://humane-assessment.com/pierfiles/f5/lj4jzvpig6eyjtehm48ekk2t6gpyn9/sunit-debugger.png)
 

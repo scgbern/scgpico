@@ -8,7 +8,7 @@ Title: Custom_env
     <h1 class="heading">**[DYLA 2012](%base_url%/wiki/events/dyla2012)**</h1>
     <p> 6th Workshop on Dynamic Languages and Applications.
     <br/> Colocated with [26th European Conference on Object-Oriented Programming (ECOOP 2012)](http://ecoop12.cs.purdue.edu/)
-    <br/>11â16 June, **Beijing, China**
+    <br/>11&mdash;16 June, **Beijing, China**
     </p>
     <hr/>
   </div>  

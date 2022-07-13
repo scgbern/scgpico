@@ -38,7 +38,7 @@ More detailed information is available on my personal [web page](https://s0nata.
 ## Collaborations
 
 
-|*Change Patterns in Complex Systems* | [Gabriela LÃ³pez MagaÃ±a](https://www.zhaw.ch/en/about-us/person/lopm/) (ZHAW),  [Sebastiano Panichella](https://www.zhaw.ch/en/about-us/person/panc/)  (ZHAW)| 
+|*Change Patterns in Complex Systems* | [Gabriela López Magaña](https://www.zhaw.ch/en/about-us/person/lopm/) (ZHAW),  [Sebastiano Panichella](https://www.zhaw.ch/en/about-us/person/panc/)  (ZHAW)| 
 |---|---|---
 |*Comment Quality Metrics* | [Pooja Rani](http://scg.unibe.ch/staff/Pooja-Rani), [Arianna Blasi](https://www.inf.usi.ch/phd/blasia/) (USI-STAR), [Sebastiano Panichella](https://www.zhaw.ch/en/about-us/person/panc/)  (ZHAW), [Alessandra Gorla](https://software.imdea.org/~alessandra.gorla/) (IMDEA Software), [Oscar Nierstrasz](http://scg.unibe.ch/staff/oscar) |
 |*Tools for Agile Behavior Driven Development* | [Nitish Patkar](http://scg.unibe.ch/staff/NitishPatkar), [Andrei ChiÈ](http://scg.unibe.ch/staff/andreichis) (feenk gmbh) |

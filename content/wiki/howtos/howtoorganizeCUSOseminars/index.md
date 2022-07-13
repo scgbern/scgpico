@@ -41,7 +41,7 @@ Just keep in mind that the upper limit for a one-day seminar is 5000CHF. CC: Whe
 
 -  Create an course evaluation form using Google Forms. Send the link to the participants as soon as the event ends. When you get all responses, send the results to the speaker.
 -  Make sure you collect all the reimbursement forms from the participants, speaker, and organisers. The organizers/speakers have a different reimbursement form.
--  Write an âActivity Reportâ. It should contain a summary of the seminar (maximum 20 lines) and your evaluation of the seminar (maximum 15 lines).
+-  Write an “Activity Report”. It should contain a summary of the seminar (maximum 20 lines) and your evaluation of the seminar (maximum 15 lines).
 -  Pack the reimbursement forms, attendance lists, activity report and send them to the CUSO coordinator.
 
 ##Notes:

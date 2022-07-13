@@ -9,7 +9,7 @@ Title: Completed Tasks
 -  move [SCG Wiki](%base_url%/wiki) staff pages to [SCG Staff](%base_url%/staff)
 -  cron jobs to rsync archive and download from scg.unibe.ch to asterix
 -  support for localhost when you take Pier on the road with you
--  Setup the user rights
+-  Setup the user rights
 -  all broken 8-bit characters should be fixed now
 -  [SCG Alumni](%base_url%/wiki/alumni) links fixed
 -  RSS works for all pages (changes available to logged in users)

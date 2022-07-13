@@ -6,14 +6,14 @@ Title: Investigating developer's questions using web scraping
 <br><p>
 #Introduction
 We observed that developers ask various questions in online forums, mailings
-lists, etc. while working in software development teams.Â Â These questions are
+lists, etc. while working in software development teams.  These questions are
 about classes, functions, and project structure and target different development
 activities like dead-code elimination, testing, code analysis etc. The website Stack
 Overflow is a major source of questions that developers ask.
 
 #Problem
-While asking questions, developers markÂ their question with related topics called tags to achieve faster response times.Â Â The most popular tags emerge from the category of programming languages. However, people frequently do not assign development activities tags to the question.
-For example, the word âdebuggingâ exists in 387,432 questions, but only about
+While asking questions, developers mark their question with related topics called tags to achieve faster response times.  The most popular tags emerge from the category of programming languages. However, people frequently do not assign development activities tags to the question.
+For example, the word “debugging” exists in 387,432 questions, but only about
 10% questions have been assigned the corresponding tag.
 
 #Steps

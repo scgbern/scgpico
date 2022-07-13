@@ -28,7 +28,7 @@ is rarely the case in the current SCG bibliography file.
 
 Some tools exist that look up and fetch files from a given entry. One such 
 tool is *JabRef* (http://www.jabref.org/), a bibliography manager that 
-includes features that can obtain pdfs from sources like *GoogleÂ Scholar* 
+includes features that can obtain pdfs from sources like *Google Scholar* 
 (http://scholar.google.ch/), *arXiv* (https://arxiv.org/), etc. This, however, 
 is currently only usable through the GUI and it is hardly feasible to obtain a 
 large number of pdfs for a library as big as the SCG one.

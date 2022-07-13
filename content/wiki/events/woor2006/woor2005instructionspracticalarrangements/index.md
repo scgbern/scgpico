@@ -36,7 +36,7 @@ Below is a flexible schedule we will use for the workshop. The only constraints 
 <h4>    25 minute presentation by Yann-Gaël Guéhéneuc</h4>
         6. Danny Dig, Can Comertoglu, Darko Marinov, Ralph Johnson 
         Automatic Detection of Refactorings for Libraries and Frameworks
-        7. Carlos LÃ²pez, Yania Crespo, RaÃ¹l Marticorena
+        7. Carlos Lòpez, Yania Crespo, Raùl Marticorena
         Parallel Inheritance Hierarchy: Detection from a Static View of the System
         8. Naouel Moha, Yann-Gaël Guéhéneuc
         On the Automatic Detection and Correction of Software Architectural Defects in Object-Oriented Designs

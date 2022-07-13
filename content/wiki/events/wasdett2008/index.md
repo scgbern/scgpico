@@ -37,8 +37,8 @@ Please find below all submissions of WASDeTT 2008. To stimulate discussions at t
 -  Ahmad Waqas Kamal, Nick Kirtley and Paris Avgeriou. [Developing a Modeling Tool Using Eclipse](http://www.iam.unibe.ch/~scg/download/wasdett/wasdett2008-paper09.pdf)
 -  Arjan de Roo, Michiel Hendriks, Wilke Havinga, Pascal Durr and Lodewijk Bergmans. [Compose: a Language and Platform Independent Aspect Compiler for Composition Filters](http://www.iam.unibe.ch/~scg/download/wasdett/wasdett2008-paper10.pdf)
 -  Eelco Dolstra and Eelco Visser. [The Nix Build Farm: A Declarative Approach to Continuous Integration](http://www.iam.unibe.ch/~scg/download/wasdett/wasdett2008-paper11.pdf)     
--  ZoltÃ¡n Horvath, Laszlo Lovei, TÃ¡mas Kozsik and RÃ³bert Kitlei. [Building a Refactoring Tool for Erlang](http://www.iam.unibe.ch/~scg/download/wasdett/wasdett2008-paper12.pdf)     
--  Vasco T. Vasconcelos, Isabel Nunes, AntÃ³nia Lopes, Nuno Ramiro and Pedro Crispim. [Runtime Checking Java Code Using ConGu](http://www.iam.unibe.ch/~scg/download/wasdett/wasdett2008-paper13.pdf)
+-  Zoltán Horvath, Laszlo Lovei, Támas Kozsik and Róbert Kitlei. [Building a Refactoring Tool for Erlang](http://www.iam.unibe.ch/~scg/download/wasdett/wasdett2008-paper12.pdf)     
+-  Vasco T. Vasconcelos, Isabel Nunes, Antónia Lopes, Nuno Ramiro and Pedro Crispim. [Runtime Checking Java Code Using ConGu](http://www.iam.unibe.ch/~scg/download/wasdett/wasdett2008-paper13.pdf)
 -  Richard Wettel and Michele Lanza. [CodeCity](http://www.iam.unibe.ch/~scg/download/wasdett/wasdett2008-paper14.pdf)     
 -  Diomidis Spinellis. [CScout: A Refactoring Browser for C](http://www.iam.unibe.ch/~scg/download/wasdett/wasdett2008-paper15.pdf)
 

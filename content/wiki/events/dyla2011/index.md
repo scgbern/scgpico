@@ -64,7 +64,7 @@ During the day, we will collect idea and proposal for pair programming session. 
 
 #Submissions
 
-The workshop will have a demo-oriented style. The idea is to allow participants to demonstrate new and interesting features and discuss what they feel is relevant for the dynamic language community. Participants need to **submit a 2â4 page position paper **of their work in [ACM sig-alternate.cls](http://www.acm.org/sigs/publications/proceedings-templates) format. At the workshop, participants will be asked to give 10-minute âlightning demosâ of their contributions. 
+The workshop will have a demo-oriented style. The idea is to allow participants to demonstrate new and interesting features and discuss what they feel is relevant for the dynamic language community. Participants need to **submit a 2&mdash;4 page position paper **of their work in [ACM sig-alternate.cls](http://www.acm.org/sigs/publications/proceedings-templates) format. At the workshop, participants will be asked to give 10-minute “lightning demos” of their contributions. 
 
 Submission page is [https://www.easychair.org/account/signin.cgi?conf=dyla11](https://www.easychair.org/account/signin.cgi?conf=dyla11)
 
@@ -105,7 +105,7 @@ above, this should foster participation from all targeted communities.
 - [Tom van Cutsem](http://soft.vub.ac.be/~tvcutsem/), Vrije Universiteit Brussel
 - [Tom Dinkelaker](http://www.stg.tu-darmstadt.de/staff/tom_dinkelaker/), Technische Universität Darmstadt
 - [Johan Fabry](http://www.dcc.uchile.cl/~jfabry/Welcome.html), University of Chile 
-- [SebastiÃ¡n GonzÃ¡lez](http://www.info.ucl.ac.be/~sgm/coordinates.html), UC Louvain, Belgium
+- [Sebastián González](http://www.info.ucl.ac.be/~sgm/coordinates.html), UC Louvain, Belgium
 - [Roberto Ierusalimschy](http://www.inf.puc-rio.br/~roberto/), Pontifical University in Rio de Janeiro
 - [James Noble](http://homepages.ecs.vuw.ac.nz/~kjx/), Victoria University of Wellington
 - [Lukas Renggli](http://www.lukas-renggli.ch/), Google, Switzerland

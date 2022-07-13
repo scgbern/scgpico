@@ -10,7 +10,7 @@ Title: WOOR2005 Participants
 -     **Orla Greevy** <br> ![Characterizing the Functional Roles of Classes and Methods by Analyzing Feature Traces](%assets_url%/files/d7/y34c7ciznpq3poy2tgvccbuflha2tp/Characterizing the Functional Roles of Classes and Methods by Analyzing Feature Traces)
 -     **Danny Dig** (co-authors : Can Comertoglu, Darko Marinov, Ralph Johnson) <br> [Automatic Detection of Refactorings for Libraries and Frameworks](%assets_url%/files/02/wgzz48xp6ru2tvkj66aixdl2n8xuxm/Automatic Detection of Refactorings for Libraries and Frameworks)
 -     **RaÃºl Marticorena** (<a href="mailto:rmartico@ubu.es">rmartico@ubu.es</a>
-) \+ **Carlos LÃ³pez** (clopez@ubu.es) \+ Yania Crespo <br> [Parallel Inheritance Hierarchy Detection from a Static View of the System](%assets_url%/files/85/qb009d2szcyh7huuc6gc37zgnk5ok9/Parallel Inheritance Hierarchy Detection from a Static View of the System)
+) \+ **Carlos López** (clopez@ubu.es) \+ Yania Crespo <br> [Parallel Inheritance Hierarchy Detection from a Static View of the System](%assets_url%/files/85/qb009d2szcyh7huuc6gc37zgnk5ok9/Parallel Inheritance Hierarchy Detection from a Static View of the System)
 -     **Yann-Gaël** \+ Tewfik Ziadi <br> \*Automated Reverse-engineering of UML v2.0 Dynamic Models\*
 -     Naouel Moha \+ **Yann-Gaël Gueheneuc** <br> \*On the Automatic Detection and Correction of Software Architectural Defects in Object-Oriented Designs\*
 -     Nuno Flores \+ **Ademar Aguiar** (\*ademar.aguiar@fe.up.pt\*) <br> \*JFREEDOM: a Reverse Engineering Tool to Recover Framework Design\*

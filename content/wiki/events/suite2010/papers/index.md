@@ -92,7 +92,7 @@ introduce a trustability metric to help users assess the quality of code
 search results and therefore ease the cost-benefit analysis they undertake
 trying to find suitable integration candidates. The proposed trustability
 metric incorporates both user votes and cross-project activity of developers
-to calculate a âkarmaâ value for each developer. Through the karma value
+to calculate a “karma” value for each developer. Through the karma value
 of all its developers a project is ranked on a trustability scale. We present
 JBender, a proof-of-concept code search engine which implements our
 trustability metric and we discuss preliminary results from an evaluation of
@@ -138,7 +138,7 @@ We can report on an initial very promising assessment of the proposed
 technique, which has been applied to searching components in Java
 libraries providing container functionalities.
 
-### Fostering Synergies â How Semantic Web Technology could influence Software Repositories
+### Fostering Synergies &mdash; How Semantic Web Technology could influence Software Repositories
 
 -  Michael Würsch - Department of Informatics, University of Zurich, Switzerland
 -  Gerald Reif - Department of Informatics, University of Zurich, Switzerland

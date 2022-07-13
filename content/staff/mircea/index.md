@@ -17,7 +17,7 @@ Title: Mircea F. Lungu
 <div style="margin-left: 10px; background-color: #f4f4fb">
 I am a researcher at the Software Composition Group at the University of Berne. I work closely with [Oscar Nierstrasz](%base_url%/staff/oscar) and the members of [the group](http://scg.unibe.ch/staff).
 
-I got my PhD from the University of Lugano, with [Michele Lanza](http://www.inf.usi.ch/faculty/lanza/) as advisor and my engineer degree from the Polytechnic University of TimiÅoara, with a thesis supervised by [Radu Marinescu](http://bigfoot.cs.upt.ro/~radum/) and [Tudor Girba](http://tudorgirba.com). I was as a visiting researcher at IBM TJ Watson Research Center in NY with [Wim De Pauw](https://researcher.ibm.com/researcher/view.php?person=us-wim). 
+I got my PhD from the University of Lugano, with [Michele Lanza](http://www.inf.usi.ch/faculty/lanza/) as advisor and my engineer degree from the Polytechnic University of Timişoara, with a thesis supervised by [Radu Marinescu](http://bigfoot.cs.upt.ro/~radum/) and [Tudor Girba](http://tudorgirba.com). I was as a visiting researcher at IBM TJ Watson Research Center in NY with [Wim De Pauw](https://researcher.ibm.com/researcher/view.php?person=us-wim). 
 
 My research interests are in software engineering, software evolution, ecosystem analysis, programming languages, and mobile applications.
 </div>

@@ -33,4 +33,4 @@ Projects:
 -  <a href="http://scg.unibe.ch/scgbib?query=Schw11b&display=abstract">DoodleDebug, Objects Should Sketch Themselves For Code Understanding.</a>
 -  <a href="http://scg.unibe.ch/scgbib?query=Verw11a&display=abstract">Runtime Class Updates using Modification Models</a>
 -  <a href="http://scg.unibe.ch/scgbib?query=Schw10b&display=abstract">Hot Clones, Maintaining a Link Between Software Clones Across Repositories.</a>
--  <a href="http://scg.unibe.ch/scgbib?query=Schw09a&display=abstract">My Master's Thesis:  Rank aggregation by CriteriaââââMinimizing the maximum KT-distance</a>.
+-  <a href="http://scg.unibe.ch/scgbib?query=Schw09a&display=abstract">My Master's Thesis:  Rank aggregation by Criteria&mdash;&mdash;&mdash;&mdash;Minimizing the maximum KT-distance</a>.

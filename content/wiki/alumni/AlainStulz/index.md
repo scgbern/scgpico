@@ -10,7 +10,7 @@ During my studies, I have been working part-time as a software developer at [App
 
 In the beginnings, we mostly focused on apps in the event business, such as the Gurtenfestival or [Patrouille des Glaciers](Patrouille des Glaciers). Back then, we wrote a framework to help us create this kind of apps more effectively. It would be copied and reused from project to project. This included features like syncing data from a backend content management system, local caching, and showing content in premade but customizable views.
 
-Over the years, our business has shifted â nowadays we are creating many different kinds of apps, ranging from fitness guides and AR games to travel guides. Many features have been added to our framework to try and cope with these additional challenges, but it has not been well maintained. More often than not, we find ourselves struggling against lacking test coverage and poor documentation; rather than using the framework to save time. 
+Over the years, our business has shifted &mdash; nowadays we are creating many different kinds of apps, ranging from fitness guides and AR games to travel guides. Many features have been added to our framework to try and cope with these additional challenges, but it has not been well maintained. More often than not, we find ourselves struggling against lacking test coverage and poor documentation; rather than using the framework to save time. 
 
 ##My Goal
 

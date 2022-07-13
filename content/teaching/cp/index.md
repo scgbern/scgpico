@@ -37,7 +37,7 @@ On successful completion of this course, you will be able to:
 The final grade in the course will be based 30% on exercises and 70% on the final exam. 
 
 #Logistics
-This course will be held as a âflipped classroom.â Lectures will be made available as hour-long podcasts, with annotated slides available as PDFs. In addition there will be a weekly discussion session lasting 30 minutes to discuss the lecture material, carry out quizzes, and view live demos, followed by an exercise hour. Note that you are expected to study the lecture material in advance of the weekly discussion session.
+This course will be held as a “flipped classroom.” Lectures will be made available as hour-long podcasts, with annotated slides available as PDFs. In addition there will be a weekly discussion session lasting 30 minutes to discuss the lecture material, carry out quizzes, and view live demos, followed by an exercise hour. Note that you are expected to study the lecture material in advance of the weekly discussion session.
 
 The weekly discussion will be held in presence in the classroom (conditions permitting), but students will also be able to join remotely by Zoom. Details will be announced in the Ilias Forum.
 

@@ -17,7 +17,7 @@ Title: SMA: Software Modeling and Analysis
 
 #Description
 [![/download/oorp/pictures/oorp.jpg](%assets_url%/download/oorp/pictures/oorp.jpg)](http://scg.unibe.ch/download/oorp)[![/download/pharobyexample/pbe.jpg](%assets_url%/download/pharobyexample/pbe.jpg)](http://PharoByExample.org)Real software systems continuously evolve over time. As they evolve, they become harder to understand and maintain. In this course we will explore techniques to model complex software systems and analyze them to support program comprehension and reengineering tasks. 
-Most lectures will combine theoretical background and practical application of tools and techniques. A portion of this course will make heavy use of Smalltalk, a live programming environment that supports advanced reflection metaprogramming techniques. Some material is based on two openâsource textbooks: Pharo by Example, and Object-Oriented Reengineering Patterns.
+Most lectures will combine theoretical background and practical application of tools and techniques. A portion of this course will make heavy use of Smalltalk, a live programming environment that supports advanced reflection metaprogramming techniques. Some material is based on two open-source textbooks: Pharo by Example, and Object-Oriented Reengineering Patterns.
 
 #Learning Outcomes
 After the successful completion of this course, you will:
@@ -44,7 +44,7 @@ The final grade will be based 30% on the weekly assignments and 70% on the final
 |	5	|	14-Oct-20	|	[Moldable Development](https://tube.switch.ch/videos/326a1304) (Tudor Girba)
 |	6	|	21-Oct-20	|	[Software Visualization](https://tube.switch.ch/videos/1bc8d4e2) (Leonel Merino)
 |	7	|	28-Oct-20	|	[Software Metrics and Problem Detection](https://tube.switch.ch/videos/d924c305) (ON)
-| | | [Moldable Analysis with with Glamorous Toolkit](https://tube.switch.ch/videos/d1ec46a8) (Andrei ChiÅ)
+| | | [Moldable Analysis with with Glamorous Toolkit](https://tube.switch.ch/videos/d1ec46a8) (Andrei Chiş)
 |	8	|	4-Nov-20	|	[Code and Test Smells](https://tube.switch.ch/videos/fc080508) (Fabio Palomba)
 |	9	|	11-Nov-20	|	[Static Program Analysis](https://tube.switch.ch/videos/5ecee652)
 | | | [Dead Code Detection Demo](https://tube.switch.ch/videos/3a0bfa1d)

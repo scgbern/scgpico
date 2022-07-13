@@ -78,7 +78,7 @@ Please, be sure that you keep the audience entertained, interested and motivated
 
 # Submissions
 
-The workshop will have a demo-oriented style. The idea is to allow participants to demonstrate new and interesting features and discuss what they feel is relevant for the dynamic language community. Participants need to **submit a 2â4 page position paper **of their work in [ACM sig-alternate.cls](http://www.acm.org/sigs/publications/proceedings-templates) format. At the workshop, participants will be asked to give 10-minute âlightning demosâ of their contributions. 
+The workshop will have a demo-oriented style. The idea is to allow participants to demonstrate new and interesting features and discuss what they feel is relevant for the dynamic language community. Participants need to **submit a 2&mdash;4 page position paper **of their work in [ACM sig-alternate.cls](http://www.acm.org/sigs/publications/proceedings-templates) format. At the workshop, participants will be asked to give 10-minute “lightning demos” of their contributions. 
 
 Submission page is [https://www.easychair.org/login.cgi?conf=dyla10](https://www.easychair.org/login.cgi?conf=dyla10)
 

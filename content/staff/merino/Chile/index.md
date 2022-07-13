@@ -20,7 +20,7 @@ The best way to travel to far cities in the south or north. LAN is a national ai
 ##Train
 Almost nonexistent. However, the few ones which exist are in very well shape. You can use them to go to near cities, it is very cheap and safe (not much experience with them). There is a main train station close to the University (few metro stops) called Estacion Central. 
 #Food
-In the campus (at least 10 years agoâ¦ hehe). You could find a canteen in -1 level of computer science building, also there another place in the main building (crossing Beauchef street) under the terrace. Food in the University is really inexpensive, not the best quality though. In the neighbourhood you will also find plenty other places.
+In the campus (at least 10 years ago... hehe). You could find a canteen in -1 level of computer science building, also there another place in the main building (crossing Beauchef street) under the terrace. Food in the University is really inexpensive, not the best quality though. In the neighbourhood you will also find plenty other places.
 #Where to live
 Close to the University (so you can move around walking)
 #Language

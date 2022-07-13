@@ -38,7 +38,7 @@ Suite is a full day workshop.
 -  Session #4, **Ontologies && Evaluation**
 	-  Hummel, "Facilitating the Comparison of Software Retrieval Systems through a Reference Reuse Collection"
 	-  Paar, "Searching and Using External Types in an Extensible Software Development Environment"
-	-  Wursch, Reif, Demeyer, Gall, "Fostering Synergies â How Semantic Web Technology could influence Software Repositories"
+	-  Wursch, Reif, Demeyer, Gall, "Fostering Synergies &mdash; How Semantic Web Technology could influence Software Repositories"
 	-  Joint discussion&hellip;
 
 

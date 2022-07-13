@@ -34,7 +34,7 @@ Given below is the template to notify the students about.
 
 ### Exam structure checklist
 
--  Divide the exam into multiple appropriate sessions. Each session should have different sub-sessions such as âClarification of questionsâ,â Answering the questionsâ, âSubmitting the answersâ, and âVerifying received submissionsâ. The Exam questions (pdf) will be sent to students via Zoom chat.
+-  Divide the exam into multiple appropriate sessions. Each session should have different sub-sessions such as “Clarification of questions”,” Answering the questions”, “Submitting the answers”, and “Verifying received submissions”. The Exam questions (pdf) will be sent to students via Zoom chat.
 -  Due to a limited number of people views in a gallery view of a zoom call, you might have to organize multiple zoom calls (call groups).
 -  Assign students to the call groups and get an email account from Peppo for each call group so that you have all answers in the specific mailbox.
 -  Add all assistants in the mailbox to facilitate the parallelization of the submission's verification.
@@ -67,7 +67,7 @@ Students should set up their zoom account using @students.unibe email address
 -  Do not block any student's request by mistake as once you block the student, you can not add them back until you organise a new call.
 -  Before accepting a student in the call we should check that if he/she is registered for the exam on KLS. After accepting them in the call, make sure their camera is located in the mentioned position.
 -  Once verified all the students, share the presentation screen where they are provided with all session details. Describe the sub-sessions.
--  Send the questions pdf via zoom chat, and start the timer for the first sub-session ( questions clarification)  of the first session. The students can print the exam during this session and should ask the questions via zoom chat. Once this sub-session is over, start the next sub-session â answering the questions". Monitor students closely during this session. Inform the student for any suspicious activity.
+-  Send the questions pdf via zoom chat, and start the timer for the first sub-session ( questions clarification)  of the first session. The students can print the exam during this session and should ask the questions via zoom chat. Once this sub-session is over, start the next sub-session “ answering the questions". Monitor students closely during this session. Inform the student for any suspicious activity.
 -  After this sub-session, ask students to stop writing. The students should click the pictures of their answers and send the answers from their university email account to our exam email address with the specific format. Give students a 15 min break. Meanwhile, you verify the received answers to make sure they are readable. In case they are not, you should contact them and ask them to send again. All boundaries of the paper should be in the image and every question should ideally start from a new page, it makes the verification faster. 
 - Once you have received and verified all the emails, start the next session and repeat the same procedure of sub-sessions.
 -  After finishing all the planned sessions, make sure all students have sent their solutions and remind them to send the exam via post.

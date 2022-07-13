@@ -12,7 +12,7 @@ Title: Workshop participants
 -     **Orla Greevy** <br> [Characterizing the Functional Roles of Classes and Methods by Analyzing Feature Traces](%assets_url%/files/d7/y34c7ciznpq3poy2tgvccbuflha2tp/Characterizing the Functional Roles of Classes and Methods by Analyzing Feature Traces)
 -     **Danny Dig** (co-authors : Can Comertoglu, Darko Marinov, Ralph Johnson) <br> [Automatic Detection of Refactorings for Libraries and Frameworks](%assets_url%/files/02/wgzz48xp6ru2tvkj66aixdl2n8xuxm/Automatic Detection of Refactorings for Libraries and Frameworks)
 -     **RaÃºl Marticorena** (<a href="mailto:rmartico@ubu.es">rmartico@ubu.es</a>
-) \+ **Carlos LÃ³pez** (<a href="mailto:clopez@ubu.es">clopez@ubu.es</a>
+) \+ **Carlos López** (<a href="mailto:clopez@ubu.es">clopez@ubu.es</a>
 ) \+ Yania Crespo <br> \*../parallelinheritancehierarchydetectionfromastaticviewofthesystem\*
 -     **Yann-Gaël** \+ Tewfik Ziadi <br> \*Automated Reverse-engineering of UML v2.0 Dynamic Models\*
 -     Naouel Moha \+ **Yann-Gaël Gueheneuc** <br> \*On the Automatic Detection and Correction of Software Architectural Defects in Object-Oriented Designs\*

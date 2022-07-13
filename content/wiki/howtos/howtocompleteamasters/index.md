@@ -4,7 +4,7 @@ Title: How to complete a Masters
 
 As of September 2012, there is a new procedure concerning the master thesis.
 
--  there is a new form âMaster Thesisâ which must be completed when you supervise a master student;
+-  there is a new form “Master Thesis” which must be completed when you supervise a master student;
 -  before starting the master thesis, the JMCS secretariat checks if a student is allowed to start his/her master thesis;
 -  for students who already began their master thesis, please also complete the mentioned form at the end of the master thesis (only page 2).
 For details consult the [JMCS web site](http://mcs.unibnf.ch/organization/master-thesis).

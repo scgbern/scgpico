@@ -21,7 +21,7 @@ The goal of this workshop is to act as a forum where we can discuss new advances
 
 
 The workshop will have a demo-oriented style. The idea is to allow participants to demonstrate new and interesting features and discuss what they feel is relevant for the dynamic language community. All participants need to submit a two-page description ([LNCS format](http://www.springer.com/)) of their presentation or/and tool demonstration.
-Each accepted paper will be presented for 20â30 minutes. Moreover, all workshop attendees will have the opportunity, if they wish, to give 10-minute âlightning demosâ of whatever they bring with them. A dedicated session will be allocated for this, provided there is ample time available.
+Each accepted paper will be presented for 20&mdash;30 minutes. Moreover, all workshop attendees will have the opportunity, if they wish, to give 10-minute “lightning demos” of whatever they bring with them. A dedicated session will be allocated for this, provided there is ample time available.
 A session on pair programming is also planned. People will then get a chance to share their technology by closely interacting with other participants.
 
 Submission page is [http://www.easychair.org/conferences/?conf=dyla2012](http://www.easychair.org/conferences/?conf=dyla2012)

@@ -24,6 +24,6 @@ Who's attending the [Trait-based Language International Workshop](%base_url%/wik
 -  Adrian Lienhard, UBE Switzerland
 -  Lukas Renggli, UBE Switzerland
 -  Marcus Denker, UBE Switzerland
--  SebastiÃ¡n GonzÃ¡lez, UCL Belgium
+-  Sebastián González, UCL Belgium
 -  Tudor Girba, UBE Switzerland
 -  Lukas Renggli, UBE Switzerland

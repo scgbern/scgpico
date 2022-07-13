@@ -36,13 +36,13 @@ Normally, the seminar takes place on Mondays at 14.00 in the afternoon in our se
 -  June 16 &mdash; [Pooja Rani](%base_url%/staff/Pooja-Rani) &mdash; [Tips and tricks to organize an online course and the exam](%assets_url%/download/softwarecomposition/2020-06-16-Organize-online-course-exam-Pooja-Rani.pdf)
 -  June 9 &mdash; [Noah Bühlmann](%base_url%/wiki/alumni/NoahBuehlmann) &mdash; [Exploring Security Issues in Open Source Software](%assets_url%/download/softwarecomposition/2020-06-09-Buehlmann-SecurityIssuesOSS.pdf) (final BSc presentation)
 -  June 2 &mdash; [Julian Weyermann](%base_url%/wiki/alumni/JulianWeyermann) &mdash; [Simple MLE Deployer &mdash; A Tool for deploying JavaScript to Oracle's Multilingual Engine](%assets_url%/download/softwarecomposition/2020-06-02-Weyermann-SimpleMLEDeployer.pdf) (final BSc presentation)
--  May 26 &mdash; [Andreas Wälchli](%base_url%/wiki/alumni/AndreasWaelchli) &mdash; [A Sampling Profiler for JITing in Å](%assets_url%/download/softwarecomposition/2020-05-26-Waelchli-SamplingProfiler.pdf) (final MSc presentation)
+-  May 26 &mdash; [Andreas Wälchli](%base_url%/wiki/alumni/AndreasWaelchli) &mdash; [A Sampling Profiler for JITing in Ř](%assets_url%/download/softwarecomposition/2020-05-26-Waelchli-SamplingProfiler.pdf) (final MSc presentation)
 -  May 19 &mdash; [Mathias Birrer](%base_url%/wiki/alumni/MathiasBirrer) &mdash; [Investigating developers' information needs on social media](%assets_url%/download/softwarecomposition/2020-05-19-Msc-Mathias-InvestigationOfDevelopersInformationNeeds.pdf)
 -  May 12 &mdash; [Nataliia Stulova](%base_url%/staff/Nataliia-Stulova) &mdash; [Keeping documentation up to date with the source code](%assets_url%/download/softwarecomposition/2020-05-12-Stulova-DocumentationSourceCode.pdf)
 -  May 5 &mdash; [Said Ali](%base_url%/wiki/alumni/SaidAli) &mdash; [Profiling Cryptography Developers](%assets_url%/download/softwarecomposition/2020-05-05-Ali-ProfilingCryptoDevelopers.pdf) (first BSc presentation)
 -  Apr 28 &mdash; [Ivan Kravchenko](%base_url%/wiki/alumni/IvanKravchenko) &mdash; [Moldable scenarios](%base_url%/wiki/projects/mastersbachelorsprojects/From-user-stories-to-live-documentation) (first MSc presentation)
 -  Mar 31 &mdash; [Brian Schweigler](%base_url%/wiki/students/BrianSchweigler) &mdash; [An Investigation into Vulnerability Databases](%assets_url%/download/softwarecomposition/2020-03-31-Schweigler-VulnerabilityInvestigations.pdf) (final Bachelors presentation)
--  Mar 17 &mdash; [Andreas Wälchli](%base_url%/wiki/alumni/AndreasWaelchli) &mdash; [A Sampling Profiler for JITing in Å](%assets_url%/download/softwarecomposition/2020-03-17-Waelchli-SamplingProfiler.pdf) (first Masters presentation)
+-  Mar 17 &mdash; [Andreas Wälchli](%base_url%/wiki/alumni/AndreasWaelchli) &mdash; [A Sampling Profiler for JITing in Ř](%assets_url%/download/softwarecomposition/2020-03-17-Waelchli-SamplingProfiler.pdf) (first Masters presentation)
 -  Mar 3 &mdash; [Pascal Gerig](%base_url%/wiki/alumni/PascalGerig) &mdash; [Phishing on Demand](%assets_url%/download/softwarecomposition/2020-03-03-Gerig-PhishingOnDemand.pdf) (final Bachelors presentation)
 -  Feb 11 
 	-  [Timm Gross ](%base_url%/wiki/alumni/TimmGross) &mdash; [Threats to validity in TDD research](%assets_url%/download/softwarecomposition/2020-02-11-Gross-ThreatsToTDDResearch.pdf) (final Bachelors presentation)
@@ -68,7 +68,7 @@ Normally, the seminar takes place on Mondays at 14.00 in the afternoon in our se
 -  Dec 3 &mdash;Jonas Diesbach &mdash; [Paper Hunter](%assets_url%/download/softwarecomposition/2019-12-03-JonasDiesbach&mdash;PaperHunter.pdf) (seminar)
 -  Nov 26 &mdash; Ivan Kravchenko &mdash; [Class commenting practices in Java](%assets_url%/download/softwarecomposition/2019-11-26-Ivan-classCommentAnalysis.pdf) (Seminar)
 -  Nov 12 &mdash; [Dean Klopsch](%base_url%/wiki/alumni/DeanKlopsch) &mdash; [Learning from nature: How nature resolves security issues](%assets_url%/download/softwarecomposition/2019-11-12-Klopsch-LearningFromNature.pdf) (Bachelors, first presentation)
--  Nov 5 &mdash; [Olivier Flückiger](%base_url%/staff/oli) &mdash; [Å Melts Brains](%assets_url%/download/softwarecomposition/2019-11-05-Flueckiger-R.pdf) (SPLASH 2019 presentation)
+-  Nov 5 &mdash; [Olivier Flückiger](%base_url%/staff/oli) &mdash; [Ř Melts Brains](%assets_url%/download/softwarecomposition/2019-11-05-Flueckiger-R.pdf) (SPLASH 2019 presentation)
 -  Oct 29 &mdash; [Pascal Gerig](%base_url%/wiki/alumni/PascalGerig) &mdash; [Phishing on Demand](%assets_url%/download/softwarecomposition/2019-10-29-Gerig-PhishingOnDemand.pdf) (Bachelors, first presentation)
 -  Oct 15 &mdash; [Brian Schweigler](%base_url%/wiki/students/BrianSchweigler) &mdash; [The Life of a Bug Report](%assets_url%/download/softwarecomposition/2019-10-15-Schweigler-LifeOfBugReport.pdf) (Bachelors, first presentation)
 -  Oct 1 &mdash; [Alain Stulz](%base_url%/wiki/alumni/AlainStulz) &mdash; [Identifying and reducing technical debt in an iOS app framework](%assets_url%/download/softwarecomposition/2019-10-01-Stulz-AppsWithLove.pdf) (Bachelors, first presentation)
@@ -187,7 +187,7 @@ Normally, the seminar takes place on Mondays at 14.00 in the afternoon in our se
 	-  Lukas Imstepf &mdash; [How are Software Visualizations Evaluated? Results](%assets_url%/download/softwarecomposition/2017-06-27-LukasImstepf-VisualizationEvaluation.pdf) (Seminar)
 
 -  June 20
-	-  [Roger Stebler](%base_url%/wiki/alumni/RogerStebler) &mdash; [An empirical investigation intothe usage of a live debugger](%assets_url%/download/softwarecomposition/2017-06-20-Stebler-Live-Debugger-Investigation.pdf) (MSc)
+	-  [Roger Stebler](%base_url%/wiki/alumni/RogerStebler) &mdash; [An empirical investigation intothe usage of a live debugger](%assets_url%/download/softwarecomposition/2017-06-20-Stebler-Live-Debugger-Investigation.pdf) (MSc)
 	-  Aleksei Kosozhikhin &mdash; [Type hints from method argument names (Seminar)](%assets_url%/download/softwarecomposition/2017-06-20-Kosozhikhin-Type-Hints.pdf)
 
 -  May 30 &mdash; [Leonel Merino](%base_url%/staff/merino) &mdash; Demo CityVR: A Visualization Tool to Gamify Software Comprehension
@@ -284,7 +284,7 @@ Normally, the seminar takes place on Mondays at 14.00 in the afternoon in our se
 	-  Aliaksei Syrel &mdash; [Modelling scripts using Snippets](%assets_url%/download/softwarecomposition/2015-06-02-Syrel-ModellingScriptsUsingSnippets.pdf) (Bachelors)
 	-  [Andrea Caracciolo](%base_url%/staff/Caracciolo) &mdash; WICSA \+ ICSE	
 
--  May 26 - Ensar GuneÅdoÄdu &mdash; [Bug Prediction Made Easy](%assets_url%/download/softwarecomposition/2015-05-26-Ensar-Bug-Prediction.pdf) (Seminar)
+-  May 26 - Ensar Guneşdoğdu &mdash; [Bug Prediction Made Easy](%assets_url%/download/softwarecomposition/2015-05-26-Ensar-Bug-Prediction.pdf) (Seminar)
 -  May 19 - [Aliya Ibragimova](%base_url%/wiki/alumni/AliyaIbragimova) &mdash; [CiteWise: A Citation Search Engine](%assets_url%/download/softwarecomposition/2015-05-19-Aliya-Citewise.pdf) (Bachelors)
 -  May 5 - Manuel Leuenberger &mdash; [Null Check Analysis in Java Code](%assets_url%/download/softwarecomposition/2015-05-05-Leuenberger-NullCheck.pdf) (Seminar)
 -  April 28 - [Nevena Milojković](%base_url%/staff/Milojkovic) &mdash; ICPC rehearsal ["Polymorphism in the Spotlight: Studying its Prevalence in Java and Smalltalk"](%assets_url%/download/softwarecomposition/2015-04-28-Milojkovic-ICPC2015.pdf) (ICPC rehearsal)
@@ -349,7 +349,7 @@ Normally, the seminar takes place on Mondays at 14.00 in the afternoon in our se
 -  Dec 17 - Marcel: Lego EV3
 -  Dec 3 - [Olivier Flückiger](%base_url%/staff/oli): What you (didn't) want to know about V8.
 -  Oct 29 - [Oscar Nierstrasz](%base_url%/staff/oscar): What I learned from [Rascal](http://www.rascal-mpl.org/) &mdash; ***NB: seminar exceptionally @ 14h00!***
--  Oct 8 - Erik Aeschlimann: Analyzing PL/1 Legacy Ecosystems â An Experience Report
+-  Oct 8 - Erik Aeschlimann: Analyzing PL/1 Legacy Ecosystems &mdash; An Experience Report
 -  Oct 8 - [Niko Schwarz](%base_url%/staff/Schwarz): Cells &mdash; run pipelines of map/reduce jobs.
 -  Sep 25 - Adrian Kuhn: Live Coding, or Putting the Thinking Loop Back into Programming
 -  Aug 20 - David Wettstein: Analyzing Java System Properties
@@ -382,7 +382,7 @@ Normally, the seminar takes place on Mondays at 14.00 in the afternoon in our se
 -  Oct 2 - Manuel Leuenberger: Talented Streams
 -  Aug 14 - Jan Kurs: Agile Modeling
 -  June 26 - Ramon Wenger: Modeling Water Infiltration with JavaScript (part 2)
--  May 22 - Frederic Aebi â DCD6, Dead Code Detection Tool
+-  May 22 - Frederic Aebi &mdash; DCD6, Dead Code Detection Tool
 -  May 15 - Jan Kurs: Language Interoperability
 -  May 8 - Andrea Caracciolo: DBP &mdash; A Benchmark for Design Pattern Detection Tools
 -  Apr 3 - Michael Rüfenacht: Enable the Analysis of PHP Applications

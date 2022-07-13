@@ -3,8 +3,8 @@ Title: Pooja Rani
 ---
 
 <div class="contents column span-16"><p>I am a postdoctoral researcher in the [Software Engineering Group](https://seg.inf.unibe.ch/). I have been a PhD Candidate at the University of Bern in the Software Composition Group from January 2018-January 2022. Prior to this, I have done masters in software system from the 
-    <a title="http://www.bits-pilani.ac.inâ class=" external" href=" http://www.bits-pilani.ac.in">Birla Institute of Technology and Science-Pilani</a>
-                                                                                                     During my masters, I have worked on âSoftware Fault Tree Analysisâ which is a safety analysis technique to identify a software-related error in early design phase from UML model.</p>
+    <a title="http://www.bits-pilani.ac.in” class=" external" href=" http://www.bits-pilani.ac.in">Birla Institute of Technology and Science-Pilani</a>
+                                                                                                     During my masters, I have worked on “Software Fault Tree Analysis” which is a safety analysis technique to identify a software-related error in early design phase from UML model.</p>
 <h1> Research Interest </h1>
 <p>
 As the complexity of software system increase, it becomes more important to tackle the future problem in the early stages.  To support developers in building these complex systems we require tools which can support rapid development, understanding the system, re-using the existing system, reduce testing effort, and automate various tasks for them. My research interest lies in supporting developers with various tools in their IDEs. 

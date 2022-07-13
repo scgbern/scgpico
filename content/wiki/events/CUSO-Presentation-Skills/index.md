@@ -26,9 +26,9 @@ Participants are required to bring their smart phone/tablet and headphones for s
 
 11:15 - 12:45.
 
-- Debrief â first Action Plan Items
+- Debrief &mdash; first Action Plan Items
 - What do I want / need to achieve with my Presentation?  
-- The âWIIFMâ factor (What Is It For Me?)
+- The “WIIFM” factor (What Is It For Me?)
 - Competence VS Likability for professionals
 - Structure your Message Effectively
 *12.45. Lunch Break.*

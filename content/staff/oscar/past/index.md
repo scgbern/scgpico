@@ -28,7 +28,7 @@ Title: Past events
 - *General Co-Chair* for [SCAM 2016](http://www.ieee-scam.org/2016/) (International Working Conference on Source Code Analysis and Manipulation &mdash; Raleigh, North Carolina, Oct. 2-3, 2016)
 - *PC Member* of [ICSME 2016](http://icsme2016.github.io) (International Conference on Software Maintenance and Evolution &mdash; Raleigh, North Carolina, Oct. 2-10 2016)
 - *PC Member* of [Onward! 2016 Essays Track](http://conf.researchr.org/track/onward2016/onward2016-essays) (Splash / Onward! 2016 &mdash;  Amsterdam, The Netherlands, Oct. 30 - Nov. 4, 2016)
--  *Invited Speaker* at [SATToSE 2016](http://sattose.org/2016/) (9th Seminar Series on Advanced Techniques &amp; Tools for Software Evolution &mdash; Bergen, Norway, July 11â13, 2016)
+-  *Invited Speaker* at [SATToSE 2016](http://sattose.org/2016/) (9th Seminar Series on Advanced Techniques &amp; Tools for Software Evolution &mdash; Bergen, Norway, July 11&mdash;13, 2016)
 -  *Co-organizer* of [Engineering Academic Software](http://www.dagstuhl.de/en/program/calendar/semhp/?semnr=16252) (Dagstuhl Perspectives Workshop 16252 &mdash; Dagstuhl, Germany, June 19-24, 2016)
 -  *Invited Speaker* at [FASE-ETAPS 2016](http://www.etaps.org/index.php/2016/fase) (19th International Conference on Fundamental Approaches to Software Engineering (FASE) &mdash; Eindhoven, The Netherlands, April 4-7, 2016)
 - *PC Member* of [SANER 2016](http://saner.inf.usi.ch) (International Conference on Software Analysis, Evolution, and Reengineering &mdash;  Osaka, Japan, March 14-18, 2016)
@@ -43,7 +43,7 @@ Title: Past events
 
 -  *Invited Speaker* at INRIA Lille: [Domain-Specific Tooling](http://www.colloquiumpolaris.fr/fr/collection/49) (Nov. 20, 2014)
 - *PC Member* of [DLS 2014](http://www.dynamic-languages-symposium.org/dls-14/index.html) (Dynamic Languages Symposium &mdash; colocated with [SPLASH 2014](http://splashcon.org/2014) &mdash; Portland, US, Oct 21, 2014)
-- *PC Member* of [SLE 2014](http://www.sleconf.org/2014/) (7th International Conference on Software Language Engineering &mdash;  VästerÃ¥s, Sweden, Sept 14-15, 2014)
+- *PC Member* of [SLE 2014](http://www.sleconf.org/2014/) (7th International Conference on Software Language Engineering &mdash;  Västerås, Sweden, Sept 14-15, 2014)
 - *PC Member* of [CSMR-WCRE-ERA](http://ansymo.ua.ac.be/csmr-wcre/submission/ERA-Papers) (European Conference on Software Maintenance and Reengineering/Working Conference on Reverse Engineering &mdash; Antwerp, Belgium, Feb 3-7, 2014)
 ##2013
 
@@ -84,8 +84,8 @@ Title: Past events
 - *Keynote speaker* for [TOOLS 2011](http://toolseurope2011.lcc.uma.es/) (49th International Conference on Objects, Models, Components and Patterns &mdash; Zurich, Switzerland, 27 June - 01 July 2011)
 - *PC Member* for [ICMT 2011](http://www.model-transformation.org/) (International Conference on Model Transformation &mdash; Zurich - Switzerland, 27 - 28 June, 2011)
 - *PC Member* of [OOPS 2011](http://oops.disi.unige.it/OOPS11/) (Special track on Object-Oriented Programming Languages and Systems at [SAC 2011](http://www.acm.org/conferences/sac/sac2011/) &mdash; Tunghai University, TaiChung, Taiwan, Mar 21-25, 2011
-- *PC Member* of [CSMR 2011](http://se.uni-oldenburg.de/csmr2011/index.html) (5th European Conference on Software Maintenance and Reengineering &mdash; Oldenburg, Germany, March 1â4, 2011)
-- *PC Member* of [SE 2011](http://se2011.ipd.kit.edu/) (Software Engineering 2011 &mdash; Karlsruhe, Germany, Feb 21â25 2011)
+- *PC Member* of [CSMR 2011](http://se.uni-oldenburg.de/csmr2011/index.html) (5th European Conference on Software Maintenance and Reengineering &mdash; Oldenburg, Germany, March 1&mdash;4, 2011)
+- *PC Member* of [SE 2011](http://se2011.ipd.kit.edu/) (Software Engineering 2011 &mdash; Karlsruhe, Germany, Feb 21&mdash;25 2011)
 - *PC Member* of [C5](http://www.cm.is.ritsumei.ac.jp/c5-11/) (The Ninth International Conference on Creating, Connecting and Collaborating through Computing &mdash; Kyoto University, Kyoto, Japan, 18-20 January 2011)
 - *Co-organizer* of [FOSD Dagstuhl Workshop](http://www.dagstuhl.de/de/programm/kalender/semhp/?semnr=11021) (Feature-Oriented Software Development &mdash; Schloss Dagstuhl, Germany, January 9-14, 2011)
 ##2010
@@ -100,7 +100,7 @@ Title: Past events
 - *PC Member* of [Suite 2010](%base_url%/wiki/events/suite2010) (2nd Intl. Workshop on Search-driven development: Users, Infrastructure, Tools and Evaluation. Colocated with [ICSE 2010](http://www.sbs.co.za/ICSE2010/),  Cape Town, South Africa, May 1st, 2010)
 - *PC Member* of [WETSoM 2010](http://www.rcost.unisannio.it/wetsom2010/Home.html) (Workshop on Emerging Trends in Software Metrics. Colocated with [ICSE 2010](http://www.sbs.co.za/ICSE2010/),  Cape Town, South Africa, May 4th, 2010)
 - *PC Member* of [OOPS 2010](http://oops.disi.unige.it/OOPS10/) (Special track on Object-Oriented Programming Languages and Systems at [SAC 2010](http://www.acm.org/conferences/sac/sac2010/) &mdash; Sierre/Lausanne, Switzerland, Mar 22-26, 2010
-- *Invited Speaker* at [SOFSEM 2010](http://www.sofsem.cz/sofsem10/) (36th International Conference on Current Trends in Theory and Practice of Computer Science,  Principles of Software Construction track &mdash; Å pindlerÅ¯v MlÃ½n, Czech Republic, January 23â29, 2010)
+- *Invited Speaker* at [SOFSEM 2010](http://www.sofsem.cz/sofsem10/) (36th International Conference on Current Trends in Theory and Practice of Computer Science,  Principles of Software Construction track &mdash; Špindlerův Mlýn, Czech Republic, January 23&mdash;29, 2010)
 ##2009
 
 - *Invited Speaker* on [Die Evolution von Programmiersprachen](http://www.uniaktuell.unibe.ch/content/hintergrund/2009/programmiersprachen/) in the Collegium Generale lecture series [Wovon man nicht sprechen kann, darüber muss man schweigen: Natürliche und formale Sprachen in den Wissenschaften](http://www.collegiumgenerale.unibe.ch/content/vorlesungsreihen/vorlesungsreihe_sprachen/index_ger.html) (University of Bern &mdash; Oct 28, 2009)

@@ -11,7 +11,7 @@ Identifying a certain kind of information in the comment is a challenging task d
 #Example
 A class named "MouseClickState" describe its responsibility with a sentence: "I manage the distinction between clicks, double clicks, and drag operations."
 
-In Pharo class-comments, a sentence is composed as we express in English using SVO. In most of the cases, a class is referred like first person entity âIâ and then all the information present in the comment is referred in a similar way. There are lots of information available in class comments like what responsibilities a class have, what a class knows, whom it collaborates with, and code snippet as an example to tell the implementation details.
+In Pharo class-comments, a sentence is composed as we express in English using SVO. In most of the cases, a class is referred like first person entity “I” and then all the information present in the comment is referred in a similar way. There are lots of information available in class comments like what responsibilities a class have, what a class knows, whom it collaborates with, and code snippet as an example to tell the implementation details.
 
 #Aim
 Our aim is to perform a pilot study to identify the patterns for the responsibility of a class from the comment and extract it. This is helpful in particular to highlight the important information from the comment and find inconsistent information in the comment. 

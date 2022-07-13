@@ -13,7 +13,7 @@ A simple language extension that adds roman number literals to the host language
 
 #Grammar Definition
 
-This language is used to specify grammars for [PEG parsers](http://en.wikipedia.org/wiki/Parsing_expression_grammar) using an [EBNF](http://en.wikipedia.org/wiki/Extended_BackusâNaur_Form) like syntax. The possibility to use EBNF productions within the code of the host language raises the conciseness of grammars definitions considerably.
+This language is used to specify grammars for [PEG parsers](http://en.wikipedia.org/wiki/Parsing_expression_grammar) using an [EBNF](http://en.wikipedia.org/wiki/Extended_Backus&mdash;Naur_Form) like syntax. The possibility to use EBNF productions within the code of the host language raises the conciseness of grammars definitions considerably.
 
 ```digit = "0" | "1" | ... | "9" ;
 number = [ "-" ] digit { digit } [ "." digit { digit } ] ;

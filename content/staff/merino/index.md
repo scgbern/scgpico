@@ -128,7 +128,7 @@ My main research interests are in the areas of software visualization, program c
 - [Pangea in Smalltalk](%base_url%/staff/merino/oo-pangea)
 - [Meta](%base_url%/staff/merino/meta-visualisation)-visualisation
 - [Network Latency Visualisation](%assets_url%/files/b9/z75gcnv42eqwy1dwk0ttke7c1y71bt/NetworkLatency.pillar.pdf)
-- [Applying âcontrastâ to the use of colour in visualisation](%base_url%/staff/merino/central-tendency)
+- [Applying ”contrast” to the use of colour in visualisation](%base_url%/staff/merino/central-tendency)
 - [Lattice Visualisation](%base_url%/staff/merino/lattice)
 - [EyeVis](%base_url%/staff/merino/EyeVis)
 

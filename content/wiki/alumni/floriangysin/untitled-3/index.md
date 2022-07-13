@@ -47,7 +47,7 @@ Or maybe use this?
 <br><br><br>
 
 # sqlite3 with ruby
-When you don't have the jdbc-sqlite3 adapter installed you get a helpful error message about a missing gem with the command for installing it listed â it lists the wrong name: 
+When you don't have the jdbc-sqlite3 adapter installed you get a helpful error message about a missing gem with the command for installing it listed &mdash; it lists the wrong name: 
 suggested install command: 
 ```gem install activerecord-jdbc-sqlite3-adapter
 ```

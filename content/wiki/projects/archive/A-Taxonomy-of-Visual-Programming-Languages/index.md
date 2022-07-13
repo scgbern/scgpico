@@ -16,10 +16,10 @@ Since the 1970s a large variety of different kinds of visual programming languag
 #Some older surveys: (unibe downloads)
 
 
--  Myers, [âVisual programming, programming by example, and program visualization: a taxonomyâ](http://scgresources.unibe.ch/Literature/VisualProgramming/Myer86aVP.pdf), SIGCHI Bull., 1986.
--  Chang, [âVisual languages: a tutorial and surveyâ](http://scgresources.unibe.ch/Literature/VisualProgramming/Chan87aVisualLanguageSurvey.pdf), IEEE Software, 1987.
--  Burnett and Baker, [âA Classification System for Visual Programming Languagesâ](http://scgresources.unibe.ch/Literature/VisualProgramming/Burn94aVPL-Classification.pdf), Journal of Visual Languages and Computing, 1994.
--  Boshernitsan and Downes, [âVisual Programming Languages: A Surveyâ](http://scgresources.unibe.ch/Literature/VisualProgramming/Bosh97aVPSurvey.pdf), TR UCB/CSD-04-1368, December 1997.
--  Burnett, [âVisual Programmingâ](http://scgresources.unibe.ch/Literature/VisualProgramming/Burn99aWhatIsVP.pdf), Encyclopedia of Electrical and Electronics Engineering, 1999.
+-  Myers, [“Visual programming, programming by example, and program visualization: a taxonomy”](http://scgresources.unibe.ch/Literature/VisualProgramming/Myer86aVP.pdf), SIGCHI Bull., 1986.
+-  Chang, [“Visual languages: a tutorial and survey”](http://scgresources.unibe.ch/Literature/VisualProgramming/Chan87aVisualLanguageSurvey.pdf), IEEE Software, 1987.
+-  Burnett and Baker, [“A Classification System for Visual Programming Languages”](http://scgresources.unibe.ch/Literature/VisualProgramming/Burn94aVPL-Classification.pdf), Journal of Visual Languages and Computing, 1994.
+-  Boshernitsan and Downes, [“Visual Programming Languages: A Survey”](http://scgresources.unibe.ch/Literature/VisualProgramming/Bosh97aVPSurvey.pdf), TR UCB/CSD-04-1368, December 1997.
+-  Burnett, [“Visual Programming”](http://scgresources.unibe.ch/Literature/VisualProgramming/Burn99aWhatIsVP.pdf), Encyclopedia of Electrical and Electronics Engineering, 1999.
 
 Contact: [Oscar Nierstrasz](%base_url%/staff/oscar)

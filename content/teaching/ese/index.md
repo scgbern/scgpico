@@ -37,7 +37,7 @@ The exercises for the course will consist of a small software project to be deve
 
 #Logistics
 
-This course will be held as combination of âflipped classroomâ lectures, and invited guest lectures.
+This course will be held as combination of “flipped classroom” lectures, and invited guest lectures.
 
 The regular lectures will be made available as hour-long podcasts, with annotated slides available as PDFs. In addition there will be a weekly discussion session lasting 30 minutes to discuss the lecture material, carry out quizzes, and view live demos, followed by an exercise hour. Note that you are expected to study the lecture material in advance of the weekly discussion session. The guest lectures will generally be held live.
 
