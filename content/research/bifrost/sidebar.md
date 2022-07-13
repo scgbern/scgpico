@@ -1,10 +1,16 @@
 ##Navigation
 
 <style type="text/css">.toc-number { display: none; }</style>
-![value:toc](value:toc)
+
 
 ##Sub-Projects
-![value:children](value:children)
+- [Talents](bifrost/talents)
+- [Chameleon](bifrost/chameleon)
+- [MetaSpy](bifrost/metaspy)
+- [Object-Centric Debugging](bifrost/OCD)
+- [Prisma](bifrost/prisma)
+- [Scoped Talents](bifrost/scopedtalents)
+
 
 -  [Subjectopia](http://scg.unibe.ch/research/subjectopia)
 

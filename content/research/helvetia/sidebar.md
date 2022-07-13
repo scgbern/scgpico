@@ -1,10 +1,14 @@
 [![http://scg.unibe.ch/download/helvetia/helvetia.png](http://scg.unibe.ch/download/helvetia/helvetia.png)](%base_url%/research/helvetia)<div class="clear"></div>
 
 <style type="text/css">.toc-number { display: none; }</style>
-![value:toc](value:toc)
+
 
 ##Sub-Projects
-![value:children](value:children)
+- [Language Boxes](helvetia/languageboxes)
+- [Helvetia Examples](helvetia/examples)
+- [PetitParser](helvetia/petitparser)
+- [Domain-Specific Program Checking](helvetia/program-checking)
+
 
 -  [TextLint](%base_url%/research/textlint)
 

@@ -6,7 +6,8 @@ Title: Java Compiler
 
 Some of my javac plugins
 
-![value:children](value:children)
+- [Force Assertions](javacompiler/forceassertions)
+
 
 &nbsp;
 

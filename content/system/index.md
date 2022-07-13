@@ -2,4 +2,8 @@
 Title: System
 ---
 
-![value:children](value:children)
+- [Management](system/management)
+- [Templates](system/templates)
+- [Components](system/components)
+- [How To](system/howto)
+

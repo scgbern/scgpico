@@ -17,6 +17,6 @@ Title: Admin
   </div>
   <div class="column span-6 last">
     <h6>References</h6>
-    ![None](value:incoming)
+    
   </div>
 </div>

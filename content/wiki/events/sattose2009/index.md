@@ -4,7 +4,7 @@ Title: SATToSE 2009
 
 Welcome to Sattose 2009! 
 
-![value:toc](value:toc)
+
 
 #Lightning introductory talks 
 

@@ -13,7 +13,7 @@ Title: suite2010env
     <hr/>
   </div>  
   <div class="column span-24 last mainbody">
-    <h1 class="heading">![value:structure](value:structure)</h1>
+    <h1 class="heading"></h1>
     <div class="sidebar column span-6 prepend-2 last">![Sidebar Document](%base_url%/system/components/sidebar)</div>
     <div class="contents column span-16">![Suite2010contents](%base_url%/wiki/events/suite2010/suite2010contents)</div>
   </div>

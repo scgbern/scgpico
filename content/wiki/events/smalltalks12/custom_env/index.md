@@ -13,7 +13,7 @@ Title: Custom_env
     <hr/>
   </div>  
   <div class="column span-24 last mainbody">
-    <h1 class="heading">![value:structure](value:structure)</h1>
+    <h1 class="heading"></h1>
     <div class="sidebar column span-6 prepend-2 last">![Sidebar](%base_url%/wiki/events/smalltalks12/sidebar)</div>
     <div class="contents column span-16">![Custom_contents](%base_url%/wiki/events/smalltalks12/custom_contents)</div>
   </div>

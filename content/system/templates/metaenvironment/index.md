@@ -4,7 +4,7 @@ Title: _Meta Environment
 
 <div class="container metaenvironment">
 	<div class="span-24 last metaheader">
-		Meta page: ![value:parents](value:parents)
+		Meta page: 
 	</div>
 	<div class="span-24 last">
 		![Contents](%base_url%/system/components/contents)

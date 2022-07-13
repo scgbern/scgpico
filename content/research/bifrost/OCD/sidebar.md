@@ -3,7 +3,7 @@
 [![http://scg.unibe.ch/download/Bifrost/EsugGold2012.png](http://scg.unibe.ch/download/Bifrost/EsugGold2012.png)](http://esug.org/wiki/pier/Conferences/2012/Innovation-Technology-Awards)<div class="clear"></div>
 
 <style type="text/css">.toc-number { display: none; }</style>
-![value:toc](value:toc)
+
 
 ##People
 

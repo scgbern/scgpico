@@ -6,63 +6,25 @@ This file lists pending migration todos, past todos (done) and a brief FAQ.
 ---
 # To do
 
-* Fix display of PRValueLink links
-	- There are 9 types of these that display different kinds of things
-	- See: PM new valueLinkDict
-	- Of 135 links, all but 4 are embedded -- but probably all should be
-	- value:redirect (29)
-		- Added page redirects using meta refresh
-		- Example: /staff/jorgeressia
-		- link parameters first value
-	* value:children (19)
-		- Lists links to children pages
-		- Often used in sidebars
-		- Example: /research/bifrost/
-			- +value:children|link+
-		- Example: /teaching
-			- value:children|link|select=Page|target=students
-	* value:toc (18)
-		- Generates TOC links to subsections
-		- Often used in sidebars
-		* Problem: how does the sidebar know which page it belongs to?
-			- Obviously this is done somehow by the other visitors
-			- The PRValueLink gets this information, but needs the current “Context” -- what is this?
-		- Example: /research/bifrost/
-		- +value:toc+
-	- Ignore these:
-		- value:contents (2)
-			- lists contents of subpages instead of links
-			- only used in test page (removed)
-		- value:edited (26)
-			- admin -- lists owner and date of a change
-		- value:incoming (15)
-			- admin -- lists incoming links?
-		- value:parents
-			- admin? lists parents?
-		- value:structure (10)
-			- Seems ad hoc; no clear what it does
-		- value:user (6)
-			- admin -- current user?
+* Fix embedded links
+	- Writing errors -- embedded pages broken
+		- Link style is +namedPage+
+		- Possible solution: use an iframe with a dedicated css to hide the header and footer
 
 * Check all links
 	- PB recommends https://linkchecker.github.io/linkchecker/
 	- fixed htaccess to allow file browsing
 	- /files and /archive links to be fixed to point to assets
 
-* Fix embedded links
-	- Writing errors -- embedded pages broken
-		- Link style is +namedPage+
-		- Possible solution: use an iframe with a dedicated css to hide the header and footer
-
 * What to do about composite scgbib queries? eg Publications scg-bp|scg-ip
 
 * Fix some broken tables
 	- Example: /staff/Nataliia-Stulova
 
+* Don't display sidebar if file is absent
+
 * Fix sidebar to shift to bottom on small devices
 	- see example in main css style
-
-* Don't display sidebar if file is absent
 
 * Reduce the sizes of large images (esp. my home page)
 
@@ -85,6 +47,48 @@ This file lists pending migration todos, past todos (done) and a brief FAQ.
 
 ---
 ## DONE
+
+- Fix display of PRValueLink links
+	- There are 9 types of these that display different kinds of things
+	- See: PM new valueLinkDict
+	- Of 135 links, all but 4 are embedded -- but probably all should be
+	- value:redirect (29)
+		- Added page redirects using meta refresh
+		- Example: /staff/jorgeressia
+		- link parameters first value
+	- value:children (19)
+		- Lists links to children pages
+		- Often used in sidebars
+		- Example: /research/bifrost/
+			- +value:children|link+
+		- Example: /teaching
+			- value:children|link|select=Page|target=students
+		- Problem: how does the sidebar know which page it belongs to?
+			- This is in the “owner” field
+			- Obviously this is done somehow by the other visitors
+			- The PRValueLink gets this information, but needs the current “Context” -- what is this?
+			- Solution: Store the current page in the visitor, also if a sidebar is being visited
+			- Extended mdFor: to take both a struct and a page, and change the main visitor class-side method to take the page as an extra argument
+	- Ignore these:
+		- value:toc (18)
+			- Generates TOC links to subsections
+			- Complicated (requires anchors to be generated) and not so useful
+			- Often used in sidebars
+			- Example: /research/bifrost/
+			- +value:toc+
+		- value:contents (2)
+			- lists contents of subpages instead of links
+			- only used in test page (removed)
+		- value:edited (26)
+			- admin -- lists owner and date of a change
+		- value:incoming (15)
+			- admin -- lists incoming links?
+		- value:parents
+			- admin? lists parents?
+		- value:structure (10)
+			- Seems ad hoc; no clear what it does
+		- value:user (6)
+			- admin -- current user?
 
 - Make sure all types of links are working -- only PRValueLink left
 	- PM new allLinksDict
