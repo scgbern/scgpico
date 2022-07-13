@@ -62,6 +62,3 @@ The weekly discussion will be held in presence in the classroom (conditions perm
 |	13	|	15-Dec-21	|	Guest lecture: Actors and Scala (Haidar Osman)
 |	14	|	22-Dec-21	|	Exam &mdash; UniS, S-003
 
-
-#Exercises
-[PLEASE READ THIS FIRST! - How to submit your solutions](%assets_url%/download/lectures/cp-exercises/PLEASE%20READ%20THIS%20FIRST!.pdf)

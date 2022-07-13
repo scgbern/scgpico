@@ -1,10 +1,3 @@
-**NB:** The University of Bern requires all those attending lectures or meetings in presence to have [a valid Covid certificate](https://www.unibe.ch/coronavirus/index_eng.html).
-
-- [MSc registration Fall 2021](%base_url%/teaching/msc-registration-fall)
-#Registration
-
--  Please also [register on ILIAS](https://ilias.unibe.ch/goto_ilias3_unibe_crs_2165706.html)
-
 #Resources
 
 - [ILIAS discussion forum](https://ilias.unibe.ch/goto_ilias3_unibe_frm_2183195.html)

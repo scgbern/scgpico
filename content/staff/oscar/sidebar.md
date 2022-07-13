@@ -6,15 +6,8 @@
 - [Contact]()
 - [Oscar Nierstrasz &mdash; Publications](%assets_url%/scgbib/?query=Nierstrasz&filter=Year) 
 - [Directions to INF](%base_url%/contact/maps)
-<form method="GET" action="http://scg.unibe.ch/scgbib">
-	<input type="text" name="query" size="15" maxlength="800"/>
-	<input type="submit" value="scg bib"/>
-</form>
-<form method="GET" action="http://www.google.com/search">
-	<input type="text" name="q" size="15" maxlength="800"/>
-	<input type="submit" name="search" value="unibe web"/>
-	<input type="hidden" name="sitesearch" value="unibe.ch"/>
-</form>
+
+<form method="GET" action="%assets_url%/scgbib"><input type="text" name="query" size="15" maxlength="800"/><input type="submit" value="scg bib"/></form>
 
 
 <a class="twitter-timeline"  href="https://twitter.com/onierstrasz" data-widget-id="283887192156278784">Tweets by @onierstrasz</a>

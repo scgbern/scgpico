@@ -1,9 +1,3 @@
-**NB:** The University of Bern requires all those attending lectures or meetings in presence to have [a valid Covid certificate](https://www.unibe.ch/coronavirus/index_eng.html).
-
-#Registration
-
--  Please also [register on ILIAS](https://ilias.unibe.ch/goto_ilias3_unibe_crs_2183162.html)
-
 #Resources
 
 -  [KSL](https://www.ksl.unibe.ch/KSL/kurzansicht?3&stammNr=2420&semester=HS2021&lfdNr=0) (for exam registration only)

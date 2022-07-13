@@ -2,11 +2,12 @@
 Title: Oscar Nierstrasz
 ---
 
-[![/download/oscar/on-nov-2017-no-painting-small.jpg](%assets_url%/download/oscar/on-nov-2017-no-painting-small.jpg)](%base_url%/staff/oscar/oscar-free-picture)Oscar Nierstrasz is Professor Emeritus of Computer Science at the [Institute of Computer Science ](http://www.inf.unibe.ch/index_eng.html/) (INF) in the [Faculty of Science](http://www.philnat.unibe.ch/index_eng.html) of the [University of Bern](http://www.unibe.ch/index_eng.html), where he founded the [Software Composition Group](%base_url%/) in 1994. 
+[![/download/oscar/on-nov-2017-no-painting-very-small.jpg](%assets_url%/download/oscar/on-nov-2017-no-painting-very-small.jpg)](%base_url%/staff/oscar/oscar-free-picture)
+Oscar Nierstrasz is Professor Emeritus of Computer Science at the [Institute of Computer Science ](http://www.inf.unibe.ch/index_eng.html/) (INF) in the [Faculty of Science](http://www.philnat.unibe.ch/index_eng.html) of the [University of Bern](http://www.unibe.ch/index_eng.html), where he founded the [Software Composition Group](%base_url%/) in 1994. 
 He retired from the University of Bern at the end of 2021, and is currently working at [feenk.com](https://feenk.com/about/).
 He is co-author of over 300 [Oscar Nierstrasz &mdash; Publications](%assets_url%/scgbib/?query=Nierstrasz&filter=Year) and co-author of the open-source books *[Object-Oriented Reengineering Patterns](%assets_url%/download/oorp/)* and *[Pharo by Example](http://books.pharo.org)*.
-[![/download/oorp/pictures/oorp.jpg](%assets_url%/download/oorp/pictures/oorp.jpg)](http://scg.unibe.ch/download/oorp)
-[![/download/pharobyexample/pbe.jpg](%assets_url%/download/pharobyexample/pbe.jpg)](http://books.pharo.org)
+[![/download/oorp/pictures/oorp-small.jpg](%assets_url%/download/oorp/pictures/oorp-small.jpg)](http://scg.unibe.ch/download/oorp)
+[![/download/pharobyexample/pbe-small.jpg](%assets_url%/download/pharobyexample/pbe-small.jpg)](http://books.pharo.org)
 
 The Software Composition Group carried out research in diverse aspects of software evolution. Current research is focussed on *[Agile Software Assistance						](%base_url%/research/snf19)*: enabling software developers to quickly and effectively analyze complex software systems with the help of tools to rapidly construct, query and manipulate software models. 
 
@@ -15,14 +16,6 @@ He has served as Editor-in-Chief of the [Journal of Object Technology](http://ww
 
 Oscar Nierstrasz was born in the Netherlands, but grew up in Canada. He completed his B.Math at the [University of Waterloo](http://www.math.uwaterloo.ca/) in 1979 and his M.Sc. in 1981 and his Ph.D. in 1984 at the [University of Toronto](http://web.cs.toronto.edu/), in the area of Office Information Systems. He worked at the [FORTH Institute of Computer Science](http://www.forth.gr/) in Crete for one year (1985), and has lived since then in Switzerland. He was a member of the Object Systems Group at the [Centre Universitaire d'Informatique](http://cuiwww.unige.ch) of the [University of Geneva](http://www.unige.ch), Switzerland (1985-1994) before coming to Bern. He is a citizen of Canada, Switzerland and Italy.
 
----
-#Teaching
-##Autumn Semester 2021
-
-- [EI: Einführung in die Informatik](%base_url%/teaching/ei) (Bachelors, intro lectures only)
-- [ESE: Introduction to Software Engineering (Einführung in SE)](%base_url%/teaching/ese) (Bachelors)
-- [CP: Concurrency: State Models and Design Patterns](%base_url%/teaching/cp) (Masters)
-- [SC: Software Composition Seminar](%base_url%/wiki/softwarecompositionseminar) (Masters)
 
 ---
 #Activities

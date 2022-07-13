@@ -40,7 +40,7 @@ The 1st proposal was selected by Zuehlke
 -  [http://www.infoq.com/news/2010/10/state-of-agile-blog-series](http://www.infoq.com/news/2010/10/state-of-agile-blog-series)
 -  Scrum @Liip ( [part 1](http://blog.liip.ch/archive/2010/10/04/how-team-fri-bar-does-scrum-at-liip-part-1.html) [part 2](http://blog.liip.ch/archive/2010/10/06/how-team-fri-bar-does-scrum-at-liip-part-2.html))
 -  [Best Scrum Tool (stackoverflow question)](http://stackoverflow.com/questions/35760)
--  [SanfteEinfuhrungvonScrum](%assets_url%/files/6f/56m8f62qjv7pye0serimofnggbaww0/unknown)
+-  [SanfteEinfuhrungvonScrum](%assets_url%/files/b4/4r7jp85zg6tzumidhmqgzmw2rqb7kp/unknown)
 
 #Human factors
 

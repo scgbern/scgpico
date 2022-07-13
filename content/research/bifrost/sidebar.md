@@ -12,7 +12,7 @@
 - [Scoped Talents](bifrost/scopedtalents)
 
 
--  [Subjectopia](http://scg.unibe.ch/research/subjectopia)
+-  [Subjectopia](%base_url%/research/subjectopia)
 
 ##People
 

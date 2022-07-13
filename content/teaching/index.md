@@ -2,7 +2,6 @@
 Title: Teaching
 ---
 
-
 #Archived courses
 
 ##Bachelors

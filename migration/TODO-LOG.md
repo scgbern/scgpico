@@ -6,12 +6,6 @@ This file lists pending migration todos, past todos (done) and a brief FAQ.
 ---
 # Migration to do
 
-- Fixed some broken tables
-	- Add a fake header at the beginning of the table
-	- Example: /staff/Nataliia-Stulova
-
-* Remove all ugly yellow spans
-
 * Check all links
 	- PB recommends https://linkchecker.github.io/linkchecker/
 	- fixed htaccess to allow file browsing
@@ -55,6 +49,12 @@ This file lists pending migration todos, past todos (done) and a brief FAQ.
 
 ---
 ## DONE
+
+- Removed all ugly yellow spans (in fixaccents script)
+
+- Fixed some broken tables
+	- Add a fake header at the beginning of the table
+	- Example: /staff/Nataliia-Stulova
 
 - Reduce the sizes of large images (esp. my home page)
 
