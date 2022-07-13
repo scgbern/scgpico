@@ -1,4 +1,4 @@
- <span style="background-color: #FFFF00">This course was last taught in the Spring of 2019. The course materials have been archived on [github](https://github.com/onierstrasz/course-compiler-construction).</span>
+ This course was last taught in the Spring of 2019. The course materials have been archived on [github](https://github.com/onierstrasz/course-compiler-construction).
 
 #Resources
 

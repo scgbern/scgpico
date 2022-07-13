@@ -4,8 +4,9 @@ Title: A Unified Approach to Composition and Extensibility
 
 *A Unified Approach to Composition and Extensibility* is a project funded by the [Swiss National Science Foundation](http://www.snf.ch/) (SNSF project # [200020-105091/1](http://p3.snf.ch/Project-105091)).
 
+| | |
+|---|---|
 |!Funding:|264'915.&mdash; SFr.
-|---|---
 |!Period:|Oct 1, 2004 - Sept. 30, 2006
  
 #Summary

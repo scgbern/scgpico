@@ -104,8 +104,9 @@ Constructing and previewing queries over relational databases is typically done 
 
 #Authors
 
+| | |
+|---|---|
 |[Andrei ChiÈ](http://andreichis.com)|
-|---|---
 |[Aliaksei Syrel](https://twitter.com/AliakseiSyrel)|
 |[Tudor Gîrba](http://tudorgirba.com)|
 
@@ -115,8 +116,9 @@ Constructing and previewing queries over relational databases is typically done 
 #Blog posts
 
 
+| | |
+|---|---|
 |[Extending GTInspector with support for exploring HelpTopic objects](https://chisvasileandrei.wordpress.com/2015/03/06/extensing-gt-inspector-helptopics-objects/)|
-|---|---
 |[Guiding a rename effort with GTInspector](http://www.humane-assessment.com/blog/guiding-a-rename-effort-with-gtinspector/)|
 |[Adding Magritte forms in GTInspector](http://www.humane-assessment.com/blog/adding-magritte-forms-in-gtinspector/)|
 |[Managing external Pharo scripts with GTInspector and GTSpotter](http://www.humane-assessment.com/blog/managing-external-pharo-scripts-with-gtinspector-and-gtspotter/)|

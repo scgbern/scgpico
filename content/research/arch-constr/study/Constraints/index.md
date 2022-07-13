@@ -3,8 +3,9 @@ Title: Results
 ---
 
 
+| | |
+|---|---|
 |Authorization | Access to the service is restricted to users having role A or being part of group B.   
-|---|---
 |Meta-annotations | Attributes of type DateTime must be annotated with @Date(format = "d-m-Y").	                                         
 |Response time | The system is time-critical and has to answer each request within 10 ms.                   					 
 |Authentication | The user has to confirm his identity using the central authentication service.	              	 

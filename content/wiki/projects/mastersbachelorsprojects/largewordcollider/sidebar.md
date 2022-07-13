@@ -1,4 +1,4 @@
-This project is: <span style="color:red">**on hold**</span>
+This project is: <span style="color:red">**on hold**
 
 #Outline
 

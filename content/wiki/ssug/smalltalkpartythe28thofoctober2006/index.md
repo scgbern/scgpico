@@ -7,8 +7,9 @@ SSUG is organizing a <b>Smalltalk Gathering</b>. We invite all Smalltalkers to j
 
 #Where 
 
+| |
+|---|
 |[Software Composition Group](%base_url%/contact/maps)
-|---
 |Schützenmattstrasse 14
 |3012 Bern
 |Switzerland
@@ -18,9 +19,10 @@ Saturday, 28h of October 2006, starting from 9:30am, open ended
 
 #Contact
 
+| | |
+|---|---|
 |Email|<a href="mailto:denker@iam.unibe.ch">denker@iam.unibe.ch</a>
 
-|---|---
 |Phone|\+41 31 631 3547
 |Mobile|\+41 76 565 35 47
 

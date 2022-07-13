@@ -20,8 +20,9 @@ I maintain that integrated development environments (IDEs) have to be moldable, 
 Apart from this my research interests lie in the areas of:
 <div style="padding-left: 30px;">
 
+| | |
+|---|---|
 |Programming Environments| Object-Oriented Programming
-|---|---
 |User Interface Design| Domain-Specific Languages
 |Debugging| Software Visualizations
 </div>
@@ -83,8 +84,9 @@ I co-reviewed for the following conferences/workshops:
 
 #Contact
 
+| | | | |
+|---|---|---|---|
 |**Phone(Office):**|\+41 31 511 7643 |**Office number:**|206
-|---|---|---|---
 |**Email:**|<a href="mailto:andrei@inf.unibe.ch">andrei@inf.unibe.ch</a>
 |**Webpage:**|[andreichis.com](http://www.andreichis.com)
 

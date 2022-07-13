@@ -1,6 +1,6 @@
 #Exercise hour
 
-<span style="font-size:x-large;">[@p2unibe](http://twitter.com/p2unibe)</span>
+<span style="font-size:x-large;">[@p2unibe](http://twitter.com/p2unibe)
 
 #Resources
 

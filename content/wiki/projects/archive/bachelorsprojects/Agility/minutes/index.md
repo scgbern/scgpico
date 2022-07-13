@@ -13,8 +13,9 @@ HJI = Hansjuerg Inniger
 **Meeting: 6.08.2010  15:00**
 
 
+| | | | |
+|---|---|---|---|
 |! Topic |! Responsible |! Type |! Comment 
-|---|---|---|---
 | Time for the project | Mascha | I | 2-3 month 
 | Introduction of scrum @new customer | HJI | OP |  
 | Kick-off | Mascha | D | Around 20th sept
@@ -31,8 +32,9 @@ HJI = Hansjuerg Inniger
 **Meeting: 16.09.2010  8:00**
 
 
+| | | | |
+|---|---|---|---|
 |! Topic |! Responsible |! Type |! Comment 
-|---|---|---|---
 | Introduction of scrum @new customer | HJI | OP |  
 | Course about Scrum w/ .NET or Java | HJI | D | MKU attend .NET course on 26-29 oct 
 | Access to project @customer site | HJI | OP |

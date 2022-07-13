@@ -5,7 +5,7 @@ Title: MSc registration Spring 2021
 #MSc registration Spring 2021
 ##JMCS students
 
--  <span style="background-color: #FFFF00">[Register on Academia](https://mcs.unibnf.ch/organization/registration-for-teaching-units/) for **teaching units** by **March 19, 2021**</span>
+-  [Register on Academia](https://mcs.unibnf.ch/organization/registration-for-teaching-units/) for **teaching units** by **March 19, 2021**
 -  [Register on Academia](https://mcs.unibnf.ch/organization/registration-for-teaching-units/) for the [PL: Programming Languages](%base_url%/teaching/pl) exam by (TBA)
 	-  for all other exams by **May 14, 2021**
 

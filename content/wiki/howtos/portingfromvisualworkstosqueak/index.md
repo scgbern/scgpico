@@ -23,8 +23,9 @@ categoryName := 'Squeak Category Name'.
 # Making Code Portable
 ## Do Not
 
+| | |
+|---|---|
 | Namespaces | Squeak has no namespaces, instead use a two letter class prefix to avoid conflicts.
-|---|---
 | Packages | Squeak has no packages, instead it depends on naming conventions of the class and protocol categories.
 | Bindings | Squeak has no bindings #{CodeFoo.Color}</code>), instead import required namespaces into your own namespace or class.
 | Weak References | Squeak has weak references, however the implementation is weak and weak references should be avoided at all cost.

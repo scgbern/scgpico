@@ -16,8 +16,9 @@ Title: PackageInfoTweak
 
 # Performance
 
+| | | | | | |
+|---|---|---|---|---|---|
 | | items in the configuration &nbsp; | new/enhanced version &nbsp; | old version (same without cache) &nbsp; | ??? x faster &nbsp; |
-|---|---|---|---|---|---
 | classes | 877 | 18.1 ms | 2779.6 ms | 150
 | method categories | 4637 | 578 ms | 13710 ms | 25
 | methods | 19591 | 4307 ms | 142067 ms | 30

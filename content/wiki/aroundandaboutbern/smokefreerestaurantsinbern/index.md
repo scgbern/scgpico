@@ -17,8 +17,9 @@ It can be quite a challenge to enjoy a smoke-free meal in Bern, although the sit
 #Smoke-free restaurants
 Here is a short list of commendable restaurants with fully smoke-free areas.
 
+| | |
+|---|---|
 |**Curry Legend**|Tiny, pleasant curry house.
-|---|---
 | |\+41 31 302 39 59
 | |[Laenggassstrasse 32](http://map.search.ch/bern/laenggassstr.-32)
 | |[http://www.curry-legend.ch/](http://www.curry-legend.ch/)

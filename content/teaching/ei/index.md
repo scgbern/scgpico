@@ -3,8 +3,9 @@ Title: EI: Einführung in die Informatik
 ---
 
 
+| | |
+|---|---|
 |**Course:**|2410 - Introduction to Computer Science
-|---|---
 | |(Autumn Semester 2020)
 |**Professor:**|[Oscar Nierstrasz](%base_url%/staff/oscar)
 |**Assistant:**|[Nitish Patkar](%base_url%/staff/NitishPatkar)

@@ -5,8 +5,9 @@ Title: ESE: Introduction to Software Engineering (Einführung in SE)
 #Schedule 2021
 ![spiral](%assets_url%/files/de/xivhujs862biv0hwihalpnq8kesmwe/spiral.png)
 
+| | |
+|---|---|
 |**Course:**| Introduction to Software Engineering
-|---|---
 | |(Autumn Semester 2022)
 |**Lecturers:**|[Oscar Nierstrasz](%base_url%/staff/oscar)
 |**Assistants:**|[Nitish Patkar](%base_url%/staff/NitishPatkar), Pascal Marc André, Marko Cirkovic, Marco De Liso
@@ -46,8 +47,9 @@ The weekly discussion and guest lectures will be held in presence in the classro
 
 #Schedule 2021 (to be confirmed)
 
+| | | |
+|---|---|---|
 |	**Week**	|	**Date**	|	**Lecture**
-|---|---|---
 |	1	|	22-Sep-21	|	Introduction: The Software Lifecycle
 |	2	|	29-Sep-21	|	Requirements Collection
 |	3	|	06-Oct-21	|	Guest lecture: Agile Methods (Pietari Kettunen)

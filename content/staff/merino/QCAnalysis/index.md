@@ -79,8 +79,9 @@ Finally, the scale does not benefit the analysis of NOC, NOM and LOC. The values
 The analysis of this chart shows that the variance of NOM is higher than NOC and LOC. Some outliers are found such as *axion*, *jparse* and *collections*. There are some characterisation that can be extracted regarding these metrics on systems:
 
 
+| | | | | | | | |
+|---|---|---|---|---|---|---|---|
 | **Characterisation** | **System** | **LOC** | **NOM** | **NOC** | **NOP** | **Comments** |
-|---|---|---|---|---|---|---|---
 | Smell [refactor methods] |*ivatagroupware*| VERY HIGH | VEY LOW | HIGH | \* | A system where the number of classes per package is around the expected (median of the corpus) but each class has a very few methods and each method has too many lines  |
 | Smell [refactor classes] |*collections*| HIGH | VERY HIGH | HIGH | \* | A system where the number of classes per package is around the expected (median of the corpus) but each class has too many methods. However, methods have an expect number of lines of code  |
 | Plugin |*squirrel*| VERY LOW | VERY HIGH | VERY LOW | \* | A system where the number of classes is too low. Each class has too many methods but those methods have just few lines of code |
@@ -105,8 +106,9 @@ Array
 	 
 The following table compares the results of these metrics between Java and Smalltalk
 
+| | | | | | | |
+|---|---|---|---|---|---|---|
 | Language | Data Source | NOP | NOC | NOM |  LOC |
-|---|---|---|---|---|---|---
 | Java | nakedobjects-4.0.0 | 407 | 4 | 4 | 4 |
 | Java | exoportal-v1.0.2 | 393 | 3 | 4 | 3 |
 | Java | columba-1.0 | 184 | 4 | 3 | 7 |

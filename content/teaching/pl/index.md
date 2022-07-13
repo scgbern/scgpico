@@ -4,8 +4,9 @@ Title: PL: Programming Languages
 
 ![helloWorld.png](%assets_url%/files/9d/5akymvewfyzh52u2n8g8hdizjrllfl/helloWorld.png)
 
+| | |
+|---|---|
 |**Course:**|[21048](https://mcs.unibnf.ch/courses/programming-languages/) (Spring Semester 2021)
-|---|---
 |**Lecturer: **|[Oscar Nierstrasz](%base_url%/staff/oscar), [Nataliia Stulova](%base_url%/staff/Nataliia-Stulova)
 |**Staff:**| [Mohammadreza Hazhirpasand](%base_url%/staff/MohammadrezaHazhirpasand), [Joel Niklaus](https://www.digitale-nachhaltigkeit.unibe.ch/about_us/persons/niklaus_joel/index_eng.html)
 |**Lectures: **|Friday 10h15 - 12h00
@@ -15,9 +16,9 @@ Title: PL: Programming Languages
 |**Exam: **| 2021-06-04 (written, 60 minutes)
 
 #Logistics
-<span style="background-color: #FFFF00">**NB:** Due to Covid-19, this class will largely be held remotely.
+**NB:** Due to Covid-19, this class will largely be held remotely.
 Please sign up in [ILIAS](https://ilias.unibe.ch/goto_ilias3_unibe_crs_1841383.html) as soon as possible so that we can inform you about how to participate in the lectures.
-In case of any encounters in person, please *be sure to bring a mask*, as there may not be enough room to maintain social distancing.</span>
+In case of any encounters in person, please *be sure to bring a mask*, as there may not be enough room to maintain social distancing.
 
 #Description
 Programming languages are the means by which we instruct a computer to perform tasks for us. We use different programming languages to accomplish different tasks, but what really are the differences between various languages?
@@ -43,8 +44,9 @@ The final grade in the course will be based 30% on exercises and 70% on the fina
 
 #Schedule Spring 2021
 
+| | | | |
+|---|---|---|---|
 |	**Week**	|	**Date**	|	**Lecture**	|	**Assignment**
-|---|---|---|---
 |	1	|	26-Feb-21	|	Introduction	|	[Week 1](%assets_url%/download/lectures/pl-exercise21/Assignment01.pdf) - [solution](%assets_url%/download/lectures/pl-exercise21/Assignment01-solution.pdf)
 |	2	|	05-Mar-21	|	Stack-based Programming	|	[Week 2](%assets_url%/download/lectures/pl-exercise21/Assignment02.pdf) - [solution](%assets_url%/download/lectures/pl-exercise21/Assignment02-solution.pdf)
 |	3	|	12-Mar-21	|	Functional Programming	| [Week 3](%assets_url%/download/lectures/pl-exercise21/Assignment03.pdf) - [solution](%assets_url%/download/lectures/pl-exercise21/Assignment03-solution.pdf)

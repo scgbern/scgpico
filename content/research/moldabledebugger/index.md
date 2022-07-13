@@ -91,8 +91,9 @@ The GTDebugger implements the idea of a moldable debugger as part of the [GToolk
 
 #Authors
 
+| | |
+|---|---|
 |[Andrei ChiÈ](http://andreichis.com)|
-|---|---
 |[Tudor Gîrba](http://tudorgirba.com)|
 
 #Publications
@@ -101,8 +102,9 @@ The GTDebugger implements the idea of a moldable debugger as part of the [GToolk
 #Blog articles
 
 
+| | |
+|---|---|
 |[A first look at the Pharo debugger](https://chisvasileandrei.wordpress.com/2013/10/24/a-first-look-at-the-pharo-debugger/)|
-|---|---
 |[A bytecode debugger](https://chisvasileandrei.wordpress.com/2015/01/15/a-bytecode-debugger/)|
 |[Extending the Pharo debugger with custom actions](https://chisvasileandrei.wordpress.com/2015/07/09/extending-the-pharo-debugger-with-custom-actions/)|
 |[](Debugging%20tests%20and%20parsers%20with%20GTDebugger%20(demo)>http://www.humane-assessment.com/blog/debugging-tests-and-parsers-with-gtdebugger-demo/)|

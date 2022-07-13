@@ -4,8 +4,9 @@ Title: Traits in C#
 
 *Traits in C#* is a project funding by [Microsoft Research](http://research.microsoft.com/) as a [Rotor Project](http://research.microsoft.com/Collaboration/University/Europe/RFP/Rotor/). The goal of the project was to investigate means to apply traits to statically typed languages such as C#. The project results included a formal investigation of traits in the context of Featherweight Java, a report on the problems and issues concerning the integration of traits into statically typed languages, and a prototype implementation of traits for C# by means of ``flattening\'' traits to the base language. (See the Publications and Downloads sidebar.)
 
+| | |
+|---|---|
 |**Funding:**|25'000.&#8212; Euros
-|---|---
 |**Period**:|March 1, 2004 - Sept. 1, 2005
 
 #Contributors
@@ -66,8 +67,9 @@ The traits model has been successfully implemented in the open-source Squeak env
 #Project Plan
 ##Deliverables/Milestones
 
+| | |
+|---|---|
 |September 2004|First version of the type system. Detailed evaluation of rotor, including feasibility experiments exploring strategies for implementing traits in rotor.
-|---|---
 |March 2005|Adaptation of type system to C#/rotor. Prototype implementation of traits in rotor.
 |September 2005|Implementation of type-checker for rotor traits. Case study experiments applying rotor traits to existing code bases.
  
@@ -78,8 +80,9 @@ All the code will be released as open-source under the BSD license.
 ##Costing
  
 
+| | |
+|---|---|
 |Travel with external collaborators|5000 Euros
-|---|---
 |Student salary|20000 Euros
 |Total|25000 Euros
  

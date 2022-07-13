@@ -14,8 +14,9 @@ We used a Form 2 3D printer by formlabs based on stereolithography (SLA) technol
 Each model lasts between 6 to 12 hours to be printed. We printed models in clear and white color. Afterwards, we paint the models. We used Revell Email Color paints number 7 (black). 12 (yellow), 61 (green), and 91 (aluminum). To achieve the color scale gradient of five green tones, we used a dropper to mix them in the following way:
 
 
+| | | | | |
+|---|---|---|---|---|
 |**Scale Tone**|**# Black Drops**|**# Green Drops**|**# YellowDrops**|
-|---|---|---|---|---
 |Black|30|0|0|
 |Green|10|5|10|
 |Bright green|2|5|10|

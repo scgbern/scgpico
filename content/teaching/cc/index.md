@@ -3,8 +3,9 @@ Title: CC: Compiler Construction
 ---
 
 
+| | |
+|---|---|
 |**Course:**| [21025 Compiler Construction](http://mcs.unibnf.ch/program/courses-timetable/courses/compiler-construction-2) (Spring 2019)
-|---|---
 |**Lecturer:**|[Prof. Oscar Nierstrasz](%base_url%/oscar), [Dr. Mohammad Ghafari](%base_url%/staff/Mohammad-Ghafari)
 |**Assistants:**|[Manuel Leuenberger](%base_url%/staff/ManuelLeuenberger), [Rathesan (Radi) Iyadurai](%base_url%/wiki/alumni/RadiIyadurai)
 |**Audience:**|Master students in computer science 
@@ -37,8 +38,9 @@ The final grade will be based 10% on exercises, 30% on a team project and 60% on
 
 #Schedule 2019
 
+| | | | |
+|---|---|---|---|
 |	**Week**	|	**Date**	|	**Lecture** | **Exercises**
-|---|---|---|---
 |	1	|	22-Feb-19	|	Introduction  | [Assignment 1](%assets_url%/download/lectures/cc-exercises-2019/CCAssignment1.pdf)
 |	2	|	01-Mar-19	|	Lexical Analysis  | [Assignment 2](%assets_url%/download/lectures/cc-exercises-2019/CCAssignment2.pdf)
 |	3	|	08-Mar-19	|	Parsing  | [Assignment 3](%assets_url%/download/lectures/cc-exercises-2019/CCAssignment3.pdf)

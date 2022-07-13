@@ -1,4 +1,4 @@
-This project is: <span style="color:red">**assigned**</span> 
+This project is: <span style="color:red">**assigned** 
 
 #Team
 

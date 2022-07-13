@@ -3,8 +3,9 @@ Title: Object-oriented Reengineering Patterns (OORPT - WS 06/07)
 ---
 
 
+| | |
+|---|---|
 |<strong>Course:</strong>|[W7083](http://evub.unibe.ch/pievub/n_index.asp?KursID=1729821&KursNr=W7083&UeberschriftID=252178&page=detail) (Winter Semester 2006/2007)
-|---|---
 |** Lecturer: **| [Prof. Oscar Nierstrasz](http://www.iam.unibe.ch/~oscar/)
 |** Assistant: **| [Dr. Tudor G&icirc;rba](http://www.iam.unibe.ch/~girba/)
 |**Lectures \+ Labs:**|Wednesdays, 10h15-13h00

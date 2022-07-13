@@ -4,8 +4,9 @@ Title: Bringing Models Closer to Code
 
 *Bringing Models Closer to Code* is a project funded by the [Swiss National Science Foundation](http://www.snf.ch/) (SNSF project # [200020_121594](http://p3.snf.ch/Project-121594)).
 
+| | |
+|---|---|
 |<strong>Funding:</strong>|395'304.&#8212; SFr.
-|---|---
 |<strong>Period:</strong>|Oct 1, 2008 - Sept. 30, 2010
 |<strong>Collaborating teams:</strong>|[Run-time instrumentation group](http://www.inf.usi.ch/projects/ferrari/FERRARI.html), University of Lugano, Switzerland <br/> [REVEAL research group](http://www.inf.unisi.ch/faculty/lanza/), University of Lugano, Switzerland<br/>[RMod group](http://rmod.lille.inria.fr/), INRIA, Lille, France<br/> [Loose Research Group](http://loose.upt.ro/), Politehnica University of Timisoara, Rumania
  

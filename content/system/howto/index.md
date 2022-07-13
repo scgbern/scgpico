@@ -20,8 +20,9 @@ Please use lowercase characters to name pages and files. This is what you get as
 To add a new user **log in as administrator** (scg). Go to [Users](%base_url%/system/management/users), type the username and click add. Fill the other information and assign the group. We have 3 main groups of users:
 
 
+| | |
+|---|---|
 |! Group  |! Description
-|---|---
 | staff   | reserved for the scg staff and it covers all pages except for the wiki ones and of the private ones
 | wiki    | covers the [/wiki](%base_url%/wiki) pages
 | private | is left empty and it covers all the pages that should only be accessed by a single user (e.g., those below [/staff](%base_url%/staff))

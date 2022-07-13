@@ -48,6 +48,8 @@ s/â/“/g;
 s/â/”/g;
 s/[]//g;
 
+s/<span style="background-color: #FFFF00">//g;
+s/<\/span>//g;
 
 __END__
 

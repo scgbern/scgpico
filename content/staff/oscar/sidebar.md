@@ -1,5 +1,5 @@
 #Prospective students
-**NB:** <span style="background-color: #FFFF00">As I retired at the end of 2021, I will not be accepting any new Bachelors, Masters or PhD students to supervise.</span>
+**NB:** As I retired at the end of 2021, I will not be accepting any new Bachelors, Masters or PhD students to supervise.
 #Quick links
 
 - [CV](%assets_url%/download/oncv/oncv.pdf)

@@ -2,7 +2,7 @@
 Title: Toon Verwaest
 ---
 
-<span class="passfoto" style="float: right"><img src="http://www.iam.unibe.ch/~verwaest/images/firenze.jpg" style="width: 14em"/></span>
+<span class="passfoto" style="float: right"><img src="http://www.iam.unibe.ch/~verwaest/images/firenze.jpg" style="width: 14em"/>
 From October 2007 until March 2012 I've worked on my [PhD thesis](http://scg.unibe.ch/scgbib?query=Verw12a&display=abstract) in this group.
 
 For my PhD I've worked on [Pinocchio](%base_url%/research/pinocchio), a fully open but safe reflective system for language experimentation. Initially it bootstraps to a [Smalltalk](http://www.pharo-project.org)-like language.

@@ -3,8 +3,9 @@ Title: Software Skills Lab
 ---
 
 
+| | |
+|---|---|
 |**Course:**|Autumn Semester 2021
-|---|---
 |**Lecturer:**|[Nataliia Stulova](%base_url%/staff/Nataliia-Stulova)
 |**Assistant:**|[Mohammadreza Hazhirpasand](%base_url%/staff/MohammadrezaHazhirpasand)
 |**Lectures:**|Wednesdays @ 14h15-16h00
@@ -39,8 +40,9 @@ The exam is held in December (**exact date to be announced**). If the teaching w
 
 #Schedule 2021 (UniBe)
 
+| | | |
+|---|---|---|
 |**Week**	|	**Date**		|	**Lecture**
-|---|---|---
 |	1	|	22.09.2021		|	Java Crash Course
 |	2	|	29.09.2021	     	|	Linear Data Structures
 |	3	|	06.10.2021		|	Graphs and Trees

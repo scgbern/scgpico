@@ -70,16 +70,17 @@ See [http://www.squeaksource.com/stamp/](http://www.squeaksource.com/stamp/)
 
 -  received line is not inserted at top of mail
 -  no loop detection
--  <span style="color:green">DONE</span> report vg-regex commutative bug
--  <span style="color:green">DONE</span> report seaside/wakom/socketstream memory exhaustion bug
+-  <span style="color:green">DONE report vg-regex commutative bug
+-  <span style="color:green">DONE report seaside/wakom/socketstream memory exhaustion bug
 
 
 ---
 #Documentation
 ##Software Dependencies
 
+| | | |
+|---|---|---|
 |<b>Component</b>|<b>Version(s) tested</b>|
-|---|---|---
 |Squeak|3.9-7067|
 |KomServices|1.1.2|
 |KomHttpServer|7.0.4|

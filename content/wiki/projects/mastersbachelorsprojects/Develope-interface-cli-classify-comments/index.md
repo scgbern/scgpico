@@ -9,8 +9,9 @@ In our previous work, we developed a command-line based pipeline in Java to iden
 The pipeline preprocesses the comments stored in database, process them, and prepares a machine-learning based classification model. The figure below presents an overview of the pipeline.
 
 
+| | |
+|---|---|
 |<img style="text-align:center" src="http://scg.unibe.ch/download/prani/cl-neon-pipeline.jpg"/>|
-|---|---
 
 #Task
 Your task is to develop a prototype tool (browser extension for a GitHub repository or a GitHub application [2][3]) for this command-line based pipeline so that a developer can use it to classify comments of their repository.

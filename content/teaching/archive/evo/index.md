@@ -3,8 +3,9 @@ Title: Software Evolution (EVO - HS08)
 ---
 
 
+| | |
+|---|---|
 |**Course:**|[W7084](http://evub.unibe.ch/pievub/n_index.asp?KursID=2843157&KursNr=W7084&UeberschriftID=409425&page=detail) (Autumn Semester 2008)
-|---|---
 |**Lecturers:**| [Dr. Tudor G&icirc;rba](http://www.tudorgirba.com) <br/> [Prof. Dr. Oscar Nierstrasz](http://www.iam.unibe.ch/~oscar/)
 |**Assistant:**|[Jorge Ressia](http://www.iam.unibe.ch/~ressia)
 |**Audience:**|Master students in computer science 
@@ -26,8 +27,9 @@ Software systems both are eternal, and are not eternal. On the one hand, the bit
  More materials and information can be found at: [scglectures.unibe.ch/evo2008](http://scglectures.unibe.ch/evo2008).
 
 
+| | | |
+|---|---|---|
 |**Week**|**Date**|**Lesson**
-|---|---|---
 | 1| 18-Sep-08| Introduction ([handouts](http://scg.unibe.ch/download/evo/01-introduction.key.pdf))
 | 2| 25-Sep-08| Reverse Engineering (<a http://scg.unibe.ch/download/evo/02-reverseengineering.key.pdf">handouts</a>)
 | 3| 02-Oct-08| Lab &mdash; Understanding legacy software

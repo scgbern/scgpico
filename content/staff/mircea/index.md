@@ -38,8 +38,9 @@ Here you can find several projects that are available at the moment. If you have
 </div>
 
 
+| | | |
+|---|---|---|
 |<div style="width:130px">Software Evolution</div>| |
-|---|---|---
 | | **Project**: **[Agile Software Assessment](http://scg.unibe.ch/research/snf13)** - (EUR500,000) SNF project building next generation of tool support for software evolution | 
 | | **Tool**: [Softwarenaut](http://scg.unibe.ch/softwarenaut) - Open source tool for monitoring software architecture evolution. |
 | | **Infrastructure**: [Pangea](http://scg.unibe.ch/research/pangea) - Parallel Infrastructure for making multi-language empirical studies in software engineering easy |
@@ -68,7 +69,7 @@ Teaching is learning, so I have been lucky to be teaching a broad range of topic
 5. Human Computer Interaction. 
 6. [Software Composition Seminar](%base_url%/wiki/softwarecompositionseminar)
 
-<span style="color:red">(new)</span> In the fall of 2014 I am teaching the following courses:
+<span style="color:red">(new) In the fall of 2014 I am teaching the following courses:
 7. [Software Design and Evolution](http://scg.unibe.ch/teaching/sde)
 8. [Introduction to Software Engineering](%base_url%/teaching/ese) 
 
@@ -114,8 +115,9 @@ I review for the following periodicals:
 I advised the following master (MS) and bachelor (BS) theses at the Universities of Bern (UB) and Lugano (UL):
 
 
+| | | | | |
+|---|---|---|---|---|
 |&nbsp;&nbsp;| [Maudlin Kummer](%base_url%/wiki/alumni/MaudlinKummer) | [Categorising Test Smells](http://scg.unibe.ch/archive/projects/Kumm15a.pdf)  | BS, UB |
-|---|---|---|---|---
 |&nbsp;&nbsp;| [Dominique Rahm](%base_url%/wiki/alumni/DominiqueRahm) | HYKOMSYS: A Developer's Online Quiz | BS, UB |
 |&nbsp;&nbsp;| Simon Marti | Second Language Acquisition Through Free Reading and Repetition | BS, UB |
 |&nbsp;&nbsp;| Erik Aeschlimann |  [St1-PL/1: Reverse Engineering PL1 Ecosystems](http://scg.unibe.ch/archive/masters/Aesc13b.pdf) ([WCRE paper](http://scg.unibe.ch/scgbib?query=Aesc13a&display=abstract))| MS, UB |

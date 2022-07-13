@@ -5,8 +5,9 @@ Title: Agile Software Assistance
 ![Asa-logo.png](%assets_url%/files/54/v4kl5a1k0snggemb5a6lfdmhj2phil/asa-logo.png)*Agile Software Assistance* is a project funded by the [Swiss National Science Foundation](http://www.snf.ch/) (SNF project 200020-181973.)
 The project is a continuation of [Agile Software Analysis](%base_url%/research/snf16)
 
+| | |
+|---|---|
 |**Funding:**|368'517 SFr.
-|---|---
 |**Period:**|Feb 1, 2019 - Apr. 30, 2022
 |**Project partners:**|[RMod group](http://rmod.lille.inria.fr/), INRIA, Lille, France<br/>[Dr. Mohammad Ghafari](http://scg.unibe.ch/staff/Mohammad-Ghafari), U Bern, Switzerland<br/>[Dr. Tudor Girba](http://www.tudorgirba.com), [feenk GmbH](http://feenk.com), Bern, Switzerland
 |**Collaborating teams:**|[REVEAL research group](http://www.inf.unisi.ch/faculty/lanza/), University of Lugano, Switzerland<br/>[PLEIAD lab](http://pleiad.dcc.uchile.cl), University of Chile, Santiago, Chile<br/>[LOOSE Research Group](http://loose.cs.upt.ro), Timisoara, Romania<br/>[Dr.Sebastiano Panichella](https://www.zhaw.ch/en/about-us/person/panc/), ZHAW, Winterthur, Switzerland

@@ -1,9 +1,9 @@
-**NB:** <span style="background-color: #FFFF00">The University of Bern requires all those attending lectures or meetings in presence to have [a valid Covid certificate](https://www.unibe.ch/coronavirus/index_eng.html).
+**NB:** The University of Bern requires all those attending lectures or meetings in presence to have [a valid Covid certificate](https://www.unibe.ch/coronavirus/index_eng.html).
 
 - [MSc registration Fall 2021](%base_url%/teaching/msc-registration-fall)
 #Registration
 
--  <span style="background-color: #FFFF00">Please also [register on ILIAS](https://ilias.unibe.ch/goto_ilias3_unibe_crs_2165706.html)</span>
+-  Please also [register on ILIAS](https://ilias.unibe.ch/goto_ilias3_unibe_crs_2165706.html)
 
 #Resources
 

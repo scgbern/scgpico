@@ -4,8 +4,9 @@ Title: Dynamic Object-Oriented Programming with Smalltalk (ST - HS09)
 
 ![Vectorized Smalltalk Balloon](%assets_url%/files/dd/88i5rqg6yquwjd2rhxm3cnhru4io75/balloon-vec.png)
 
+| | |
+|---|---|
 |**Course:**|[W7088](http://evub.unibe.ch/pievub/n_index.asp?KursID=3401783&KursNr=W7088&UeberschriftID=504089&page=detail) (Fall Semester 2009)
-|---|---
 |**Professor:**|[Prof. Dr. Oscar Nierstrasz](http://www.iam.unibe.ch/~oscar/)
 |**Assistants:**|[David Roethlisberger](%base_url%/staff/davidroethlisberger), [Fabrizio Perin](%base_url%/staff/fabrizioperin), Timur Altun
 |**Lectures:**|Wednesdays, 10h15-12h00
@@ -27,8 +28,9 @@ The text for this course will be the open-source book [Pharo by Example](http://
 #Schedule
 
 
+| | | |
+|---|---|---|
 |1|16-Sep-09|[Introduction](%assets_url%/download/st/01Intro.pdf)
-|---|---|---
 |2|23-Sep-09|[Smalltalk Basics](%assets_url%/download/st/02Basics.pdf)
 |3|30-Sep-09|[Standard Classes](%assets_url%/download/st/03StandardClasses.pdf)
 |4|07-Oct-09|[Smalltalk Coding Idioms](%assets_url%/download/st/04Idioms.pdf)
@@ -45,8 +47,9 @@ The text for this course will be the open-source book [Pharo by Example](http://
 
 #Exercises
 
+| | | | |
+|---|---|---|---|
 | 1 | 16-Sep-09	| [Introduction to Pharo](%assets_url%/download/st/exercises/STExercise1.pdf)  ([Exercise remarks](%assets_url%/download/st/exercises/STExercise0.pdf)) | [Solutions](%assets_url%/download/st/exercises/solutions/STExerciseSol1.pdf)
-|---|---|---|---
 | 2 | 23-Sep-09	| [Objects and Expressions](%assets_url%/download/st/exercises/STExercise2.pdf) | [Solutions](%assets_url%/download/st/exercises/solutions/STExerciseSol2.pdf)
 | 3 | 30-Sep-09	| [Simple Counter](%assets_url%/download/st/exercises/STExercise3.pdf) | [Solutions](%assets_url%/download/st/exercises/solutions/STExerciseSol3.pdf)
 | 4 | 07-Oct-09 | [LAN Simulation](%assets_url%/download/st/exercises/STExercise4.pdf) | [Solutions](%assets_url%/download/st/exercises/solutions/STExerciseSol4.pdf)

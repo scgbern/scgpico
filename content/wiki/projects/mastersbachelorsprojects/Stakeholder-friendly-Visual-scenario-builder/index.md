@@ -9,8 +9,9 @@ Instead, a scenario can visually be built first with the help of a tool, and cor
 There exist other visual modelling tools, but one needs to build dedicated parsers, compilers, transformation engines to convert those diagrams into working code. Also, what one can do with the generated code is pretty limited. The underlying environment in our approach- which is Pharo- is the key difference that can bring various possibilities to modelling.
 
 
+| |
+|---|
 |<img style="text-align:center" src="http://scg.unibe.ch/download/Nitish/visual_scenario_builder_mockup.png" />
-|---
 
 #Contact
 [Nitish Patkar](%base_url%/staff/NitishPatkar)

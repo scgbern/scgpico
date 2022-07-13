@@ -2,7 +2,7 @@
 Title: The Famix Corpus
 ---
 
-**Note:** <span style="color: red">*This page is in the process of being updated*</span>
+**Note:** <span style="color: red">*This page is in the process of being updated*
 
 The "Famix Corpus" is a corpus of 147 open source java systems curated by [Richard Wettel](http://www.inf.usi.ch/phd/wettel/) and [Mircea Lungu](%base_url%/staff/mircea) and aimed at supporting [big software data](%base_url%/research/bigsoftwaredata) analysis. 
 

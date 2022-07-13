@@ -5,7 +5,7 @@ Title: MSc registration Fall 2021
 #MSc registration Fall 2021
 ##JMCS students
 
--  <span style="background-color: #FFFF00">**[Register on Academia](https://mcs.unibnf.ch/organization/registration-for-teaching-units/)** for **teaching units** by **Oct. 9, 2021**</span>
+-  **[Register on Academia](https://mcs.unibnf.ch/organization/registration-for-teaching-units/)** for **teaching units** by **Oct. 9, 2021**
 -  **[Register on Academia](https://mcs.unibnf.ch/organization/registration-for-teaching-units/)** for the **[CP](%base_url%/teaching/cp) exam** by **December 8, 2021**
 	-  *[January 4, 2022 for all other MSc courses]*
 

@@ -4,8 +4,9 @@ Title: CP: Concurrency: State Models and Design Patterns
 
 ![dining.png](%assets_url%/files/3d/gvp20bbi8vzc0i4vzd1asluu0ps91h/dining.png)
 
+| | |
+|---|---|
 |**Course:**| [21005](https://mcs.unibnf.ch/courses/concurrency-state-models-and-design-patterns/) (Autumn Semester 2021)
-|---|---
 |**Lecturer:**|[Prof. Oscar Nierstrasz](%base_url%/oscar)
 |**Assistants:**|[Pascal Gadient PhD](%base_url%/staff/PascalGadient), [Mohammadreza Hazhirpasand](%base_url%/staff/MohammadrezaHazhirpasand)
 |**Lecture:**|Wednesday, 10h15 - 12h00
@@ -44,8 +45,9 @@ The weekly discussion will be held in presence in the classroom (conditions perm
 
 #Course Schedule
 
+| | | |
+|---|---|---|
 |	1	|	22-Sep-21	|	Introduction 
-|---|---|---
 |	2	|	29-Sep-21	|	Java and Concurrency
 |	3	|	6-Oct-21	|	Safety and Synchronization
 |	4	|	13-Oct-21	|	Safety Patterns \+ Transactional Memory

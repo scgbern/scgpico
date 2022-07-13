@@ -6,8 +6,9 @@ This page contains a detailed report on an experiment performed in order to asse
 
 
 
+| | | | |
+|---|---|---|---|
 | **Discovered Rule**	|	**Dicto translation**	|	**supported by Dicto?**	|
-|---|---|---|---
 |	HiDao elements must have suffix DAO in their name.	|	HiDaoClasses must be named "\*DAO"	|	yes	|
 |	HiForms is responsible for presentation logic only.	|	&mdash; unprecise formulation	|	yes	|
 |	HiManager classes have package visibility or lower.	|	HiManagerClasses have  visibility \"" / "private"	|	yes	|

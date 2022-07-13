@@ -37,8 +37,9 @@ The following projects can be scaled up to a master thesis and down to a seminar
 
 #Contact
 
+| | |
+|---|---|
 |**Phone(Office):**|\+41 31 511 7644
-|---|---
 |**Phone(Mobile):**|\+41 78 804 4784
 |**Skype:**|haidarpi
 |**LinkedIn:**|[http://ch.linkedin.com/in/haidarosman](http://ch.linkedin.com/in/haidarosman)

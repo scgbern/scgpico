@@ -3,8 +3,9 @@ Title: Meta-modeling (MM - SS08)
 ---
 
 
+| | |
+|---|---|
 |<strong>Course:</strong>|[S7087](http://evub.unibe.ch/pievub/?KursID=2284017&KursNr=S7087&UeberschriftID=398758&page=detail) (Spring Semester 2008)
-|---|---
 |**Professor:**</TD>|[Prof. Dr. Oscar Nierstrasz](http://www.iam.unibe.ch/~oscar/)</TD> </TR>
 |**Assistant:**</TD>|David R&ouml;thlisberger </TR>
 |**Audience:**</TD>|Master students in computer science </TR>
@@ -30,8 +31,9 @@ Students will be graded for their talks. Additionally, there will be a written o
 
 #Schedule
 
+| | | |
+|---|---|---|
 |** Week **|** Date **|** Lecture/Seminar **
-|---|---|---
 | 1| 20-Feb-08|[ Lecture: Introduction ](http://scg.unibe.ch/download/mm/Slides/01Intro.ppt.pdf)
 | 2| 27-Feb-08|[ Lecture: Magritte &mdash; Describe Once, Get Everywhere ](http://scg.unibe.ch/download/mm/Slides/02Magritte.pdf) ([Magritte Image](http://scg.unibe.ch/download/mm/Resources/magritte.zip))
 | 3| 05-Mar-08|[Lecture: The Reflectivity &mdash; Sub-Method Structural and Behavioral Reflection](http://scg.unibe.ch/download/mm/Slides/03Reflectivity.pdf)

@@ -4,8 +4,9 @@ Title: Tools and Techniques for Decomposing and Composing Software
 
 *Tools and Techniques for Decomposing and Composing Software* is a project funded by the [Swiss National Science Foundation](http://www.snf.ch/) (SNSF project # [2000-067855.02](http://p3.snf.ch/Project-67855)).
 
+| | |
+|---|---|
 |<strong>Funding: </strong>|259'212.&mdash; SFr.
-|---|---
 |<strong>Period</strong>:|Oct 1, 2002 &mdash; Sept. 30, 2004
  
 #Summary

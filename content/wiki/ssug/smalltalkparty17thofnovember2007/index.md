@@ -7,8 +7,9 @@ SSUG is organizing a <b>Smalltalk Gathering</b>. We invite all Smalltalkers to j
 
 #Where 
 
+| |
+|---|
 |[Software Composition Group](%base_url%/contact/maps)
-|---
 |Room 107
 |Schützenmattstrasse 14
 |3012 Bern

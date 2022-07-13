@@ -4,8 +4,9 @@ Title: NOREX: Network of Reengineering Expertise
 
 *NOREX: Network of Reengineering Expertise* is a project fundedby the [Swiss National Science Foundation](http://www.snf.ch/) under SCOPES 2005-2008: Scientific Co-operation between Eastern Europe and Switzerland.
 
+| | |
+|---|---|
 |Principal investigators:|[Professor Michele Lanza](http://www.inf.unisi.ch/faculty/lanza/), Faculty of Informatics, University of Lugano <br/> [Professor Radu Marinescu](http://www.cs.utt.ro/~radum/), University of Timisoara, Romania <br/> [Professor Oscar Nierstrasz](http://www.iam.unibe.ch/~oscar/), University of Bern.
-|---|---
 |!Period:|Nov. 1, 2005 - Oct. 31, 2007
  
 #Summary

@@ -1,4 +1,4 @@
-This project is: <span style="color:red">**in progress**</span>
+This project is: <span style="color:red">**in progress**
 
 #Outline
 

@@ -5,11 +5,12 @@ Title: P2: Programming 2 &mdash; Object-Oriented Design
 #Overview
 Vorlesung für Haupt- und Nebenfachstudenten.
 
-<span style="background-color: #FFFF00">**NB:** The current version of this course (FS2022) is [hosted on the SEG web site](https://seg.inf.unibe.ch/teaching/current/p2/).</span>
+**NB:** The current version of this course (FS2022) is [hosted on the SEG web site](https://seg.inf.unibe.ch/teaching/current/p2/).
 
 
+| | |
+|---|---|
 |**Course:**|Programming 2 (Spring Semester 2021)
-|---|---
 |**Lecturers: **|[Prof. Oscar Nierstrasz](%base_url%/staff/oscar)
 |**Staff:**|[Pooja Rani](%base_url%/staff/Pooja-Rani), Pascal André, Julius Oeftiger, Lorenzo Wipfli, Marcel Zauder
 |**Lectures: **|Fridays 14h15 - 16h00
@@ -40,8 +41,9 @@ You will learn:
 
 #Schedule (tentative)
 
+| | | |
+|---|---|---|
 |	**Week**	|	**Date**	|	**Lecture**
-|---|---|---
 |	1	|	26-Feb-21	|	Introduction
 |	2	|	05-Mar-21	|	OO Design Principles
 |	3	|	12-Mar-21	|	Design by Contract

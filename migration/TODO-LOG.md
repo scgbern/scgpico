@@ -4,21 +4,20 @@
 This file lists pending migration todos, past todos (done) and a brief FAQ.
 
 ---
-# To do
+# Migration to do
+
+- Fixed some broken tables
+	- Add a fake header at the beginning of the table
+	- Example: /staff/Nataliia-Stulova
+
+* Remove all ugly yellow spans
 
 * Check all links
 	- PB recommends https://linkchecker.github.io/linkchecker/
 	- fixed htaccess to allow file browsing
 	- /files and /archive links to be fixed to point to assets
 
-* Fix some broken tables
-	- Example: /staff/Nataliia-Stulova
-
-* Don't display sidebar if file is absent
-	- Alternatively add a default sidebar if one is missing
-
-* Fix sidebar to shift to bottom on small devices
-	- see example in main css style
+* Add a default sidebar for each page?
 
 * ... Fix accented characters
 	* Use FIND-BAD-ACCENTS.command to find unusual chars
@@ -26,13 +25,14 @@ This file lists pending migration todos, past todos (done) and a brief FAQ.
 	* Update fixPierAccents with the new accent (if found)
 	* Update FIND-BAD-ACCENTS.command to ignore any uninteresting chars
 
-* Enable and force HTTPS
-	- https://github.com/alejandroliu/ForceHttpsPlugin
-	- PB: needs a certificate
+---
+# pico style to do
 
-* Clean up scgbib repo
-	* set up github actions to test for errors and generate JS
-	* set up assets/scgbib as a clone that can be pulled (won't work on yogi due to old RSA implementation)
+* Don't display sidebar if file is absent
+	- Alternatively add a default sidebar if one is missing
+
+* Fix sidebar to shift to bottom on small devices
+	- see example in main css style
 
 ---
 # scgbib to do
@@ -41,6 +41,17 @@ This file lists pending migration todos, past todos (done) and a brief FAQ.
 	* Fix the back-end js-conversion script in the new scgbib github repo
 
 * What to do about composite scgbib queries? eg Publications scg-bp|scg-ip
+
+* Clean up scgbib repo
+	* set up github actions to test for errors and generate JS
+	* set up assets/scgbib as a clone that can be pulled (won't work on yogi due to old RSA implementation)
+
+---
+# web server to do
+
+* Enable and force HTTPS
+	- https://github.com/alejandroliu/ForceHttpsPlugin
+	- PB: needs a certificate
 
 ---
 ## DONE

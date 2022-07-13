@@ -9,8 +9,9 @@ Apart from being a PhD student at the University of Bern, I work in the area of 
 ---
 #Contact
 
+| | |
+|---|---|
 |**Email:**|![http://scg.unibe.ch/files/c5/glw2e2n7uxwx6hcpfbfo7o416b1972/email.png](http://scg.unibe.ch/files/c5/glw2e2n7uxwx6hcpfbfo7o416b1972/email.png)
-|---|---
 |**Mobile:**|\+41 78 6914933
 
 ---

@@ -59,8 +59,9 @@ Former supervisors: [Prof. Dr. Mohammad Ghafari](http://scg.unibe.ch/staff/Moham
 
 #Contact
 
+| | |
+|---|---|
 |E-Mail|pascal [AT] gadient.org
-|---|---
 
 <br /><br />
 

@@ -1,4 +1,4 @@
-<span style="background-color: #FFFF00">This course was last taught by me in the Spring of 2021. The course materials have been archived on [github](https://github.com/onierstrasz/course-p2-oo-design).</span>
+This course was last taught by me in the Spring of 2021. The course materials have been archived on [github](https://github.com/onierstrasz/course-p2-oo-design).
 
 #Resources
 

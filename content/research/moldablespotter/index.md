@@ -114,8 +114,9 @@ On average an extension takes 8 lines of code. That means that you can get your 
 
 #Authors
 
+| | |
+|---|---|
 |[Aliaksei Syrel](https://twitter.com/AliakseiSyrel)|
-|---|---
 |[Andrei ChiÈ](http://andreichis.com)|
 |[Juraj Kubelka](http://juraj-kubelka.cz)|
 |[Stefan Reichhart](https://twitter.com/stefanreichhart)|
@@ -124,8 +125,9 @@ On average an extension takes 8 lines of code. That means that you can get your 
 #Blog Posts
 
 
+| | |
+|---|---|
 |[Finding asClass usages in Glamour using GTSpotter](http://www.humane-assessment.com/blog/finding-asclass-usages-in-glamour-using-gtspotter/)|
-|---|---
 |[Scoping for a specific search category in GTSpotter](http://www.humane-assessment.com/blog/scoping-for-specific-search-category-in-gtspotter/)|
 |[Managing external Pharo scripts with GTInspector and GTSpotter](http://www.humane-assessment.com/blog/managing-external-pharo-scripts-with-gtinspector-and-gtspotter/)|
 |[Spotting objects from GTInspector](http://www.humane-assessment.com/blog/spotting-objects-from-gtinspector/)|

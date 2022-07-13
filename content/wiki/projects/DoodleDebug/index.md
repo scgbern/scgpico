@@ -15,7 +15,7 @@ If nothing else,  Doo.dle() is nicer to type than System.out.println().
 
 #Built-in Renderings
 <style type="text/css">.screenshot-wrapper > img {border: 1px solid #bbb;}</style>
-<span class="screenshot-wrapper" style="float:right; margin: -1.5em -1.5em 1.5em 1.5em;">![DoodleDebug-screenshot-maps_minimal](%assets_url%/files/8b/r9nuc231inrptrulks1ra19o6zox2j/output_maps-lists_small.png)</span>
+<span class="screenshot-wrapper" style="float:right; margin: -1.5em -1.5em 1.5em 1.5em;">![DoodleDebug-screenshot-maps_minimal](%assets_url%/files/8b/r9nuc231inrptrulks1ra19o6zox2j/output_maps-lists_small.png)
 DoodleDebug comes with a number of beautiful renderings for commonly usesd Java data types. They allow a quick start without the need of customization and cover most everyday situations in software deveopment. We render Collections and Maps, several Image types, Throwables, tables (nested arrays) and matrices. 
 
 #Ultra-short Tutorial
@@ -39,7 +39,7 @@ An extended tutorial can be found by downloading and installing DoodleDebug (as 
 - Inside your Eclipse, select **Help > Eclipse Marketplace...**
 - Search for DoodleDebug and click on **Install** and follow the instructions of the wizard
 <br>
-If everything went well, you should now see two new buttons on top, one to open the DoodleDebug output view and one to open the tutorial. The best way to check if DoodleDebug is working is to go through this tutorial. <span style="white-space: nowrap;">;-)</span>
+If everything went well, you should now see two new buttons on top, one to open the DoodleDebug output view and one to open the tutorial. The best way to check if DoodleDebug is working is to go through this tutorial. <span style="white-space: nowrap;">;-)
 
 #Publications
 [Niko Schwarz. **DoodleDebug, Objects Should Sketch Themselves For Code Understanding**](%assets_url%/archive/papers/Schw11bDoodleDebug.pdf)<br>

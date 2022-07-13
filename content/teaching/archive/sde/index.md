@@ -4,8 +4,9 @@ Title: SDE: Software Design and Evolution
 
 ![SDE web image](%assets_url%/files/5d/x6asdk42eywwaescaa9so1ipx598bl/sde-web.jpg)
 
+| | |
+|---|---|
 |**Course:**|[21045](https://ilias.unibe.ch/goto_ilias3_unibe_crs_700243.html) (Fall Semester 2014)
-|---|---
 |**Lecturers:**|[Oscar Nierstrasz](%base_url%/staff/oscar) and [Mircea F. Lungu](%base_url%/staff/mircea)
 |**Assistants:**|[Nevena Milojković](%base_url%/staff/Milojkovic), [Haidar Osman](%base_url%/staff/Osman)
 |**Lectures:**|Wednesdays @ 10h15-12h00
@@ -33,8 +34,9 @@ After the successful completion of this course, you will:
 
 #Schedule
 
+| | | | |
+|---|---|---|---|
 |	**Week**	|	**Date**	|	**Lecture** | **Exercises**
-|---|---|---|---
 |	1	|	17-Sep-14	|	Introduction to Software Design and Evolution | [Exercise 1](%assets_url%/download/lectures/sde2014-exercises/Assignment1.pdf)
 |	2	|	24-Sep-14	|	Smalltalk: A Reflective Language and System	|   [Exercise 2](%assets_url%/download/lectures/sde2014-exercises/Assignment2.pdf)
 |	3	|	1-Oct-14	|	Understanding Classes and Metaclasses	|	[Exercise 3](%assets_url%/download/lectures/sde2014-exercises/Assignment3.pdf)

@@ -4,8 +4,9 @@ Title: SMA: Software Modeling and Analysis
 
 ![SDE web image](%assets_url%/files/5d/x6asdk42eywwaescaa9so1ipx598bl/sde-web.jpg)
 
+| | |
+|---|---|
 |**Course:**|(Fall Semester 2020)
-|---|---
 |**Lecturers:**|[Oscar Nierstrasz](%base_url%/staff/oscar)
 |**Assistants:**|[Pascal Gadient PhD](%base_url%/staff/PascalGadient), [Pooja Rani](%base_url%/staff/Pooja-Rani)
 |**Lectures:**|Wednesdays @ 10h15-12h00
@@ -35,8 +36,9 @@ The final grade will be based 30% on the weekly assignments and 70% on the final
 #Schedule 2020
 ***Please click on the lecture title to view the podcast.***
 
+| | | |
+|---|---|---|
 |	**Week**	|	**Date**	|	**Lecture**
-|---|---|---
 |	1	|	16-Sep-20	|	[Introduction to Software Modeling and Analysis](https://tube.switch.ch/videos/ba7c14ff)
 |	2	|	23-Sep-20	|	[Smalltalk: A Reflective Language and System](https://tube.switch.ch/videos/f1357e24) and [Demo](https://tube.switch.ch/videos/9c2dbba7)
 |	3	|	30-Sep-20	|	[Understanding Classes and Metaclasses](https://tube.switch.ch/videos/227dc9ee)
@@ -57,8 +59,9 @@ The final grade will be based 30% on the weekly assignments and 70% on the final
 #Weekly assignments
 [PLEASE READ THIS FIRST! - How to submit your solutions](%assets_url%/download/lectures/sma-exercises/SMA-RulesForExercises.pdf)
 
+| | | | | |
+|---|---|---|---|---|
 |	Week	|   Practical Session PDF    |   Assignment PDF    | Solution PDF
-|---|---|---|---
 |	01	|	[P01](%assets_url%/download/lectures/sma-exercises/Assignment-01-Slides.pdf)		|	[A01](%assets_url%/download/lectures/sma-exercises/Assignment-01.pdf)	|	[S01](%assets_url%/download/lectures/sma-exercises/Assignment-01-Solution.pdf)
 |	02	|	[P02](%assets_url%/download/lectures/sma-exercises/Assignment-02-Slides.pdf)		|	[A02](%assets_url%/download/lectures/sma-exercises/Assignment-02.pdf)	|	[S02](%assets_url%/download/lectures/sma-exercises/Assignment-02-Solution.pdf)
 |	03	|	[P03](%assets_url%/download/lectures/sma-exercises/Assignment-03-Slides.pdf)		|	[A03](%assets_url%/download/lectures/sma-exercises/Assignment-03.pdf)	|	[S03](%assets_url%/download/lectures/sma-exercises/Assignment-03-Solution.pdf)

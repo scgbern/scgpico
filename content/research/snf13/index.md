@@ -5,8 +5,9 @@ Title: Agile Software Assessment
 ![Asa-logo.png](%assets_url%/files/54/v4kl5a1k0snggemb5a6lfdmhj2phil/asa-logo.png)*Agile Software Assessment* is a project funded by the [Swiss National Science Foundation](http://www.snf.ch/) ([SNSF project # 200020-144126/1](http://p3.snf.ch/Project-144126)).
 Funding has been requested for a continuation project, [Agile Software Analysis](%base_url%/research/snf16).
 
+| | |
+|---|---|
 |**Funding:**|650,000.&#8212; SFr.
-|---|---
 |**Period:**|Jan 1, 2013 - Dec. 30, 2015
 |**Collaborating teams:**|[REVEAL research group](http://www.inf.unisi.ch/faculty/lanza/), University of Lugano, Switzerland<br/>[RMod group](http://rmod.lille.inria.fr/), INRIA, Lille, France<br/> [Loose Research Group](http://loose.upt.ro/), Politehnica University of Timisoara, Romania
 |**Keywords**|*Software evolution; Reflection; Meta-modeling; Context-oriented programming; Clone detection; Software architecture; Reverse engineering*

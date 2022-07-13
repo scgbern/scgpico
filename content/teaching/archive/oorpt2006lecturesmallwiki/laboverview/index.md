@@ -6,8 +6,9 @@ Lab will be held in the SCG Seminar Room - 107.
 
 ## Schedule
 
+| | | | | | | | | | |
+|---|---|---|---|---|---|---|---|---|---|
 | <b>Week</b> | | <b>Date</b> | | <b>Lecture</b> | | <b>Lab</b> | | <b>Lab delivery</b> |
-|---|---|---|---|---|---|---|---|---|---
 | 01 | | 25-Oct-06 | | Introduction | | Lab overview | | - |
 | 02 | | 1-Nov-06 | | LAB - Understanding ArgoUML | | Understanding ArgoUML | | - |
 | 03 | | 8-Nov-06 | |	Presentation of results | | Presentation | | Slides |
@@ -25,8 +26,9 @@ Lab will be held in the SCG Seminar Room - 107.
 
 ## Evaluation
 
+| | |
+|---|---|
 | Default | = 1
-|---|---
 | Exam | = 4.5
 | Lab | = 0.5 (obtained if all 4 delivarables are presented)
 | <b>Total</b> | <b>= 6</b>

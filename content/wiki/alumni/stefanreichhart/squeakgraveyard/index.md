@@ -3,8 +3,9 @@ Title: Squeak Graveyard
 ---
 
 
+| | | | | | |
+|---|---|---|---|---|---|
 |  <b> class</b>  |  <b>method category</b>  |  <b>method and all deep senders</b>  |  <b>refers to/used by</b>  | <b>TODO?</b> |
-|---|---|---|---|---|---
 | Object | testing | isWebBrowser (and all deep-senders) | Scamper | remove or put to class extension \*Scamper |
 | Object | creation | <all> | Morphs | put all to class extension \*Morphic |
 | Object class | documentation | <all> | - | this is documentation not behavior -> remove / create a documentation/finder tool |

@@ -4,8 +4,9 @@ Title: Synchronizing Models and Code
 
 *Synchronizing Models and Code* is a project funded by the [Swiss National Science Foundation](http://www.snf.ch/) (SNSF project # [200020_131827](http://p3.snf.ch/project-131827)).
 
+| | |
+|---|---|
 |<strong>Funding:</strong>|337,337.&#8212; SFr.
-|---|---
 |<strong>Period:</strong>|Oct 1, 2010 - Dec. 30, 2012
 |<strong>Collaborating teams:</strong>|[REVEAL research group](http://www.inf.unisi.ch/faculty/lanza/), University of Lugano, Switzerland<br/>[RMod group](http://rmod.lille.inria.fr/), INRIA, Lille, France<br/> [Loose Research Group](http://loose.upt.ro/), Politehnica University of Timisoara, Rumania
  

@@ -1,4 +1,4 @@
-<span style="background-color: #FFFF00">This course was last taught by me in the Fall of 2021. The course materials have been archived on [github](https://github.com/onierstrasz/course-intro-cs).</span>
+This course was last taught by me in the Fall of 2021. The course materials have been archived on [github](https://github.com/onierstrasz/course-intro-cs).
 
 #Resources
 

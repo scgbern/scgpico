@@ -4,8 +4,9 @@ Title: CC: Compiler Construction (FS11)
 
 ![St George](%assets_url%/files/42/p0a3amfjqbkvygyyz64y4bxp0pkud2/stgeorge.png)
 
+| | |
+|---|---|
 |<strong>Course:</strong>|[S6085](http://evub.unibe.ch/pievub/n_index.asp?KursID=4172505&KursNr=S6085&UeberschriftID=715374&page=detail) (Spring 2011)
-|---|---
 |**Lecturers:**|[Prof. Dr. Oscar Nierstrasz](%base_url%/oscar) 
 |**Assistants:**|[Toon Verwaest](%base_url%/staff/toonverwaest), Raffael Krebs
 |**Audience:**|Master students in computer science 
@@ -37,8 +38,9 @@ On successful completion of this course, you will be able to:
 
 #Lecture Overview
 
+| | | |
+|---|---|---|
 |	1	|	25-Feb-11	|**	Introduction	**
-|---|---|---
 |	2	|	04-Mar-11	|**	Lexical Analysis	**
 |	3	|	11-Mar-11	|**	Parsing	**
 |	4	|	18-Mar-11	|**	Parsing in Practice	**

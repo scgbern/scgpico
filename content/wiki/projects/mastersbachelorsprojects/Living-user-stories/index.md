@@ -7,16 +7,19 @@ User stories are widely used to keep track of actionable requirements. They are 
 We have implemented a preliminary prototype of User Story Wall in an IDE that supports changing the status of user stories and moving the cards around in columns, such as in progress or finished.
 
 
+| | |
+|---|---|
 |<img style="text-align:center" src="http://scg.unibe.ch/download/Nitish/GT_related/story_wall_view_GT.png" />|
-|---|---
 
 
+| | |
+|---|---|
 |<img style="text-align:center" src="http://scg.unibe.ch/download/Nitish/GT_related/user_story_missing_entities.png" />|
-|---|---
 
 
+| | |
+|---|---|
 |<img style="text-align:center" src="http://scg.unibe.ch/download/Nitish/GT_related/adding_missing_entities.png" />|
-|---|---
 
 This prototype can be further improved to make story cards customizable, tie the user stories to the actual implementation, and several visual enhancements. 
 

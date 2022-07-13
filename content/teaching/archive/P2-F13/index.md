@@ -6,8 +6,9 @@ Title: P2: Programming 2 (F13)
 Vorlesung für Haupt- und Nebenfachstudenten.
 
 
+| | |
+|---|---|
 |**Course:**|Programming 2 (Spring Semester 2014)
-|---|---
 |**Lecturers: **|[Prof. Oscar Nierstrasz](%base_url%/staff/oscar), [Mircea F. Lungu](%base_url%/staff/mircea)
 |**Staff:**|[Andrei ChiÈ](%base_url%/staff/andreichis)
 |**Lectures: **|Fridays 14h15 - 16h00
@@ -33,8 +34,9 @@ How do you effectively use tools like debuggers, version control systems, and in
 
 ##Schedule (2013 &mdash; to be updated)
 
+| | | |
+|---|---|---|
 |	1	|	22-Feb-13	|**	Introduction	**
-|---|---|---
 |	2	|	01-Mar-13	|**	OO Design Principles	**
 |	3	|	08-Mar-13	|**	Design by Contract	**
 |	4	|	15-Mar-13	|**	A Testing Framework	**

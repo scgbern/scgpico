@@ -6,8 +6,9 @@ updated: November 8, 2006
 
 #Packages (from SqueakSource)
 
+| | | | | | |
+|---|---|---|---|---|---|
 |  coverage subject | coverage in % | time (1) | # methods (2) | # test-cases (2) | Notes 
-|---|---|---|---|---|---
 | Aconcagua | 65 % | 1:00 | 800 | 400 
 | Chronos | ? % | | | | install of environment meesed up the image, selectors missing, ...
 | Cryptography (core only) | 27 % | 4:00 | 77 | 31 | 

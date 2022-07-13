@@ -6,8 +6,9 @@ Title: P2: Programming 2 (FS12)
 Vorlesung für Haupt- und Nebenfachstudenten.
 
 
+| | |
+|---|---|
 |**Course:**|[S6064](http://evub.unibe.ch/pievub/n_index.asp?KursID=4891132&KursNr=S6064&UeberschriftID=843204&page=detail) (Spring Semester 2012)
-|---|---
 |**Lecturer: **|[Prof. Oscar Nierstrasz](http://www.iam.unibe.ch/~oscar/)
 |**Staff:**|[Niko Schwarz](%base_url%/staff/Schwarz), Aaron Karper, Joel Krebs
 |**Lectures: **|Fridays 14h15 - 16h00
@@ -33,8 +34,9 @@ How do you effectively use tools like debuggers, version control systems, and in
 
 ##Schedule 2012
 
+| | | |
+|---|---|---|
 |	1	|	24-Feb-12	|**	Introduction	**
-|---|---|---
 |	2	|	02-Mar-12	|**	OO Design Principles	**
 |	3	|	09-Mar-12	|**	Design by Contract	**
 |	4	|	16-Mar-12	|**	A Testing Framework	**
