@@ -123,7 +123,7 @@ https://gohugo.io
 This is a static site generator.
 See also Jekyll, Hexo etc
 
-I expected it to generate static HTML, but it seems to require a Hugo server to run,
+I expected it to generate static HTML, but it seems to require a Hugo server to run.
 
 # Grav
 The best is Grav?

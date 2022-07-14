@@ -39,7 +39,7 @@ body { display: flex; flex-direction: column; }
 #header, #footer { flex: 0 0 auto; }
 
 #main {
-    padding: 2em 0 2em;
+  padding: 2em 0 2em;
 	display: flex;
 	flex-direction: row;
 }
@@ -48,7 +48,7 @@ body { display: flex; flex-direction: column; }
     max-width: 48em;
     padding: 0 0.5em;
     margin: 0 auto;
-	flex: 3 3 auto;
+	  flex: 3 3 auto;
 }
 .widescreen .container { max-width: 72em; }
 
@@ -129,6 +129,11 @@ body { display: flex; flex-direction: column; }
 
 @media (max-width: 767px) {
     #main { padding: 2em 0 1em; }
+		#main {
+		  padding: 2em 0 2em;
+			display: flex;
+			flex-direction: column;
+		}
 
     #title, #logo { padding: 2em 1.5em 2em 0; }
     #logo { height: 8.8em; }

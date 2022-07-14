@@ -17,11 +17,8 @@ This file lists pending migration todos, past todos (done) and a brief FAQ.
 	* Update fixPierAccents with the new accent (if found)
 	* Update FIND-BAD-ACCENTS.command to ignore any uninteresting chars
 
----
-# pico style to do
-
-* Fix sidebar to shift to bottom on small devices
-	- see example in main css style
+* Make sure old style scgbib links will still wokr:
+	- http://scg.unibe.ch/scgbib?query=Nierstrasz
 
 ---
 # scgbib to do
@@ -44,6 +41,9 @@ This file lists pending migration todos, past todos (done) and a brief FAQ.
 
 ---
 ## DONE
+
+- Fixed sidebar to shift to bottom on small devices
+	- see example in main css style
 
 - Changed background color of sidebar to white
 
