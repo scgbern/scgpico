@@ -33,6 +33,12 @@ This file lists pending migration todos, past todos (done) and a brief FAQ.
 	* set up assets/scgbib as a clone that can be pulled (won't work on yogi due to old RSA implementation)
 
 ---
+# pico theme to do
+
+- Sidebar still is ugly compared to main body
+	- See Wiki page when window is reduced
+
+---
 # web server to do
 
 * Enable and force HTTPS
