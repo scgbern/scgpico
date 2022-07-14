@@ -2,7 +2,7 @@
 Title: Never Say Allow To Again
 ---
 
-<head><meta http-equiv="refresh" content="1; url='/wiki/howtos/commonwritingerrors/neverSayAllowsToAgain'" /></head><body><p>Please follow <a href="/wiki/howtos/commonwritingerrors/neverSayAllowsToAgain">this link</a>.</p></body>
+<head><meta http-equiv="refresh" content="1; url=/wiki/howtos/commonwritingerrors/neverSayAllowsToAgain" /></head><body><p>Please follow <a href="/wiki/howtos/commonwritingerrors/neverSayAllowsToAgain">this link</a>.</p></body>
 
 
 The construct <I>allow to</I> (or <I>allows to</I>) is not correct in English, since <I>allow</I> must take an object.  The following examples are from various thesis drafts, and illustrate what to avoid:

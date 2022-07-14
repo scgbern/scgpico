@@ -32,4 +32,4 @@
 -  [Bart von Rompaey](http://www.win.ua.ac.be/~bvromp/)
 -  [Markus Gaelli](http://www.iam.unibe.ch/~gaelli/)
 
-Follow [@jexample](%20http://twitter.com/jexample)
+Follow [@jexample](http://twitter.com/jexample)
