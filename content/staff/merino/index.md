@@ -72,7 +72,7 @@ My main research interests are in the areas of software visualization, program c
 - Mario Hess. [Pervasive Visualization in Augmented Reality for Software Monitoring ](%base_url%/wiki/projects/mastersbachelorsprojects/pervasive-visualization-in-ar-for-software-monitoring). (Bachelor's thesis - ongoing 2018). [Presentation](%base_url%/wiki/alumni/MarioHess)
 - Silas David Berger. [Visually Exploring Scientific Communities &mdash; Extending EggShell's Model and Visualization](%assets_url%/archive/projects/Berg17a.pdf). (Bachelor's thesis 2017). [Website](http://vmsc-thesis.blogspot.ch)
 - Dominik Seliner. [EggShell &mdash; A workbench for modeling scientific communities](%assets_url%/archive/projects/Seli16a.pdf). (Bachelor's thesis 2016). [Website](https://bachelorprojectblog.wordpress.com)
-- Ekaterina Kozlova. [Software Visualization Ontology](%assets_url%/download/softwarecomposition/2017-12-19-SoftwareVisualizationOntology.pdf) (Software Composition Seminar 2017)
+- Ekaterina Kozlova. [Software Visualization Ontology](%assets_url%/download/softwarecomposition/2017-12-19-Kozlova-SoftwareVisualizationOntology.pdf) (Software Composition Seminar 2017)
 - Lukas Imstepf. How are Software Visualizations Evaluated? [scraping digital libraries](%assets_url%/download/softwarecomposition/2017-04-25-Imstepf-ScrapingDigitalLibraries.pdf) and [results](%assets_url%/download/softwarecomposition/2017-06-27-LukasImstepf-VisualizationEvaluation.pdf) (Software Composition Seminar 2016)
 - Pascal Giehl. [Visualizing Collaboration Networks](%assets_url%/download/softwarecomposition/2016-05-31-Giehl-AssessingNode-LinkVisualizationsForCollaborationNetworks.pdf) (Software Composition Seminar 2016)
 

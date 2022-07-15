@@ -29,7 +29,7 @@ Develect is written in Smalltalk. The source code can be obtained from the SCG S
 # Publications
 
 
--  Dominique Matter, Adrian Kuhn and Oscar Nierstrasz, [Assigning Bug Reports using a Vocabulary-Based Expertise Model of Developers,](%assets_url%/archive/drafts/Matt09X-assigning-bug-reports-using-a-vocabulary-based-expertise-model-of-developers.pdf) MSR '09: Proceedings of the 2009 intl. working conference on Mining software repositories, ACM, 2009, pp. to appear.
+-  Dominique Matter, Adrian Kuhn and Oscar Nierstrasz, [Assigning Bug Reports using a Vocabulary-Based Expertise Model of Developers](%assets_url%/archive/papers/Matt09aAssigningBugreports.pdf), MSR '09: Proceedings of the 2009 intl. working conference on Mining software repositories, ACM, 2009, pp. to appear.
 
 # People
 

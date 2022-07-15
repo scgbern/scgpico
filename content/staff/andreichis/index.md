@@ -50,7 +50,7 @@ Apart from this my research interests lie in the areas of:
 
 
 -  *A domain-specific debugger for the PetitParser parser framework* by Andrei Chis, Tudor Girba and Oscar Nierstrasz at [Parsing@SLE](http://www.sleconf.org/2014/Parsing-at-SLE.html) &mdash; Västerås, Sweden, September 14, 2014 ([abstract](http://scg.unibe.ch/download/andrei/PetitParserDebugger-ParsingSLE-Abstract.pdf), [slides](http://www.sleconf.org/2014/parsing-slides/7-PetitParserDebugger.pdf)).
--  *[GTInspector: hands on](http://esug.org/wiki/pier/Conferences/2014/Conference-Schedule)* by Andrei Chis and Tudor Girba at [ESUG, http://esug.org/wiki/pier/Conferences/2014](ESUG,%20http://esug.org/wiki/pier/Conferences/2014) &mdash; Cambridge, England, August 18-22, 2014 
+-  *[GTInspector: hands on](http://esug.org/wiki/pier/Conferences/2014/Conference-Schedule)* by Andrei Chis and Tudor Girba at [ESUG](http://esug.org/wiki/pier/Conferences/2014) &mdash; Cambridge, England, August 18-22, 2014 
 -  *[The GTInspector: A moldable object inspector](http://ecoop14.it.uu.se/programme/demos.php/#gtinspector)* by Andrei Chis, Tudor Girba and Oscar Nierstrasz at [ECOOP - Demos and Tutorials](http://ecoop14.it.uu.se/programme/demos.php) &mdash; Uppsala, Sweden, July 30, 2014
 -  *The Moldable Debugger* at [PharoConf/MooseDay](http://scg.unibe.ch/wiki/events/pharoconf-mooseday-2013) &mdash; Bern, Switzerland, April 2-4, 2013
 
@@ -58,7 +58,7 @@ Apart from this my research interests lie in the areas of:
 
 -  [VISSOFT 2016 - NIER and Tools Tracks](http://vissoft16.ysu.edu/) (4th IEEE Working Conference on Software Visualization), October 2016, Raleigh, North Carolina, USA
 -  [IWST 2016](http://esug.org/wiki/pier/Conferences/2016/International-Workshop-IWST_16) (International Workshop in Smalltalk Technologies), August 2016, Prague, Czech Republic
--  [VEM 2016](http://www.vem2016.ufba.br/submissions.html) (4th Workshop on Software Visualization, Evolution and Maintenance), September 2016, MaringaÌ, Brazil
+-  [VEM 2016](http://www.vem2016.ufba.br/submissions.html) (4th Workshop on Software Visualization, Evolution and Maintenance), September 2016, Maringá, Brazil
 -  [VISSOFT 2015 - Artifact Evaluation Committee](http://vissoft.dcc.uchile.cl/) (3rd IEEE Working Conference on Software Visualization), September 2015, Bremen, Germany
 -  [VISSOFT 2015 - NIER and Tools Tracks](http://vissoft.dcc.uchile.cl/) (3rd IEEE Working Conference on Software Visualization), September 2015, Bremen, Germany
 -  [IWST 2015](http://www.esug.org/wiki/pier/Conferences/2015/International-Workshop-IWST_15) (International Workshop in Smalltalk Technologies), July2015, Brescia, Italy

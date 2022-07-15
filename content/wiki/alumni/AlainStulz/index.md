@@ -6,9 +6,9 @@ Hi! My name is Alain and I'm studying for a bachelor's degree at Uni Bern. I'm j
 
 ##My Background
 
-During my studies, I have been working part-time as a software developer at [Apps with love](Apps%20with%20love), a digital agency based in Bern. The company was founded in 2011 and we have since created numerous bigger and smaller apps for our clients.
+During my studies, I have been working part-time as a software developer at [Apps with love](https://appswithlove.com), a digital agency based in Bern. The company was founded in 2011 and we have since created numerous bigger and smaller apps for our clients.
 
-In the beginnings, we mostly focused on apps in the event business, such as the Gurtenfestival or [Patrouille des Glaciers](Patrouille%20des%20Glaciers). Back then, we wrote a framework to help us create this kind of apps more effectively. It would be copied and reused from project to project. This included features like syncing data from a backend content management system, local caching, and showing content in premade but customizable views.
+In the beginnings, we mostly focused on apps in the event business, such as the Gurtenfestival or [Patrouille des Glaciers](https://apps.apple.com/app/patrouille-des-glaciers-pdg/id509160155). Back then, we wrote a framework to help us create this kind of apps more effectively. It would be copied and reused from project to project. This included features like syncing data from a backend content management system, local caching, and showing content in premade but customizable views.
 
 Over the years, our business has shifted &mdash; nowadays we are creating many different kinds of apps, ranging from fitness guides and AR games to travel guides. Many features have been added to our framework to try and cope with these additional challenges, but it has not been well maintained. More often than not, we find ourselves struggling against lacking test coverage and poor documentation; rather than using the framework to save time. 
 

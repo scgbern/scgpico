@@ -30,7 +30,6 @@ Welcome to the former Wiki of the [Software Composition Group](%base_url%/).
 - [Cruft - pages to be removed ...](wiki/cruft)
 - [SC: Software Composition Seminar](wiki/softwarecompositionseminar)
 - [dev-codemap](wiki/devcodemap)
-- [Fontsizebuttons](wiki/fontsizebuttons)
 - [OOMPS 2013 - OOpsla Mock Pc @ Scg 2013](wiki/oomps-2013)
 
 
@@ -48,6 +47,5 @@ Welcome to the former Wiki of the [Software Composition Group](%base_url%/).
 - [Cruft - pages to be removed ...](wiki/cruft)
 - [SC: Software Composition Seminar](wiki/softwarecompositionseminar)
 - [dev-codemap](wiki/devcodemap)
-- [Fontsizebuttons](wiki/fontsizebuttons)
 - [OOMPS 2013 - OOpsla Mock Pc @ Scg 2013](wiki/oomps-2013)
 

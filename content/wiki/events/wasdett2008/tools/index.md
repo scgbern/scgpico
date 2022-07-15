@@ -13,7 +13,7 @@ Links to the presented tools at the workshop:
 -  [TestQ](http://code.google.com/p/tsmells/)
 -  <span style="background:yellow;">[Small Project Observatory](http://spo.inf.unisi.ch/)
 -  Primus
--  <a href="http://composestar.sourceforge.net ">Compose\*</a>
+-  <a href="http://composestar.sourceforge.net">Compose\*</a>
 -  Nix Build Farm
 -  [RefactorErl](http://plc.inf.elte.hu/erlang/)
 -  [ConGu](http://gloss.di.fc.ul.pt/congu/)

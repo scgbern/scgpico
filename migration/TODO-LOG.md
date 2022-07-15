@@ -6,14 +6,14 @@ This file lists pending migration todos, past todos (done) and a brief FAQ.
 ---
 # Migration to do
 
-* Fix redirects to local pages
-	- Added PMMarkdownWriter>>redirectUrlFor:
-	- To test: PM new localRedirects collect: #owner
-
 * Check all links
 	- PB recommends https://linkchecker.github.io/linkchecker/
 	- fixed htaccess to allow file browsing
 	- /files and /archive links to be fixed to point to assets
+
+* Repair broken scgbib links
+	* Example: /wiki/projects/archive/bender
+	* What is the right way to embed a fixed query? (add to FAQ below)
 
 * ... Fix accented characters
 	* Use FIND-BAD-ACCENTS.command to find unusual chars
@@ -23,6 +23,10 @@ This file lists pending migration todos, past todos (done) and a brief FAQ.
 
 * Make sure old style scgbib links will still wokr:
 	- http://scg.unibe.ch/scgbib?query=Nierstrasz
+
+* Need apache redirects
+	* Need to make /archive /download /files and /scgbib continue to work
+	- Pages like petitpetri directly point to /downloads and /scgbib
 
 ---
 # scgbib to do
@@ -51,6 +55,10 @@ This file lists pending migration todos, past todos (done) and a brief FAQ.
 
 ---
 ## DONE
+
+- Fix redirects to local pages
+	- Added PMMarkdownWriter>>redirectUrlFor:
+	- To test: PM new localRedirects collect: #owner
 
 - Fixed sidebar to shift to bottom on small devices
 	- see example in main css style

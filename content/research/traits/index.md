@@ -48,7 +48,7 @@ Discussions on roles vs inheritance are quite active among Perl bloggers. See fo
 ##C#
 We have worked on a [Microsoft funded research project](%base_url%/research/rotor) aimed to bring Traits to C#/Rotor, the shared source implementation of .NET.
 
-Stefan Reichhart implemented a [simple prototype](%assets_url%/download/rotor/csharptdemo.zip) (including examples/demos) of traits in C# during a student project. The work is accompanied by a [technical report](%assets_url%/scgbib/?query=stefan reichhart traits&filter=Year) and [presentation slides](%assets_url%/download/rotor/sscli2005traitscsharp.pdf) from the [SSCLI Capstone Workshop 2005](http://research.microsoft.com/workshops/SSCLI2005/) at Microsoft Research, Redmond. 
+Stefan Reichhart implemented a [simple prototype](%assets_url%/download/rotor/CSharpTDemo.zip) (including examples/demos) of traits in C# during a student project. The work is accompanied by a [technical report](%assets_url%/scgbib/?query=stefan reichhart traits&filter=Year) and [presentation slides](%assets_url%/download/rotor/SSCLI2005TraitsCSharp.pdf) from the [SSCLI Capstone Workshop 2005](http://research.microsoft.com/workshops/SSCLI2005/) at Microsoft Research, Redmond. 
 
 ##VisualWorks Smalltalk
 Terry Raymonds from [Cincom](http://www.cincom.com) ported a variation of Traits to [VisualWorks Smalltalk](http://smalltalk.cincom.com).

@@ -14,9 +14,6 @@ Title: How to link to the SCG Bibliography
 - [Author Pages](%base_url%/wiki/howtos/howToLinkToScgBib/authorPages)
 
 ---
-- [Detecting Missing Information](%base_url%/wiki/howtos/howToLinkToScgBib/missingInformation)
-
----
 - [Design](%base_url%/wiki/howtos/howToLinkToScgBib/design)
 
 ---

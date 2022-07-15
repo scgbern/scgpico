@@ -43,7 +43,7 @@ Normally, the seminar takes place on Mondays at 14.00 in the afternoon in our se
 -  Apr 28 &mdash; [Ivan Kravchenko](%base_url%/wiki/alumni/IvanKravchenko) &mdash; [Moldable scenarios](%base_url%/wiki/projects/mastersbachelorsprojects/From-user-stories-to-live-documentation) (first MSc presentation)
 -  Mar 31 &mdash; [Brian Schweigler](%base_url%/wiki/students/BrianSchweigler) &mdash; [An Investigation into Vulnerability Databases](%assets_url%/download/softwarecomposition/2020-03-31-Schweigler-VulnerabilityInvestigations.pdf) (final Bachelors presentation)
 -  Mar 17 &mdash; [Andreas Wälchli](%base_url%/wiki/alumni/AndreasWaelchli) &mdash; [A Sampling Profiler for JITing in Ř](%assets_url%/download/softwarecomposition/2020-03-17-Waelchli-SamplingProfiler.pdf) (first Masters presentation)
--  Mar 3 &mdash; [Pascal Gerig](%base_url%/wiki/alumni/PascalGerig) &mdash; [Phishing on Demand](%assets_url%/download/softwarecomposition/2020-03-03-Gerig-PhishingOnDemand.pdf) (final Bachelors presentation)
+-  Mar 3 &mdash; [Pascal Gerig](%base_url%/wiki/alumni/PascalGerig) &mdash; Phishing on Demand (final Bachelors presentation)
 -  Feb 11 
 	-  [Timm Gross ](%base_url%/wiki/alumni/TimmGross) &mdash; [Threats to validity in TDD research](%assets_url%/download/softwarecomposition/2020-02-11-Gross-ThreatsToTDDResearch.pdf) (final Bachelors presentation)
 	-  [Noah Bühlmann](%base_url%/wiki/alumni/NoahBuehlmann) &mdash; [Security discussions in open source projects](%assets_url%/download/softwarecomposition/2020-02-11-Buehlmann-SecurityDiscussions.pdf) (first Bachelors presentation)
@@ -65,11 +65,11 @@ Normally, the seminar takes place on Mondays at 14.00 in the afternoon in our se
 	-  [Melike Geçer](%base_url%/wiki/alumni/MelikeGecer) &mdash; [Debugging Spark Applications](%assets_url%/download/softwarecomposition/2019-12-10-MelikeGecer-Debugging%20Spark.pdf) (MSc final presentation)
 	-  Louis Müller &mdash; [Executable graph models in Bloc](%assets_url%/download/softwarecomposition/2019-12-10-LouisMueller-Executable%20graph%20models%20in%20Bloc.pdf) (seminar)
 
--  Dec 3 &mdash;Jonas Diesbach &mdash; [Paper Hunter](%assets_url%/download/softwarecomposition/2019-12-03-JonasDiesbach&mdash;PaperHunter.pdf) (seminar)
+-  Dec 3 &mdash;Jonas Diesbach &mdash; [Paper Hunter](%assets_url%/download/softwarecomposition/2019-12-03-JonasDiesbach-PaperHunter.pdf) (seminar)
 -  Nov 26 &mdash; Ivan Kravchenko &mdash; [Class commenting practices in Java](%assets_url%/download/softwarecomposition/2019-11-26-Ivan-classCommentAnalysis.pdf) (Seminar)
 -  Nov 12 &mdash; [Dean Klopsch](%base_url%/wiki/alumni/DeanKlopsch) &mdash; [Learning from nature: How nature resolves security issues](%assets_url%/download/softwarecomposition/2019-11-12-Klopsch-LearningFromNature.pdf) (Bachelors, first presentation)
 -  Nov 5 &mdash; [Olivier Flückiger](%base_url%/staff/oli) &mdash; [Ř Melts Brains](%assets_url%/download/softwarecomposition/2019-11-05-Flueckiger-R.pdf) (SPLASH 2019 presentation)
--  Oct 29 &mdash; [Pascal Gerig](%base_url%/wiki/alumni/PascalGerig) &mdash; [Phishing on Demand](%assets_url%/download/softwarecomposition/2019-10-29-Gerig-PhishingOnDemand.pdf) (Bachelors, first presentation)
+-  Oct 29 &mdash; [Pascal Gerig](%base_url%/wiki/alumni/PascalGerig) &mdash; Phishing on Demand (Bachelors, first presentation)
 -  Oct 15 &mdash; [Brian Schweigler](%base_url%/wiki/students/BrianSchweigler) &mdash; [The Life of a Bug Report](%assets_url%/download/softwarecomposition/2019-10-15-Schweigler-LifeOfBugReport.pdf) (Bachelors, first presentation)
 -  Oct 1 &mdash; [Alain Stulz](%base_url%/wiki/alumni/AlainStulz) &mdash; [Identifying and reducing technical debt in an iOS app framework](%assets_url%/download/softwarecomposition/2019-10-01-Stulz-AppsWithLove.pdf) (Bachelors, first presentation)
 -  August 13 &mdash; [Julian Weyermann](%base_url%/wiki/alumni/JulianWeyermann) &mdash; [DB-Reports with Oracle MLE](%assets_url%/download/softwarecomposition/2019-08-13-Weyermann-GraalVM.pdf) (Bachelors, first presentation)
@@ -518,7 +518,7 @@ Normally, the seminar takes place on Mondays at 14.00 in the afternoon in our se
 -  Nov 13: Philipp Bunge &mdash; Analyzing Subversion repositories
 -  Nov 06: Marcel Härry &mdash; JPAAM: A pluggable authentication and authorisation framework
 -  Oct 30: Andrea Bruehlmann &mdash; Albatross: a Seaside live testing Framework
--  Aug 14: [Tudor Girba](http://www.tudorgirba.com) &mdash; User Interaction with [Moose](http://moose.unibe.ch) and [Mondrian](/wiki//http://moose.unibe.ch/tools/mondrian)
+-  Aug 14: [Tudor Girba](http://www.tudorgirba.com) &mdash; User Interaction with Moose and Mondrian
 -  Jul 10: Rafael Wampfler &mdash; SmallEg: A Metamodel and GUI for Unit Tests
 -  Jul 17: David Gurtner &mdash; j2moose: importing JSP into Moose
 -  June 26: Stefan Reichhart &mdash; Christo alias Coverage (quick 5 min overview about the ui, ...)

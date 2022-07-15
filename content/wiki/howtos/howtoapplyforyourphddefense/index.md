@@ -50,7 +50,7 @@ Be sure to give a physical copy to the Chair (Vorstand) *before* the defence.
 
 #Providing a copy to the University library
 
-You should also provide a hard copy to the [ExWi library](%assets_url%/download/forms/Begleitbrief-englisch.pdf) and you should give your [consent](%assets_url%/download/forms/Declaration_Diss_E-Library_UB.pdf) to publish the electronic version on the University web site.
+You should also provide a hard copy to the [ExWi library](%assets_url%/download/forms/OLD/Begleitbrief-englisch.pdf) and you should give your [consent](%assets_url%/download/forms/OLD/Declaration_Diss_E-Library_UB.pdf) to publish the electronic version on the University web site.
 
 #Afterwards
 After your PhD has been granted, you should consider registering it with the [SIGSOFT Dissertation list](https://www.sigsoft.org/resources/dissform.html), [Software Evolution PhD list](http://wiki.ercim.eu/wg/SoftwareEvolution/index.php/Theses), and the [Softwaretechnik Dissertation list](http://pi.informatik.uni-siegen.de/stt/dissertationen/).

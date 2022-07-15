@@ -118,7 +118,7 @@ Check time 4.540 seconds
 Size       803B
 Result     Error: 404 Not Found
 
-## Incorrect URLs
+## Fixed incorrect URLs in Pier
 
 * Fixed in Pier
 
@@ -153,6 +153,57 @@ Real URL   http://testscg.unibe.ch/staff/ESUG,%20http://esug.org/wiki/pier/Confe
 Check time 3.251 seconds
 Size       803B
 Result     Error: 404 Not Found
+
+URL        `Patrouille%20des%20Glaciers'
+Name       `Patrouille des Glaciers'
+Parent URL http://testscg.unibe.ch/wiki/alumni/AlainStulz, line 49, col 102
+Real URL   http://testscg.unibe.ch/wiki/alumni/Patrouille%20des%20Glaciers
+Check time 2.948 seconds
+Size       803B
+Result     Error: 404 Not Found
+
+URL        `Apps%20with%20love'
+Name       `Apps with love'
+Parent URL http://testscg.unibe.ch/wiki/alumni/AlainStulz, line 48, col 80
+Real URL   http://testscg.unibe.ch/wiki/alumni/Apps%20with%20love
+Check time 3.470 seconds
+Size       803B
+Result     Error: 404 Not Found
+
+URL        `http://testscg.unibe.ch/assets/download/forms/Declaration_Diss_E-Library_UB.pdf'
+Name       `consent'
+Parent URL http://testscg.unibe.ch/wiki/howtos/howtoapplyforyourphddefense, line 79, col 171
+Real URL   http://testscg.unibe.ch/assets/download/forms/Declaration_Diss_E-Library_UB.pdf
+Check time 3.582 seconds
+Size       803B
+Result     Error: 404 Not Found
+
+URL        `http://testscg.unibe.ch/assets/download/forms/Begleitbrief-englisch.pdf'
+Name       `ExWi library'
+Parent URL http://testscg.unibe.ch/wiki/howtos/howtoapplyforyourphddefense, line 79, col 47
+Real URL   http://testscg.unibe.ch/assets/download/forms/Begleitbrief-englisch.pdf
+Check time 4.212 seconds
+Size       803B
+Result     Error: 404 Not Found
+
+URL        `http://composestar.sourceforge.net'
+Name       `Compose*'
+Parent URL http://testscg.unibe.ch/wiki/events/wasdett2008/tools, line 57, col 5
+Real URL   http://composestar.sourceforge.net
+Info       The URL is outside of the domain filter, checked only
+           syntax.
+Warning    [url-whitespace] Leading or trailing whitespace in URL
+           `http://composestar.sourceforge.net '.
+Result     Valid: filtered
+
+URL        `http://testscg.unibe.ch/assets/archive/drafts/Matt09X-assigning-bug-reports-using-a-vocabulary-based-expertise-model-of-developers.pdf'
+Name       `Assigning Bug Reports using a Vocabulary-Based Expertise Model of Developers,'
+Parent URL http://testscg.unibe.ch/wiki/projects/archive/develect, line 62, col 57
+Real URL   http://testscg.unibe.ch/assets/archive/drafts/Matt09X-assigning-bug-reports-using-a-vocabulary-based-expertise-model-of-developers.pdf
+Check time 4.146 seconds
+Size       803B
+Result     Error: 404 Not Found
+
 
 ## Extra quotes in redirect
 
@@ -302,7 +353,7 @@ Check time 4.175 seconds
 Size       803B
 Result     Error: 404 Not Found
 
-# Deleted obsolete link
+# Deleted obsolete links
 
 URL        `'/wiki/projects/fontsizebuttons''
 Parent URL http://testscg.unibe.ch/wiki/fontsizebuttons, line 46, col 13
@@ -319,44 +370,6 @@ Check time 3.969 seconds
 Size       803B
 Result     Error: 404 Not Found
 
-#Fix broken local redirects
-
-* Added PMMarkdownWriter>>redirectUrlFor:
-
-URL        `'/staff/oscar''
-Parent URL http://testscg.unibe.ch/oscar, line 46, col 13
-Real URL   http://testscg.unibe.ch/%27/staff/oscar%27
-Check time 4.203 seconds
-Size       803B
-Result     Error: 404 Not Found
-
-
----
-# TO FIX 
-
-URL        `/download'
-Parent URL http://testscg.unibe.ch/assets/download/petitpetri/, line 15, col 2
-Real URL   http://testscg.unibe.ch/download
-Check time 4.481 seconds
-Size       803B
-Result     Error: 404 Not Found
-
-URL        `/scgbib/query=Gael06a'
-Name       `Idioms for Composing Games with Etoys'
-Parent URL http://testscg.unibe.ch/assets/download/petitpetri/, line 204, col 7
-Real URL   http://testscg.unibe.ch/scgbib/query=Gael06a
-Check time 4.841 seconds
-Size       803B
-Result     Error: 404 Not Found
-
-URL        `SMA-10-Dynamic%20Program%20Analysis.gslides'
-Name       `SMA-10-Dynamic Program Analysis.gslides'
-Parent URL http://testscg.unibe.ch/assets/download/lectures/sma/, line 25, col 73
-Real URL   http://testscg.unibe.ch/assets/download/lectures/sma/SMA-10-Dynamic%20Program%20Analysis.gslides
-Check time 3.904 seconds
-Size       282B
-Result     Error: 403 Forbidden
-
 URL        `/wiki//http://moose.unibe.ch/tools/mondrian'
 Name       `Mondrian'
 Parent URL http://testscg.unibe.ch/wiki/softwarecompositionseminar/pastseminars, line 1068, col 141
@@ -364,165 +377,6 @@ Real URL   http://testscg.unibe.ch/wiki/http://moose.unibe.ch/tools/mondrian
 Check time 4.295 seconds
 Size       803B
 Result     Error: 404 Not Found
-
-URL        `mailto:...'
-Name       `Invia una mail a ...'
-Parent URL http://testscg.unibe.ch/assets/download/CAF/, line 30, col 2
-Real URL   mailto:...
-Info       The URL is outside of the domain filter, checked only
-           syntax.
-Result     Error: Missing `@' in mail address `...'.
-
-URL        `Patrouille%20des%20Glaciers'
-Name       `Patrouille des Glaciers'
-Parent URL http://testscg.unibe.ch/wiki/alumni/AlainStulz, line 49, col 102
-Real URL   http://testscg.unibe.ch/wiki/alumni/Patrouille%20des%20Glaciers
-Check time 2.948 seconds
-Size       803B
-Result     Error: 404 Not Found
-
-URL        `Apps%20with%20love'
-Name       `Apps with love'
-Parent URL http://testscg.unibe.ch/wiki/alumni/AlainStulz, line 48, col 80
-Real URL   http://testscg.unibe.ch/wiki/alumni/Apps%20with%20love
-Check time 3.470 seconds
-Size       803B
-Result     Error: 404 Not Found
-
-URL        `http://testscg.unibe.ch/publications/missingAbstracts'
-Name       `SCG Publications Missing Abstracts'
-Parent URL http://testscg.unibe.ch/wiki/howtos/howToLinkToScgBib/missingInformation, line 52, col 5
-Real URL   http://testscg.unibe.ch/publications/missingAbstracts
-Check time 4.226 seconds
-Size       803B
-Result     Error: 404 Not Found
-
-URL        `http://testscg.unibe.ch/publications/missingPDF'
-Name       `SCG Publications Missing PDF'
-Parent URL http://testscg.unibe.ch/wiki/howtos/howToLinkToScgBib/missingInformation, line 53, col 5
-Real URL   http://testscg.unibe.ch/publications/missingPDF
-Check time 4.319 seconds
-Size       803B
-Result     Error: 404 Not Found
-
-URL        `http://testscg.unibe.ch/publications/missingDOI'
-Name       `SCG Publications Missing DOI'
-Parent URL http://testscg.unibe.ch/wiki/howtos/howToLinkToScgBib/missingInformation, line 54, col 5
-Real URL   http://testscg.unibe.ch/publications/missingDOI
-Check time 3.833 seconds
-Size       803B
-Result     Error: 404 Not Found
-
-URL        `http://testscg.unibe.ch/assets/download/forms/Declaration_Diss_E-Library_UB.pdf'
-Name       `consent'
-Parent URL http://testscg.unibe.ch/wiki/howtos/howtoapplyforyourphddefense, line 79, col 171
-Real URL   http://testscg.unibe.ch/assets/download/forms/Declaration_Diss_E-Library_UB.pdf
-Check time 3.582 seconds
-Size       803B
-Result     Error: 404 Not Found
-
-URL        `http://testscg.unibe.ch/assets/download/forms/Begleitbrief-englisch.pdf'
-Name       `ExWi library'
-Parent URL http://testscg.unibe.ch/wiki/howtos/howtoapplyforyourphddefense, line 79, col 47
-Real URL   http://testscg.unibe.ch/assets/download/forms/Begleitbrief-englisch.pdf
-Check time 4.212 seconds
-Size       803B
-Result     Error: 404 Not Found
-
-URL        `http://composestar.sourceforge.net'
-Name       `Compose*'
-Parent URL http://testscg.unibe.ch/wiki/events/wasdett2008/tools, line 57, col 5
-Real URL   http://composestar.sourceforge.net
-Info       The URL is outside of the domain filter, checked only
-           syntax.
-Warning    [url-whitespace] Leading or trailing whitespace in URL
-           `http://composestar.sourceforge.net '.
-Result     Valid: filtered
-
-URL        `src/grid.png'
-Parent URL http://testscg.unibe.ch/assets/download/petitpetri/seaside/screen.css, line 66, col 26
-Real URL   http://testscg.unibe.ch/assets/download/petitpetri/seaside/src/grid.png
-Check time 4.607 seconds
-Size       803B
-Result     Error: 404 Not Found
-
-URL        `/seaside/files/PRBlueprintLibrary/screen.css'
-Parent URL http://testscg.unibe.ch/assets/download/petitpetri/Squeaklets/index.html, line 6, col 2
-Real URL   http://testscg.unibe.ch/seaside/files/PRBlueprintLibrary/screen.css
-Check time 4.447 seconds
-Size       803B
-Result     Error: 404 Not Found
-
-URL        `/seaside/files/PRBlueprintLibrary/print.css'
-Parent URL http://testscg.unibe.ch/assets/download/petitpetri/Squeaklets/index.html, line 7, col 2
-Real URL   http://testscg.unibe.ch/seaside/files/PRBlueprintLibrary/print.css
-Check time 4.576 seconds
-Size       803B
-Result     Error: 404 Not Found
-
-URL        `/seaside/files/PRJavaScriptSupport/pier.js'
-Parent URL http://testscg.unibe.ch/assets/download/petitpetri/Squeaklets/index.html, line 11, col 2
-Real URL   http://testscg.unibe.ch/seaside/files/PRJavaScriptSupport/pier.js
-Check time 5.032 seconds
-Size       803B
-Result     Error: 404 Not Found
-
-URL        `/system/templates/defaultCss?view=PRDownloadView'
-Parent URL http://testscg.unibe.ch/assets/download/petitpetri/Squeaklets/index.html, line 13, col 3
-Real URL   http://testscg.unibe.ch/system/templates/defaultCss?view=PRDownloadView
-Check time 4.777 seconds
-Size       803B
-Result     Error: 404 Not Found
-
-URL        `/system/components/menu/scg-logo.png'
-Name       `/system/components/menu/scg-logo.png'
-Parent URL http://testscg.unibe.ch/assets/download/petitpetri/Squeaklets/index.html, line 24, col 60
-Real URL   http://testscg.unibe.ch/system/components/menu/scg-logo.png
-Check time 4.581 seconds
-Size       803B
-Result     Error: 404 Not Found
-
-URL        `http://testscg.unibe.ch/assets/archive/drafts/Matt09X-assigning-bug-reports-using-a-vocabulary-based-expertise-model-of-developers.pdf'
-Name       `Assigning Bug Reports using a Vocabulary-Based Expertise Model of Developers,'
-Parent URL http://testscg.unibe.ch/wiki/projects/archive/develect, line 62, col 57
-Real URL   http://testscg.unibe.ch/assets/archive/drafts/Matt09X-assigning-bug-reports-using-a-vocabulary-based-expertise-model-of-developers.pdf
-Check time 4.146 seconds
-Size       803B
-Result     Error: 404 Not Found
-
-URL        `index.asp'
-Name       `Teorema Bologna - Servizi fiscali e tributari'
-Parent URL http://testscg.unibe.ch/assets/download/CAF/, line 25, col 5
-Real URL   http://testscg.unibe.ch/assets/download/CAF/index.asp
-Check time 4.764 seconds
-Size       803B
-Result     Error: 404 Not Found
-
-URL        `echo-unibe-json.php'
-Name       `echo-unibe-json.php'
-Parent URL http://testscg.unibe.ch/assets/download/sira-test/, line 12, col 73
-Real URL   http://testscg.unibe.ch/assets/download/sira-test/echo-unibe-json.php
-Check time 3.778 seconds
-Size       20B
-Result     Error: 500 Internal Server Error
-
-URL        `Kube15a-OnUnderstandingHowDevelopersUseTheSpotterSearchTool.pdf'
-Name       `Kube15a-OnUnderstandingHowDevelopersUseTheSpotterSearchTool.pdf'
-Parent URL http://testscg.unibe.ch/assets/archive/papers/, line 276, col 72
-Real URL   http://testscg.unibe.ch/assets/archive/papers/Kube15a-OnUnderstandingHowDevelopersUseTheSpotterSearchTool.pdf
-Check time 3.890 seconds
-Size       292B
-Result     Error: 403 Forbidden
-
-URL        `http://iamwww.unibe.ch/~scg/Src/Doc/htgrep.html'
-Name       `htgrep'
-Parent URL http://testscg.unibe.ch/assets/archive/software/w3catalog/, line 123, col 86
-Real URL   http://iamwww.unibe.ch/~scg/Src/Doc/htgrep.html
-Info       The URL is outside of the domain filter, checked only
-           syntax.
-Warning    [url-whitespace] Leading or trailing whitespace in URL
-           ` http://iamwww.unibe.ch/~scg/Src/Doc/htgrep.html'.
-Result     Valid: filtered
 
 URL        `http://testscg.unibe.ch/assets/files/b4/4r7jp85zg6tzumidhmqgzmw2rqb7kp/unknown'
 Name       `SanfteEinfuhrungvonScrum'
@@ -532,10 +386,29 @@ Check time 2.494 seconds
 Size       803B
 Result     Error: 404 Not Found
 
-URL        `'/wiki/projects/archive/bender''
-Parent URL http://testscg.unibe.ch/bender, line 46, col 13
-Real URL   http://testscg.unibe.ch/%27/wiki/projects/archive/bender%27
-Check time 4.281 seconds
+URL        `../../../Research/Duploc/index.html'
+Name       `here'
+Parent URL http://testscg.unibe.ch/assets/archive/software/Duploc/, line 10, col 27
+Real URL   http://testscg.unibe.ch/assets/Research/Duploc/index.html
+Check time 4.765 seconds
+Size       803B
+Result     Error: 404 Not Found
+
+# Deleted obsolete files
+
+URL        `mailto:...'
+Name       `Invia una mail a ...'
+Parent URL http://testscg.unibe.ch/assets/download/CAF/, line 30, col 2
+Real URL   mailto:...
+Info       The URL is outside of the domain filter, checked only
+           syntax.
+Result     Error: Missing `@' in mail address `...'.
+
+URL        `index.asp'
+Name       `Teorema Bologna - Servizi fiscali e tributari'
+Parent URL http://testscg.unibe.ch/assets/download/CAF/, line 25, col 5
+Real URL   http://testscg.unibe.ch/assets/download/CAF/index.asp
+Check time 4.764 seconds
 Size       803B
 Result     Error: 404 Not Found
 
@@ -595,12 +468,77 @@ Check time 4.011 seconds
 Size       803B
 Result     Error: 404 Not Found
 
-URL        `tomcat-7.0.2.mse'
-Name       `tomcat-7.0.2.mse'
-Parent URL http://testscg.unibe.ch/assets/download/merino/roassal-tutorial/, line 12, col 73
-Real URL   http://testscg.unibe.ch/assets/download/merino/roassal-tutorial/tomcat-7.0.2.mse
-Check time 5.042 seconds
-Result     Error: ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+URL        `echo-unibe-json.php'
+Name       `echo-unibe-json.php'
+Parent URL http://testscg.unibe.ch/assets/download/sira-test/, line 12, col 73
+Real URL   http://testscg.unibe.ch/assets/download/sira-test/echo-unibe-json.php
+Check time 3.778 seconds
+Size       20B
+Result     Error: 500 Internal Server Error
+
+# Deleted obsolete pages
+
+URL        `http://testscg.unibe.ch/publications/missingAbstracts'
+Name       `SCG Publications Missing Abstracts'
+Parent URL http://testscg.unibe.ch/wiki/howtos/howToLinkToScgBib/missingInformation, line 52, col 5
+Real URL   http://testscg.unibe.ch/publications/missingAbstracts
+Check time 4.226 seconds
+Size       803B
+Result     Error: 404 Not Found
+
+URL        `http://testscg.unibe.ch/publications/missingPDF'
+Name       `SCG Publications Missing PDF'
+Parent URL http://testscg.unibe.ch/wiki/howtos/howToLinkToScgBib/missingInformation, line 53, col 5
+Real URL   http://testscg.unibe.ch/publications/missingPDF
+Check time 4.319 seconds
+Size       803B
+Result     Error: 404 Not Found
+
+URL        `http://testscg.unibe.ch/publications/missingDOI'
+Name       `SCG Publications Missing DOI'
+Parent URL http://testscg.unibe.ch/wiki/howtos/howToLinkToScgBib/missingInformation, line 54, col 5
+Real URL   http://testscg.unibe.ch/publications/missingDOI
+Check time 3.833 seconds
+Size       803B
+Result     Error: 404 Not Found
+
+# Fix broken local redirects
+
+* Added PMMarkdownWriter>>redirectUrlFor:
+
+URL        `'/staff/oscar''
+Parent URL http://testscg.unibe.ch/oscar, line 46, col 13
+Real URL   http://testscg.unibe.ch/%27/staff/oscar%27
+Check time 4.203 seconds
+Size       803B
+Result     Error: 404 Not Found
+
+URL        `'/wiki/projects/archive/bender''
+Parent URL http://testscg.unibe.ch/bender, line 46, col 13
+Real URL   http://testscg.unibe.ch/%27/wiki/projects/archive/bender%27
+Check time 4.281 seconds
+Size       803B
+Result     Error: 404 Not Found
+
+# Fixed file permissions
+
+* Files were unreadable
+
+URL        `SMA-10-Dynamic%20Program%20Analysis.gslides'
+Name       `SMA-10-Dynamic Program Analysis.gslides'
+Parent URL http://testscg.unibe.ch/assets/download/lectures/sma/, line 25, col 73
+Real URL   http://testscg.unibe.ch/assets/download/lectures/sma/SMA-10-Dynamic%20Program%20Analysis.gslides
+Check time 3.904 seconds
+Size       282B
+Result     Error: 403 Forbidden
+
+URL        `Kube15a-OnUnderstandingHowDevelopersUseTheSpotterSearchTool.pdf'
+Name       `Kube15a-OnUnderstandingHowDevelopersUseTheSpotterSearchTool.pdf'
+Parent URL http://testscg.unibe.ch/assets/archive/papers/, line 276, col 72
+Real URL   http://testscg.unibe.ch/assets/archive/papers/Kube15a-OnUnderstandingHowDevelopersUseTheSpotterSearchTool.pdf
+Check time 3.890 seconds
+Size       292B
+Result     Error: 403 Forbidden
 
 URL        `ConcurrentDebuggers.ova'
 Name       `ConcurrentDebuggers.ova'
@@ -609,6 +547,92 @@ Real URL   http://testscg.unibe.ch/assets/download/moldabledebugger/full/Concurr
 Check time 3.798 seconds
 Size       275B
 Result     Error: 403 Forbidden
+
+URL        `files.lst'
+Name       `files.lst'
+Parent URL http://testscg.unibe.ch/assets/download/lectures/cc2011/examples/AJTJP/bin/tjp/, line 12, col 73
+Real URL   http://testscg.unibe.ch/assets/download/lectures/cc2011/examples/AJTJP/bin/tjp/files.lst
+Check time 3.246 seconds
+Size       279B
+Result     Error: 403 Forbidden
+
+# Fixed HTML in download/archive/files folders
+
+* Fixed Squeaklets index.html to point to local files
+
+URL        `/seaside/files/PRBlueprintLibrary/screen.css'
+Parent URL http://testscg.unibe.ch/assets/download/petitpetri/Squeaklets/index.html, line 6, col 2
+Real URL   http://testscg.unibe.ch/seaside/files/PRBlueprintLibrary/screen.css
+Check time 4.447 seconds
+Size       803B
+Result     Error: 404 Not Found
+
+URL        `/seaside/files/PRBlueprintLibrary/print.css'
+Parent URL http://testscg.unibe.ch/assets/download/petitpetri/Squeaklets/index.html, line 7, col 2
+Real URL   http://testscg.unibe.ch/seaside/files/PRBlueprintLibrary/print.css
+Check time 4.576 seconds
+Size       803B
+Result     Error: 404 Not Found
+
+URL        `/seaside/files/PRJavaScriptSupport/pier.js'
+Parent URL http://testscg.unibe.ch/assets/download/petitpetri/Squeaklets/index.html, line 11, col 2
+Real URL   http://testscg.unibe.ch/seaside/files/PRJavaScriptSupport/pier.js
+Check time 5.032 seconds
+Size       803B
+Result     Error: 404 Not Found
+
+URL        `/system/templates/defaultCss?view=PRDownloadView'
+Parent URL http://testscg.unibe.ch/assets/download/petitpetri/Squeaklets/index.html, line 13, col 3
+Real URL   http://testscg.unibe.ch/system/templates/defaultCss?view=PRDownloadView
+Check time 4.777 seconds
+Size       803B
+Result     Error: 404 Not Found
+
+URL        `/system/components/menu/scg-logo.png'
+Name       `/system/components/menu/scg-logo.png'
+Parent URL http://testscg.unibe.ch/assets/download/petitpetri/Squeaklets/index.html, line 24, col 60
+Real URL   http://testscg.unibe.ch/system/components/menu/scg-logo.png
+Check time 4.581 seconds
+Size       803B
+Result     Error: 404 Not Found
+
+URL        `http://iamwww.unibe.ch/~scg/Src/Doc/htgrep.html'
+Name       `htgrep'
+Parent URL http://testscg.unibe.ch/assets/archive/software/w3catalog/, line 123, col 86
+Real URL   http://iamwww.unibe.ch/~scg/Src/Doc/htgrep.html
+Info       The URL is outside of the domain filter, checked only
+           syntax.
+Warning    [url-whitespace] Leading or trailing whitespace in URL
+           ` http://iamwww.unibe.ch/~scg/Src/Doc/htgrep.html'.
+Result     Valid: filtered
+
+URL        `./pictures/dot.png'
+Parent URL http://testscg.unibe.ch/assets/archive/software/w3catalog/content.css, line 147, col 23
+Real URL   http://testscg.unibe.ch/assets/archive/software/w3catalog/pictures/dot.png
+Check time 4.244 seconds
+Size       803B
+Result     Error: 404 Not Found
+
+URL        `./pictures/scg-logo-small.png'
+Parent URL http://testscg.unibe.ch/assets/archive/software/w3catalog/content.css, line 70, col 23
+Real URL   http://testscg.unibe.ch/assets/archive/software/w3catalog/pictures/scg-logo-small.png
+Check time 4.910 seconds
+Size       803B
+Result     Error: 404 Not Found
+
+URL        `./pictures/scg-logo-small.png'
+Parent URL http://testscg.unibe.ch/assets/archive/software/htgrep/content.css, line 70, col 23
+Real URL   http://testscg.unibe.ch/assets/archive/software/htgrep/pictures/scg-logo-small.png
+Check time 4.408 seconds
+Size       803B
+Result     Error: 404 Not Found
+
+URL        `./pictures/dot.png'
+Parent URL http://testscg.unibe.ch/assets/archive/software/htgrep/content.css, line 147, col 23
+Real URL   http://testscg.unibe.ch/assets/archive/software/htgrep/pictures/dot.png
+Check time 4.336 seconds
+Size       803B
+Result     Error: 404 Not Found
 
 URL        `./pictures/scg-logo-small.png'
 Parent URL http://testscg.unibe.ch/assets/download/swissUp06/content.css, line 68, col 23
@@ -639,13 +663,7 @@ Check time 4.046 seconds
 Size       803B
 Result     Error: 404 Not Found
 
-URL        `../../../Research/Duploc/index.html'
-Name       `here'
-Parent URL http://testscg.unibe.ch/assets/archive/software/Duploc/, line 10, col 27
-Real URL   http://testscg.unibe.ch/assets/Research/Duploc/index.html
-Check time 4.765 seconds
-Size       803B
-Result     Error: 404 Not Found
+* missing these xml links -- can we just delete them?
 
 URL        `Project%20proposal%20-%20Tool%20support%20for%20Scrum_files/filelist.xml'
 Parent URL http://testscg.unibe.ch/assets/files/b1/epzipiprf9dns2wwf0wzao54v8w4f3/Project-proposal---Tool-support-for-Scrum.htm, line 14, col 1
@@ -658,59 +676,6 @@ URL        `Project%20proposal%20-%20Agile%20planning%20with%20Scrum_files/filel
 Parent URL http://testscg.unibe.ch/assets/files/73/oowere64hu0gi02l5gifuim3jjvx7j/Project-proposal---Agile-planning-with-Scrum.htm, line 14, col 1
 Real URL   http://testscg.unibe.ch/assets/files/73/oowere64hu0gi02l5gifuim3jjvx7j/Project%20proposal%20-%20Agile%20planning%20with%20Scrum_files/filelist.xml
 Check time 4.186 seconds
-Size       803B
-Result     Error: 404 Not Found
-
-URL        `houseSimulation.php'
-Name       `houseSimulation.php'
-Parent URL http://testscg.unibe.ch/assets/download/AC/Bledar/script/, line 11, col 73
-Real URL   http://testscg.unibe.ch/assets/download/AC/Bledar/script/houseSimulation.php
-Check time 3.251 seconds
-D/L time   0.000 seconds
-Size       0B
-Warning    [url-content-size-zero] Content size is zero.
-Result     Valid: 200 OK
-
-URL        `./pictures/scg-logo-small.png'
-Parent URL http://testscg.unibe.ch/assets/archive/software/htgrep/content.css, line 70, col 23
-Real URL   http://testscg.unibe.ch/assets/archive/software/htgrep/pictures/scg-logo-small.png
-Check time 4.408 seconds
-Size       803B
-Result     Error: 404 Not Found
-
-URL        `./pictures/dot.png'
-Parent URL http://testscg.unibe.ch/assets/archive/software/htgrep/content.css, line 147, col 23
-Real URL   http://testscg.unibe.ch/assets/archive/software/htgrep/pictures/dot.png
-Check time 4.336 seconds
-Size       803B
-Result     Error: 404 Not Found
-
-URL        `./pictures/dot.png'
-Parent URL http://testscg.unibe.ch/assets/archive/software/w3catalog/content.css, line 147, col 23
-Real URL   http://testscg.unibe.ch/assets/archive/software/w3catalog/pictures/dot.png
-Check time 4.244 seconds
-Size       803B
-Result     Error: 404 Not Found
-
-URL        `./pictures/scg-logo-small.png'
-Parent URL http://testscg.unibe.ch/assets/archive/software/w3catalog/content.css, line 70, col 23
-Real URL   http://testscg.unibe.ch/assets/archive/software/w3catalog/pictures/scg-logo-small.png
-Check time 4.910 seconds
-Size       803B
-Result     Error: 404 Not Found
-
-URL        `files.lst'
-Name       `files.lst'
-Parent URL http://testscg.unibe.ch/assets/download/lectures/cc2011/examples/AJTJP/bin/tjp/, line 12, col 73
-Real URL   http://testscg.unibe.ch/assets/download/lectures/cc2011/examples/AJTJP/bin/tjp/files.lst
-Check time 3.246 seconds
-Size       279B
-Result     Error: 403 Forbidden
-
-URL        `/seaside/pier/environment/pier.png?view=PRDownloadView'
-Parent URL http://testscg.unibe.ch/assets/files/07/htikbtysdocnb80oimqv7j38lxx048/style.css, line 39, col 17
-Real URL   http://testscg.unibe.ch/seaside/pier/environment/pier.png?view=PRDownloadView
-Check time 4.132 seconds
 Size       803B
 Result     Error: 404 Not Found
 
@@ -729,6 +694,32 @@ Check time 4.411 seconds
 Size       803B
 Result     Error: 404 Not Found
 
+# False positives
+
+* Slow connection?
+
+URL        `tomcat-7.0.2.mse'
+Name       `tomcat-7.0.2.mse'
+Parent URL http://testscg.unibe.ch/assets/download/merino/roassal-tutorial/, line 12, col 73
+Real URL   http://testscg.unibe.ch/assets/download/merino/roassal-tutorial/tomcat-7.0.2.mse
+Check time 5.042 seconds
+Result     Error: ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+
+* php returns nothing
+
+URL        `houseSimulation.php'
+Name       `houseSimulation.php'
+Parent URL http://testscg.unibe.ch/assets/download/AC/Bledar/script/, line 11, col 73
+Real URL   http://testscg.unibe.ch/assets/download/AC/Bledar/script/houseSimulation.php
+Check time 3.251 seconds
+D/L time   0.000 seconds
+Size       0B
+Warning    [url-content-size-zero] Content size is zero.
+Result     Valid: 200 OK
+
+---
+# TO FIX 
+
 Statistics:
 Downloaded: 99.1MB.
 Content types: 883 image, 51345 text, 621 video, 7 audio, 9952 application, 52 mail and 3619 other.
@@ -736,3 +727,44 @@ URL lengths: min=10, max=332, avg=97.
 
 That's it. 66479 links in 66483 URLs checked. 3 warnings found. 87 errors found.
 Stopped checking at 2022-07-14 00:49:57+002 (6 hours, 11 minutes)
+
+---
+# Unresolved
+
+* Note sure where to find this file -- it's nowhere on the server
+
+URL        `src/grid.png'
+Parent URL http://testscg.unibe.ch/assets/download/petitpetri/seaside/screen.css, line 66, col 26
+Real URL   http://testscg.unibe.ch/assets/download/petitpetri/seaside/src/grid.png
+Check time 4.607 seconds
+Size       803B
+Result     Error: 404 Not Found
+
+URL        `/seaside/pier/environment/pier.png?view=PRDownloadView'
+Parent URL http://testscg.unibe.ch/assets/files/07/htikbtysdocnb80oimqv7j38lxx048/style.css, line 39, col 17
+Real URL   http://testscg.unibe.ch/seaside/pier/environment/pier.png?view=PRDownloadView
+Check time 4.132 seconds
+Size       803B
+Result     Error: 404 Not Found
+
+---
+# Missing apache redirect
+
+* TO DO!
+
+URL        `/download'
+Parent URL http://testscg.unibe.ch/assets/download/petitpetri/, line 15, col 2
+Real URL   http://testscg.unibe.ch/download
+Check time 4.481 seconds
+Size       803B
+Result     Error: 404 Not Found
+
+URL        `/scgbib/query=Gael06a'
+Name       `Idioms for Composing Games with Etoys'
+Parent URL http://testscg.unibe.ch/assets/download/petitpetri/, line 204, col 7
+Real URL   http://testscg.unibe.ch/scgbib/query=Gael06a
+Check time 4.841 seconds
+Size       803B
+Result     Error: 404 Not Found
+
+---
