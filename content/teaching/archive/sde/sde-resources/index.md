@@ -59,4 +59,4 @@ Reading materials
 -  [Software Evolution @ TUE](http://www.win.tue.nl/~aserebre/2IS55/2013-2014/) ([Alexander Sebrenik](http://www.win.tue.nl/~aserebre/))
 -  [Software Evolution @ U Mons](https://moodle.umons.ac.be/course/view.php?id=181) ([Tom Mens](http://informatique.umons.ac.be/perso/Mens.Tom/)) [NB: guest password: evolve]
 -  [Software Reengineering @ U Antwerp](http://ansymo.ua.ac.be/courses/software-reengineering) ([Serge Demeyer](http://win.ua.ac.be/~sdemey/))
--  [Evolution des systÃ¨mes d'information @ U Namur](http://directory.unamur.be/teaching/courses/INFOM218) ([Anthony Cleve](http://directory.unamur.be/staff/acleve))
+-  [Evolution des systèmes d'information @ U Namur](http://directory.unamur.be/teaching/courses/INFOM218) ([Anthony Cleve](http://directory.unamur.be/staff/acleve))

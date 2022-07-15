@@ -13,11 +13,11 @@ Ci sono treni che partono ogni mezzora da Berna per Belp, con fermata a Kehrsatz
 I treni impiegano circa 15 minuti. *Attenzione! Non scendete a Kehrsatz Nord*, ma alla fermata successiva. Le fermate sono: Ausserholligen, Weissenbühl, Wabern, Kehrsatz Nord e Kehrsatz.
 
 #In macchina
-Presumiamo che, se vivete a Berna, conosciate giÃ  come arrivare a Kehrsatz e non abbiate bisogno di indicazioni ... Allora partiamo dal presupposto che non viviate a Berna e che abbiate preso l'autostrada.
+Presumiamo che, se vivete a Berna, conosciate già come arrivare a Kehrsatz e non abbiate bisogno di indicazioni ... Allora partiamo dal presupposto che non viviate a Berna e che abbiate preso l'autostrada.
  
 
-- Uscite a Bern/ Bümpliz. Arrivando da *Sud* (ad es. venendo dall'Italia per il Gran San Bernardo), questa Ã¨ la *prima uscita* una volta raggiunta l'area di Berna, giusto dopo l'uscita di Niederwangen. Arrivando da *Nord*, seguite l'autostrada in direzione di Fribourg (e *non* Lausanne). L'uscita Bern/Bümpliz Ã¨ *l'ultima* dopo aver lasciato l'area di Berna.
-- Seguite l'indicazione Köniz (prima) and (poi) Belp. Arrivate cosÃ¬ nella via Weissensteinstrasse, che alla fine confluisce nella Seftigenstrasse.
+- Uscite a Bern/ Bümpliz. Arrivando da *Sud* (ad es. venendo dall'Italia per il Gran San Bernardo), questa è la *prima uscita* una volta raggiunta l'area di Berna, giusto dopo l'uscita di Niederwangen. Arrivando da *Nord*, seguite l'autostrada in direzione di Fribourg (e *non* Lausanne). L'uscita Bern/Bümpliz è *l'ultima* dopo aver lasciato l'area di Berna.
+- Seguite l'indicazione Köniz (prima) and (poi) Belp. Arrivate cosà nella via Weissensteinstrasse, che alla fine confluisce nella Seftigenstrasse.
 - Circa 5 1/2 km dopo aver lasciato l'autostrada, prendete l'uscita per Kehrsatz e Belp Airport.
 - Dopo altri 1000 m raggiungerete i binari della stazione nel centro di Kehrsatz.
 
@@ -26,7 +26,7 @@ Presumiamo che, se vivete a Berna, conosciate giÃ  come arrivare a Kehrsatz e 
 Ora siete pronti per seguire le [indicazioni su come raggiungere la nostra casa](%base_url%/staff/oscar/fluhmattweg41-it).
 
 #Alternativa per gli amici Italiani
-Se avete paura di passare in parte per le vie della cittÃ  di Berna, anziché uscire a Bern/Bümpliz, potete continuare sull'autostrada in direzione di Thun/Interlaken, passare le varie uscite di Bern come pure quella di Muri e
+Se avete paura di passare in parte per le vie della città di Berna, anziché uscire a Bern/Bümpliz, potete continuare sull'autostrada in direzione di Thun/Interlaken, passare le varie uscite di Bern come pure quella di Muri e
 
 - uscire a Belp.
 - Seguite sempre la strada su cui siete sino a lasciare l'abitato di Belp (ci saranno da passare 5 rotonde dopo l'uscita dall'autostrada);

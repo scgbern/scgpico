@@ -3,7 +3,7 @@ Title: Come arrivare a casa Nierstrasz
 ---
 
 #Come arrivare a casa Nierstrasz
-Noi abitiamo in via [Fluhmattweg 41](http://map.search.ch/3122-kehrsatz/fluhmattweg-41.it.html) a Kehrsatz, a sud-ovest di Bern, con vista sull'aeroporto di Belp. Il nostro indirizzo postale Ã¨:
+Noi abitiamo in via [Fluhmattweg 41](http://map.search.ch/3122-kehrsatz/fluhmattweg-41.it.html) a Kehrsatz, a sud-ovest di Bern, con vista sull'aeroporto di Belp. Il nostro indirizzo postale è:
 
 - Fluhmattweg 41 
 - CH-3122 Kehrsatz 
@@ -24,13 +24,13 @@ Seguite il percorso in *rosso* sulla mappa.
 - Dopo circa 100 m, girate a destra nella *Weidliweg* e camminate sino alla fine della stradina.
 - Qui troverete un sentiero in salita lungo il fianco della collina. Salite sino in cima.
 - Ora siete in Fluhmattweg. Girate a destra e venite sino al numero 41, dove si trova la nostra casa.
-*Attenzione:* circa a metÃ  del sentiero ci sono un certo numero di gradini; allora, se vi state portando dietro la bici o una carrozzina, Ã¨ preferibile che seguiate la strada.
+*Attenzione:* circa a metà del sentiero ci sono un certo numero di gradini; allora, se vi state portando dietro la bici o una carrozzina, è preferibile che seguiate la strada.
 
 ##In macchina
 Seguite il percorso in *blu* sulla mappa.
 
 - Attraversate i binari e andate su per la *Zimmerwaldstrasse*.
-- Dopo circa 400 m, sulla destra, vedrete &mdash; molto prima di quanto non vi aspettiate! &mdash; un piccolo cubo-ufficio in vetro e un segnale con su scritto *BREITÃGERTEN*. Girate lÃ¬ a destra nella *Talstrasse*.
+- Dopo circa 400 m, sulla destra, vedrete &mdash; molto prima di quanto non vi aspettiate! &mdash; un piccolo cubo-ufficio in vetro e un segnale con su scritto *BREITÃGERTEN*. Girate là a destra nella *Talstrasse*.
 - Dopo altri 300 m, svoltate a destra nella *Gurtenstrasse*.
 - Dopo 400 m, subito dopo il boschetto, girate a destra nella *Fluhmattweg*. Continuate diritto ed effettuate la curva; qui troverete l'area di parcheggio per gli ospiti (*Besucherparkplatz*). Parcheggiate e venite a casa nostra, la seconda alla vostra sinistra, al n. 41.
 

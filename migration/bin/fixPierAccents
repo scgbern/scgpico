@@ -3,6 +3,8 @@
 # Fix special characters after exprting as markdown from SCG Pier.
 # Add more translations as they arise.
 #
+# Also  perform some other random post-processing
+#
 # 2022-07-04
 
 s/Ã¤/ä/g;
@@ -13,12 +15,20 @@ s/Ã/Ü/g;
 
 s/Ã¥/å/g;
 s/Ã©/é/g;
+s/Ã¨/è/g;
 s/Ã®/î/g;
 s/Ã³/ó/g;
 s/Ã±/ñ/g;
 
+s/Ã¬/à/g;
+s/Ã /à/g;
 s/Ã²/ò/g;
+s/Å/ō/g;
 s/Ã¹/ù/g;
+
+s/Ãº/ú/g;
+s/Ã¸/ø/g;
+s/Å/ő/g;
 
 s/Ã§/ç/g;
 s/Ä/ć/g;
@@ -33,6 +43,8 @@ s/Ã½/ý/g;
 s/Ã¡/á/g;
 
 s/Å/Ř/g;
+s/ï¬/fi/g;
+s/ï¬/fi/g;
 
 s/\\--/&mdash;/g;
 s/â/&mdash;/g;
@@ -48,10 +60,13 @@ s/Â´/"/g;
 s/â/“/g;
 s/â/”/g;
 s/[]//g;
+s/â//g;
 
+# OTHER post-processing
 
 s/src="\/files\//src="%assets_url%\/files\//g;
 
+s/^- \[SCG Bachelors Projects\]\(%assets_url%\/scgbib\/\?query=scg-bp\|scg-ip\&filter=Year\)$/- [SCG Bachelors Projects](%assets_url%\/scgbib\/?query=scg-bp\&filter=Year)\n- [SCG Informatics Projects](%assets_url%\/scgbib\/?query=scg-ip\&filter=Year)/g;
 
 s/<span style="background-color: #FFFF00">//g;
 s/<\/span>//g;

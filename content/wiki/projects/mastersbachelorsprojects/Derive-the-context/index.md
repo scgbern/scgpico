@@ -20,7 +20,7 @@ This project will shed light on extracting contextual information of a question,
 #Steps
 
 -  Study of various features that support extraction of contextual information from developer questions written in natural language.
--  Extraction of subjects (nouns), actions (verbs), and their relations.â¨
+-  Extraction of subjects (nouns), actions (verbs), and their relations.¨
 -  Establishment of an approach to identify the topic of a question. The topics are restricted to five main domains that are testing, refactoring, user-interface, coding style, and general analysis.
 -  Experimentation with topic modeling using different approaches to explore potential benefits.
 -  Evaluation of the results.

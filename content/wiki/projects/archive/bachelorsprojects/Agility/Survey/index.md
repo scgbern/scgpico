@@ -96,5 +96,5 @@ The Scrum wall/board is essential to the sucess of Scrum due to its informal, in
 -  At the beginning: no theory/hypothesis, just the examination area
 -  The theory is object of continuous modification/adaption
 -  individual cases enrich the theory
--  theoretical Coding: e.g. "Persons reads the manual for the video player" -> GT: "information retrieval" or âWhen I have arthritic pain, I take Aspirin. After a while I feel better“ -> GT: "Condition: have, phenomen: arthritic pain, strategy: Aspirin, Consequence: feel better."
+-  theoretical Coding: e.g. "Persons reads the manual for the video player" -> GT: "information retrieval" or When I have arthritic pain, I take Aspirin. After a while I feel better“ -> GT: "Condition: have, phenomen: arthritic pain, strategy: Aspirin, Consequence: feel better."
 - "Gütekriterien für eine gute Grounded Theory Studie sind: <br />1. Angemessenheit, d.h., die Theorie sollte dem realen Leben entsprechen<br />2. Verständlichkeit, d.h. sie sollte für Informanten und professionell Tätige verständlich und nachvollziehbarsein <br />3. Generalisierbarkeit, d.h. die sollte in einer Vielzahl von "Settings"und Kontexten anwendbar sein<br />4. Überprüfbarkeit, d.h. man soll nachvollziehen können, dass die Theorie wirklich aus den Daten gebildet wurden. "<br />

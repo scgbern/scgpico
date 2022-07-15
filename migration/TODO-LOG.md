@@ -6,27 +6,8 @@ This file lists pending migration todos, past todos (done) and a brief FAQ.
 ---
 # Migration to do
 
-* Check all links
-	- PB recommends https://linkchecker.github.io/linkchecker/
-	- fixed htaccess to allow file browsing
-	- /files and /archive links to be fixed to point to assets
-
-* Repair broken scgbib links
-	* Example: /wiki/projects/archive/bender
-	* What is the right way to embed a fixed query? (add to FAQ below)
-
-* ... Fix accented characters
-	* Use FIND-BAD-ACCENTS.command to find unusual chars
-	* Use FIND-PAGES.command to find pages with those chars
-	* Update fixPierAccents with the new accent (if found)
-	* Update FIND-BAD-ACCENTS.command to ignore any uninteresting chars
-
-* Make sure old style scgbib links will still wokr:
-	- http://scg.unibe.ch/scgbib?query=Nierstrasz
-
-* Need apache redirects
-	* Need to make /archive /download /files and /scgbib continue to work
-	- Pages like petitpetri directly point to /downloads and /scgbib
+* After fixes check again all links
+	- Sync again from yogi to cindy, regenerate testscg and check links again
 
 ---
 # scgbib to do
@@ -34,17 +15,9 @@ This file lists pending migration todos, past todos (done) and a brief FAQ.
 * Fix handling of accents in scgbib
 	* Fix the back-end js-conversion script in the new scgbib github repo
 
-* What to do about composite scgbib queries? eg Publications scg-bp|scg-ip
-
 * Clean up scgbib repo
 	* set up github actions to test for errors and generate JS
 	* set up assets/scgbib as a clone that can be pulled (won't work on yogi due to old RSA implementation)
-
----
-# pico theme to do
-
-- Sidebar still is ugly compared to main body
-	- See Wiki page when window is reduced
 
 ---
 # web server to do
@@ -55,6 +28,40 @@ This file lists pending migration todos, past todos (done) and a brief FAQ.
 
 ---
 ## DONE
+
+- Repaired broken scgbib links
+	- Example: /wiki/projects/archive/bender
+	- Link to fixed query Gysi10 is broken
+	- Replaced by link to a fixed query
+	- Example: /publications -- multiple Award links broken
+	- Fixed them in the Pier page
+	
+- Fixed accented characters
+	- Use FIND-BAD-ACCENTS.command to find unusual chars
+	- Use FIND-PAGES.command to find pages with those chars
+	- Update fixPierAccents with the new accent (if found)
+	- Update FIND-BAD-ACCENTS.command to ignore any uninteresting chars
+	- NB: there still are some bad accents reported but strangely find pages does not find any matches
+
+- Added apache redirects for /scgbib, /download etc
+	* Need to make /archive /download /files and /scgbib continue to work
+	- Pages like petitpetri directly point to /downloads and /scgbib
+
+- Fixed CSS for sidebars
+	- links should be highlighted -- make CSS consistent with both
+	- Make sure text is all left aligned (example http://testscg.unibe.ch/teaching) 
+	- Fix reactive bullet lists when sidebar moved to bottom (eg http://testscg.unibe.ch/wiki)
+	- Also fixed newlines around links in sidebar -- use same style as for main content
+
+- Check all links
+	- PB recommends https://linkchecker.github.io/linkchecker/
+	- fixed htaccess to allow file browsing
+	- /files and /archive links to be fixed to point to assets
+
+- Added postprocessing of scg-bp to split into two queries
+
+- Reduce size of asa-logo.png
+	- http://testscg.unibe.ch/research/snf19
 
 - Fix redirects to local pages
 	- Added PMMarkdownWriter>>redirectUrlFor:

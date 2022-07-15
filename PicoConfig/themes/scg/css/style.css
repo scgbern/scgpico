@@ -148,7 +148,7 @@ body { display: flex; flex-direction: column; }
     #nav ul li {
         display: block;
         margin-left: 0;
-        text-align: center;
+        text-align: left;
     }
     #nav ul li a {
         display: block;
@@ -162,7 +162,7 @@ body { display: flex; flex-direction: column; }
         margin: 0.6667em 0;
         font-size: 1.5rem;
         line-height: 2em;
-        text-align: center;
+        text-align: left;
         cursor: pointer;
     }
     .js #nav-toggle > * { vertical-align: middle;  }
@@ -186,7 +186,7 @@ body {
 }
 
 p, td, th, li, dd {
-    text-align: justify;
+    text-align: left;
     overflow-wrap: break-word;
     word-wrap: break-word;
 }

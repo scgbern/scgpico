@@ -18,7 +18,7 @@ Title: Organizing Committee
 -  [Reid Holmes](http://pages.cpsc.ucalgary.ca/~rtholmes/) (University of Washington, US)
 -  [Toshihiro Kamiya](http://sel.ist.osaka-u.ac.jp/~kamiya/) (AIST, Japan)
 -  [Andrew Ko](http://faculty.washington.edu/ajko/) (University of Washington, US)
--  [Einar HÃ¸st](http://www.nr.no/~einarwh/) (Norsk Regnesentral, Norway) 
+-  [Einar Høst](http://www.nr.no/~einarwh/) (Norsk Regnesentral, Norway) 
 -  [Erik Linstead](http://www1.chapman.edu/~linstead/) (Chapman University, US)
 -  [Cristina Lopes](http://www.ics.uci.edu/~lopes/) (University of California Irvine, US)
 -  [Andrian Marcus](http://www.cs.wayne.edu/~amarcus/) (Wayne State University, US)

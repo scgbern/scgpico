@@ -150,6 +150,6 @@ My main research interests are in the areas of software visualization, program c
 #To Read
 </div>
 
-- [Visualising Virtual Communities: From ErdÅs to the Arts](http://arxiv.org/pdf/1207.3420.pdf)
+- [Visualising Virtual Communities: From Erdős to the Arts](http://arxiv.org/pdf/1207.3420.pdf)
 - [Polyplane](http://sydney.edu.au/engineering/it/~visual/valacon/gallery/polyplane/index.html)
 - [Improving Program Comprehension by Answering Questions](http://www.cs.cmu.edu/~NatProg/papers/MyersICPC2013NatProg.pdf)

@@ -21,7 +21,7 @@ Title: Committee
 -  [Harald Gall](http://seal.ifi.uzh.ch/gall) (University of Zurich, Switzerland)
 -  [Mark Grechanik](http://www.cs.uic.edu/~drmark/) (Accenture, USA)
 -  [Reid Holmes](http://pages.cpsc.ucalgary.ca/~rtholmes/) (University of Washington, USA)
--  [Einar HÃ¸st](http://www.nr.no/~einarwh/) (Norsk Regnesentral, Norway) 
+-  [Einar Høst](http://www.nr.no/~einarwh/) (Norsk Regnesentral, Norway) 
 -  [Toshihiro Kamiya](http://sel.ist.osaka-u.ac.jp/~kamiya/) (AIST, Japan)
 -  [Andrew Ko](http://faculty.washington.edu/ajko/) (University of Washington, USA)
 -  [Ken Krugler](http://blog.krugle.com/?page_id=10) (Krugle, USA)

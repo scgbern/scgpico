@@ -16,7 +16,7 @@ This main goals of this project are:
 Projects: 
 
 -  Empirical study: **[How Do Software Architects Specify and Validate Quality Requirements?](%base_url%/research/arch-constr/study)**, an empirical study aimed at exploring, classifying and ranking architectural constraints.
--  Solution: **[DictÅ](%base_url%/research/arch-constr/Dicto)**, a DSL for expressing architectural constraints 
+-  Solution: **[Dictō](%base_url%/research/arch-constr/Dicto)**, a DSL for expressing architectural constraints 
 -  Evaluation: **[Industrial Validation](%base_url%/research/arch-constr/eval)**, a set a case studies in which the solution was applied. 
 
 

@@ -19,10 +19,4 @@ rsync ${RSYNC} ${CONFIG}/themes/scg/ ${LOCAL}/themes/scg/
 rsync ${RSYNC} ${SCGBIB} ${LOCAL}/assets/scgbib/
 rsync ${RSYNC} ${CONFIG}/htaccess ${LOCAL}/.htaccess
 
-rsync ${RSYNC} ${CONFIG}/config/ ${REMOTE}/config/
-rsync ${RSYNC} ${CONFIG}/themes/scg/ ${REMOTE}/themes/scg/
-rsync ${RSYNC} ${SCGBIB} ${REMOTE}/assets/scgbib/
-rsync ${RSYNC} ${CONFIG}/htaccess ${REMOTE}/.htaccess
-
 open http://localhost/~oscar/Pico/
-# open http://testscg.unibe.ch

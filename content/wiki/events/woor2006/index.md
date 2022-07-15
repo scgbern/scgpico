@@ -13,9 +13,9 @@ Accepted position papers follow in random order with attending participants in b
 
 
 -  (![WOOR2006 Paper 1](%assets_url%/files/b4/adwgv7x0ypmakwq7maysym1ar8plns/WOOR2006%20Paper%201)) Reverse-engineering of UML 2.0 Sequence Diagrams from Execution Traces by <b>Romain Delamare</b>, <b>Benoit Baudry</b>, and Yves Le Traon. 
--  (![WOOR2006 Paper 2](%assets_url%/files/93/trgo527p6ecixiz5kv7ovvdc0ypl16/WOOR2006%20Paper%202)) ModelExtractor: An Automatic Parametric Model Extractor by Régis Chevrel, Jean Bézivin, Hugo BruneliÃ¨re, Albin Jossic, William Piers, and Frédéric Jouault.
+-  (![WOOR2006 Paper 2](%assets_url%/files/93/trgo527p6ecixiz5kv7ovvdc0ypl16/WOOR2006%20Paper%202)) ModelExtractor: An Automatic Parametric Model Extractor by Régis Chevrel, Jean Bézivin, Hugo Brunelière, Albin Jossic, William Piers, and Frédéric Jouault.
 -  (![WOOR2006 Paper 3](%assets_url%/files/5a/t9yc7qpzm25mo1gf85jryltrqgrae5/WOOR2006%20Paper%203)) Program Comprehension and Design Pattern Detection: An Experience Report by <b>Claudia Raibulet</b> and <b>Francesca Arcelli</b>.
--  (![WOOR2006 Paper 4](%assets_url%/files/4c/5k9twaxnemkejg17f4foc3b7oah7lk/WOOR2006%20Paper%204)) Extending a Taxonomy of Bad Code Smells with Metrics by <b>RaÃºl Marticorena</b>, <b>Carlos López</b>, and Yania Crespo.
+-  (![WOOR2006 Paper 4](%assets_url%/files/4c/5k9twaxnemkejg17f4foc3b7oah7lk/WOOR2006%20Paper%204)) Extending a Taxonomy of Bad Code Smells with Metrics by <b>Raúl Marticorena</b>, <b>Carlos López</b>, and Yania Crespo.
 -  (![WOOR2006 Paper 5](%assets_url%/files/1d/ag0y5l6iq1r8kc2jo6q42vidinfm9w/WOOR2006%20Paper%205)) Difference Visualization: Impact Interaction between Code and Model by <b>Susanne Jucknath-John</b> and Sebastian Doltze. 
 -  (![WOOR2006 Paper 6](%assets_url%/files/0d/jdpg77fo45s9mpcz79oy56s9czlrjj/WOOR2006%20Paper%206)) Correction of High-Level Design Defects with Refactorings by <b>Naouel Moha</b>, Saliha Bouden, and <b>Yann-Gaël Guéhéneuc</b>.
 -  (![WOOR2006 Paper 7](%assets_url%/files/0d/dutkw8jbog10dsu16cyfafh4cvldh7/WOOR2006%20Paper%207)) Refactoring of Assertions in Design by Contract by <b>Daniel Rodriguez</b>, Manonjaran Satpathy, Josep Covas, and Juan-Jose Cuadrado.
@@ -55,11 +55,11 @@ Specifically, the schedule so far is planned as:
 
 -  11:00- 11:45 &mdash; Session 2: Using refactorings
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Presentation of papers 4, 6, and 7
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- RaÃºl or Carlos will present Naouel, Saliha, and Yann-Gaël's paper entitled "Correction of High-Level Design Defects with Refactorings"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Raúl or Carlos will present Naouel, Saliha, and Yann-Gaël's paper entitled "Correction of High-Level Design Defects with Refactorings"
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Naouel or Yann-Gaël will present Daniel, Manonjaran, Josep, and Juan-Jose's paper entitled "Refactoring of Assertions in Design by Contract"
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Daniel will present RaÃºl, López, and Yania's paper entitled "Extending a Taxonomy of Bad Code Smells with Metrics"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Daniel will present Raúl, López, and Yania's paper entitled "Extending a Taxonomy of Bad Code Smells with Metrics"
 
 
 -  11:45-12:30 &mdash; Preliminary research questions and split-up in working groups

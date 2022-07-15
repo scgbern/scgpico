@@ -28,7 +28,7 @@ Topics of interest include, but are certainly not limited to:
 - agents, actors, active object, distribution, concurrency and mobility 
 - delegation, prototypes, mixins, traits 
 - first-class closures, continuations, environments 
-- reï¬ection and meta-programming 
+- refiection and meta-programming 
 - (dynamic) aspects for dynamic languages 
 - higher-order objects & messages 
 - ...other exotic dynamic features 
@@ -72,7 +72,7 @@ Submission page is [https://www.easychair.org/account/signin.cgi?conf=dyla11](ht
 
 The expected audience of this workshop is to gather practitioners and researchers 
 sharing the same interest in dynamically typed languages. Ruby, Python, Smalltalk, 
-Scheme and Lua are gaining a signiï¬cant popularity both in industry and academia. 
+Scheme and Lua are gaining a significant popularity both in industry and academia. 
 However, each community has the tendency to only look at what it produced. 
 Broadening the scope of each community is the goal of the workshop. To achieve 
 this goal we will form a PC with leading persons from all languages mentioned 

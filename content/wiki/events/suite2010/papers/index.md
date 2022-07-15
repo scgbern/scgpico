@@ -6,9 +6,9 @@ Title: Accepted Papers
 
 ### Towards Integrating E-Mail Communication in the IDE
 
--  Alberto Bacchelli - UniversitÃ  della Svizzera Italiana (University of Lugano), Switzerland
--  Michele Lanza - UniversitÃ  della Svizzera Italiana (University of Lugano), Switzerland
--  Vitezslav Humpa - UniversitÃ  della Svizzera Italiana (University of Lugano), Switzerland
+-  Alberto Bacchelli - Università della Svizzera Italiana (University of Lugano), Switzerland
+-  Michele Lanza - Università della Svizzera Italiana (University of Lugano), Switzerland
+-  Vitezslav Humpa - Università della Svizzera Italiana (University of Lugano), Switzerland
 Software developers spend a large part of their working time using an
 Integrated Development Environment (IDE). However, IDEs are usually
 disconnected from the means of communication programmers use to interact and
