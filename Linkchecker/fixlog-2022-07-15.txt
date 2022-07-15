@@ -8,6 +8,8 @@ Write comments and bugs to https://github.com/linkchecker/linkchecker/issues
 
 Start checking at 2022-07-15 12:28:09+002
 
+# TO FIX
+
 URL        `%20Principle>http://www.objectmentor.com/resources/articles/dip.pdf'
 Name       `The Dependency Inversion'
 Parent URL http://testscg.unibe.ch/wiki/alumni/bledaraga, line 120, col 4
