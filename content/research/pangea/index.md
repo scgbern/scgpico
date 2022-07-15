@@ -103,7 +103,7 @@ The following analysis technologies are included:
 The project is maintained by SCG. The different people that contribute are: 
 
 -  [Andrea Caracciolo](%base_url%/staff/Caracciolo) 
--  [Andrei ChiÈ](%base_url%/staff/andreichis) 
+-  [Andrei Chiş](%base_url%/staff/andreichis) 
 -  [Boris Spasojević](%base_url%/staff/Boris-Spasojevic)
 -  [Mircea F. Lungu](%base_url%/staff/mircea)
 

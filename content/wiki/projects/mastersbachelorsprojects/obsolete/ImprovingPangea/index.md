@@ -15,4 +15,4 @@ The aim of this project is to:
 -  create a better mechanism for storing the results of an analysis
 -  paralelise the generation of MSE files and the process of running an analysis.
 
-Contact: [Andrei ChiÈ](%base_url%/staff/andreichis), [Andrea Caracciolo](%base_url%/staff/Caracciolo) or [Boris Spasojević](%base_url%/staff/Boris-Spasojevic)
+Contact: [Andrei Chiş](%base_url%/staff/andreichis), [Andrea Caracciolo](%base_url%/staff/Caracciolo) or [Boris Spasojević](%base_url%/staff/Boris-Spasojevic)

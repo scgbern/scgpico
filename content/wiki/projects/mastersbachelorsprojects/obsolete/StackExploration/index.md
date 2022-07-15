@@ -35,5 +35,5 @@ In this form the project is available as a bachelor project. (Can be extended to
 -  [4] [A first look at the Pharo debugger](http://chisvasileandrei.wordpress.com/2013/10/24/a-first-look-at-the-pharo-debugger/)
 
 
-Contact: [Andrei ChiÈ](%base_url%/staff/andreichis)
+Contact: [Andrei Chiş](%base_url%/staff/andreichis)
 

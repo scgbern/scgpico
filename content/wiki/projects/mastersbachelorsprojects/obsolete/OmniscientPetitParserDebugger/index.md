@@ -38,4 +38,4 @@ Available as a master project. (Different parts of the project can be extracted 
 -  [7] [Practical Object-Oriented Back-in-Time Debugging](http://dl.acm.org/citation.cfm?id=1428542)
 -  [8] [Scalable Omniscient Debugging](http://pleiad.dcc.uchile.cl/papers/2007/pothierAl-oopsla2007.pdf%20)
 
-Contact: [Andrei ChiÈ](%base_url%/staff/andreichis)
+Contact: [Andrei Chiş](%base_url%/staff/andreichis)

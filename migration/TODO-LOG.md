@@ -6,6 +6,10 @@ This file lists pending migration todos, past todos (done) and a brief FAQ.
 ---
 # Migration to do
 
+* Fix redirects to local pages
+	- Added PMMarkdownWriter>>redirectUrlFor:
+	- To test: PM new localRedirects collect: #owner
+
 * Check all links
 	- PB recommends https://linkchecker.github.io/linkchecker/
 	- fixed htaccess to allow file browsing

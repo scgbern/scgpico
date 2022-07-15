@@ -117,7 +117,7 @@ On average an extension takes 8 lines of code. That means that you can get your 
 | | |
 |---|---|
 |[Aliaksei Syrel](https://twitter.com/AliakseiSyrel)|
-|[Andrei ChiÈ](http://andreichis.com)|
+|[Andrei Chiş](http://andreichis.com)|
 |[Juraj Kubelka](http://juraj-kubelka.cz)|
 |[Stefan Reichhart](https://twitter.com/stefanreichhart)|
 |[Tudor Gîrba](http://tudorgirba.com)|

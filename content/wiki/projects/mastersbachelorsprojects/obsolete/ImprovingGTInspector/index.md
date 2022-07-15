@@ -37,4 +37,4 @@ Available as a bachelor/seminar project. (Can be extended to a master project.)
 -  [5] [Scripting Browsers with Glamour](http://scg.unibe.ch/archive/masters/Bung09a.pdf)
 
 
-Contact: [Andrei ChiÈ](%base_url%/staff/andreichis)
+Contact: [Andrei Chiş](%base_url%/staff/andreichis)

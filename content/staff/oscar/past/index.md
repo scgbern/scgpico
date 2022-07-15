@@ -92,8 +92,8 @@ Title: Past events
 
 - *PC Member* of [PCODA 2010](http://swerl.tudelft.nl/bin/view/PCODA/PCODA2010) (Program Comprehension through Dynamic Analysis (PCODA) workshop &mdash; Colocated with [WCRE 2010](http://web.soccerlab.polymtl.ca/wcre2010/), Beverly, MA, USA, Oct 13-16, 2010)
 - *Co-organizer* of [FOSD 20010](http://www.fosd.de/2010) (2nd Workshop on Feature-Oriented Software Development &mdash; Colocated with [GPCE'10](http://program-transformation.org/GPCE10)/[SLE 2010](http://planet-sl.org/sle2010/), Eindhoven, The Netherlands, Oct 10, 2010)
-- *PC Member* of [ICSM 2010](http://icsm2010.upt.ro/) (26th IEEE International Conference on Software Maintenance &mdash; TimiÈoara, Romania, Sept 12-18, 2010)
-- *Co-Chair* of [ICSM 2010 Doctoral Symposium](http://icsm2010.upt.ro/) (Special Track of [ICSM 2010](http://icsm2010.upt.ro/) &mdash; TimiÈoara, Romania, Sept 13, 2010)
+- *PC Member* of [ICSM 2010](http://icsm2010.upt.ro/) (26th IEEE International Conference on Software Maintenance &mdash; Timişoara, Romania, Sept 12-18, 2010)
+- *Co-Chair* of [ICSM 2010 Doctoral Symposium](http://icsm2010.upt.ro/) (Special Track of [ICSM 2010](http://icsm2010.upt.ro/) &mdash; Timişoara, Romania, Sept 13, 2010)
 - *PC Member* of [SEAA-EDISON 2010](http://seaa2010.liacs.nl/) (Euromicro Special track on Evolution of Distributed, Internet-based and Service-Oriented applicatioNs &mdash; Lille, France, Sept. 1, 2010
 - *PC Member* of [TOOLS 2010](http://malaga2010.lcc.uma.es/) (48th International Conference on Objects, Models, Components, Patterns &mdash; Malaga, Spain, June 28 - July 2, 2010)
 - *PC Member* of [RAM-SE 2010](http://www-users.cs.york.ac.uk/~manuel/Events/RAM-SE10/Description.html) (7th ECOOP Workshop on Reflection, AOP and Meta-Data for Software Evolution, colocated with [ECOOP 2010](http://ecoop2010.uni-mb.si/) &mdash; Maribor, Slovenia, July 22, 2010)

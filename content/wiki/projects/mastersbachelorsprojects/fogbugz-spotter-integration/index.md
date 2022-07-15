@@ -12,4 +12,4 @@ To link Pharo and Fogbugs we will use ![Zinc](http://zn.stfx.eu/zn), an open-sou
 
 This project requires only good programming skills. You do not need to know how Pharo or Fogbugs work.
 
-Contact: [Andrei ChiÈ](%base_url%/staff/andreichis)
+Contact: [Andrei Chiş](%base_url%/staff/andreichis)

@@ -16,4 +16,4 @@ In this project we would like to understand the evolution of exception definitio
 
 
 #Contact
-[Haidar Osman](%base_url%/staff/Osman) and [Andrei ChiÈ](%base_url%/staff/andreichis) 
+[Haidar Osman](%base_url%/staff/Osman) and [Andrei Chiş](%base_url%/staff/andreichis) 

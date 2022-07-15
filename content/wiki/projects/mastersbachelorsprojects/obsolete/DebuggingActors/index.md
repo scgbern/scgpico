@@ -39,4 +39,4 @@ Available as a master project. (Different parts of the project can be extracted 
 -  [5] [Actalk](http://www.researchgate.net/publication/2727006_Actalk_a_Testbed_for_Classifying_and_Designing_Actor_Languages_in_the_Smalltalk-80_Environment/file/9fcfd50bc758f55222.pdf)
 -  [6] [Actors in Smalltalk-80](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.41.7827&rep=rep1&type=pdf%20)
 
-Contact: [Andrei ChiÈ](%base_url%/staff/andreichis)
+Contact: [Andrei Chiş](%base_url%/staff/andreichis)

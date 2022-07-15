@@ -1,12 +1,12 @@
 ---
-Title: Andrei ChiÈ
+Title: Andrei Chiş
 ---
 
 ![AndreiChis_ProfilePhoto](%assets_url%/files/72/e6w80t6hd2fmj89j85pn37aq2mn88d/AndreiChis-262x272.png)
 
 <div style="background-color:#faebcc">This is my old website that I used during my Phd. New website is under construction. You can follow me on twitter for updates: <a href="https://twitter.com/Chis_Andrei">@Chis_Andrei</a> </div>
 
-I am a PhD Candidate at the University of Bern in the Software Composition Group since October 2012. Prior to this, I got a master and a bachelor degree in software engineering from the ["Politehnica" University of TimiÈoara](http://www.upt.ro/en/), under the supervision of [Radu Marinescu](http://bigfoot.cs.upt.ro/~radum/), with theses in the area of software visualisation. During my master I worked at [intooitus](http://www.intooitus.com) on integrating the results of my research into [infusion](http://www.intooitus.com/products/infusion), a platform for assessing the quality of software systems. Currently, apart from doing a PhD, I'm an active contributor to [Pharo](http://pharo.org/) and [Moose](http://moosetechnology.org/) and from time to time a [blogger](https://chisvasileandrei.wordpress.com/).
+I am a PhD Candidate at the University of Bern in the Software Composition Group since October 2012. Prior to this, I got a master and a bachelor degree in software engineering from the ["Politehnica" University of Timişoara](http://www.upt.ro/en/), under the supervision of [Radu Marinescu](http://bigfoot.cs.upt.ro/~radum/), with theses in the area of software visualisation. During my master I worked at [intooitus](http://www.intooitus.com) on integrating the results of my research into [infusion](http://www.intooitus.com/products/infusion), a platform for assessing the quality of software systems. Currently, apart from doing a PhD, I'm an active contributor to [Pharo](http://pharo.org/) and [Moose](http://moosetechnology.org/) and from time to time a [blogger](https://chisvasileandrei.wordpress.com/).
 
 #Research Interests
 <div>
@@ -33,11 +33,11 @@ Apart from this my research interests lie in the areas of:
 
 #Awards
 
-- *[SPLASH 2015 Distinguished Demo Award](http://2015.splashcon.org)* for [GTInspector: A Moldable Domain-Aware Object Inspector](http://2015.splashcon.org/event/splash2015-demos-gtinspector-a-moldable-domain-aware-object-inspector) by [Andrei ChiÈ](%base_url%/staff/andreichis), [Tudor Girba](http://www.tudorgirba.com/), [Oscar Nierstrasz](%base_url%/staff/oscar), [Aliaksei Syrel](%base_url%/wiki/alumni/AliakseiSyrel)
-- *[European Smalltalk User Group 2015 Technology Innovation Award (1st prize)](http://www.esug.org/wiki/pier/Conferences/2015/Innovation-Technology-Awards)* for [GT Spotter](http://gt.moosetechnology.org/) by Aliaksei Syrel, [Andrei ChiÈ](%base_url%/staff/andreichis), [Tudor Girba](http://www.tudorgirba.com/), [Juraj Kubelka](http://www.juraj-kubelka.cz/) and Stefan Reichhart
-- *[Software Language Engineering (SLE) 2014 Best Student Paper Award](http://www.sleconf.org/2014/AcceptedPapers.html)* for [The Moldable Debugger: A Framework for Developing Domain-Specific Debuggers](%assets_url%/scgbib/?query=Chis14b&filter=Year) by [Andrei ChiÈ](%base_url%/staff/andreichis), [Tudor Girba](http://www.tudorgirba.com/) and [Oscar Nierstrasz](%base_url%/staff/oscar)
-- *[European Smalltalk User Group 2014 Technology Innovation Award (1st prize)](http://www.esug.org/wiki/pier/Conferences/2014/Innovation-Technology-Awards)* for [GT Inspector](http://gt.moosetechnology.org/) by [Andrei ChiÈ](%base_url%/staff/andreichis), [Tudor Girba](http://www.tudorgirba.com/) and Aliaksei Syrel
--  *[IWST 2014 Best Paper Award (3rd prize)](http://www.esug.org/wiki/pier/Conferences/2014/IWST14)* for [The Moldable Inspector: A framework for domain-specific object inspection](%assets_url%/scgbib/?query=Chis14a&filter=Year) by [Andrei ChiÈ](%base_url%/staff/andreichis), [Tudor Girba](http://www.tudorgirba.com/) and [Oscar Nierstrasz](%base_url%/staff/oscar)
+- *[SPLASH 2015 Distinguished Demo Award](http://2015.splashcon.org)* for [GTInspector: A Moldable Domain-Aware Object Inspector](http://2015.splashcon.org/event/splash2015-demos-gtinspector-a-moldable-domain-aware-object-inspector) by [Andrei Chiş](%base_url%/staff/andreichis), [Tudor Girba](http://www.tudorgirba.com/), [Oscar Nierstrasz](%base_url%/staff/oscar), [Aliaksei Syrel](%base_url%/wiki/alumni/AliakseiSyrel)
+- *[European Smalltalk User Group 2015 Technology Innovation Award (1st prize)](http://www.esug.org/wiki/pier/Conferences/2015/Innovation-Technology-Awards)* for [GT Spotter](http://gt.moosetechnology.org/) by Aliaksei Syrel, [Andrei Chiş](%base_url%/staff/andreichis), [Tudor Girba](http://www.tudorgirba.com/), [Juraj Kubelka](http://www.juraj-kubelka.cz/) and Stefan Reichhart
+- *[Software Language Engineering (SLE) 2014 Best Student Paper Award](http://www.sleconf.org/2014/AcceptedPapers.html)* for [The Moldable Debugger: A Framework for Developing Domain-Specific Debuggers](%assets_url%/scgbib/?query=Chis14b&filter=Year) by [Andrei Chiş](%base_url%/staff/andreichis), [Tudor Girba](http://www.tudorgirba.com/) and [Oscar Nierstrasz](%base_url%/staff/oscar)
+- *[European Smalltalk User Group 2014 Technology Innovation Award (1st prize)](http://www.esug.org/wiki/pier/Conferences/2014/Innovation-Technology-Awards)* for [GT Inspector](http://gt.moosetechnology.org/) by [Andrei Chiş](%base_url%/staff/andreichis), [Tudor Girba](http://www.tudorgirba.com/) and Aliaksei Syrel
+-  *[IWST 2014 Best Paper Award (3rd prize)](http://www.esug.org/wiki/pier/Conferences/2014/IWST14)* for [The Moldable Inspector: A framework for domain-specific object inspection](%assets_url%/scgbib/?query=Chis14a&filter=Year) by [Andrei Chiş](%base_url%/staff/andreichis), [Tudor Girba](http://www.tudorgirba.com/) and [Oscar Nierstrasz](%base_url%/staff/oscar)
 
 #Talks and tutorials
 

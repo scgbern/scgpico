@@ -269,7 +269,7 @@ Normally, the seminar takes place on Mondays at 14.00 in the afternoon in our se
 -  Dec 1 - [Roger Stebler](%base_url%/wiki/alumni/RogerStebler)  &mdash; [Fogbugz-Pharo Integration](%base_url%/wiki/projects/mastersbachelorsprojects/fogbugz-spotter-integration)
 -  Nov 17 - [Kenneth Radunz](%base_url%/wiki/alumni/KennethRadunz)  &mdash; [DSL Auto-completion](%base_url%/wiki/projects/DSL-autocompletion)
 -  Oct 27 - [Olivier Flückiger](%base_url%/staff/oli)  &mdash; [rjit: a JIT compiler for R with an LLVM backend](http://o1o.ch/assets/scg-seminar-oct-2015.pdf) (Guest)
--  Oct 20 - [Andrei ChiÈ](%base_url%/staff/andreichis)  and [Aliaksei Syrel](%base_url%/wiki/alumni/AliakseiSyrel) &mdash; Introduction to Pharo
+-  Oct 20 - [Andrei Chiş](%base_url%/staff/andreichis)  and [Aliaksei Syrel](%base_url%/wiki/alumni/AliakseiSyrel) &mdash; Introduction to Pharo
 -  Oct 6 - [Oskar Truffer](%base_url%/wiki/alumni/OskarTruffer) &mdash; [Continuous Integration with Architectural Invariants](http://scg.unibe.ch/download/softwarecomposition/2015-10-06-OskarTruffer-Dicto.pdf) (MSc)
 -  Sep 29 - [Milan Kubicek](%base_url%/wiki/alumni/MilanKubicek) &mdash; [Parsing F# with PetitParser](%assets_url%/download/softwarecomposition/2015-09-29-Kubicek-ParsingFSharp.pdf) (Bachelors)
 -  Sep 22 - [Prof. Shriram Krishnamurti](http://www.cs.brown.edu/~sk/) &mdash; [Tierless Programming and Reasoning for Software-Defined Networks](%base_url%/wiki/softwarecompositionseminar/TierlessProgramming)

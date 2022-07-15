@@ -29,4 +29,4 @@ In this project we will investigate visualization and mining techniques that eas
 - Roassal: [http://agilevisualization.com](http://agilevisualization.com)
 
 Contact
-[Leonel Merino](%base_url%/staff/merino), [Andrei ChiÈ](%base_url%/staff/andreichis)
+[Leonel Merino](%base_url%/staff/merino), [Andrei Chiş](%base_url%/staff/andreichis)

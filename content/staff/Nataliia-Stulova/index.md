@@ -42,7 +42,7 @@ More detailed information is available on my personal [web page](https://s0nata.
 |---|---|---|
 |*Change Patterns in Complex Systems* | [Gabriela López Magaña](https://www.zhaw.ch/en/about-us/person/lopm/) (ZHAW),  [Sebastiano Panichella](https://www.zhaw.ch/en/about-us/person/panc/)  (ZHAW)| 
 |*Comment Quality Metrics* | [Pooja Rani](http://scg.unibe.ch/staff/Pooja-Rani), [Arianna Blasi](https://www.inf.usi.ch/phd/blasia/) (USI-STAR), [Sebastiano Panichella](https://www.zhaw.ch/en/about-us/person/panc/)  (ZHAW), [Alessandra Gorla](https://software.imdea.org/~alessandra.gorla/) (IMDEA Software), [Oscar Nierstrasz](http://scg.unibe.ch/staff/oscar) |
-|*Tools for Agile Behavior Driven Development* | [Nitish Patkar](http://scg.unibe.ch/staff/NitishPatkar), [Andrei ChiÈ](http://scg.unibe.ch/staff/andreichis) (feenk gmbh) |
+|*Tools for Agile Behavior Driven Development* | [Nitish Patkar](http://scg.unibe.ch/staff/NitishPatkar), [Andrei Chiş](http://scg.unibe.ch/staff/andreichis) (feenk gmbh) |
 |*Code-Comment Mapping Techniques* | [Arianna Blasi](https://www.inf.usi.ch/phd/blasia/) (USI-STAR), [Alessandra Gorla](https://software.imdea.org/~alessandra.gorla/) (IMDEA Software), [Oscar Nierstrasz](http://scg.unibe.ch/staff/oscar)  |
 
 
@@ -66,5 +66,5 @@ More detailed information is available on my personal [web page](https://s0nata.
 | | | | | |
 |---|---|---|---|---|
 |*Interactive Visualizations for Software Duplication* |[Jonas Richner](http://scg.unibe.ch/wiki/students/JonasRichner) | MSc thesis ([PDF](http://scg.unibe.ch/archive/masters/Rich21a.pdf), [slides](http://scg.unibe.ch/download/softwarecomposition/2020-08-25-Richner-DuplicationVistualization.pdf)) ||
-|*Bringing Agile Artifacts Closer To Implementation* | [Robert Niemiec](http://scg.unibe.ch/wiki/students/RobertNiemiec) | MSc theis ([PDF](http://scg.unibe.ch/archive/masters/Niem20a.pdf), [slides](http://scg.unibe.ch/download/softwarecomposition/2020-07-14-Niemiec-RequirementsInIDE.pdf)) | [Nitish Patkar](http://scg.unibe.ch/staff/NitishPatkar), [Andrei ChiÈ](http://scg.unibe.ch/staff/andreichis) (feenk gmbh) |
-|*Moldable Scenario Builder*| [Ivan Kravchenko](http://scg.unibe.ch/wiki/alumni/IvanKravchenko)| MSc thesis ([PDF](http://scg.unibe.ch/archive/masters/Krav20a.pdf), [slides](http://scg.unibe.ch/download/softwarecomposition/2020-06-23-Kravchenko-MoldableScenarioEdiot.pdf)) | [Nitish Patkar](http://scg.unibe.ch/staff/NitishPatkar), [Andrei ChiÈ](http://scg.unibe.ch/staff/andreichis) (feenk gmbh)
+|*Bringing Agile Artifacts Closer To Implementation* | [Robert Niemiec](http://scg.unibe.ch/wiki/students/RobertNiemiec) | MSc theis ([PDF](http://scg.unibe.ch/archive/masters/Niem20a.pdf), [slides](http://scg.unibe.ch/download/softwarecomposition/2020-07-14-Niemiec-RequirementsInIDE.pdf)) | [Nitish Patkar](http://scg.unibe.ch/staff/NitishPatkar), [Andrei Chiş](http://scg.unibe.ch/staff/andreichis) (feenk gmbh) |
+|*Moldable Scenario Builder*| [Ivan Kravchenko](http://scg.unibe.ch/wiki/alumni/IvanKravchenko)| MSc thesis ([PDF](http://scg.unibe.ch/archive/masters/Krav20a.pdf), [slides](http://scg.unibe.ch/download/softwarecomposition/2020-06-23-Kravchenko-MoldableScenarioEdiot.pdf)) | [Nitish Patkar](http://scg.unibe.ch/staff/NitishPatkar), [Andrei Chiş](http://scg.unibe.ch/staff/andreichis) (feenk gmbh)

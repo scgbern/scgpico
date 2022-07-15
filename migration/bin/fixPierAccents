@@ -24,6 +24,7 @@ s/Ã§/ç/g;
 s/Ä/ć/g;
 s/Å¡/š/g;
 s/Å/ş/g;
+s/È/ş/g;
 s/Ä/ğ/g;
 
 s/Å /Š/g;
@@ -47,6 +48,10 @@ s/Â´/"/g;
 s/â/“/g;
 s/â/”/g;
 s/[]//g;
+
+
+s/src="\/files\//src="%assets_url%\/files\//g;
+
 
 s/<span style="background-color: #FFFF00">//g;
 s/<\/span>//g;

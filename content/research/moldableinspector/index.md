@@ -106,7 +106,7 @@ Constructing and previewing queries over relational databases is typically done 
 
 | | |
 |---|---|
-|[Andrei ChiÈ](http://andreichis.com)|
+|[Andrei Chiş](http://andreichis.com)|
 |[Aliaksei Syrel](https://twitter.com/AliakseiSyrel)|
 |[Tudor Gîrba](http://tudorgirba.com)|
 

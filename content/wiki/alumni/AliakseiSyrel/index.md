@@ -2,8 +2,8 @@
 Title: Aliaksei Syrel
 ---
 
-<img alt="AliakseiSyrel-avatar" src="/files/c1/ha5z8woyb3x19db2de1sx1qejplpsz/AliakseiSyrel-mountains-300x300.png" width=150 style="margin-top:0; display: block">
-I am a bachelor student at the University of Bern in the Software Composition Group. Under the supervision of <a href="http://scg.unibe.ch/staff/andreichis" target=_blank>Andrei ChiÈ</a> I work on my thesis in the area of embeding visualisations in user insterface or moldable tools.
+<img alt="AliakseiSyrel-avatar" src="%assets_url%/files/c1/ha5z8woyb3x19db2de1sx1qejplpsz/AliakseiSyrel-mountains-300x300.png" width=150 style="margin-top:0; display: block">
+I am a bachelor student at the University of Bern in the Software Composition Group. Under the supervision of <a href="http://scg.unibe.ch/staff/andreichis" target=_blank>Andrei Chiş</a> I work on my thesis in the area of embeding visualisations in user insterface or moldable tools.
 
 I contribute to <a href="http://pharo.org/" target=_blank>Pharo</a> and currently work on <a href="http://gt.moosetechnology.org/brick/" target=_blank>Brick</a>, a project with the aim of bringing beautiful vector-based widgets on top of Bloc.
 
@@ -14,7 +14,7 @@ As part of <a href="http://gt.moosetechnology.org/" target=_blank>Glamorous Tool
 Sparta is an almost stateless vector graphics API for Pharo that provides bindings to the Moz2D rendering backend. Moz2D is the extracted graphical engine from Mozilla Firefox compiled as standalone shared library together with the extern C bindings required to call the engine from Pharo.
 
 <div>Sparta won <a href="http://www.esug.org/wiki/pier/Conferences/2016/Innovation-Technology-Awards" target=_blank>2016 ESUG Innovation Technology Award</a>.</br>
-<img alt="GoldSmallMedalAwardsESUG2016" src="/files/91/mv1ypxi77wfour7tzeqb64t4qt9hwe/Medalles2016gold.png" width=150 style="margin:0; display: inline;"></div>
+<img alt="GoldSmallMedalAwardsESUG2016" src="%assets_url%/files/91/mv1ypxi77wfour7tzeqb64t4qt9hwe/Medalles2016gold.png" width=150 style="margin:0; display: inline;"></div>
 
 <h2>Overview</h2>
 <em>(All images are rendered using Sparta in Pharo)</em>
@@ -41,16 +41,16 @@ We should not forget that first of all Sparta is a vector graphics engine. It al
 
 <h1>Brick</h1>
 <a href="http://gtoolkit.org/brick/" target=_blank>Brick</a> is a set of vector-based material design widgets for Pharo.
-<br><img alt="Brick-Browser" src="/files/00/xyze0md1dwu74w5fado5xp4kjzljkk/Brick-Browser.png" width=400 style="margin:0; display: block">
+<br><img alt="Brick-Browser" src="%assets_url%/files/00/xyze0md1dwu74w5fado5xp4kjzljkk/Brick-Browser.png" width=400 style="margin:0; display: block">
 
 <p>sponsored by ESUG as SummerTalk2015 project</p>
-<img alt="Esug-logo" src="/files/cc/hgt7cu4r2n277rz57sdj5rq80u1o2u/esug-logo.jpg" width=200>
+<img alt="Esug-logo" src="%assets_url%/files/cc/hgt7cu4r2n277rz57sdj5rq80u1o2u/esug-logo.jpg" width=200>
 
 <h1>Spotter</h1>
 <a href="http://scg.unibe.ch/research/moldablespotter" target=_blank>Spotter</a> search tool for Pharo is my second project which started based on ideas of <a href="http://www.tudorgirba.com/" target=_blank>Tudor Gîrba</a>. Later on Spotter got a small international <a href="http://scg.unibe.ch/research/moldablespotter#158967186" target=_blank>community</a> around.
-<img alt="Spotter" src="/files/e4/luerik9na5zyug0ap03di025opb31c/Spotter.png" width=400><br>
+<img alt="Spotter" src="%assets_url%/files/e4/luerik9na5zyug0ap03di025opb31c/Spotter.png" width=400><br>
 Spotter won <a href="http://www.esug.org/wiki/pier/Conferences/2015/Innovation-Technology-Awards" target=_blank>2015 ESUG Innovation Technology Award</a>.</br>
-<img alt="GoldSmallMedalAwardsESUG2015" src="/files/98/m9wc3cti1kbd0wmgja1t1nk4nvx0je/2015goldSmall.png" width=150 style="margin:0; display: block">
+<img alt="GoldSmallMedalAwardsESUG2015" src="%assets_url%/files/98/m9wc3cti1kbd0wmgja1t1nk4nvx0je/2015goldSmall.png" width=150 style="margin:0; display: block">
 
 <h1>Pager for GT Inspector</h1>
 My first project in the Software Composition Group was called Pager which supposed to <a href="http://www.humane-assessment.com/blog/gt-developments-endless-playground-memory-sharing-and-others/" target=_blank>improve</a> navigation in <a href="http://scg.unibe.ch/research/moldableinspector" target=_blank>Moldable inspector</a>. As part of it I got familiar with Pharo language and started actively participated as contributor and community member.
@@ -71,9 +71,9 @@ My first project in the Software Composition Group was called Pager which suppos
 <ul>
 <li><em><a title="http://www.esug.org/wiki/pier/Conferences/2016/Innovation-Technology-Awards" class="external" href="http://www.esug.org/wiki/pier/Conferences/2016/Innovation-Technology-Awards">European Smalltalk User Group 2016 Technology Innovation Award (1st prize)</a></em> for <a title="http://gt.moosetechnology.org/" class="external" href="http://scg.unibe.ch/research/sparta">Sparta</a> by <a title="Aliaksei Syrel" class="internal page" href="http://scg.unibe.ch/wiki/students/AliakseiSyrel">AliakseiSyrel</a></li>
 
-<li><em><a title="http://www.esug.org/wiki/pier/Conferences/2015/Innovation-Technology-Awards" class="external" href="http://www.esug.org/wiki/pier/Conferences/2015/Innovation-Technology-Awards">European Smalltalk User Group 2015 Technology Innovation Award (1st prize)</a></em> for <a title="http://gt.moosetechnology.org/" class="external" href="http://gt.moosetechnology.org/">GT Spotter</a> by <a title="Aliaksei Syrel" class="internal page" href="http://scg.unibe.ch/wiki/students/AliakseiSyrel">AliakseiSyrel</a>, <a title="Andrei ChiÈ" class="internal page" href="http://scg.unibe.ch/staff/andreichis">Andrei ChiÈ</a>, <a title="http://www.tudorgirba.com/" class="external" href="http://www.tudorgirba.com/">Tudor Girba</a>, <a title="http://www.juraj-kubelka.cz/" class="external" href="http://www.juraj-kubelka.cz/">Juraj Kubelka</a> and Stefan Reichhart</li>
+<li><em><a title="http://www.esug.org/wiki/pier/Conferences/2015/Innovation-Technology-Awards" class="external" href="http://www.esug.org/wiki/pier/Conferences/2015/Innovation-Technology-Awards">European Smalltalk User Group 2015 Technology Innovation Award (1st prize)</a></em> for <a title="http://gt.moosetechnology.org/" class="external" href="http://gt.moosetechnology.org/">GT Spotter</a> by <a title="Aliaksei Syrel" class="internal page" href="http://scg.unibe.ch/wiki/students/AliakseiSyrel">AliakseiSyrel</a>, <a title="Andrei Chiş" class="internal page" href="http://scg.unibe.ch/staff/andreichis">Andrei Chiş</a>, <a title="http://www.tudorgirba.com/" class="external" href="http://www.tudorgirba.com/">Tudor Girba</a>, <a title="http://www.juraj-kubelka.cz/" class="external" href="http://www.juraj-kubelka.cz/">Juraj Kubelka</a> and Stefan Reichhart</li>
 
-<li><em><a title="http://www.esug.org/wiki/pier/Conferences/2014/Innovation-Technology-Awards" class="external" href="http://www.esug.org/wiki/pier/Conferences/2014/Innovation-Technology-Awards">European Smalltalk User Group 2014 Technology Innovation Award (1st prize)</a></em> for <a title="http://gt.moosetechnology.org/" class="external" href="http://gt.moosetechnology.org/">GT Inspector</a> by <a title="Andrei ChiÈ" class="internal page" href="http://scg.unibe.ch/staff/andreichis">Andrei ChiÈ</a>, <a title="http://www.tudorgirba.com/" class="external" href="http://www.tudorgirba.com/">Tudor Girba</a> and <a title="Aliaksei Syrel" class="internal page" href="http://scg.unibe.ch/wiki/students/AliakseiSyrel">AliakseiSyrel</a></li></ul>
+<li><em><a title="http://www.esug.org/wiki/pier/Conferences/2014/Innovation-Technology-Awards" class="external" href="http://www.esug.org/wiki/pier/Conferences/2014/Innovation-Technology-Awards">European Smalltalk User Group 2014 Technology Innovation Award (1st prize)</a></em> for <a title="http://gt.moosetechnology.org/" class="external" href="http://gt.moosetechnology.org/">GT Inspector</a> by <a title="Andrei Chiş" class="internal page" href="http://scg.unibe.ch/staff/andreichis">Andrei Chiş</a>, <a title="http://www.tudorgirba.com/" class="external" href="http://www.tudorgirba.com/">Tudor Girba</a> and <a title="Aliaksei Syrel" class="internal page" href="http://scg.unibe.ch/wiki/students/AliakseiSyrel">AliakseiSyrel</a></li></ul>
 
 <h1>Talks</h1>
 <ul>

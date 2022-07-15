@@ -14,7 +14,7 @@
 -  I served as Publicity Chair for [SLE 2016](http://www.sleconf.org/2016/)
 
 
-- *[SPLASH 2015 Distinguished Demo Award](http://2015.splashcon.org)* for [GTInspector: A Moldable Domain-Aware Object Inspector](http://2015.splashcon.org/event/splash2015-demos-gtinspector-a-moldable-domain-aware-object-inspector) by [Andrei ChiÈ](%base_url%/staff/andreichis), [Tudor Girba](http://www.tudorgirba.com/), [Oscar Nierstrasz](%base_url%/staff/oscar), [Aliaksei Syrel](%base_url%/wiki/alumni/AliakseiSyrel)
+- *[SPLASH 2015 Distinguished Demo Award](http://2015.splashcon.org)* for [GTInspector: A Moldable Domain-Aware Object Inspector](http://2015.splashcon.org/event/splash2015-demos-gtinspector-a-moldable-domain-aware-object-inspector) by [Andrei Chiş](%base_url%/staff/andreichis), [Tudor Girba](http://www.tudorgirba.com/), [Oscar Nierstrasz](%base_url%/staff/oscar), [Aliaksei Syrel](%base_url%/wiki/alumni/AliakseiSyrel)
 
 
 -  Me and [AliakseiSyrel](https://twitter.com/AliakseiSyrel) gave a presentation about [Pharo](http://www.pharo.org) at [Jazoon](http://www.jazoon.com).

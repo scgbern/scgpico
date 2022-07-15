@@ -12,4 +12,4 @@ SmalltalkHub: [GTDebuggerEventRecorder](http://smalltalkhub.com/#!/~rostebler/GT
 Contact: &#114;&#111;&#103;&#101;&#114;&#46;&#115;&#116;&#101;&#98;&#108;&#101;&#114;&#64;&#115;&#116;&#117;&#100;&#101;&#110;&#116;&#115;&#46;&#117;&#110;&#105;&#98;&#101;&#46;&#99;&#104;
 
 Supervisor:
-[Andrei ChiÈ](%base_url%/staff/andreichis)
+[Andrei Chiş](%base_url%/staff/andreichis)

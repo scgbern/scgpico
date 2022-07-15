@@ -39,4 +39,4 @@ Available as a bachelor or master project.
 -  [5] [Zinc documentation](http://zn.stfx.eu/zn/zinc-http-components-paper.html%20)
 -  [6] [Zinc tutorial](http://zn.stfx.eu/zn/build-and-deploy-1st-webapp)
 
-Contact: [Andrei ChiÈ](%base_url%/staff/andreichis)
+Contact: [Andrei Chiş](%base_url%/staff/andreichis)

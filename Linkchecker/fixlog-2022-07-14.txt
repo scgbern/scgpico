@@ -250,8 +250,9 @@ Check time 3.372 seconds
 Size       803B
 Result     Error: 404 Not Found
 
----
-# TO FIX 
+# Hard coded files paths
+
+* Extended fixaccents to translate 'src="/files/' to 'src="/%assets_url%files/'
 
 URL        `/files/c1/ha5z8woyb3x19db2de1sx1qejplpsz/AliakseiSyrel-mountains-300x300.png'
 Name       `AliakseiSyrel-avatar'
@@ -301,6 +302,8 @@ Check time 4.175 seconds
 Size       803B
 Result     Error: 404 Not Found
 
+# Deleted obsolete link
+
 URL        `'/wiki/projects/fontsizebuttons''
 Parent URL http://testscg.unibe.ch/wiki/fontsizebuttons, line 46, col 13
 Real URL   http://testscg.unibe.ch/wiki/%27/wiki/projects/fontsizebuttons%27
@@ -316,12 +319,20 @@ Check time 3.969 seconds
 Size       803B
 Result     Error: 404 Not Found
 
+#Fix broken local redirects
+
+* Added PMMarkdownWriter>>redirectUrlFor:
+
 URL        `'/staff/oscar''
 Parent URL http://testscg.unibe.ch/oscar, line 46, col 13
 Real URL   http://testscg.unibe.ch/%27/staff/oscar%27
 Check time 4.203 seconds
 Size       803B
 Result     Error: 404 Not Found
+
+
+---
+# TO FIX 
 
 URL        `/download'
 Parent URL http://testscg.unibe.ch/assets/download/petitpetri/, line 15, col 2

@@ -15,7 +15,7 @@
 - [Mircea F. Lungu](staff/mircea)
 - [Andrea Caracciolo](staff/Caracciolo)
 - [Jan Kurš](staff/kursjan)
-- [Andrei ChiÈ](staff/andreichis)
+- [Andrei Chiş](staff/andreichis)
 - [Boris Spasojević](staff/Boris-Spasojevic)
 - [Haidar Osman](staff/Osman)
 - [Nevena Milojković](staff/Milojkovic)

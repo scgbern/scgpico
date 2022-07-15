@@ -31,4 +31,4 @@ Available as a bachelor/seminar project. (Can be extended to a master project)
 -  [2] [Exception handling](http://en.wikipedia.org/wiki/Exception_handling)
 
 
-Contact: [Andrei ChiÈ](%base_url%/staff/andreichis)
+Contact: [Andrei Chiş](%base_url%/staff/andreichis)

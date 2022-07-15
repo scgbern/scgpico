@@ -19,7 +19,7 @@ Title: SCG Job List
 
 -  [Hardware](%base_url%/wiki/scgjoblist/hardware), software, Applecare: [Pascal Gadient PhD](%base_url%/staff/PascalGadient)
 -  RAID (mafalda): [Oscar Nierstrasz](%base_url%/staff/oscar)
--  Linux machines (haddock, pinocchio, bender, leela): [Oscar Nierstrasz](%base_url%/staff/oscar), [Andrei ChiÈ](%base_url%/staff/andreichis) (pinocchio)
+-  Linux machines (haddock, pinocchio, bender, leela): [Oscar Nierstrasz](%base_url%/staff/oscar), [Andrei Chiş](%base_url%/staff/andreichis) (pinocchio)
 -  Kensington locks: [Pascal Gadient PhD](%base_url%/staff/PascalGadient), [Oscar Nierstrasz](%base_url%/staff/oscar)
 -  Printer: [Bettina Choffat](%base_url%/staff/BettinaChoffat)
 -  [SCG Library](%base_url%/wiki/scglibrary): [Nitish Patkar](%base_url%/staff/NitishPatkar), [Pooja Rani](%base_url%/staff/Pooja-Rani)

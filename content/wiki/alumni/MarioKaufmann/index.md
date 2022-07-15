@@ -4,7 +4,7 @@ Title: Mario Kaufmann
 
 Hello, I'm Mario Kaufmann and I'm a master student at SCG in Bern. Currently, I am working on my master project.
 
-The project is supervised by Andrei ChiÈ. We are creating a new possible way to interact with the Inspector in the Pharo programming environment.
+The project is supervised by Andrei Chiş. We are creating a new possible way to interact with the Inspector in the Pharo programming environment.
 
 Interacting with an object in the Pharo inspector produces a series of steps that are applied in order to go from the source object to the final, desired result. Currently, it is not possible to perform these operations other than by hand.
 

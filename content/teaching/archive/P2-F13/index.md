@@ -10,7 +10,7 @@ Vorlesung für Haupt- und Nebenfachstudenten.
 |---|---|
 |**Course:**|Programming 2 (Spring Semester 2014)
 |**Lecturers: **|[Prof. Oscar Nierstrasz](%base_url%/staff/oscar), [Mircea F. Lungu](%base_url%/staff/mircea)
-|**Staff:**|[Andrei ChiÈ](%base_url%/staff/andreichis)
+|**Staff:**|[Andrei Chiş](%base_url%/staff/andreichis)
 |**Lectures: **|Fridays 14h15 - 16h00
 |**Language: **|English *(German on demand)*
 |**Location: **|[Engehaldenstrasse 8, 001](%base_url%/contact/maps)
