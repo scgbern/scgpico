@@ -1,7 +1,7 @@
 ---
 Title: Claudio Corrodi
 ---
-
+#Claudio Corrodi
 I am a PhD student at the Software Composition Group, University of Bern.
 
 -  email

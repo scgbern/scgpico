@@ -1,7 +1,7 @@
 ---
 Title: Dynamic IDE
 ---
-
+#Dynamic IDE
 A lot of reasearch has been carried out into building reverse engineering tools based on dynamic analysis, for example to facilitate program understanding or to identify features. In development environments such tools are rare, although developers spend a lot of their time understanding how a program works (or why it does not work). This is a complex task because not all necessary information can be extracted from studying the static source code. As object-oriented paradigms such as late-binding or polymorphism are widely used in todays systems, it is virtually impossible to understand those systems by just reading the static source code.
 Modern IDEs provide the developer with powerful debuggers, allowing him to step through the running of a program. However, debuggers focus on one slice through the program, they are often separated from the usual (class-based) view on the program and the information they present gets lost as soon as the debugging session gets closed.
 What we actually need are IDEs that directly integrate dynamic information in the views and tools working with static source artifacts.

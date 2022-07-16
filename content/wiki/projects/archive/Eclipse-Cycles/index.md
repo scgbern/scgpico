@@ -1,7 +1,7 @@
 ---
 Title: Detecting package cycles within eclipse
 ---
-
+#Detecting package cycles within eclipse
 Java projects are tipically structured in packages which logically depend each from another. 
 A logical dependency between two packages exists whenever elements contained in the first package concretely depend from elements of the second (or vice-versa). 
 

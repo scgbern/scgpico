@@ -1,7 +1,7 @@
 ---
 Title: Mining StackOverflow to understand developer concerns regarding domain modelling
 ---
-
+#Mining StackOverflow to understand developer concerns regarding domain modelling
 StackOverflow can be mined with a few keywords such as 'Domain
 modelling' 'Domain models', 'UML modelling', 'Domain Driven Design'
 and the results can be analysed to see which tags people use, co-relation between tags,

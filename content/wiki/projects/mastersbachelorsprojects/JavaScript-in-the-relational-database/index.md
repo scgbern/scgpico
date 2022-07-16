@@ -1,7 +1,7 @@
 ---
 Title: JavaScript in the relational database
 ---
-
+#JavaScript in the relational database
 GraalVM is an embeddable virtual machine. This means it can execute dynamic languages in different execution contexts. One such context is within a relational database management system (RDBMS such as Oracle, MySQL). This allows developers to write user defined functions and extensions as well as stored procedures in JavaScript. This opens up multiple new possibilities for extending and customizing the RDBMS workflow using a familiar language with a large exiting codebase to reuse. The aim of this project is to explore the potential of this new paradigm from the aspect of usability, tooling, SQL-JavaScript interoperability, performance, etc.
 
 More info: 

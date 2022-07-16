@@ -1,7 +1,7 @@
 ---
 Title: Pharo Window Manager
 ---
-
+#Pharo Window Manager
 #Project Idea
 Pharo comes with a window manager that is responsible for drawing and placing
 windows and their contents. Outside of Pharo, a large variety of window

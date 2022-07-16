@@ -1,7 +1,7 @@
 ---
 Title: Dendrogram Seriation
 ---
-
+#Dendrogram Seriation
 #Context &ndash; Information Visualization
 
 In information visualization, one of the most basic and reoccurring tasks when designing a visualization, is how to order graphical elements in a meaningful linear sequence. This task is called <i>seriation</i>. The term seriation itself comes from archeology, where it denotes the problem of assigning artifacts to timelines, eg fragments of vases found on an archeological site. In the context of information visualization, already Bertin emphasized the importance of reordering qualitative variables in graphical displays to make relations more apparent. 

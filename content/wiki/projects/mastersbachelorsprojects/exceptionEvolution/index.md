@@ -1,7 +1,7 @@
 ---
 Title: Evolution of Exceptions
 ---
-
+#Evolution of Exceptions
 #Project Idea
 Exceptions in Java provide a powerful mechanism for error handling. Developers can define their own project-specific exceptions or rely on predefined ones in the Java API.
 

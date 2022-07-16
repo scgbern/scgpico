@@ -1,7 +1,7 @@
 ---
 Title: Analyzing Dynamic Behavior
 ---
-
+#Analyzing Dynamic Behavior
 ##Loggers
 
 -  [log4J (java)](http://logging.apache.org/log4j/docs/index.html)

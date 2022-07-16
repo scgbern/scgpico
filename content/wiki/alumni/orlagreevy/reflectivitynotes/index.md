@@ -1,7 +1,7 @@
 ---
 Title: Reflectivity Notes
 ---
-
+#Reflectivity Notes
 ##Loading the Reflection into an existing image
 
 These instructions are quite detailed as I am a newbie to the whole Squeak environment.

@@ -1,7 +1,7 @@
 ---
 Title: A Study of Information Needs in Software Ecosystems
 ---
-
+#A Study of Information Needs in Software Ecosystems
 This page contains information regarding the Developer Needs study conducted by Nicole Haenni for her masters thesis. 
 
 

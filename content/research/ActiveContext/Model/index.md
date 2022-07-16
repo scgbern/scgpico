@@ -1,7 +1,7 @@
 ---
 Title: Model
 ---
-
+#Model
 #The basics
 
 ![Basics_uml](%assets_url%/files/a2/lwjt7uhp0p777kv4efxiw6jttn82fx/basics.png) 

@@ -1,7 +1,7 @@
 ---
 Title: JExample
 ---
-
+#JExample
 <big>&mdash; *"Because well-designed tests build upon each other."*</big>
 
 **JExample** introduces producer-consumer relationships to unit-testing. A producer is a test method that yields its unit under test as return value. A consumer is a test method that depends on one or more producers and (possibly) their return values.
@@ -23,7 +23,8 @@ In our work, we propose to improve defect localization by making the latent depe
 
 For example, in the listing below the <tt>shouldPop</tt> test case depends on the successful outcome of the <tt>shouldPush</tt> and <tt>whenEmpty</tt> test cases. Based on this depedency declaration, the jeg framework can automatically determine a suitable order to run the tests, and to skip tests that depend on other failed tests. Developers who use jeg are thus pin-pointed to the relevant failing test case even if the test cases are not isolated.  
 
-``` import static org.junit.Assert.assertEquals;
+```
+ import static org.junit.Assert.assertEquals;
  import ch.unibe.jexample.JExample;
  import ch.unibe.jexample.Given;
  import java.util.Stack;
@@ -61,7 +62,7 @@ Dependent tests not only improve defect localization, they also run faster and r
 If, however, one of the dependencies fails, test T and all its dependents are skipped.
 This helps you to pin-point failures to their very cause.
 
-JExample is open source and available [for download](http://scg.unibe.ch/download/jexample).
+JExample is open source and available [for download](/download/jexample).
 
 
 ---

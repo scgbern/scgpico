@@ -1,7 +1,7 @@
 ---
 Title: Getting started
 ---
-
+#Getting started
 After loading ChangeBoxes (see [Installation](%base_url%/research/changeboxes/installation)), you may want to try out the following small tutorial.
 
 
@@ -12,7 +12,8 @@ After loading ChangeBoxes (see [Installation](%base_url%/research/changeboxes/in
 
 
 -  There we go! All the modifications you perform in this browser will now be local to your WorkSession. The rest of the system will not be aware of your changes at all. So let's start with some coding. Create a new category, e.g. CBXGettingStarted, and create a new class called Sorter therein. We will code a small lisp-style sorting algorithm. Let's add the following method to the class Sorter:
-```       sort: aCollection
+```
+       sort: aCollection
           ^aCollection isEmpty
               ifTrue: \[aCollection species new]
               ifFalse: \[
@@ -23,7 +24,8 @@ After loading ChangeBoxes (see [Installation](%base_url%/research/changeboxes/in
 
 
 -  Of course, we need to test that algorithm. So let's create a class SorterTest that extends TestCase and put the method testSort in there (still in the browser for our WorkSession):
-```      testSort
+```
+      testSort
          self assert: (Sorter new sort: #(2 4 3 6)) = #(2 3 4 6).
          self assert: (Sorter new sort: #(2 3 4 3 2)) = #(2 2 3 3 4).
          self assert: (Sorter new sort: #(1)) = #(1).
@@ -37,14 +39,16 @@ After loading ChangeBoxes (see [Installation](%base_url%/research/changeboxes/in
 
 
 -  Our code for the sorting algorithm is not that beautifull yet. The two calls for sorting the rest of the list could be put in an own method:
-```       sort: aCollection relation: aSelector
+```
+       sort: aCollection relation: aSelector
           ^self sort: (aCollection allButFirst select: \[:each |
              each perform: aSelector withArguments: aCollection first])
 ```
 
 
 -  So the sort: method can be changed to the following:
-```       sort: aCollection
+```
+       sort: aCollection
          ^aCollection isEmpty
            ifTrue: \[aCollection species new]
              ifFalse: \[
@@ -55,7 +59,8 @@ After loading ChangeBoxes (see [Installation](%base_url%/research/changeboxes/in
 
 
 -  Let's test! Switch to the TestRunner and run again. Still green! But wait a minute... What did we actually test? Not our new changes, no, but the version we had before. The TestRunner is still executing it's tests in the previous scope, nobody told it to go to the new scope. This also shows that the code before the refactoring is still completly runnable, no matter what we changed. So before running the tests on the new version, update the TestRunner by opening it from the last change in your WorkSession browser. For more convenience, you could also open the TestRunner on the WorkSession, so the tests will always run on the latest version. What's the result of running the tests now? Red! By clicking on the failed test, you get a debugger saying the Instances of SmallInteger are not indexable. What happend? A small research shows that we used the first element of our collection as a parameter for perform:withArguments:, instead of an Array containing that element. The fix is (change in your WorkSession aware browser):
-```       sort: aCollection relation: aSelector
+```
+       sort: aCollection relation: aSelector
           ^self sort: (aCollection allButFirst select: \[:each |
              each perform: aSelector withArguments: (Array with: aCollection first)])
 ```
@@ -64,7 +69,8 @@ After loading ChangeBoxes (see [Installation](%base_url%/research/changeboxes/in
 
 
 -  Let's do something sweet at the end: Get an inspector for your WorkSession from the context menu in the WorkSession browser. Then inspect the result of the following code in the inspector window:
-```      | cursor breakingChange |
+```
+      | cursor breakingChange |
       breakingChange := nil.
       cursor := self changebox.
       \[ breakingChange isNil ] whileTrue: \[

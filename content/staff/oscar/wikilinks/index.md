@@ -1,7 +1,7 @@
 ---
 Title: Oscar's Wiki Links
 ---
-
+#Oscar's Wiki Links
 #Wiki pages I am working on
 
 - [SCG Job List](%base_url%/wiki/scgjoblist)

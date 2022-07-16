@@ -1,7 +1,7 @@
 ---
 Title: Unit test friendly IDE
 ---
-
+#Unit test friendly IDE
 Unit test are awesome. That is a fact. Writing unit tests is not so awesome. Test driven development can be a pain. Current IDEs support unit test in a lot of ways, but writing a unit test for a method still means finding the right test class, opening it's source code, writing the test, then going back to the original method. This is a lot of busy work, so it's no surprise that a lot of developers skip writing the test as writing the source code is much more fun. 
 
 We propose a side by side view of the source code and the test that exercises it. This serves 2 goals:

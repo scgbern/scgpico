@@ -1,7 +1,7 @@
 ---
 Title: Temporal Queries for Feature Analysis
 ---
-
+#Temporal Queries for Feature Analysis
 Our feature analysis is based on extracting execution traces of features. We define a feature to be a user-triggerable action. 
 
 Linear time Temporal Logic expresses possible program paths of execution. We would like to express features in terms of linear temporal logic rules and based on this define verification checking for features.

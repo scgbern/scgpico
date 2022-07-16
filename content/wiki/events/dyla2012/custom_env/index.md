@@ -1,9 +1,9 @@
 ---
 Title: Custom_env
 ---
-
+#Custom_env
 <div class="container">
-    <img class="logo" title="DYLA 2012: We are looking for submissions on both human factors and technical aspects of dynamic programming languages! Submission due April 9, 2012." src="http://scg.unibe.ch/files/b7/2qmu16x2vmrjbqpnj90aqg71pf64f2/dyla2012-web.png"/>
+    <img class="logo" title="DYLA 2012: We are looking for submissions on both human factors and technical aspects of dynamic programming languages! Submission due April 9, 2012." src="%assets_url%/files/b7/2qmu16x2vmrjbqpnj90aqg71pf64f2/dyla2012-web.png"/>
     <div class="header column span-24 last">
     <h1 class="heading">**[DYLA 2012](%base_url%/wiki/events/dyla2012)**</h1>
     <p> 6th Workshop on Dynamic Languages and Applications.

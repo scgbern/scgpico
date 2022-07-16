@@ -1,7 +1,7 @@
 ---
 Title: Roger Stebler
 ---
-
+#Roger Stebler
 I am a master student in the SCG.
 
 I'm working on my master thesis to improve the debugger in [Pharo](http://pharo.org/) Smalltalk.

@@ -1,7 +1,7 @@
 ---
 Title: â Obsolete Bachelors Projects
 ---
-
+#â Obsolete Bachelors Projects
 Please move obsolete projects here:
 
 - [A Morphology mining tool for extracting features from user interfaces](obsolete/amorphologyminingtoolforextractingfeaturesfromuserinterfaces)

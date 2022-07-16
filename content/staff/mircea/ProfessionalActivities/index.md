@@ -1,7 +1,7 @@
 ---
 Title: Professional Activities
 ---
-
+#Professional Activities
 Part of my duties as an academic is serving the community. 
 
 I am a board member of [CHOOSE](http://choose.s-i.ch/board)

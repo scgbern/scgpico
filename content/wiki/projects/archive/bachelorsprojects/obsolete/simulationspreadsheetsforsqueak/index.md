@@ -1,7 +1,7 @@
 ---
 Title: Simulation Spreadsheets for Squeak
 ---
-
+#Simulation Spreadsheets for Squeak
 The goal of this project is build a spreadsheet framework for Squeak/Tweak,
 where each cells knows about its neighbors and is programmable by an end-user like EToys.
 

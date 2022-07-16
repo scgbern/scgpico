@@ -1,11 +1,11 @@
 ---
 Title: Requirements parser, workflow editor, and persistence to git
 ---
-
+#Requirements parser, workflow editor, and persistence to git
 Software requirements are often stored and managed in several separate tools, such as Jira, Trello, modeling tools, etc.
 When too many tools are used along with an IDE to implement software, maintenance becomes costly. 
 Therefore, we envision creating and managing requirements in an IDE. 
-Kindly read the broader vision for this work in [this](http://scg.unibe.ch/archive/papers/Patk20c.pdf) paper.
+Kindly read the broader vision for this work in [this](/archive/papers/Patk20c.pdf) paper.
 
 For this project, we only want to solve a small issue to accomplish the big vision.
 Requirements are stored in several file formats.

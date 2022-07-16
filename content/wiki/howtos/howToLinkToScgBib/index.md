@@ -1,7 +1,7 @@
 ---
 Title: How to link to the SCG Bibliography
 ---
-
+#How to link to the SCG Bibliography
 - [Embed a query input](%base_url%/wiki/howtos/howToLinkToScgBib/embedAQueryInput)
 
 ---

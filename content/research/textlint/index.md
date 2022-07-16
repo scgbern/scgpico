@@ -1,7 +1,7 @@
 ---
 Title: TextLint
 ---
-
+#TextLint
 Written text is an important component in the process of knowledge acquisition and communication. Poorly written text fails to deliver clear ideas to the reader no matter how revolutionary and ground-breaking these ideas are. Providing text with good writing style is essential to transfer ideas smoothly. While we have sophisticated tools to check for stylistic problems in program code, we do not apply the same techniques for written text. In this paper we present TextLint, a ruled-based tool to check for common style errors in natural language. TextLint provides a structural model of written text and an extensible rule-based checking mechanism.
 
 <iframe src="http://player.vimeo.com/video/13736502" width="601" height="338" frameborder="0"></iframe>

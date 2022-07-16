@@ -1,7 +1,7 @@
 ---
 Title: Implemeted Rules
 ---
-
+#Implemeted Rules
 # Non-Serious TestSmells
 These rules try to find the most primitive structural problems or act as reminders/hints for possible bug-traps
 

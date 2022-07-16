@@ -1,13 +1,14 @@
 ---
 Title: Indentation Parsing in PetitParser
 ---
-
+#Indentation Parsing in PetitParser
 The [PetitParser](http://smalltalkhub.com/#!/~Moose/PetitParser) supports for indentation grammar definitions for languages such as Haskel, F#, Python, YAML, MarkDown and many others.
 
 #Nested Lists Example
 Let us define a PPListsParser that can parse documents such as this one:
 
-``` Cool Cake Recipe:
+```
+ Cool Cake Recipe:
  - Add flour and baking powder into the bowl
  - Mix ingredients:
    - Butter
@@ -25,12 +26,14 @@ Furthermore, the second instruction contains one paragraph *'Mix ingredients:*' 
 As we see, there are two basic elements in our documents, list and paragraph.
 Therefore, we define contentElement as this:
 
-``` contentElement
+```
+ contentElement
 	^ (list / paragraph)
 ```
 
 For simplicity, paragraph is a single line:
-``` paragraph
+```
+ paragraph
 	^ #newline asParser negate star, #newline asParser
 ```
 
@@ -42,7 +45,8 @@ The item content is any valid document if aligned properly.
 Last but not least, item should end, when content no longer aligns.
 
 Therefore, we define item as the sequence:
-``` item
+```
+ item
 	^ itemStarts, content, itemEnds 
  itemStarts
 	^ bullet, blanks, #setIl asParser
@@ -64,14 +68,16 @@ Simply by using trimAlign message.
 The trimAlign expression consumes whitespace before an expression up until the column as set by #setIl asParser is reached.
 Note, that trimAlign does not consume any whitespace after an expression.
 
-``` content
+```
+ content
 	^ contentElement, 
 	 (contentElement trimAlign) star
 ```
 
 
 Once we have a listItem and content properly defined, we can close the circle or list recursive definition and define the list:
-``` list
+```
+ list
 	^ item,
 	 (item trimAlign) star
 ```

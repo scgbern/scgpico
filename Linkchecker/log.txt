@@ -119,3 +119,28 @@ Parent URL http://testscg.unibe.ch/assets/files/33/, line 12, col 72
 Real URL   http://testscg.unibe.ch/assets/files/33/me2zx3n9nv76kytonn53l80oslmgju/
 Check time 30.490 seconds
 Result     Error: ReadTimeout: HTTPConnectionPool(host='testscg.unibe.ch', port=80): Read timed out. (read timeout=60)
+
+URL        `houseSimulation.php'
+Name       `houseSimulation.php'
+Parent URL http://testscg.unibe.ch/assets/download/AC/Bledar/script/, line 11, col 73
+Real URL   http://testscg.unibe.ch/assets/download/AC/Bledar/script/houseSimulation.php
+Check time 3.517 seconds
+D/L time   0.000 seconds
+Size       0B
+Warning    [url-content-size-zero] Content size is zero.
+Result     Valid: 200 OK
+
+URL        `/seaside/pier/environment/pier.png?view=PRDownloadView'
+Parent URL http://testscg.unibe.ch/assets/files/1d/rbjkj4te3ilodt3ytrsgl8k87h6xvc/style.css, line 39, col 17
+Real URL   http://testscg.unibe.ch/seaside/pier/environment/pier.png?view=PRDownloadView
+Check time 3.902 seconds
+Size       803B
+Result     Error: 404 Not Found
+
+Statistics:
+Downloaded: 60.3MB.
+Content types: 882 image, 26139 text, 621 video, 7 audio, 9927 application, 51 mail and 3838 other.
+URL lengths: min=15, max=332, avg=90.
+
+That's it. 41465 links in 41471 URLs checked. 2 warnings found. 15 errors found.
+Stopped checking at 2022-07-16 11:19:48+002 (3 hours, 42 minutes)

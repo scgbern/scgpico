@@ -1,13 +1,14 @@
 ---
 Title: Download Pharo and Moose from the command line
 ---
-
+#Download Pharo and Moose from the command line
 Both Pharo and Moose can be downloaded from the command line by using Zero Configuration scripts. [Deep into Pharo](http://rmod.lille.inria.fr/pbe2/) has a chapter dedicated to explaining these scripts. 
 
 The code bellow, if added to the file .bash_profile, will create a series of commands that make working with the Zero Configuration scripts much easier.
 
 1. Version using *wget*
-``` alias getPharo2='wget -O - get.pharo.org/20+vm | bash'              
+```
+ alias getPharo2='wget -O - get.pharo.org/20+vm | bash'              
  alias getPharo2Image='wget -O - get.pharo.org/20 | bash'             
  alias getPharo2WithLvm='wget -O - get.pharo.org/20+vmLatest | bash'  
  alias getPharo3='wget -O - get.pharo.org/30+vm | bash'               
@@ -38,7 +39,8 @@ The code bellow, if added to the file .bash_profile, will create a series of com
 ```
 
 2. Version using *curl*
-``` alias getPharo2='curl get.pharo.org/20+vm | bash'              
+```
+ alias getPharo2='curl get.pharo.org/20+vm | bash'              
  alias getPharo2Image='curl get.pharo.org/20 | bash'             
  alias getPharo2WithLvm='curl get.pharo.org/20+vmLatest | bash'  
  alias getPharo3='curl get.pharo.org/30+vm | bash'               

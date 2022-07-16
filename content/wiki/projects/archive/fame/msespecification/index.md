@@ -1,12 +1,13 @@
 ---
 Title: MSE Specification
 ---
-
+#MSE Specification
 [MSE](%base_url%/wiki/projects/archive/fame/mse) is a file format to store [FM3](%base_url%/wiki/projects/archive/fame/fm3) compliant metamodels and models. 
 
 NB all MSE files must use UTF-8 encoding.
 
-```   Root := Document ?
+```
+   Root := Document ?
    Document := OPEN ElementNode \* CLOSE
    ElementNode := OPEN NAME Serial ? AttributeNode \* CLOSE
    Serial := OPEN ID INTEGER CLOSE
@@ -20,7 +21,8 @@ NB all MSE files must use UTF-8 encoding.
    NameReference := OPEN REF NAME CLOSE
 ```
 
-```   OPEN := "("
+```
+   OPEN := "("
    CLOSE := ")"
    ID := "id:"
    REF := "ref:"
@@ -32,13 +34,15 @@ NB all MSE files must use UTF-8 encoding.
    STRING := ( "'" \[^'] \* "'" ) +
 ```
 
-```   digit := \[0-9] 
+```
+   digit := \[0-9] 
    letter := \[a-zA-Z_]
 ```
 
 Whitespace are the usual suspects, and comments are
 
-``` comment := "\"" \[^"] \* "\""
+```
+ comment := "\"" \[^"] \* "\""
 ```
 
 ## On the nodes and commands

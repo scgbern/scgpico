@@ -1,7 +1,7 @@
 ---
 Title: Claims
 ---
-
+#Claims
 We need to turn the data collected into the interview and the survey into meaningful facts, that turn, data into knowledge. 
 
 What did we learn? What statement can be reasonably claim about Scrum, issue tracker, the usage of tools, the way people interact with technology?
@@ -14,7 +14,8 @@ We can also see how satisfied they are with the tool regarding what is considere
 
 Profile of the tools and/or the member roles with spide charts.
 
-```=====
+```
+=====
 ```
 
 
@@ -28,7 +29,8 @@ Profile of the tools and/or the member roles with spide charts.
 -  Emphasis is mostly on "what's now", not much interest in the history, changes, looking back in time, etc. 
 -  People favor exchange of information and communication rather than accurate and trustable documentation?????
 
-```========
+```
+========
 ```
 
 Other way to interpret/analyse the data

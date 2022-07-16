@@ -1,7 +1,7 @@
 ---
 Title: A framework approach to composing heteregeneous applications
 ---
-
+#A framework approach to composing heteregeneous applications
 *A framework approach to composing heteregeneous applications* is a project funded by the [Swiss National Science Foundation](http://www.snf.ch/) (SNSF project # [20-53711.98](http://p3.snf.ch/Project-53711)).
 
 | | |

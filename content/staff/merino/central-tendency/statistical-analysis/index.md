@@ -1,10 +1,11 @@
 ---
 Title: Statistical analysis colouring-based
 ---
-
+#Statistical analysis colouring-based
 First of all I want to build an histogram of the metric values to understand better their distribution. I implemented the following code to do that:
 
-```bag := Bag new.
+```
+bag := Bag new.
 RTObject withAllSubclasses do:[:e| bag add: e numberOfMethods].
 res := ((0 to: bag max) collect:[:v| v @ (bag select:[:va| va = v]) size ]). 
 	b := RTGrapher new.
@@ -30,7 +31,8 @@ The result is shown in the picture below:
 
 
 The next step is to build a function that approximates to these data. In consequence I built a polynomial regression (using the least square method) thanks to the SciSmalltalk project. To load SciSmalltalk do:
-```Gofer new
+```
+Gofer new
     url: 'http://www.smalltalkhub.com/mc/SergeStinckwich/SciSmalltalk/main';
     package: 'ConfigurationOfSciSmalltalk';
     load.
@@ -38,7 +40,8 @@ The next step is to build a function that approximates to these data. In consequ
 ```
 
 Therefore, the code below uses it to build the approximation.
-```|estimation|
+```
+|estimation|
 
 fit := DhbPolynomialLeastSquareFit new:8.
 bag := Bag new.
@@ -67,7 +70,8 @@ b build.
 ![Polynomial-nom](%assets_url%/files/08/crekn7gwneo104nv0q9xqv05c5qjq1/polynomial_nom.png)
 
 Now we can use the polynomial function with a standard metric normaliser. The code below applied this idea to the original visualisation:
-```|estimation|
+```
+|estimation|
 fit := DhbPolynomialLeastSquareFit new:8.
 bag := Bag new.
 RTObject withAllSubclasses do:[:e| bag add: e numberOfMethods].
@@ -112,7 +116,8 @@ This approach seems more useful if highlighting the median.
 
 The following code implements a visualisation clustering the values in four quartiles (assigning different intensities of green) and highlights the nodes that match one of the values splitting the quartiles (including the median).
 
-```v := RTView new.
+```
+v := RTView new.
 objs := RTObject withAllSubclasses.
 nums := objs collect: #numberOfMethods.
 median := nums median.

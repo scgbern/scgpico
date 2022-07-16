@@ -1,7 +1,7 @@
 ---
 Title: Bibliography PDF crawler
 ---
-
+#Bibliography PDF crawler
 The Software Composition Group maintains a BibTeX (http://www.bibtex.org/) 
 bibliography file containing references to relevant work throughout the group, 
 including references used in Bachelor's, Master's, PhD theses, and research 
@@ -10,7 +10,8 @@ papers.
 BibTeX entries may contain a wide range of fields, some of which can help 
 localize a copy of the referenced work. An example entry looks like this:
 
-```@Book{Zobe04a,
+```
+@Book{Zobe04a,
   author    = {Zobel, Justin},
   title     = {Writing for Computer Science},
   year      = {2004},

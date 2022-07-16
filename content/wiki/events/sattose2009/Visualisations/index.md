@@ -1,7 +1,7 @@
 ---
 Title: Visualisations
 ---
-
+#Visualisations
 
 -  Experience of the group on visualisation: most people used Mondrian
 -  How to convince people of your visualisation? How to know if your visualisation is sensible?

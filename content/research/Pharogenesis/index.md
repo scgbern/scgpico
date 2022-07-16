@@ -1,7 +1,7 @@
 ---
 Title: Pharogenesis
 ---
-
+#Pharogenesis
 In the Smalltalk dialects [Squeak](http://squeak.org) and [Pharo](http://pharo-project.org) it is difficult to view changes to source code that occurred accross major releases. This poses a problem for development as well as for code analysis: Developers often need to be able to revert code to a previous version and for code analysis there should ideally be a single source of information. We solve the problem by building a [Git](http://git-scm.com) repository with the complete source code history of Pharo.
 
 The tool we use to create the Git repository is called Pharogenesis. Pharogenesis uses a Smalltalk implementation of Git called GitFS to build a Git repository from the source code.
@@ -16,7 +16,7 @@ To get started you can either use a ready-made one-click image (suggested), or t
 
 ##One-Click Image
 
--  Download the [Pharogenesis](http://scg.unibe.ch/jenkins/job/Pharogenesis/lastSuccessfulBuild/artifact/Pharogenesis.zip) distribution.
+-  Download the [Pharogenesis](/jenkins/job/Pharogenesis/lastSuccessfulBuild/artifact/Pharogenesis.zip) distribution.
 -  Launch the executable of your platform:
 	-  Mac: Pharogenesis.app
 	-  Linux: Pharogenesis.app/Pharogenesis.sh
@@ -27,7 +27,8 @@ To get started you can either use a ready-made one-click image (suggested), or t
 
 -  Download a [Pharo 1.1.1](http://gforge.inria.fr/frs/download.php/28015/Pharo-1.1.1-OneClick.zip) one-click image.
 -  Evaluate the following script:
-```Gofer new
+```
+Gofer new
 	url: 'http://www.squeaksource.com/GitFS';
 	package: 'ConfigurationOfPharogenesis';
 	load.
@@ -38,7 +39,8 @@ To get started you can either use a ready-made one-click image (suggested), or t
 ##Load the Pharogenesis repository
 To browse method versions in Pharogenesis you need to clone the prepared repository from github. Run the following commands on the command line:
 
-```cd <path to image or one-click application>
+```
+cd <path to image or one-click application>
 git clone http://github.com/theseion/pharogenesis.git
 cd pharogenesis
 git checkout -b origin/pharo

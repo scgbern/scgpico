@@ -1,7 +1,7 @@
 ---
 Title: Dyla 2012
 ---
-
+#Dyla 2012
 The **DYLA Workshop** series focuses on the revival of dynamic languages. These days, dynamic languages (like Lisp, Ruby, Python, JavaScript, Lua, etc...) are getting ever more popular. This is a call to arms for academia! We need to explore the future of dynamic languages through its human aspects and technical issues. We also ought to look back and pick up solutions from existing dynamic languages (such as Scheme, Smalltalk, or Self) to be rediscovered and spread around.
 
 #Demos Call

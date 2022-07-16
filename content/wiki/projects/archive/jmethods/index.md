@@ -1,7 +1,7 @@
 ---
 Title: JMethods
 ---
-
+#JMethods
 ##Replacing CompiledMethod with something better
 
 Prioritaet: AST position paper. Deadline: 19.5
@@ -22,7 +22,8 @@ Dann:
 -  Fertig.
 
 ###Zeitplan
-```ende Juni: First draft of Table of Contents, besserer Name
+```
+ende Juni: First draft of Table of Contents, besserer Name
 ca. 15.9.06: Anfang schreiben Master
 1.11.06 --> Abgabe.
 Note kommt dann Anfang / Mitte Januar 
@@ -74,7 +75,8 @@ Note kommt dann Anfang / Mitte Januar
 -  #removeUnusedTemp:
 -  look at Monticello 2 Model
 -  breakpoint
-```test1
+```
+test1
 	self  assert: ( 1 &lt; 2).
 ```
 
@@ -207,24 +209,28 @@ More structure than just a list (Lisp). Closer to the mental model of the progra
 -  instrumentation, aMethod #insturment/Messages/Assignments/Variables/Literals:, #insertAfter:/#insertBefore:/#replace:/#metasendTo:, blocks with pseudovariables as arguments
 	-  metasend, to any object
 
-``` 	method instrumentMessages: \[ :node |
+```
+ 	method instrumentMessages: \[ :node |
 		node isSelfSend ifFalse: \[
 			node metasendTo: recorder ] ].
 ```
 
 -  variables
-```	method instrumentVariables: \[ :node |
+```
+	method instrumentVariables: \[ :node |
 		(node isInstance and: \[ node isRead ]) ifTrue: \[
 			node replace: \[ :name | self perform: name ] ] ].
 ```
 
 -  assignments
-```	method instrumentAssignments: \[ :node |
+```
+	method instrumentAssignments: \[ :node |
 		node insertAfter: \[ :variable | variable := variable + 30000 ] ].
 ```
 
 -  messages
-```	method instrumentMessages: \[ :node |
+```
+	method instrumentMessages: \[ :node |
 		node insertAfter: \[ receiver - argument ] ].
 ```
 

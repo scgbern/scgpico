@@ -1,7 +1,7 @@
 ---
 Title: Bender VM Download
 ---
-
+#Bender VM Download
 #Foreword
 The Bender frontend was not tested and designed for a stable and secure deployment on a server. We therefore provide Bender as a VM package to download. Sorry for the extensive size of the image. Shrinking it resulted in some problems, which is why we finally decided against it.
 
@@ -32,6 +32,6 @@ The Bender VM packagage contains the following:
 
 ---
 #Download
-[Bender VM Package](http://scg.unibe.ch/download/bender/final_bender_package.tar.gz) (16GB !)
+[Bender VM Package](/download/bender/final_bender_package.tar.gz) (16GB !)
 
-[Bender VM Readme](http://scg.unibe.ch/download/bender/README.txt)
+[Bender VM Readme](/download/bender/README.txt)

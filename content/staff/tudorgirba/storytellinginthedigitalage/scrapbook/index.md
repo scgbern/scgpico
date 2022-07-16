@@ -1,7 +1,7 @@
 ---
 Title: Scrapbook
 ---
-
+#Scrapbook
 Gathering feedback during the presentation is important. One of my rules of thumb is: the success of a presentation is inverse proportional with the number of bits transfered over the network. What if we would show a counter of how many bits are there transfered and how it evolves?
 
 What we can governs what we wish. This transforms to what we can easily governs what we wish. PowerPoint governs presentation forms. Let there be a revolution.

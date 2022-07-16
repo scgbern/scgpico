@@ -1,7 +1,7 @@
 ---
 Title: SCG Hardware Wish List
 ---
-
+#SCG Hardware Wish List
 Please add here hardware items you would like to have:
 
 

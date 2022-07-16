@@ -1,4 +1,4 @@
 #Related Tools
 
--  [Softwarenaut](http://scg.unibe.ch/softwarenaut)
+-  [Softwarenaut](/softwarenaut)
 -  [Roassal](http://objectprofile.com/roassal-home.html)

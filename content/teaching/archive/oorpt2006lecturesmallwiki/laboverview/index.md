@@ -1,7 +1,7 @@
 ---
 Title: Lab overview
 ---
-
+#Lab overview
 Lab will be held in the SCG Seminar Room - 107.
 
 ## Schedule

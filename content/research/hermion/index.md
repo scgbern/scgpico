@@ -1,7 +1,7 @@
 ---
 Title: Hermion
 ---
-
+#Hermion
 Hermion is an enhanced and improved IDE for  [Squeak Smalltalk](http://www.squeak.org). 
 Hermion has two main development directions:
 
@@ -10,7 +10,7 @@ Hermion has two main development directions:
 
 #Download 
 
-For O*B-Enhancements* we provide this ready-to-use image: [OB-Enhancements.zip](http://scg.unibe.ch/download/hermion/staticOB-dev.zip) 
+For O*B-Enhancements* we provide this ready-to-use image: [OB-Enhancements.zip](/download/hermion/staticOB-dev.zip) 
 
 How to install or update OB-Enhancements manually: 
 

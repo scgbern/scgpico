@@ -1,7 +1,7 @@
 ---
 Title: Materials for CLSS 2015
 ---
-
+#Materials for CLSS 2015
 Dear CLSS 2015 Reviewer, Dear Reader,
 
 At this web page we provide following:
@@ -12,7 +12,7 @@ At this web page we provide following:
 -  The source code for re-running the case study 
 -  The source code for re-running the performance measurements
 
-You can download an archive with all the data you need [from here](http://scg.unibe.ch/download/jk/clss2015/data.zip). 
+You can download an archive with all the data you need [from here](/download/jk/clss2015/data.zip). 
 
 
 The archive is organized as follows:

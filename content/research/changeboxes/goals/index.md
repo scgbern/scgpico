@@ -1,7 +1,7 @@
 ---
 Title: Goals
 ---
-
+#Goals
 
 -  Change as a First Class Entity
 -  Semantics (e.g. Refactoring, ...)

@@ -1,7 +1,7 @@
 ---
 Title: Explora
 ---
-
+#Explora
 Explora is a visualisation tool designed for the simultaneous analysis of multiple metrics of software corpora. Explora incorporates a novel lightweight visualisation technique called *PolyGrid* that promotes the detection of graphical patterns. The figure below shows a PolyGrid for the analysis of ten metrics. 
 
 A PolyGrid is built as a grid of PolyCell. Each of them depicts the systems of the corpora by rectangles. At the top of the PolyCell a label describes (left-to-right) the metrics mapped to the position (left-to-right, top-to-bottom), height, width and colour intensity of rectangles. Note that each PolyCell maps a different metric to the position, which allows users to analyse all of them simultaneously. An analysis example can be launched by evaluating PolyGrid example in a Playground.
@@ -17,7 +17,8 @@ Users of Explora benefit from metric-specific visualisation, such as the ones be
 
 - Download and launch the [Pharo](http://pharo.org/download);
 - Load Explora into Pharo by evaluating:
-```Gofer new
+```
+Gofer new
 	package: 'ConfigurationOfExplora2';
 	url: 'http://smalltalkhub.com/mc/merino/Explora2/main' 
 	username: '' password: '';
@@ -32,4 +33,4 @@ Users of Explora benefit from metric-specific visualisation, such as the ones be
 
 #Tool paper accepted at VISSOFT 2015 
 
-*"Explora: A Visualisation Tool for Metric Analysis of Software Corpora" * [preprint](http://scg.unibe.ch/archive/papers/Meri15b.pdf)
+*"Explora: A Visualisation Tool for Metric Analysis of Software Corpora" * [preprint](/archive/papers/Meri15b.pdf)

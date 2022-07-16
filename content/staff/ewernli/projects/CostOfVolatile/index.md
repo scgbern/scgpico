@@ -1,7 +1,7 @@
 ---
 Title: Cost Of Volatile
 ---
-
+#Cost Of Volatile
 Assessing the scalability of programs and algorithms on multicore is critical. There is an important literature on locks and locking schemes, but the exact cost of volatile is less clear&mdash;the goal of the project is to shed some light on the matter.
 
 *Project Description*
@@ -18,7 +18,7 @@ The student will also study the java memory model to understand precisely the se
 
 
 -  We can use one of the university server for phase 3 of the project. 
--  The original motivation for this project comes from the design of [Theseus](http://scg.unibe.ch/research/Theseus), a technique to update java program without restart. The implementation uses many volatile fields, which is a threat to the scalability of the approach. If time permits, it would be interesting to assess the cost of volatile in this context. 
+-  The original motivation for this project comes from the design of [Theseus](/research/Theseus), a technique to update java program without restart. The implementation uses many volatile fields, which is a threat to the scalability of the approach. If time permits, it would be interesting to assess the cost of volatile in this context. 
 
 *Requirements*
 

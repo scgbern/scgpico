@@ -1,7 +1,7 @@
 ---
 Title: Never Say Allow To Again
 ---
-
+#Never Say Allow To Again
 <head><meta http-equiv="refresh" content="1; url=%base_url%/wiki/howtos/commonwritingerrors/neverSayAllowsToAgain" /></head><body><p>Please follow <a href="%base_url%/wiki/howtos/commonwritingerrors/neverSayAllowsToAgain">this link</a>.</p></body>
 
 

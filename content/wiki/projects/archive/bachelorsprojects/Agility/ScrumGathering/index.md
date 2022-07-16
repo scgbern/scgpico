@@ -1,7 +1,7 @@
 ---
 Title: Scrum Gathering
 ---
-
+#Scrum Gathering
 **Scrum Gathering 30. September 2010: Some notes (in german)**
 
 [See a video](http://www.youtube.com/watch?v=FvGs3PJu5Iw)

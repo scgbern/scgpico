@@ -1,7 +1,7 @@
 ---
 Title: Stamp
 ---
-
+#Stamp
 A Mailing List Manager for Squeak.
 
 
@@ -92,5 +92,6 @@ See [http://www.squeaksource.com/stamp/](http://www.squeaksource.com/stamp/)
 
 ---
 
-```\[EOF]
+```
+\[EOF]
 ```

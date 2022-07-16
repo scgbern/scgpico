@@ -1,7 +1,7 @@
 ---
 Title: Smalltalks12 Research Track
 ---
-
+#Smalltalks12 Research Track
 Conference Location: Puerto Madryn (Argentina)
 
 The Smalltalks series of conferences ([FAST](http://www.fast.org.ar)) is a lively forum on Smalltalk-based software technologies that brings together more than 200 people from both academia and industry for a period of three days.

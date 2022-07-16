@@ -1,7 +1,7 @@
 ---
 Title: Chronia
 ---
-
+#Chronia
 <img border="0" width="160" src="http://www.iam.unibe.ch/~akuhn/img/chronia.png" style="margin-left:1ex;" align="right"/><big style="font-size:120%;"><b>Chronia</b></big> explores the CVS/SVN history of software systems. We present a measure for code ownership and a distance between files regarding their commit history (using Hausdorff distance). In our research, we identified a taxonomy of common development patterns, such as Monologue, Dialog, Familiarization, Takeover, Bug-fix, etc&hellip; 
 
 &nbsp;

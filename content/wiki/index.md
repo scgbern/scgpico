@@ -1,7 +1,7 @@
 ---
 Title: SCG Wiki
 ---
-
+#SCG Wiki
 Welcome to the former Wiki of the [Software Composition Group](%base_url%/).
 
 ##Practical Stuff

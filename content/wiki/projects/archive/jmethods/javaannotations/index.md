@@ -1,7 +1,7 @@
 ---
 Title: Java Annotations
 ---
-
+#Java Annotations
 ###By what were Java annotations inspired?
 .NET attributes
 
@@ -33,7 +33,8 @@ When you specify an annotation you can decide (with an annotation) whether the c
 ###Who uses annotations in Java?
 [TestNG](http://testng.org/doc/) (java rebel unittesting framework)
 [JUnit4](http://sourceforge.net/projects/junit)
-```package org.junit;
+```
+package org.junit;
 
 @Retention(RetentionPolicy.RUNTIME)
 @Target(ElementType.METHOD)
@@ -62,7 +63,8 @@ You can annotate a method as overriding another method (in a superclass). It has
 
 [JDBC4](http://download.java.net/jdk6/docs/api/java/sql/Query.html)
 Specify your query:
-```interface MyQueries extends BaseQuery {    
+```
+interface MyQueries extends BaseQuery {    
 
    @Query(sql="select name, description from mammal where weight > {weight}")
     DataSet<Mammal> getBigMammals(int weight);
@@ -70,7 +72,8 @@ Specify your query:
 ```
  
 Let the driver to the rest:
-```MyQueries mq = con.createQueryObject(MyQueries.class);
+```
+MyQueries mq = con.createQueryObject(MyQueries.class);
 DataSet<Mammal> rows = mq.getBigMammals(200);
 ```
 

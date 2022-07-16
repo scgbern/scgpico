@@ -1,7 +1,7 @@
 ---
 Title: Visualizing Graphs in GT
 ---
-
+#Visualizing Graphs in GT
 In the [GlamorousToolkit](https://gtoolkit.com/), a moldable Smalltalk-based environment, several layouts for graphs already exist, e.g. a circular and a simple force-based layout.
 Yet there is always room for improvement, e.g. a hierarchical layout implementation yielding unsatisfying results.
 The goal of this project is to extend the existing graph layouts and their APIs in GlamorousToolkit.

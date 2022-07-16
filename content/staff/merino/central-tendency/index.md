@@ -1,10 +1,11 @@
 ---
 Title: Applying ''contrast'' to the use of colour in visualisation
 ---
-
+#Applying ''contrast'' to the use of colour in visualisation
 In a software visualisation normally metrics are mapped to visual properties such as shape, size or colour. When mapped to colour, typically, the darker the colour the higher the metric value. The code below implements an example of this kind of use.
 
-```v := RTView new.
+```
+v := RTView new.
 objs := RTObject withAllSubclasses.
 max := objs max:#numberOfMethods.
 els := RTBox new height:#numberOfMethods; elementsOn: objs0.
@@ -32,7 +33,8 @@ Hypothesis: "There are software metrics that developers do not want to minimise 
 
 I propose to use a central tendency measure, such as the median, to provide users with a reference for balancing the values of a software metric. The idea is to split the values of the metric into three groups: the ones that are equal to the median (so represent classes with a right number of methods), the greater ones and the smaller ones. The last two cases are coloured following the metaphor: the darker the colour the farthest the value is from the median. We highlighted the values that are equal to the median in red. The code below shows the implementation:
 
-```v := RTView new.
+```
+v := RTView new.
 objs := RTObject withAllSubclasses.
 median := (objs collect: #numberOfMethods) median.
 els := RTBox new

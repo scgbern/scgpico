@@ -1,7 +1,7 @@
 ---
 Title: Planning a trip to University of Chile (DCC)?
 ---
-
+#Planning a trip to University of Chile (DCC)?
 #Transport
 The best way to move around the city is on foot or by bike. Otherwise you have the following options:
 ##Bip

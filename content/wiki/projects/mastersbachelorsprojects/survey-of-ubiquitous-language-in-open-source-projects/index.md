@@ -1,7 +1,7 @@
 ---
 Title: Survey of ubiquitous language in open source projects
 ---
-
+#Survey of ubiquitous language in open source projects
 #Idea
 Large scale open-source projects analysis that has both user stories or BDD specifications to see how much specifications and their implementations actually linguistically correspond (follows DDD principles, use of ubiquitous language).
 

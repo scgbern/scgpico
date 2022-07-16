@@ -1,7 +1,7 @@
 ---
 Title: Smart tools/IDE
 ---
-
+#Smart tools/IDE
 Some topics:
 
 -  visual environment (navigation/coding)

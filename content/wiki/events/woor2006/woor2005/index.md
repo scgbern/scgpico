@@ -1,7 +1,7 @@
 ---
 Title: WOOR2005
 ---
-
+#WOOR2005
 Welcome to the Wiki of the International Workshop on Object-Oriented Reengineering
 
 The sixth edition will be hosted at the 19th European Conference on Object-Oriented Programming (ECOOP 2005)

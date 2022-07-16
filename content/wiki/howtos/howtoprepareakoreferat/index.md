@@ -1,7 +1,7 @@
 ---
 Title: How to prepare a Koreferat
 ---
-
+#How to prepare a Koreferat
 A Koreferat is an evaluation of a PhD thesis.  It should be written in the style of a review.
 The following points are <b>extremely important</b>:
 

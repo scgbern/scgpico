@@ -1,7 +1,7 @@
 ---
 Title: Install
 ---
-
+#Install
 1. Got to the ewernli fork of Pinocchio on github: 
 
 R/W: git@github.com:ewernli/p.git

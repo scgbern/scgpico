@@ -1,10 +1,10 @@
 ---
 Title: RBCrawler
 ---
-
+#RBCrawler
 RBCrawler bridges the gap between IDE and software visualization! It is available for Smalltalk's Refactoring Browser, (and soon Eclipse also).
 
-<center><img src="http://scg.unibe.ch/files/49/s21imommxuj1ufxa9qoh7k4i7ezb2u/rbcrawler.jpg" width="80%"/></center>
+<center><img src="%assets_url%/files/49/s21imommxuj1ufxa9qoh7k4i7ezb2u/rbcrawler.jpg" width="80%"/></center>
 
 RBCrawler reduces the time for software navigation. It offers many visual navigation views: Lanza's System Complexity View, Class Blueprint, and customizable Polymetric Views.
 
@@ -27,7 +27,8 @@ Currently RBCrawler is at the stage of a prototype, interfaces and protocols may
 
 RBCrawler is available for Visualworks 7.5 as at the following Store coordinates
 
-``` Bundle: RBCrawler
+```
+ Bundle: RBCrawler
 
   interface: PostgresSQLEXDIConnection
   environment: db.iam.unibe.ch:5432_scgStore

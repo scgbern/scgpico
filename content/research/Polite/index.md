@@ -1,7 +1,7 @@
 ---
 Title: Polite Smalltalk
 ---
-
+#Polite Smalltalk
 <div style="text-align:right">
 <i>We are nothing, if not polite</i> </br>
 Don Ysidro, B.H. Rogers
@@ -10,7 +10,7 @@ Don Ysidro, B.H. Rogers
 
 ---
 <div style="display:table-cell; vertical-align:middle; text-align:center;">
-<img style="width:300px" src="http://scg.unibe.ch/files/6a/qc8joq30izl4errsthftdoapprklwa/BowBW.png">
+<img style="width:300px" src="%assets_url%/files/6a/qc8joq30izl4errsthftdoapprklwa/BowBW.png">
 </div>
 
 ---
@@ -20,19 +20,22 @@ Since every polite person talks in sentences, Polite Smalltalk is a programming 
 
 However, in order to replace identifiers with sentences, we need to make sure that our language grammar allows the code to be parsed unambiguously. A snippet which in a popular programming language would be written as:
 
-```protagonist = new PoliteHero('Hiro Protagonist');
+```
+protagonist = new PoliteHero('Hiro Protagonist');
 protagonist.attack(theAntihero, theBigSword);
 ```
 
 is written in Polite like:
 
-```protagonist := Polite Hero, named: 'Hiro Protagonist'.
+```
+protagonist := Polite Hero, named: 'Hiro Protagonist'.
 protagonist, attack: (the antihero) with: (the big sword). 
 ```
 
 Or take for example, the implementation of the merge sort method of the merge sort algorithm fame in Polite: 
 
-```merge sort: a
+```
+merge sort: a
     if: [size of: a == 1] then: [^a]
 
     sorted left = merge sort: a, first half.

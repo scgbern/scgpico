@@ -1,7 +1,7 @@
 ---
 Title: How to connect to the printer via the printer server
 ---
-
+#How to connect to the printer via the printer server
 # For the iamlw100s printer
 The iamlw100s printer is in the first (upper) floor.
 

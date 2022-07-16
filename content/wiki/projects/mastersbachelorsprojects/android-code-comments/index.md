@@ -1,7 +1,7 @@
 ---
 Title: Android: Understanding the use of code comments
 ---
-
+#Android: Understanding the use of code comments
 #Introduction
 Are you addicted to mobile apps, or even developing your own apps?
 Have you wondered what developers jot down in the comments of Android apps?

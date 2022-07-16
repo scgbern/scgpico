@@ -1,7 +1,7 @@
 ---
 Title: Recognising structural patterns in code
 ---
-
+#Recognising structural patterns in code
 **RQ:** *Is it possible to automatically recognise language constructs in code of an unknown software language by analyzing structural patterns alone?*
 
 #Motivation:
@@ -11,7 +11,8 @@ The idea of this project to explore how many constructs can be automatically rec
 
 #Approach:
 Write a tool that recognises repeating structural patterns in code, such as:
-```if (...) { ... } else { ... }
+```
+if (...) { ... } else { ... }
 ```
 Apply the tool to many different kinds of languages and assess how many and what kinds of language constructs can be recognised automatically.
 

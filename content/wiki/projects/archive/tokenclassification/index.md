@@ -1,7 +1,7 @@
 ---
 Title: Automatic Token Classification
 ---
-
+#Automatic Token Classification
 #An attempt to mine useful information for parsing
 Developers need software models to make decisions while developing
 software systems. Static software models are commonly imported by parsing
@@ -17,8 +17,8 @@ beginnings and endings of the basic building blocks of programs.
 
 #Resources
 
-- [Presentation](http://scg.unibe.ch/files/f1/ntdacrkl0rx5jj0irv6salykyt4q24/SCS-Presentation-Automatic-token-classification.pdf)
-- [Bachelor Thesis](http://scg.unibe.ch/archive/projects/Gugg15a.pdf)
+- [Presentation](/files/f1/ntdacrkl0rx5jj0irv6salykyt4q24/SCS-Presentation-Automatic-token-classification.pdf)
+- [Bachelor Thesis](/archive/projects/Gugg15a.pdf)
 - Github Repository: [https://github.com/jogug/AuToCa.git](https://github.com/jogug/AuToCa.git)
 
 

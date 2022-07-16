@@ -1,7 +1,7 @@
 ---
 Title: Git FAQ
 ---
-
+#Git FAQ
 #Getting Started
 - [Where can I learn about git?](%base_url%/wiki/faq/git/Where-can-I-learn-about-git)
 

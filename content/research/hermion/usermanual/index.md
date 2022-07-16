@@ -1,7 +1,7 @@
 ---
 Title: User Manual
 ---
-
+#User Manual
 We shortly describe in the following how to use various features of OB-Enhancements that might not be so intuitive.
 
 <i>Smart Groups</i>

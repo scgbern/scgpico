@@ -1,7 +1,7 @@
 ---
 Title: How to Subscribe to and Publish Web Calendars
 ---
-
+#How to Subscribe to and Publish Web Calendars
 #Subscribing to a calendar
 You can subscribe to a calendar of the scg via:
 

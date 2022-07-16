@@ -1,7 +1,7 @@
 ---
 Title: OmniBrowsers
 ---
-
+#OmniBrowsers
 # Goals:
 
 -  Provide simple AND flexible AND extendable AND powerful browsers for the Squeak IDE

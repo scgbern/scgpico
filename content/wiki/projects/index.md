@@ -1,7 +1,7 @@
 ---
 Title: SCG Projects
 ---
-
+#SCG Projects
 *See also:*
 
 -  [Masters, Bachelors and Seminar Projects @ SCG](%base_url%/wiki/projects/mastersbachelorsprojects)

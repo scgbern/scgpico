@@ -1,10 +1,11 @@
 ---
 Title: Bibtex Crawler
 ---
-
+#Bibtex Crawler
 There are usually a set of references in scientific articles that are used inside the paper to cite previous research and results. This is handled usually using BibTex bibliography files. These files are composed of entries such as:
 
-```@inproceedings{Barb12a,
+```
+@inproceedings{Barb12a,
   title={Heuristic strategies for recommendation of exception handling code},
   author={Barbosa, Eiji Adachi and Garcia, Alessandro and Mezini, Mira},
   booktitle={Software Engineering (SBES), 2012 26th Brazilian Symposium on},

@@ -1,7 +1,7 @@
 ---
 Title: Rathesan (Radi) Iyadurai
 ---
-
+#Rathesan (Radi) Iyadurai
 Hi, my name is Radi.
 
 I am working on my Master's project under the supervision of [Haidar Osman](%base_url%/staff/Osman) and [Boris Spasojević](%base_url%/staff/Boris-Spasojevic).

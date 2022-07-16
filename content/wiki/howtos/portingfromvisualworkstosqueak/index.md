@@ -1,7 +1,7 @@
 ---
 Title: Porting from VisualWorks to Squeak
 ---
-
+#Porting from VisualWorks to Squeak
 # The Port
 
 -  There is a package <code>FileOut30</code> in [SCG StORE](%base_url%/wiki/howtos/howtomanagescgstore) that contains a Squeak exporter that mostly works.
@@ -12,7 +12,8 @@ Title: Porting from VisualWorks to Squeak
 -  Drag the resulting .st file into Squeak or Pharo.
 
 #Script to prepare the VW code
-```| classPrefix categoryName |
+```
+| classPrefix categoryName |
 classPrefix := 'XY'.
 categoryName := 'Squeak Category Name'.
  PackageName classes do: [ :each |

@@ -1,7 +1,7 @@
 ---
 Title: Sébastien Broggi
 ---
-
+#Sébastien Broggi
 Hi
 
 My name is Sébastien Broggi. I am a Computer Science (Bachelor) student and I started with my bachelor's thesis in November 2016.

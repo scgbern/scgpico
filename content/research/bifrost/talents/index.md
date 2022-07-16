@@ -1,7 +1,7 @@
 ---
 Title: Talents
 ---
-
+#Talents
 Reuse in object-oriented languages typically focuses on inheritance.
 Numerous techniques have been developed to provide finer-grained reuse of methods, such as flavors, mixins and traits. These techniques, however, only deal with reuse at the level of classes. Class-based reuse is inherently static. Increasing use of reflection and meta-programming techniques in real world applications underline the need for more dynamic approaches. We propose a new approach that deals with reuse at the object level and that supports behavioral composition. We introduce a new abstraction called a talent which models features that are shared between objects of different class hierarchies. Talents provide a composition mechanism that is as flexible as that of traits but which is dynamic.
 
@@ -20,7 +20,7 @@ To get started you can either use a ready-made one-click image (suggested), or t
 
 ##One-Click Image
 
--  Download the [Talents](http://scg.unibe.ch/download/Bifrost/talents-OneClick.zip) distribution.
+-  Download the [Talents](/download/Bifrost/talents-OneClick.zip) distribution.
 -  Launch the executable of your platform:
 	-  Mac: talents-OneClick.app
 	-  Linux: talents-OneClick.app/talents-OneClick.sh
@@ -28,7 +28,8 @@ To get started you can either use a ready-made one-click image (suggested), or t
 
 
 ##Loading
-```Gofer new 
+```
+Gofer new 
 	squeaksource: 'talents';
 	package: 'ConfigurationOfTalents';
 	load.

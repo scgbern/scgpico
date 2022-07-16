@@ -1,7 +1,7 @@
 ---
 Title: Bringing Models Closer to Code
 ---
-
+#Bringing Models Closer to Code
 *Bringing Models Closer to Code* is a project funded by the [Swiss National Science Foundation](http://www.snf.ch/) (SNSF project # [200020_121594](http://p3.snf.ch/Project-121594)).
 
 | | |
@@ -58,4 +58,4 @@ For further details see:
 - [Final report](%assets_url%/download/projectreports/snf08-final.pdf)
 - [Publications](%assets_url%/scgbib/?query=snf10&filter=Year)
 
-For more information, please consult the [Research Plan](http://scg.unibe.ch/download/projectreports/snf08-part2.pdf) of the project [pdf].
+For more information, please consult the [Research Plan](/download/projectreports/snf08-part2.pdf) of the project [pdf].

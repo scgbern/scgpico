@@ -1,7 +1,7 @@
 ---
 Title: Features
 ---
-
+#Features
 <i>OB-Enhancements</i>
 
 OB-Enhancements adds several features to OmniBrowser, some are listed here:

@@ -1,13 +1,14 @@
 ---
 Title: Code authorship
 ---
-
+#Code authorship
 Open-source code are composed by contribution of many different people, who over the time commit pieces of code with different purposes such as to add functionality, fix bugs, add test. In Pharo when a developer make a change (e.g. add a comment to a class) for the first time, he or she is prompted to register his/her name. So, when the developer put a comment in a class, his/her name is registered as the author of the comment. Developers commenting classes are most likely the authors of those classes.
 
 In this visualisation provide a top-down view of the complete Pharo system (everything which is in the Pharo image). We listed packages as rectangles, each of which contains classes depicted as squares. Classes are coloured with the color assigned to its author. In consequence, with the visualisation we can identify things such as packages that have many collaborators, packages that are mostly develop by a single contributor. The visualisation also allows the user to highlight his/her own contributions.
 
 
-```colors := Dictionary new.
+```
+colors := Dictionary new.
 colors at: 'torstenbergmann' put: Color red.
 normalize := [ :name | (name copyReplaceAll: '.' with: '') asLowercase ].
 author := [ :class | 

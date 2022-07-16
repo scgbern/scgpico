@@ -1,7 +1,7 @@
 ---
 Title: A web plugin to harvest the state of the art
 ---
-
+#A web plugin to harvest the state of the art
 <div align="justify">
 
 We as researchers usually start a project by collecting what is known as the state-of-the-art in the field. This process includes searching for published papers based on a seed of keywords, inspecting each paper, and if relevant, checking the references and citations of the paper, AKA snowballing.

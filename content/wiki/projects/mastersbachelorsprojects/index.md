@@ -1,7 +1,7 @@
 ---
 Title: Masters, Bachelors and Seminar Projects @ SCG
 ---
-
+#Masters, Bachelors and Seminar Projects @ SCG
 The seminar was last held in the Autumn of 2021 and will no longer take place.
 
 #Past Seminar topics (Autumn 2021)

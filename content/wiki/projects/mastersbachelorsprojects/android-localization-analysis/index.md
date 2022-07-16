@@ -1,7 +1,7 @@
 ---
 Title: Android: Investigating the quantity and quality of localizations
 ---
-
+#Android: Investigating the quantity and quality of localizations
 #Introduction
 Are you keen to study natural languages and their use in mobile apps?
 Have you ever wondered how, to which extent, and with which quality developers localize their apps?

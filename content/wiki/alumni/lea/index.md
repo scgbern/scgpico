@@ -1,7 +1,7 @@
 ---
 Title: Lea Hänsenberger
 ---
-
+#Lea Hänsenberger
 Visit my master project's website, [JUnit2JExample](%base_url%/wiki/projects/archive/JUnit2JExample), to see what I've done for my thesis.
 
 
@@ -178,7 +178,8 @@ Implemented a simple spoon example where a class is copied and rewritten. Seems 
 
 ##<a name="13">16.01.09</a>
 The App can be executed standalone with the arguments: 
-```--classes (the directory where the .class files of the classes to instrument are located)
+```
+--classes (the directory where the .class files of the classes to instrument are located)
 --testClass (the fully qualified name of the test class to be migrated)
 --sources (the parent folder of the package structure where the test class is located)
 \[--outputDir] (the directory where to put the newly created test file, if not set the same directory as the original test is used)
@@ -186,7 +187,8 @@ The App can be executed standalone with the arguments:
 
 An example command could look like this:
 
-```java -cp JUnit2JExample.jar:javassist.jar:jexample-4.4-r271.jar:bin/ ch.unibe.junit2jexample.main.JUnit2JExample --classes bin/ --testClass queue.test.QueueTest --sources src/ --outputDir migrated/
+```
+java -cp JUnit2JExample.jar:javassist.jar:jexample-4.4-r271.jar:bin/ ch.unibe.junit2jexample.main.JUnit2JExample --classes bin/ --testClass queue.test.QueueTest --sources src/ --outputDir migrated/
 ```
 
 Hint: if JUnit2JExample.jar is properly built, all the other libraries don't need to be explicitly on the classpath
@@ -196,7 +198,8 @@ Hint2: on command line it doesn't work at the moment, but it works in eclipse (m
 
 here the updated an working command line command:
 
-```java -ea -cp &lt;path_to_jj.jar&gt;:bin/ ch.unibe.junit2jexample.main.JUnit2JExample --classes bin/ --testClass queue.test.QueueTest --sources src/ --outputDir migrated/
+```
+java -ea -cp &lt;path_to_jj.jar&gt;:bin/ ch.unibe.junit2jexample.main.JUnit2JExample --classes bin/ --testClass queue.test.QueueTest --sources src/ --outputDir migrated/
 ```
 
 ##<a name="15">28.01.09</a>
@@ -218,7 +221,8 @@ Spoon can now be called programmatically by initializing the environment like it
 I "extended" the pretty printer of spoon. Obviously the do not intend it to be extended so I had to copy the whole class and just make my changes there. The same for the JavaOutputPrinter since it's otherwise not possible to use another pretty printer than the DefaultJavaPrettyPrinter of spoon.
 Replaced the classes option with packages option where you can specify the package(s) of the classes to be instrumented. Multiple packages are separated by ":". Subpackages of the specified packages are included.
 
-```java -ea -cp &lt;path_to_jj.jar&gt;:bin/ ch.unibe.junit2jexample.main.JUnit2JExample --packages package --testClass queue.test.QueueTest --sources src/ --outputDir migrated/
+```
+java -ea -cp &lt;path_to_jj.jar&gt;:bin/ ch.unibe.junit2jexample.main.JUnit2JExample --packages package --testClass queue.test.QueueTest --sources src/ --outputDir migrated/
 ```
 
 ##<a name="19">23.02.09</a>
@@ -252,7 +256,8 @@ I implemented a tool that converts JUnit 3 Tests to JUnit 4 Tests. It uses the J
 
 The tool can be used on command line by executing a statement like
 
-```java -cp &lt;path_to_junit3to4.jar&gt; OR &lt;path_to_junit4&gt;:&lt;path_to_bin&gt; ch.unibe.junit3to4.Converter -i path/to/java/file.java
+```
+java -cp &lt;path_to_junit3to4.jar&gt; OR &lt;path_to_junit4&gt;:&lt;path_to_bin&gt; ch.unibe.junit3to4.Converter -i path/to/java/file.java
 ```
 
 where the junit3to4.jar can be generated with an ant script in the [project](https://www.iam.unibe.ch/scg/svn_repos/Students/haense/JUnit3To4)

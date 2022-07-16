@@ -1,7 +1,7 @@
 ---
 Title: Compiling a higher-level language to WebAssembly
 ---
-
+#Compiling a higher-level language to WebAssembly
 #Project Idea
 
 <div align="justify">

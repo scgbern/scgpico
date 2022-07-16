@@ -1,7 +1,7 @@
 ---
 Title: Reported Testing Tools
 ---
-
+#Reported Testing Tools
 
 - JDepend: [http://clarkware.com/software/JDepend.html](http://clarkware.com/software/JDepend.html)
 - findbugs: [http://findbugs.sourceforge.net](http://findbugs.sourceforge.net)
@@ -38,4 +38,4 @@ Title: Reported Testing Tools
 - Emma: [http://emma.sourceforge.net/](http://emma.sourceforge.net/)
 - Clover: [http://www.atlassian.com/software/clover/overview](http://www.atlassian.com/software/clover/overview)
 - FxCop: [http://msdn.microsoft.com/en-us/library/bb429476](http://msdn.microsoft.com/en-us/library/bb429476)
-- PetitParser: [http://scg.unibe.ch/research/helvetia/petitparser](http://scg.unibe.ch/research/helvetia/petitparser)
+- PetitParser: [/research/helvetia/petitparser](/research/helvetia/petitparser)

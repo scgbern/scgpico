@@ -1,7 +1,7 @@
 ---
 Title: Chameleon
 ---
-
+#Chameleon
 Software instrumentation monitors the run-time behavior of a system to support a particular kind of analysis.
 The behavior of a system can be understood as a set of meta-level events that occur to achieve a goal.
 Instrumentation is often realized with the help of reflective mechanisms that reify these meta-events.
@@ -20,7 +20,7 @@ To get started you can either use a ready-made one-click image (suggested), or t
 
 ##One-Click Image
 
--  Download the [Chameleon](http://scg.unibe.ch/jenkins/job/Chameleon/lastSuccessfulBuild/artifact/chameleon-OneClick.zip) distribution.
+-  Download the [Chameleon](/jenkins/job/Chameleon/lastSuccessfulBuild/artifact/chameleon-OneClick.zip) distribution.
 -  Launch the executable of your platform:
 	-  Mac: chameleon-OneClick.app
 	-  Linux: chameleon-OneClick.app/chameleon-OneClick.sh
@@ -29,7 +29,8 @@ To get started you can either use a ready-made one-click image (suggested), or t
 
 
 ##Loading
-```Gofer new
+```
+Gofer new
 	squeaksource: 'Chameleon';
 	package: 'Chameleon';
 	load.

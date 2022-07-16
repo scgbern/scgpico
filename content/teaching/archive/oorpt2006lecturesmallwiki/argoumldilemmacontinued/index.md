@@ -1,7 +1,7 @@
 ---
 Title: ArgoUML dilemma continued
 ---
-
+#ArgoUML dilemma continued
 The boss of Make Money Inc. decided to go for using ArgoUML as basis for the future visualization engine.
 
 He comes to your team and he asks for a report and a presentation that addresses the followings:

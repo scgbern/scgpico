@@ -1,7 +1,7 @@
 ---
 Title: Source code vocabularies
 ---
-
+#Source code vocabularies
 ##Project description
 
 Program source code contains numerous natural language cues that aid programmers in tasks of program comprehension. We are interested in extracting natural language information from source code, namely from class, method and variable names. We will work on source code snippets that correspond to abstract syntax tree (AST) representation of source code.

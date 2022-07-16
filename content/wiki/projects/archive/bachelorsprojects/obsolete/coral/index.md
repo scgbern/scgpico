@@ -1,7 +1,7 @@
 ---
 Title: Coral -- scripting with Smalltalk
 ---
-
+#Coral -- scripting with Smalltalk
 Dynamic object-oriented languages, like Ruby, Python, Groovy and many others, are great for writing compact "scripts" that exploit huge libraries to perform simple maintenance tasks, but they suffer from the lack of an interactive development environment that supports live interaction with the running application.
 
 [Pharo Smalltalk](http://www.pharo-project.org/home) offers just such an environment, but it is not very suitable for scripting, since Smalltalk applications only live in the image. [GNU Smalltalk](http://smalltalk.gnu.org/) offers the possibility to script Smalltalk code, but the development environment is not at the same level as full-fledged Smalltalks.

@@ -1,7 +1,7 @@
 ---
 Title: Visualizing Architectural Deltas
 ---
-
+#Visualizing Architectural Deltas
 Note: This proposal is still in a draft phase.
 
 Your goal is to provide a live view on the architecture of a software system. You will have to add new (cool) functionality to the Softwarenaut architecture recovery too.

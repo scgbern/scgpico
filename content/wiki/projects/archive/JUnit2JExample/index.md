@@ -1,7 +1,7 @@
 ---
 Title: JUnit2JExample
 ---
-
+#JUnit2JExample
 JUnit2JExample is a prototype to automatically convert JUnit 4 test classes to JExample test classes.
 
 By analyzing the coverage sets of the test methods we can automatically recover implicit dependencies between test methods. The recovered dependencies can then be used to automatically migrate the original JUnit test classes into JExample test classes that declare explicit dependencies.
@@ -17,7 +17,7 @@ The migration from JUnit 4 to JExample happens in two steps:
 
 In the following you find a short tutorial on how to install and use JUnit2JExample to migrate JUnit 4 tests to JExample tests on the command line and in eclipse.
 
-Download the JUnit2JExample jar from http://scg.unibe.ch/download/jexample.
+Download the JUnit2JExample jar from /download/jexample.
 
 ###Arguments
 
@@ -30,7 +30,8 @@ Download the JUnit2JExample jar from http://scg.unibe.ch/download/jexample.
 
 ###Usage on the Command line
 
-```java -javaagent:agent.jar=<package> -cp path/to/junit2jexample.jar:your_class_path\
+```
+java -javaagent:agent.jar=<package> -cp path/to/junit2jexample.jar:your_class_path\
 ch.unibe.junit2jexample.main.JUnit2JExample --testClass <testClass> --sources <sources>\ 
 --output <output> [-r]
 ```
@@ -50,7 +51,7 @@ ch.unibe.junit2jexample.main.JUnit2JExample --testClass <testClass> --sources <s
 
 In the following you find a short tutorial on how to install and use textsc{JUnit3To4} to migrate junit 3 tests to junit 4 tests on the command line and in eclipse.
 
-Download the textsc{JUnit3To4} jar from url{http://scg.unibe.ch/download/jexample}.
+Download the textsc{JUnit3To4} jar from url{/download/jexample}.
 
 ###Arguments:
 
@@ -61,7 +62,8 @@ Download the textsc{JUnit3To4} jar from url{http://scg.unibe.ch/download/jexampl
 
 ###Usage on the Command line
 
-```java -cp path/to/junit3to4.jar:your_class_path ch.unibe.junit3to4.Converter\
+```
+java -cp path/to/junit3to4.jar:your_class_path ch.unibe.junit3to4.Converter\
 --input <input> --output <output> [-r]
 ```
 

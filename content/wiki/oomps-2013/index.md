@@ -1,7 +1,7 @@
 ---
 Title: OOMPS 2013 - OOpsla Mock Pc @ Scg 2013
 ---
-
+#OOMPS 2013 - OOpsla Mock Pc @ Scg 2013
 This is the page for the Oopsla Mock PC 2013 - our internal **simulation** of a PC that Oscar mentioned some time ago. 
 
 We will have at our disposition 20-25 papers submitted to this year's OOPSLA which we will provide our own reviews, opinions and recommendations on. This will boil down to 7-10 papers per person. There will be one month at disposition for reviewing the papers. 

@@ -1,7 +1,7 @@
 ---
 Title: The Large Word Collider
 ---
-
+#The Large Word Collider
 ![http://www.lightnessofbeingbook.com/LOBColorPlates/images/Plate09_ATLAS.jpg](http://www.lightnessofbeingbook.com/LOBColorPlates/images/Plate09_ATLAS.jpg)
 
 **Inspired from the LHC, the LWC will accelerate word particles at learners.**

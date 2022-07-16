@@ -1,14 +1,14 @@
 ---
 Title: Interviews
 ---
-
+#Interviews
 **Interview Scripts**
 
-[Interview Script v1](http://scg.unibe.ch/wiki/projects/bachelorsprojects/Agility/interviews/InterviewScriptv1?view=PRDownloadView)
+[Interview Script v1](/wiki/projects/bachelorsprojects/Agility/interviews/InterviewScriptv1?view=PRDownloadView)
 
-[Interview Script v2](http://scg.unibe.ch/wiki/projects/bachelorsprojects/Agility/interviews/InterviewScriptv2?view=PRDownloadView)
+[Interview Script v2](/wiki/projects/bachelorsprojects/Agility/interviews/InterviewScriptv2?view=PRDownloadView)
 
-[Interview Script v3](http://scg.unibe.ch/wiki/projects/bachelorsprojects/Agility/interviews/ScriptInterviewv3?view-PRDownloadView)
+[Interview Script v3](/wiki/projects/bachelorsprojects/Agility/interviews/ScriptInterviewv3?view-PRDownloadView)
 
 **Brainstorming for interview questions:**
 

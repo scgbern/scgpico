@@ -1,7 +1,7 @@
 ---
 Title: Examples
 ---
-
+#Examples
 Examples for context orientation in Moose/Meta/Fame
 
 [structure setPrivate: false. '<h2>Internal page</h2>' ] 
@@ -23,13 +23,15 @@ It seems everyone is speaking about context, but no one has done a proper analys
 
 Meta is an implementation of a metamodel facility for Moose. MOF compliant meta-description are attached to classes and stored in a singleton, however different applications might setup the M1-M3 layers with different content. The mist straight forward example is testing, which does destructive changes to all three layers, but still we want to run test while having the application running. To allow for this, the singleton facility may differ based on the execution context. 
 
-```System class>>reference
+```
+System class>>reference
 	| model |
 	model := Processor activeProcess environmentAt: System.
 	^model ifNil: \[ self default ]
 ```
 
-```System>>useWhile: aBlock
+```
+System>>useWhile: aBlock
 	| environment backup |
 	environment := Processor activeProcess environment.
 	backup := environment at: System.
@@ -62,7 +64,8 @@ However I am not happy with this solution, and would like to find a way of not s
 
 For Visualworks we use a setup package, its on the version repository and contains code to setup an image from scratch. The package is used by nearly all Moose users, but some of them want a slightly different setup, eg setting a different font or loading some other utility. To allow for this, a different setup method is called based on the current user.
 
-```	| user pragmas pragma |
+```
+	| user pragmas pragma |
 	user := self userName.
 	pragmas := Pragma allNamed: #user: in: self class.
 	pragma := pragmas 
@@ -79,7 +82,8 @@ For Visualworks we use a setup package, its on the version repository and contai
 
 The same goes for our scripts that patch (method overwrite) the Refactoring Browser's UI
 
-```	| name0 |
+```
+	| name0 |
 	name0 := self name.
 	(DbRegistry connectedProfileHolder value isNil not and: \[
 	(#('kuhn') includes: DbRegistry connectedProfileHolder value userName)]) 
@@ -91,7 +95,8 @@ The same goes for our scripts that patch (method overwrite) the Refactoring Brow
 
 But there we also have context based on the instance data of the tool
 
-```	(self items list isEmpty not and:
+```
+	(self items list isEmpty not and:
 		\[ '\*Development' match: self items list first pundle name])
 			ifTrue:\[self allVersions].
 ```
@@ -102,7 +107,8 @@ But there we also have context based on the instance data of the tool
 
 FAMIXMethod>>sourceText currently reads
 
-```sourceText
+```
+sourceText
 	self mooseModel isJava ifTrue: \[^''].
 	self mooseModel isSmalltalk ifTrue: \[^((MSEUtilities smalltalkClassFromFamixClassName: self belongsTo mooseUniqueName) sourceCodeAt: self name) asString].
 	^''

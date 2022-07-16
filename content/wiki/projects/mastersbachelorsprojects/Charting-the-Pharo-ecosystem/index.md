@@ -1,7 +1,7 @@
 ---
 Title: Charting the Pharo ecosystem
 ---
-
+#Charting the Pharo ecosystem
 #Project Idea
 
 <div align="justify">

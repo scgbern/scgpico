@@ -1,7 +1,7 @@
 ---
 Title: Mobile Requirements Elicitation
 ---
-
+#Mobile Requirements Elicitation
 **Mobile Requirements Elicitation (RE)** started initially as a journal paper as we were interested in exploring the state-of-the art in RE specific for mobile apps. Mobile apps are crucial for the success of many businesses and hence they are also tricky to build. App developers constantly face many challenges such as much more frequent update releases, various target mobile operating systems, device compatibility issues, unknown users etc. which never truly existed before.
 
 Such challenges were unseen during the past decades, and although every player was forced to find a solution for these technical challenges, some questions remain, e.g., “Can we be sure that the app which we build will please our customers?” “Have we completely understood the customer requirements?” “Has our customer told us the correct and complete requirements?”

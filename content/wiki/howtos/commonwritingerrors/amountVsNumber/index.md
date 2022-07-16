@@ -1,7 +1,7 @@
 ---
 Title: Amount vs. number
 ---
-
+#Amount vs. number
 
 ---
 #"Amount" vs. "number"

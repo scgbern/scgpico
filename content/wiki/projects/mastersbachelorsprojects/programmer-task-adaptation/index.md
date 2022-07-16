@@ -1,7 +1,7 @@
 ---
 Title: Real time classification of, and adaptation to programmer tasks in IDEs
 ---
-
+#Real time classification of, and adaptation to programmer tasks in IDEs
 #This project is intended for MSc students
 <br><p>
 #Introduction

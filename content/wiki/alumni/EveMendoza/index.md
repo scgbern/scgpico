@@ -1,7 +1,7 @@
 ---
 Title: Eve Mendoza
 ---
-
+#Eve Mendoza
 #Bachelor Thesis: Visualizing Objects in Pharo
 
 I am a bachelor student currently working on my bachelor's thesis under the supervision of Claudio Corrodi. 

@@ -1,7 +1,7 @@
 ---
 Title: Call for Papers
 ---
-
+#Call for Papers
 - [Important Dates](%base_url%/wiki/events/suite2010/dates)
 
 # Goals and Motivation

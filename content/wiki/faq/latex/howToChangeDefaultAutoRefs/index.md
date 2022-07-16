@@ -1,9 +1,10 @@
 ---
 Title: How to change the default autorefs?
 ---
-
+#How to change the default autorefs?
 - **Q How to change the default autorefs?**
-``` \def\figureautorefname{Figure}%
+```
+ \def\figureautorefname{Figure}%
  \def\tableautorefname{Table}%
  \def\partautorefname{Part}%
  \def\appendixautorefname{Appendix}%

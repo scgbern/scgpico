@@ -1,7 +1,7 @@
 ---
 Title: How do I load method wrappers?
 ---
-
+#How do I load method wrappers?
 - **Q How do I load method wrappers?**
 - **A** Go to [http://www.squeaksource.com/MethodWrappers.html](http://www.squeaksource.com/MethodWrappers.html)
 Be sure to load MethodWrappers3.9 for the 3.9 squeak image.

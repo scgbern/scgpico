@@ -1,7 +1,7 @@
 ---
 Title: Non-standard Type Systems
 ---
-
+#Non-standard Type Systems
 Here are a few links to non-standard type systems. (from Jan Vitek)
 
 - [Foster's Thesis on Type qualifiers](http://www.cs.umd.edu/~jfoster/papers/thesis.pdf)

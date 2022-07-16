@@ -1,7 +1,7 @@
 ---
 Title: How to use Chicken of the VNC
 ---
-
+#How to use Chicken of the VNC
 [ structure setPrivate: true. \'' ]
 
 <img align=right src=http://media.arstechnica.com/journals/apple.media/chickenofthevnc.jpg>

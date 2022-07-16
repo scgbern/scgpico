@@ -1,7 +1,7 @@
 ---
 Title: Yield 4 Java
 ---
-
+#Yield 4 Java
 # Generator.java &ndash; Extending Java with Yield
 
 The yield statement in Ruby, Python and C# makes it very convenient to write complex iterators. As this has been missing in Java so far, here is a class that you can subclass to create generators.
@@ -18,7 +18,8 @@ NB: this class makes use of Threads, you might want to double-check its source c
 
 <div style="background: beige; border: 1px solid peru;">
 
-```    Generator&lt;Integer&gt; fibonacci = new Generator&lt;Integer&gt;() {
+```
+    Generator&lt;Integer&gt; fibonacci = new Generator&lt;Integer&gt;() {
         &#64;Override
         public void run() {
             int a = 0, b = 1;
@@ -41,7 +42,8 @@ NB: this class makes use of Threads, you might want to double-check its source c
 
 <div style="background: beige; border: 1px solid peru;">
 
-```    Generator&lt;char&gt> hello = new Generator&lt;char&gt;() {
+```
+    Generator&lt;char&gt> hello = new Generator&lt;char&gt;() {
         &#64;Override
         public void run() {
             String str = "Hello, Worlds!";
@@ -62,7 +64,8 @@ NB: this class makes use of Threads, you might want to double-check its source c
 
 <div style="background: beige; border: 1px solid peru;">
 
-```    public static &lt;T&gt; Generator&lt;T\[]&gt; permute(final T\[] a) {
+```
+    public static &lt;T&gt; Generator&lt;T\[]&gt; permute(final T\[] a) {
         return new Generator&lt;T\[]&gt;() {
             &#64;Override
             public void run() {

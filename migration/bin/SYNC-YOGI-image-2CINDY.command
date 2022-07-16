@@ -33,23 +33,3 @@ do
 	rsync ${RSYNC} ${MIRROR}/${arg} ${CINDY}/${arg}
 done
 
-
-exit
-
-SOURCE=scg@cindy.inf.unibe.ch:/srv/scg.unibe.ch/app/export/
-CONTENT=/Users/oscar/Documents/Projects/scgpico/content/
-
-LOCAL=/Users/oscar/Sites/Pico/content/
-TARGET=scg@yogi.inf.unibe.ch:/srv/testscg.unibe.ch/pico-release-v2/content/
-
-echo rsync ${RSYNC} ${SOURCE} ${CONTENT}
-rsync ${RSYNC} ${SOURCE} ${CONTENT}
-
-cd ${CONTENT}
-echo find . -name \*.md -exec $B/fixPierAccents {} \;
-find . -name \*.md -exec $B/fixPierAccents {} \;
-
-echo rsync ${RSYNC} ${CONTENT} ${TARGET}
-rsync ${RSYNC} ${CONTENT} ${TARGET}
-
-open http://testscg.unibe.ch

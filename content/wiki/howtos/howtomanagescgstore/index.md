@@ -1,7 +1,7 @@
 ---
 Title: How to manage scgStore
 ---
-
+#How to manage scgStore
 ##How to log in to scgStore?
 
 -  In the Store menu of the launcher, choose 'Connect to Repository'. A dialog pops up where you have to fill in information for connecting to a Store database.

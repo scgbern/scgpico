@@ -1,10 +1,11 @@
 ---
 Title: Meta-visualisation
 ---
-
+#Meta-visualisation
 A visualisation of Roassal examples. The shape of the nodes show what kind of shapes is used by the major of them in the visualisation such as a box, an ellipse or a labe. The color goes from orange to red depicting with ornate visualisation with few colors and with red the ones with many colors (considering the numbers of elements in the visualisation). Finally the size of nodes shows the number of elements.
 
-```v:= RTView new.
+```
+v:= RTView new.
 vis := (((((RTAbstractExample withAllSubclasses) flatCollect:[:each|
 	(each selectors 
 			

@@ -1,7 +1,7 @@
 ---
 Title: How to do a lecture podcast
 ---
-
+#How to do a lecture podcast
 This guide leads you through the creation, recording, and post-processing of a public lecture podcast in the room E001.
 It is possible to create students-only podcasts through Ilias, please refer to [http://podcast.unibe.ch](http://podcast.unibe.ch) if you do not want a public podcast.
 

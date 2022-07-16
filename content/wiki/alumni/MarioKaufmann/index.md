@@ -1,7 +1,7 @@
 ---
 Title: Mario Kaufmann
 ---
-
+#Mario Kaufmann
 Hello, I'm Mario Kaufmann and I'm a master student at SCG in Bern. Currently, I am working on my master project.
 
 The project is supervised by Andrei Chiş. We are creating a new possible way to interact with the Inspector in the Pharo programming environment.

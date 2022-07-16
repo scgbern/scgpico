@@ -1,10 +1,11 @@
 ---
 Title: Lattice Visualisation
 ---
-
+#Lattice Visualisation
 Running an example LatticeView example1. For defining the dataset follow the example below. Notice that columns are separated by tabs. In the example, columns represent attributes while rows objects. An x in a cell means that the object has the property indicated by the column. 
 
-```| data fca context |
+```
+| data fca context |
 data :='
 	a	b	c	d	e	f	g	h
 1	x	x	x					
@@ -108,14 +109,16 @@ Notice that trying this very small example in the Hasse diagram of Figure 1 seem
 1. Install Roassal through the Configuration Browser
 
 2. Install MooseAlgos
-```Gofer new
+```
+Gofer new
 	smalltalkhubUser: 'Moose' project:'MooseAlgos';
 	configuration;
 	load.
 (Smalltalk at: #ConfigurationOfMooseAlgos) loadStable
 ```
 3. Install LatticeView
-```Gofer new
+```
+Gofer new
 	package: 'ConfigurationOfLattice';
 	url: 'http://smalltalkhub.com/mc/merino/LatticeView/main' 
 	username: '' password: '';

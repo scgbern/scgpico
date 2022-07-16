@@ -1,7 +1,7 @@
 ---
 Title: MSE
 ---
-
+#MSE
 The MSE format allows to specify models for import and export with Fame. Similar to XML, MSE is generic and can specify any kind of data, regardless of the metamodel. 
 
 Quick link &rArr; [FM3](%base_url%/wiki/projects/archive/fame/fm3) | [MSE Grammar](%base_url%/wiki/projects/archive/fame/msespecification)
@@ -10,7 +10,8 @@ An example MSE file might look as follows
 
 <div style="background: beige; border: 1px solid peru; font-size: smaller;">
 
-```  (<b>"Sample MSE file"</b>
+```
+  (<b>"Sample MSE file"</b>
    (LIB.Library
        (librarian
            (LIB.Person
@@ -43,7 +44,8 @@ The above MSE file describes a library with a librarian and 3 books by 5 authors
 
 <div style="background: beige; border: 1px solid peru; font-size: smaller;">
 
-``` ("Meta-model of above file"
+```
+ ("Meta-model of above file"
    (FM3.Package
        (name 'LIB')
        (classes

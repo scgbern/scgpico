@@ -1,7 +1,7 @@
 ---
 Title: Timm Gross 
 ---
-
+#Timm Gross 
 Assessing automated software testing with consideration of real-life incidents: A case study
 
 In this study we want to get better insight into how software testing is done in an industry setting. For this purpose real-life incidents from my company are analyzed to answer the following research questions:

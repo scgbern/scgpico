@@ -1,8 +1,9 @@
 ---
 Title: RTRandomLayout
 ---
-
-```RTRandomLayout>#doExecute:
+#RTRandomLayout
+```
+RTRandomLayout>#doExecute:
 
 doExecute: elements
 	|  seed  |

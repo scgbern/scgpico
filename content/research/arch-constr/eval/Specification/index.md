@@ -1,11 +1,12 @@
 ---
 Title: Rule Specification
 ---
-
+#Rule Specification
 **case study C1 **
 
 
-```ServicePackage = Package with name:"[omissis].*service.*", name!:"[omissis].*persistence*"
+```
+ServicePackage = Package with name:"[omissis].*service.*", name!:"[omissis].*persistence*"
 PersistencePackage = Package with name:"[omissis].*persistence.*", name!:"[omissis].*service*"
 ImplClass = Class with name:"*Impl"
 
@@ -17,7 +18,8 @@ ImplClass must have annotation "@[omissis]Service"
 
 **case study C2 **
 
-```CoreProject = Package with name:"[omissis].core.**"
+```
+CoreProject = Package with name:"[omissis].core.**"
 StammdatenProject = Package with name:"[omissis].stammdaten.**"
 AngebotProject = Package with name:"[omissis].angebot.**"
 BetriebProject = Package with name:"[omissis].betrieb.**"
@@ -83,7 +85,8 @@ ModelClasses, DTOClasses must implement interface "java.io.Serializable"
 
 **case study C3 **
 
-```ilClasses = PhpClass with name:"il*"
+```
+ilClasses = PhpClass with name:"il*"
 assClasses = PhpClass with name:"ass*"
 WholeIliasCodebase = {ilClasses, assClasses}
 GUIClasses = PhpClass with name:"*GUI*"

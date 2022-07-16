@@ -1,7 +1,7 @@
 ---
 Title: Glue code analysis in open-source projects that use BDD tools
 ---
-
+#Glue code analysis in open-source projects that use BDD tools
 #Idea
 There are a lot of Behavior Driven Development (BDD) tools available in practice.
 To involve non-technical stakeholders in specifying requirements, these tools encourage writing behavior specifications as constrained natural text.
@@ -9,19 +9,19 @@ Some of them allow specification as plain text (for example in *Given...When...T
 
 | | |
 |---|---|
-|<img style="text-align:center" src="http://scg.unibe.ch/download/Nitish/bdd_scenario.png" />|
+|<img style="text-align:center" src="/download/Nitish/bdd_scenario.png" />|
 
 It is then connected through a glue code (i.e., test cases) to the underlying implementation.
 
 | | |
 |---|---|
-|<img style="text-align:center" src="http://scg.unibe.ch/download/Nitish/glue_code_example.png" />|
+|<img style="text-align:center" src="/download/Nitish/glue_code_example.png" />|
  
 On the other hand, few BDD tools allow specification as a code with added annotations in order to reduce re-writing of natural language specifications. 
 
 | | |
 |---|---|
-|<img style="text-align:center" src="http://scg.unibe.ch/download/Nitish/fixture_annotations.png" />|
+|<img style="text-align:center" src="/download/Nitish/fixture_annotations.png" />|
 
 The glue code serves as a bridge from higher-level specification to the implementation level details.
 The characteristics of such glue code and annotations are not yet studied. 

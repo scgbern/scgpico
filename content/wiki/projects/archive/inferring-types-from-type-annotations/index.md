@@ -1,7 +1,7 @@
 ---
 Title: Inferring types from type annotations
 ---
-
+#Inferring types from type annotations
 Analyzing code in dynamically-typed languages is hampered by the lack of static type information. To reduce this problem, developers use type annotations. 
 
 The common way to do this in Smalltalk is to embed the expected type name into method argument name. For example, if the expected type of method argument is String, the name of the argument should be 'aString'. These annotations are used by developers, for program comprehension, and by IDE tools, like code completion.

@@ -1,7 +1,7 @@
 ---
 Title: Previous Editions
 ---
-
+#Previous Editions
 
 -  WOOR'05 : [WOOR2005](%base_url%/wiki/events/woor2006/woor2005)
 -  WOOR'04 : [WOOR2004](%base_url%/wiki/events/woor2006/woor2004)

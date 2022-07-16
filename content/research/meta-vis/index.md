@@ -1,7 +1,7 @@
 ---
 Title: MetaVis: Exploring Actionable Visualization
 ---
-
+#MetaVis: Exploring Actionable Visualization
 Software visualization can be very useful for answering complex questions that arise in the software development process.
 Although modern visualization engines offer expressive APIs for building such visualizations, developers often have difficulties to (1) identify a suitable visualization technique to answer their particular development question, and to (2) implement that visualization using the existing APIs.
 Examples that illustrate the usage of an engine to build concrete visualizations offer a good starting point, but developers may have to traverse long lists of categories and analyze examples one-by-one to find a suitable one. 
@@ -14,13 +14,13 @@ We present initial results of an implementation of MetaVis in the Pharo programm
 
 A limited version of the tag-iconic cloud-based visualization is shown below. For a fully interactive version please refer to the installation instructions.
 
-![http://scg.unibe.ch/download/merino/MetaVis/metavis.html](http://scg.unibe.ch/download/merino/MetaVis/metavis.html)
+<iframe height=800 width=800 title="MetaVis" src="/download/merino/MetaVis/metavis.html"></iframe>
 
 #How to install
 
 - Download [Pharo 4 VM](http://files.pharo.org/get-files/40/) for your OS.
 - Download the [image](%assets_url%/files/2d/4weyo12zu9jivt5n1sfgsxxt26ayrl/pharo.zip) that contains MetaVis.
-- Download the [data set](http://scg.unibe.ch/download/merino/MetaVis/questions.csv).
+- Download the [data set](/download/merino/MetaVis/questions.csv).
 - Copy the CSV file in the same folder of the image. 
 - Open the image using the Pharo VM.
 

@@ -1,9 +1,10 @@
 ---
 Title: Helping Programmers To Write Assertions
 ---
-
+#Helping Programmers To Write Assertions
 Most programming languages and environment offer ways to define assertions, such as program invariants and pre- and post-conditions using a particular language keyword. For example, consider the following Java method:
-```public int factorial(int n) {
+```
+public int factorial(int n) {
     assert n >= 0 : "Factorial is not defined for a negative number";
     if(n < 1)
         return 1;

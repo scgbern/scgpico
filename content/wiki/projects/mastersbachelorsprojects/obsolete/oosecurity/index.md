@@ -1,7 +1,7 @@
 ---
 Title: Object Oriented Security
 ---
-
+#Object Oriented Security
 Extensible systems might dynamically load plugins, components or sub-systems. It is critical in this context that hosted modules can not compromise their host. Hosted modules must be isolated and the principle of least privilege enforced. Sadly, object oriented languages make this hard.
 
 *Project description*

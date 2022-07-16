@@ -1,7 +1,7 @@
 ---
 Title: The Submission Page
 ---
-
+#The Submission Page
 Please upload your submissions to this page. 
 
 Put your name, email (the emails addresses are automatically obfuscated), and title plus upload the file. To upload a file (1) put a name surrounded by a star \* , (2) save, (3) click on resource, (4) then choose your file to upload.

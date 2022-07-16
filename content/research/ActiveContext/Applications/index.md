@@ -1,7 +1,7 @@
 ---
 Title: Applications
 ---
-
+#Applications
 There are two broad kinds of applications.
 
 #Application-level

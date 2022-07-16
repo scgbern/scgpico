@@ -1,7 +1,7 @@
 ---
 Title: Exploring Dependencies in Java Software Ecosystems
 ---
-
+#Exploring Dependencies in Java Software Ecosystems
 #The Context
 Static analysis has been done traditionally on single software systems. However, software systems do not exist on their own, but instead they exist in the larger context of a software ecosystem. Ecosystem analysis is a field that is currently in its early days.
 

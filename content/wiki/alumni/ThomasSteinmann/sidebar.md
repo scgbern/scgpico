@@ -1,3 +1,3 @@
-[Polite Smalltalk profile page](http://scg.unibe.ch/research/Polite)
+[Polite Smalltalk profile page](/research/Polite)
 
 E-Mail: thomas.steinmann@students.unibe.ch

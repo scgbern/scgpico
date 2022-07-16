@@ -1,7 +1,7 @@
 ---
 Title: The myth of test coverage
 ---
-
+#The myth of test coverage
 Test coverage is the amount of testing performed on a software program. With increase in the coverage we often expect decrease in the bugs in a program, and therefore, this measure is often an indicator of the program quality.
 
 

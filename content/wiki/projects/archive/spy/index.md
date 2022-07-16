@@ -1,7 +1,7 @@
 ---
 Title: Spy
 ---
-
+#Spy
 <b><big style="font-style: bigger;">Spy</big></b> is a Smalltalk VM written using the PyPy toolchain.
 
 Spy is written in RPython, and can be translated with the PyPy toolchain as C executable, as Java native backend, and as .Net native backend. Spy is the collaborative effort of the [Squeak-PyPy Sprint](%base_url%/wiki/events/pypysprint) in Bern last autumn. Spy has been realized by the PyPy Team and the SCG Group  in only one week.

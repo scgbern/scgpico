@@ -1,8 +1,8 @@
 ---
 Title: SDE Resources
 ---
-
-The main course page is [here](http://scg.unibe.ch/teaching/sde).
+#SDE Resources
+The main course page is [here](/teaching/sde).
 
 #Programming Smalltalk
 
@@ -44,14 +44,14 @@ Reading materials
 
 #Project 2014: Hot spot analysis
 
--  [Pangea](http://scg.unibe.ch/research/pangea)
+-  [Pangea](/research/pangea)
 -  [Javassist tutorial](http://www.csg.ci.i.u-tokyo.ac.jp/~chiba/javassist/tutorial/tutorial.html)
 -  Reading Materials: [CHA algorithm](http://www.cs.ucla.edu/~palsberg/tba/papers/dean-grove-chambers-ecoop95.pdf) 
 -  Some other paper: [Static algorithms](http://www.cs.ucla.edu/~palsberg/paper/oopsla00.pdf)
 
 #Software Ecosystems
 
--  Reading Materials: [Ecosystems-Articles.zip](%assets_url%/files/c4/wefom79o99e5e4u7s5d1jkommn1tl0/Ecosystems-Articles.zip) (or [http://scg.unibe.ch/scgbib?query=sde-ecosystems](http://scg.unibe.ch/scgbib?query=sde-ecosystems))
+-  Reading Materials: [Ecosystems-Articles.zip](%assets_url%/files/c4/wefom79o99e5e4u7s5d1jkommn1tl0/Ecosystems-Articles.zip) (or [/scgbib?query=sde-ecosystems](/scgbib?query=sde-ecosystems))
 
 #Related courses
 

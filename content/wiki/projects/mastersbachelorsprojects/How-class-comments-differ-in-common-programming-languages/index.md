@@ -1,7 +1,7 @@
 ---
 Title: How do the class comments differ in common programming languages?
 ---
-
+#How do the class comments differ in common programming languages?
 #Introduction
 A Class comment contains different types of information about the class like the intent of the class, responsibilities of the class, a summary of the class, etc.
 Different programming languages follow a different standard for the class comments and embed different types of information like in Java, a class comment provides an overview of the high-level design of a program i.e purpose of the class, what does the class do whereas, in Pharo, a class comment provides more detailed knowledge of the class, for example, which API, instance variables the class has.
@@ -32,7 +32,7 @@ Our aim is to perform a comparative study, designing tools capable to extract cl
 -  Compare identified information types across different languages.
 
 #Further Material
-[Class comment Analysis](http://scg.unibe.ch/download/softwarecomposition/2019-11-26-Ivan-classCommentAnalysis.pdf)
+[Class comment Analysis](/download/softwarecomposition/2019-11-26-Ivan-classCommentAnalysis.pdf)
 
 #Contact
 [Pooja Rani](%base_url%/staff/Pooja-Rani)

@@ -1,7 +1,7 @@
 ---
 Title: Other Movies
 ---
-
+#Other Movies
 Other movies we have not seen ...
 
 - **[City Lights](http://en.wikipedia.org/wiki/City_Lights)**: 1931, Charlie Chaplin, 87 min. Silent with English titles. One of the top ten films of all time, and Chaplin's best. The scene in which the blind flower girl assumes the tramp is a millionaire is hilariously flawless (or flawlessly hilarious?), and the film's closing scene is still moving today. [100% on Rotten Tomatoes](http://www.rottentomatoes.com/m/city_lights/).

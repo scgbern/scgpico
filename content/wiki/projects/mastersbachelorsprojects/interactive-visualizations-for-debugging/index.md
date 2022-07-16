@@ -1,7 +1,7 @@
 ---
 Title: Interactive visualizations for debugging
 ---
-
+#Interactive visualizations for debugging
 #This project is intended for BSc students
 <br><p>
 #Introduction

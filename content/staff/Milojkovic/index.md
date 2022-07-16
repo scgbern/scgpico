@@ -1,13 +1,13 @@
 ---
 Title: Nevena Milojković
 ---
-
-Nevena Milojković is a Postdoctoral researcher at the Software Composition Group, University of Bern. She received her PhD in Computer Science in June 2017 from University of Bern, under the supervision of [Prof. Dr. Oscar Nierstrasz](http://scg.unibe.ch/staff/oscar).
+#Nevena Milojković
+Nevena Milojković is a Postdoctoral researcher at the Software Composition Group, University of Bern. She received her PhD in Computer Science in June 2017 from University of Bern, under the supervision of [Prof. Dr. Oscar Nierstrasz](/staff/oscar).
 
 -  email: **nevena |at| inf.unibe.ch**
 -  telephone: \+41 31 511 7639
 -  room number: 106
--  webpage: http://scg.unibe.ch/staff/Milojkovic
+-  webpage: /staff/Milojkovic
 
 <br/>
 <br/>

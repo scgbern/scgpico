@@ -1,7 +1,7 @@
 ---
 Title: Omniscient Debugger
 ---
-
+#Omniscient Debugger
 Memory has gotten cheap. Even a laptop nowadays has more than a gig of ram... so let's try to find a way to use that.
 One idea: [The Omniscient Debugging](http://www.lambdacs.com/debugger/debugger.html):
 

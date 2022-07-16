@@ -1,7 +1,7 @@
 ---
 Title: Exceptions Usage
 ---
-
+#Exceptions Usage
 # About exceptions
 
 An exception is an event, which occurs during the execution of a program, that disrupts the normal flow of the program's instructions[1]. Exceptions are usually handled by switching the execution to a specific subroutine known as an exception handler [2].

@@ -1,7 +1,7 @@
 ---
 Title: The life of a bug report
 ---
-
+#The life of a bug report
 #<font style="color:red;">This project is unavailable since it already has been assigned to a BSc student.</font>
 <br><p><font style="color:grey;">
 #Introduction

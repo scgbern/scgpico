@@ -1,7 +1,7 @@
 ---
 Title: How to get a number for a technical report
 ---
-
+#How to get a number for a technical report
 The procedure is explained in German on the following page:
 http://www.iam.unibe.ch/publikationen/techreports/richtlinien
 

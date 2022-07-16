@@ -1,19 +1,21 @@
 ---
 Title: Dynamic Variable
 ---
-
+#Dynamic Variable
 Smalltalk has a mechanism to simulate dynamic variables. 
 
 #Smalltalk DynamicVariable
 
-```DynamicVariable subclass: #RegularDynamicVariable
+```
+DynamicVariable subclass: #RegularDynamicVariable
 	instanceVariableNames: ''
 	classVariableNames: ''
 	poolDictionaries: ''
 	category: 'ActiveContext-Examples'
 ```
 
-```[
+```
+[
 	RegularDynamicVariable value: 1 during:[
 		self checkRegularDynamic: 1.
 		(Delay forMilliseconds: 30) wait.
@@ -32,7 +34,8 @@ Smalltalk has a mechanism to simulate dynamic variables.
 
 #With Active Context
 
-```Context subclass: #DynamicContextTest
+```
+Context subclass: #DynamicContextTest
 	instanceVariableNames: 'targetVar targetVal'
 	classVariableNames: ''
 	poolDictionaries: ''
@@ -41,7 +44,8 @@ Smalltalk has a mechanism to simulate dynamic variables.
 
 The transfer function copy everything except targetVar which is initialized to targetVal.
 
-```DynamicContextTest>>transitionKeysFrom: keysFrom keysTo: keysTo
+```
+DynamicContextTest>>transitionKeysFrom: keysFrom keysTo: keysTo
 keysFrom keysAndValuesDo: [ :key :val | 	 
 	( keysTo at: key ) ifNil: [ 
 		(key = targetVar ) 
@@ -53,7 +57,8 @@ keysFrom keysAndValuesDo: [ :key :val |
 
 The code is then similar, except that the dynamic variable can be accessed with value as usual.
 
-```[
+```
+[
 	( DynamicContextTest with: 1 ) do: [ 
 		self checkContextDynamic: 1.
 		(Delay forMilliseconds: 30) wait.

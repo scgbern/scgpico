@@ -1,7 +1,7 @@
 ---
 Title: Derive the contextual information from developer's questions
 ---
-
+#Derive the contextual information from developer's questions
 #Introduction
 It's natural for developers to ask questions about software systems when they perform various tasks like refactoring, searching, developing a new feature and understanding the source code.  Common questions are asked regarding classes, functions, and project structure etc. Understanding a question fully can be very useful to derive the answer.
 
@@ -27,8 +27,8 @@ This project will shed light on extracting contextual information of a question,
 
 #further Material
 
--  [Identify developer information needs](http://scg.unibe.ch/download/softwarecomposition/2019-02-12-Richner-DeveloperNeeds.pdf)
--  Thesis>http://scg.unibe.ch/archive/projects/Rich19a.pdf\*
+-  [Identify developer information needs](/download/softwarecomposition/2019-02-12-Richner-DeveloperNeeds.pdf)
+-  Thesis>/archive/projects/Rich19a.pdf\*
 
 #Contact
 [Pooja Rani](%base_url%/staff/Pooja-Rani)

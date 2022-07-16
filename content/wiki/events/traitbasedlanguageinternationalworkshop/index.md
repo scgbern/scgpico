@@ -1,7 +1,7 @@
 ---
 Title: Trait-based Language International Workshop
 ---
-
+#Trait-based Language International Workshop
 Welcome to the wiki of the first international Workshop on trait-based languages
 
 Microsoft research accepted a project on [Traits](%base_url%/research/traits). The idea is to evaluate how traits can be implemented on the rotor system. Other people are working on traits for typed languages and we released a complete new implementation of the traits for Squeak. Finally some of you are working about new component model extending traits.  In this context we would like to take to opportunity to gather together people that work or have interest in traits.

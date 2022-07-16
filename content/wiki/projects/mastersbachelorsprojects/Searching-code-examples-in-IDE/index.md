@@ -1,7 +1,7 @@
 ---
 Title: Searching code examples in IDE using natural language queries
 ---
-
+#Searching code examples in IDE using natural language queries
 #Introduction
 As code search is important during interaction with IDEs, we looked for the questions developers ask while searching the source code.
 Studies have shown that the questions asked on Stack Overflow follow closely the pattern “how to”, which basically asks for simple instructions to solve a problem. 

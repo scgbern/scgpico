@@ -1,7 +1,7 @@
 ---
 Title: WOOR2004
 ---
-
+#WOOR2004
 Welcome to the Wiki of the International Workshop on Object-Oriented Reengineering
 
 The fifth edition was be held at ECOOP 2004. Check out [http://kilana.unibe.ch/woor](http://kilana.unibe.ch/woor) for this year's edition. 

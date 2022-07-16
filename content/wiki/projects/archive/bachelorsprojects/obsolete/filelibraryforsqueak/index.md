@@ -1,7 +1,7 @@
 ---
 Title: File Library for Squeak
 ---
-
+#File Library for Squeak
 Squeak (and many other Smalltalk dialects) have a minimal file library only. Navigating trough directories, iterating over file listings, extracting or setting file attributes is very cumbersome and mostly requires to deal with String objects. This is not something a beginner or somebody that wants to use Smalltalk for scripting would expect.
 
 The goal of this Bachelor Project is to implement a powerful file-library, with the following requirements:

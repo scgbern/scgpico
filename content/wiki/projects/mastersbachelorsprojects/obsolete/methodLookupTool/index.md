@@ -1,7 +1,7 @@
 ---
 Title: Tools for easier method lookup
 ---
-
+#Tools for easier method lookup
 When using an unfamiliar API or library developers spend time looking up the proper method to use (in documentation, or other browsers). The aim of the project is to develop a tool that would speed up this process. Through analysis of a large corpus of Smalltalk and Java projects we have mapped classes to methods that are frequently invoked on its instances. Using this data we aim to sort methods by frequency of use. This will expose the developer to methods more frequently used by other developers throughout the corpus. 
 
 TASKS:

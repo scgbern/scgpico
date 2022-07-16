@@ -1,7 +1,7 @@
 ---
 Title: How do I load a Squeaksource project?
 ---
-
+#How do I load a Squeaksource project?
 - **Q How do I load a Squeaksource project?**
 - **A**
 

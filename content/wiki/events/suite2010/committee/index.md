@@ -1,7 +1,7 @@
 ---
 Title: Organizing Committee
 ---
-
+#Organizing Committee
 
 - [Sushil Bajracharya](http://www.ics.uci.edu/~sbajrach), University of California Irvine, USA.
 -  [Adrian Kuhn](%base_url%/wiki/alumni/adriankuhn), University of Bern, Switzerland.

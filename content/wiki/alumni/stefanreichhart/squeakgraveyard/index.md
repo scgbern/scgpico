@@ -1,7 +1,7 @@
 ---
 Title: Squeak Graveyard
 ---
-
+#Squeak Graveyard
 
 | | | | | | |
 |---|---|---|---|---|---|
@@ -205,7 +205,8 @@ ClassBuilder
 -  no tests
 -  #name:inEnvironment:subclassOf:type:instanceVariableNames:classVariableNames:poolDictionaries:category:unsafe:
 -  #isReallyObsolete: aClassDescription
-```	"Returns whether the argument class is \*really\* obsolete. (Due to a bug, the method isObsolete
+```
+	"Returns whether the argument class is \*really\* obsolete. (Due to a bug, the method isObsolete
 	isObsolete does not always return the right answer"
 ```
 

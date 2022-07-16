@@ -2,7 +2,7 @@
 
 ---
 # Eclipse Plug-In
-[http://scg.unibe.ch/download/codemap](http://scg.unibe.ch/download/codemap)<br/>Requires Eclipse 3.5 and Java 6.
+[/download/codemap](/download/codemap)<br/>Requires Eclipse 3.5 and Java 6.
 
 ---
 # Source code

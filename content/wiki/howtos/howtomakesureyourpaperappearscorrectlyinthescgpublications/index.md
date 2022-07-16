@@ -1,7 +1,7 @@
 ---
 Title: How to make sure your paper appears correctly in the SCG Publications
 ---
-
+#How to make sure your paper appears correctly in the SCG Publications
 
 -  Once the paper has been published add citation details to the paper. For example:
 

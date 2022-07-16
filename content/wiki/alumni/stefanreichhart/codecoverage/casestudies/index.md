@@ -1,7 +1,7 @@
 ---
 Title: Case Studies
 ---
-
+#Case Studies
 updated: November 8, 2006
 
 #Packages (from SqueakSource)

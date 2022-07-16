@@ -1,7 +1,7 @@
 ---
 Title: PerfVis
 ---
-
+#PerfVis
 #Installation Guide
 This section provides a guide to set up the different parts of the visualization and configure them correctly. You need to set up 4 parts for the visualization to work: The Pharo environemt, the webserver, the Unity Project and the HoloLens. The setup can be run in two different ways:
 
@@ -32,7 +32,8 @@ Make sure that all machines are in the **same wireless network**.
 - Open the System Browser and select **Spy-Examples > Counting > S2C > visualization > recordData:**
 - Set the **file** reference to your prefered save location, for example **'Users/hess/Desktop/city-colors.csv'**
 - Open a new Playground and write
-```	profiler := S2C new.
+```
+	profiler := S2C new.
 	profiler startOnPackageNamed: 'Roassal2'.
 	profiler animatedVisualization.
 ```

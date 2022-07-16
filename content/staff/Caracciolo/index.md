@@ -1,7 +1,7 @@
 ---
 Title: Andrea Caracciolo
 ---
-
+#Andrea Caracciolo
 ![Caracciolo-pic](%assets_url%/files/8a/rsx3ngvrxv606svo9dctxd6165g6nc/me.jpg)
 
 
@@ -19,7 +19,7 @@ My PhD thesis deals with techniques that help keeping the architecture aligned w
 ##\+ **Projects**
 
 -  [Architectural Monitoring](%base_url%/research/arch-constr): automated testing of architectural rules
-	-  [Dicto](http://scg.unibe.ch/dicto): DSL prototype   
+	-  [Dicto](/dicto): DSL prototype   
 
 -  [Pangea 2.0](%base_url%/research/pangea):  language independent analyses on OO software corpora
 

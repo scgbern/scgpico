@@ -1,7 +1,7 @@
 ---
 Title: Translating M3 to MSE
 ---
-
+#Translating M3 to MSE
 [Moose](http://www.moosetechnology.org/) is a platform for software and data analysis, and [FAMIX](http://www.moosetechnology.org/docs/famix) is its language independent metamodel. [MSE](http://www.moosetechnology.org/docs/mse) is the interchange format used to import models of software into Moose to enable analysis. The bottleneck in generating models for different languages is that one must first write a parser and an MSE generator for that language.
 
 [Rascal](http://www.rascal-mpl.org/) is a meta-programming language for analyzing and transforming source code. It shares many similar goals with Moose. [M3](http://tutor.rascal-mpl.org/Rascal/Libraries/analysis/m3/m3.html) is the language-independent metamodel of Rascal, which shares many similarities with FAMIX, though FAMIX is inherently an object-oriented model and M3 is essentially functional. The Rascal project intends to develop M3 importers for many programming languages. By translating M3 models to FAMIX, there can be a fast path to importing software models into Moose as well.

@@ -1,7 +1,7 @@
 ---
 Title: How to apply for your PhD defense
 ---
-
+#How to apply for your PhD defense
 This page describes the steps that need to be taken to apply for your thesis defense (Pruefungsanmeldung). Disclaimer: This information is based on previous experience of Gabriela and Michele. 
 
 #Preparing the Pruefungsanmeldung

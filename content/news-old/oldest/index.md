@@ -1,7 +1,7 @@
 ---
 Title: Oldnews
 ---
-
+#Oldnews
 #Old SCG News
 <div class="date">2007-12-30</div> 
 

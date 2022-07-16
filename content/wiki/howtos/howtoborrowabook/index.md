@@ -1,7 +1,7 @@
 ---
 Title: How to borrow a book
 ---
-
+#How to borrow a book
 Each book in SCG library has been entered in our catalog available at [Library Thing](https://www.librarything.com/catalog/scg).
 
 For each book in the "Comments" column there is the information of where the book should be.

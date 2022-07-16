@@ -1,7 +1,7 @@
 ---
 Title: Pharo FAQ
 ---
-
+#Pharo FAQ
 #Installation
 - [Where do I get the latest Pharo?](%base_url%/wiki/faq/pharo/whereToGetTheLatestPharo)
 - [How do I load the latest Pharo updates?](%base_url%/wiki/faq/pharo/howToUpdatePharo)

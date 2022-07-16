@@ -1,7 +1,7 @@
 ---
 Title: Completed Tasks
 ---
-
+#Completed Tasks
 #Done
 
 -  move selected [SCG Wiki](%base_url%/wiki) research pages to [Research](%base_url%/research)

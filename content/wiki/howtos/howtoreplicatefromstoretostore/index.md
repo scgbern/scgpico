@@ -1,7 +1,7 @@
 ---
 Title: How to replicate from Store to Store
 ---
-
+#How to replicate from Store to Store
 
 - Put both accounts in the Store favorite list (e.g. "user at scg" and "user at cincom")
 - Connect to the Cincom Public Store

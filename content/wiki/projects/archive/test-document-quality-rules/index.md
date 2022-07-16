@@ -1,10 +1,11 @@
 ---
 Title: Test/Document framework for Quality Rules
 ---
-
+#Test/Document framework for Quality Rules
 Quality rules can be useful to detect issues in a source code. For example, a rule can suggest not to write:
 
-```if (boolCheck == true) { ... }
+```
+if (boolCheck == true) { ... }
 ```
 
 as it is a bad practice to compare a boolean value with the true literal.
@@ -16,13 +17,15 @@ Documentation is another common software development practice which quality rule
 The goal of this project is to develop a framework where a developer is only supposed to provide code snippers for the rule, and the framework will use them for testing and documentation generation. For example, a developer should only provide the following examples:
 
 Good:
-```if (boolCheck) {
+```
+if (boolCheck) {
 ...
 }
 ```
 
 Bad:
-```if (boolCheck == true) {
+```
+if (boolCheck == true) {
 ...
 }
 ```

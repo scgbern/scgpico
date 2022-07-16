@@ -1,7 +1,7 @@
 ---
 Title: Zeeguu
 ---
-
+#Zeeguu
 The goal of Zeeguu1 is to be a ubiquitous profile which monitors and trains a users vocabulary evolution as they are learning a new language. 
 
 As the learner constantly searches for word definitions while reading eBooks and navigating the web, or browsing dictionaries on his mobile phone, Zeeguu learns about queries and estimates their progress in learning the vocabulary of a new language. 

@@ -1,7 +1,7 @@
 ---
 Title: Understanding Program Comprehension
 ---
-
+#Understanding Program Comprehension
 Developers spend most of their time performing program comprehension. Understanding source code can be a very difficult task, especially in large software systems. Object-oriented features like polymorphism, and the problem of the lack of static type information hampers that process.
 
 In this project we aim to investigate how heavy use of object-oriented features influence program understanding process.

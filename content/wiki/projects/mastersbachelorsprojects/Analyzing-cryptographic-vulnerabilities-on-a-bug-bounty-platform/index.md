@@ -1,7 +1,7 @@
 ---
 Title: Analyzing cryptographic vulnerabilities on bug bounty platforms
 ---
-
+#Analyzing cryptographic vulnerabilities on bug bounty platforms
 Cryptographic algorithms are designed to halt adversaries from stealing or disclosing classified information. 
 Such algorithms are either FIPS-approved or NIST-recommended and have been analyzed extensively to ensure that they provide adequate security.
 However, a large number of studies in the broader literature have examined weaknesses in such algorithms as well as why developer performance is poor in this area.

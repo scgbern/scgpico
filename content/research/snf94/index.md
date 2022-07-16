@@ -1,7 +1,7 @@
 ---
 Title: Composing Active Objects 
 ---
-
+#Composing Active Objects 
 *Composing Active Objects* is a research project funded initially for two years by the Swiss National Science Foundation (SNSF # [21-40610.94](http://p3.snf.ch/Project-40610)).
 
 Increasingly, modern software systems are required to be open systems. Traditional software development techniques do not cope well with the needs of open systems, and in particular with rapidly changing requirements. Object-oriented languages and techniques offer some help in that they allow one to view an application as a flexible composition of properly encapsulated software components, i.e., objects. Object-oriented languages, however, (i) generally fail to provide a systematic view of concurrent behaviour, and (ii) provide only limited mechanisms for specifying and composing software components. This project aims to develop a new model for object-oriented software composition that cleanly integrates active objects and components, and demonstrate the practical value of the model by applying it to existing component sets.

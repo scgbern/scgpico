@@ -1,7 +1,7 @@
 ---
 Title: Melike Geçer
 ---
-
+#Melike Geçer
 Hello!
 
 I am a MSc student at the University of Bern. I am working on Debugging Spark Applications for my Master's Thesis with Haidar Osman.
@@ -19,10 +19,10 @@ My first presentation is available on SCG's website [3]
 My final presentation is available on SCG's website [4]
 
 
-[1] [http://scg.unibe.ch/wiki/projects/archive/strings-attached](http://scg.unibe.ch/wiki/projects/archive/strings-attached)
+[1] [/wiki/projects/archive/strings-attached](/wiki/projects/archive/strings-attached)
 
 [2] [https://github.com/melikegecer/MastersProjects/tree/master/Software_Composition_Seminar](https://github.com/melikegecer/MastersProjects/tree/master/Software_Composition_Seminar)
 
-[3] [http://scg.unibe.ch/download/softwarecomposition/2019-06-25-Gecer-DebuggingSpark.pdf](http://scg.unibe.ch/download/softwarecomposition/2019-06-25-Gecer-DebuggingSpark.pdf)
+[3] [/download/softwarecomposition/2019-06-25-Gecer-DebuggingSpark.pdf](/download/softwarecomposition/2019-06-25-Gecer-DebuggingSpark.pdf)
 
-[4] [http://scg.unibe.ch/download/softwarecomposition/2019-12-10-MelikeGecer-Debugging%20Spark.pdf](http://scg.unibe.ch/download/softwarecomposition/2019-12-10-MelikeGecer-Debugging%20Spark.pdf)
+[4] [/download/softwarecomposition/2019-12-10-MelikeGecer-Debugging%20Spark.pdf](/download/softwarecomposition/2019-12-10-MelikeGecer-Debugging%20Spark.pdf)

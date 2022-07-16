@@ -1,7 +1,7 @@
 ---
 Title: Debugging Actors
 ---
-
+#Debugging Actors
 # Why actors?
 
 The number of cores in current processors is continually increasing . To fully benefit from this increase, concurrency is a mandatory feature in software applications. Traditional solutions that rely on shared-state and blocking mechanisms behave well up to a certain number of cores. However, as the number of cores doubles every few years, in the near future these solutions will be no longer viable. Thus, new solutions are needed. One such solution introduced in the 1970's and popularised by languages like Erlang and Scala is the "actor model".
@@ -23,7 +23,7 @@ The goal of this project is to explore how debugging actors can be improved with
 
 # Benefits/Requirements/Challenges
 
-This project will give you the chance to learn about the actor model and about the construction of debuggers. The project will be done in [Pharo](http://www.pharo-project.org/%20), an open-source Smalltalk-inspired environment. You will see a language quite different from Java and C#. The new debugger will be implemented using the ["Moldable Debugger"](http://scg.unibe.ch/research/moldabledebugger)[2][3], a framework for creating domain-specific debuggers.
+This project will give you the chance to learn about the actor model and about the construction of debuggers. The project will be done in [Pharo](http://www.pharo-project.org/%20), an open-source Smalltalk-inspired environment. You will see a language quite different from Java and C#. The new debugger will be implemented using the ["Moldable Debugger"](/research/moldabledebugger)[2][3], a framework for creating domain-specific debuggers.
 
 You should apply for this project if you have good programming skills in any object-oriented language. Knowing anything about Pharo or actors is not required.
 
@@ -34,7 +34,7 @@ Available as a master project. (Different parts of the project can be extracted 
 
 -  [1] [Actors Model](http://en.wikipedia.org/wiki/Actor_model)
 -  [2] [Towards a Moldable Debugger](http://rmod.lille.inria.fr/archives/dyla13/dyla13_4_Towards_a_Moldable_Debugger.pdf)
--  [3] [The "Moldable Debugger" framework](http://scg.unibe.ch/research/moldabledebugger)
+-  [3] [The "Moldable Debugger" framework](/research/moldabledebugger)
 -  [4] [A first look at the Pharo debugger](http://chisvasileandrei.wordpress.com/2013/10/24/a-first-look-at-the-pharo-debugger/)
 -  [5] [Actalk](http://www.researchgate.net/publication/2727006_Actalk_a_Testbed_for_Classifying_and_Designing_Actor_Languages_in_the_Smalltalk-80_Environment/file/9fcfd50bc758f55222.pdf)
 -  [6] [Actors in Smalltalk-80](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.41.7827&rep=rep1&type=pdf%20)

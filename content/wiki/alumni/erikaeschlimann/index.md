@@ -1,7 +1,7 @@
 ---
 Title: Erik Aeschlimann
 ---
-
+#Erik Aeschlimann
 #**My Master Project:**
 The goal is to deliver analysis tools for programming language PL/I
 
@@ -22,7 +22,7 @@ DM5000: YDMU900,YDMU300, YDMU900-E1 (YDMU900&mdash;YDMU900-E1)
 DM8000: YDMGETB
 
 Eventually, the exported info should be in MSE format conforming to the 
-FAME meta-model. Read more at: http://scg.unibe.ch/wiki/projects/fame/mse
+FAME meta-model. Read more at: /wiki/projects/fame/mse
 
 **M0.2: hierarchical structure of the system**
 

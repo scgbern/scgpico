@@ -1,7 +1,7 @@
 ---
 Title: Font Size Buttons
 ---
-
+#Font Size Buttons
 A single-click to change the font size in Eclipse.
 
 It has been done!

@@ -1,7 +1,7 @@
 ---
 Title: Gameboy Emulator using the PyPy Toolkit
 ---
-
+#Gameboy Emulator using the PyPy Toolkit
 ###Why PyPy
 [PyPy](http://codespeak.net/pypy) is a toolkit designed to implement Virtual Machines for dynamic languages in elegant ways, without losing too much performance. The advantage of the toolkit over other approaches is that it allows programmers to write VMs using the high-level language [RPython](http://codespeak.net/pypy/dist/pypy/doc/coding-guide.html#restricted-python), which is a Restricted version of Python (subset), which can then be compiled down to different back-end languages such as C, JavaScript, Java Virtual Machine, Low Level Virtual Machine and Common Language Infrastructure (on which C# runs, for example). Next to this, it also provides implementations for features generally needed by Virtual Machines for dynamic languages such as just-in-time compilation (JIT) and a garbage collector.
 

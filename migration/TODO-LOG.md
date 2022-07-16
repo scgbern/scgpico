@@ -6,8 +6,8 @@ This file lists pending migration todos, past todos (done) and a brief FAQ.
 ---
 # Migration to do
 
-* After fixes check again all links
-	- Sync again from yogi to cindy, regenerate testscg and check links again
+* Changed all explicit references to http://scg.unibe.ch/ to /
+	* ... Run linkchecker to verify nothing is broken
 
 * Clean up the testscg folder
 	- Copy the assets folders from the old server to the root of the new server
@@ -36,6 +36,32 @@ This file lists pending migration todos, past todos (done) and a brief FAQ.
 
 ---
 ## DONE
+
+- Merged the sidebar css into the main style
+
+- Added missing page title as a heading to each page
+
+- Fixed on pier
+	http://testscg.unibe.ch/staff/fabrizioperin
+	http://testscg.unibe.ch/staff/Mohammad-Ghafari
+	http://testscg.unibe.ch/wiki/alumni/kirill
+	http://testscg.unibe.ch/research/bifrost
+	http://testscg.unibe.ch/research/bifrost/prisma
+	http://testscg.unibe.ch/research/mediavis
+	http://testscg.unibe.ch/research/pinocchio
+	http://testscg.unibe.ch/teaching/archive/legoClasses
+	http://testscg.unibe.ch/staff/mircea
+	http://testscg.unibe.ch/staff/Boris-Spasojevic
+	http://testscg.unibe.ch/staff/NitishPatkar
+
+- Replaced embedded HTML links by iframes
+	http://testscg.unibe.ch/research/CommunityExplorer
+	http://testscg.unibe.ch/research/meta-vis
+
+- Fixed visitPreFormatted: to add a newline
+	- Checked these pages again:
+	http://testscg.unibe.ch/wiki/howtos/howtomakeyourcamerareadypdfpassthroughthepdfcheck
+	http://testscg.unibe.ch/wiki/howtos/howtoinstallamacfromscratch
 
 - Added a nice photo to the home page
 
@@ -321,6 +347,9 @@ Dump the exported files into the content folder.
 
 ---
 # FAQ
+
+* Q How best to encode scgbib queries?
+	- */scgbib/?query=xxx*
 
 * Q How to use flex?
 	“flex” is shorthand for flex-grow, flex-shrink and flex-basis combined. 

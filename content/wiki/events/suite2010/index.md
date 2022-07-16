@@ -1,7 +1,7 @@
 ---
 Title: Suite 2010
 ---
-
+#Suite 2010
 # &rarr; [Workshop Programme & Sessions are up](%base_url%/wiki/events/suite2010/program) *!*
 
 The **SUITE workshop series** focuses on exploring search as a fundamental activity during software development. The [first edition of SUITE](%base_url%/wiki/events/suite2009) was held at ICSE 2009 in Vancouver. SUITE 2010, like its predecessor, will devote attention to various research topics pertaining to the information needs of software developers. This year in SUITE 2010, we plan to emphasize open issues identified in SUITE 2009. We also aim to continue building an active network of people interested in the research area that SUITE addresses. 

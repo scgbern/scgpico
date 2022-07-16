@@ -1,7 +1,7 @@
 ---
 Title: OmniBrowser Dojo
 ---
-
+#OmniBrowser Dojo
 For the OmniBrowser Dojo next Tuesday (December 11, 2007) I suggest the following setup:
 
 We use an image with the latest OmniBrowser and all its tests installed. At the beginning of the Dojo, we agree on one or two projects we want to realize (eg. implementing a Finder-like file browser with OB). Then I will give a very short presentation about OB to reach a common ground.
@@ -69,7 +69,8 @@ We created a class DJFileFinder and DJDirectory node.
 
 We created a Monticello package and published what we did so far
 
-``` MCHttpRepository
+```
+ MCHttpRepository
     location: 'http://www.squeaksource.com/omnidojo'
     user: ''
     password: ''

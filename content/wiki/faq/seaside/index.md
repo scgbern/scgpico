@@ -1,7 +1,7 @@
 ---
 Title: Seaside FAQ
 ---
-
+#Seaside FAQ
 
 ---
 - [How do I install seaside from scratch?](%base_url%/wiki/faq/seaside/howToInstallSeaside)

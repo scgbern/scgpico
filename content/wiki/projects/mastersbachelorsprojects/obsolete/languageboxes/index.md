@@ -1,7 +1,7 @@
 ---
 Title: Language Boxes
 ---
-
+#Language Boxes
 [Language Boxes](%base_url%/research/helvetia/languageboxes) are language changes as a first-class entities that bend the syntax and semantics of the host language. There is a prototypical implementation for a dynamically typed programming language. 
 
 Different master projects around this topic are possible:

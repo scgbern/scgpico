@@ -1,7 +1,7 @@
 ---
 Title: Parsing F# with Petit Parser
 ---
-
+#Parsing F# with Petit Parser
 The goal of this project is to implement F# grammar in Petit Parser.
 F# is an indentation sensitive language.
 It means that the spaces and tabulators matters and might change syntax of a program.
@@ -19,7 +19,7 @@ Contact: [Jan Kurš](%base_url%/staff/kursjan) or [Milan Kubicek](%base_url%/wik
 
 **Slides**
 
-[Project introduction](http://scg.unibe.ch/download/softwarecomposition/2015.01.06_FSharp_Intro_MilanKubicek_compr.pdf)
+[Project introduction](/download/softwarecomposition/2015.01.06_FSharp_Intro_MilanKubicek_compr.pdf)
 
 [Project results](https://www.dropbox.com/s/9uq5jof7ziouldq/2015.09.29_Parsing_FSharp_BSC_Presentation_2_Milan_Kubicek.pdf?dl=0)
 

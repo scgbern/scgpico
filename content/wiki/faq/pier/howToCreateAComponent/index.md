@@ -1,10 +1,11 @@
 ---
 Title: How do I programmatically create a new Pier component?
 ---
-
+#How do I programmatically create a new Pier component?
 - **Q How do I programmatically create a new Pier component?**
 - **A** As above, but:
-```file := (PRFile named: self pierName)
+```
+file := (PRFile named: self pierName)
 	filename: self pierName;
 	mimetype: (MAFileModel mimetypeFor: (self pierName copyAfterLast: $.));
 	yourself.

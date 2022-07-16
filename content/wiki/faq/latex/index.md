@@ -1,7 +1,7 @@
 ---
 Title: LaTeX FAQ
 ---
-
+#LaTeX FAQ
 #Figures
 - [How can I adjust the width of a figure width to the column width?](%base_url%/wiki/faq/latex/howToAdjustFigureToColumnWidth)
 - [How do I make a figure span two columns?](%base_url%/wiki/faq/latex/howToMakeFiguresSpanColumns)

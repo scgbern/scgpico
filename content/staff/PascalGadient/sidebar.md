@@ -1,7 +1,7 @@
 
 | | |
 |---|---|
-|<img style="text-align:center" src="http://scg.unibe.ch/download/pgadient/pascal.gadient.jpg" />|
+|<img style="text-align:center" src="/download/pgadient/pascal.gadient.jpg" />|
 |&nbsp;|
 #Quick Links
 

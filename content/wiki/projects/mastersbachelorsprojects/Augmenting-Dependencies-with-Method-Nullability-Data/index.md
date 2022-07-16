@@ -1,7 +1,7 @@
 ---
 Title: Augmenting Dependencies with Method Nullability Data
 ---
-
+#Augmenting Dependencies with Method Nullability Data
 In an empirical study we have measured how often which methods of an API are checked for null.
 This nullability information can be used to infer method nullness, so that we can suggest to developers which methods they need to check and which they do not need to if they are exploring an unfamiliar or undocumented API.
 We have built an Eclipse plugin that integrates this information into the source code editor by deriving external annotations and extending the documentation.

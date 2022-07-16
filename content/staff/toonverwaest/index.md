@@ -1,15 +1,14 @@
 ---
 Title: Toon Verwaest
 ---
-
-<span class="passfoto" style="float: right"><img src="http://www.iam.unibe.ch/~verwaest/images/firenze.jpg" style="width: 14em"/>
-From October 2007 until March 2012 I've worked on my [PhD thesis](http://scg.unibe.ch/scgbib?query=Verw12a&display=abstract) in this group.
+#Toon Verwaest
+From October 2007 until March 2012 I've worked on my [PhD thesis](/scgbib?query=Verw12a&display=abstract) in this group.
 
 For my PhD I've worked on [Pinocchio](%base_url%/research/pinocchio), a fully open but safe reflective system for language experimentation. Initially it bootstraps to a [Smalltalk](http://www.pharo-project.org)-like language.
 
 I just started at Google Munich where I'll work on the V8 JavaScript engine.
 
-[Contact](%base_url%/staff/toonverwaest/contact) | [Publications](%assets_url%/scgbib/?query=Toon Verwaest&filter=Year) | [CV](%base_url%/staff/toonverwaest/cv)
+[Contact](%base_url%/staff/toonverwaest/contact) | [CV](%base_url%/staff/toonverwaest/cv)
 
 ###Activities
 
@@ -34,7 +33,7 @@ I just started at Google Munich where I'll work on the V8 JavaScript engine.
 
 ###Projects
 
--  <b>Pinocchio</b>: An open system for language experimentation [![http://bender.unibe.ch/~tverwaes/picon.png](http://bender.unibe.ch/~tverwaes/picon.png)](%base_url%/research/pinocchio)
+-  <b>Pinocchio</b>: An open system for language experimentation ([link](%base_url%/research/pinocchio))
 -  <b>Pharo</b>: Pharo is a clean, innovative, open-source Smalltalk-inspired environment ([link](http://www.pharo-project.org/))
 -  <b>JUnitWire</b>: Testing framework based on [JExample](%base_url%/research/jexample) ([link](%base_url%/wiki/projects/archive/junitwire))
 -  <b>Moose</b>: Re-engineering framework ([link](http://moose.unibe.ch))

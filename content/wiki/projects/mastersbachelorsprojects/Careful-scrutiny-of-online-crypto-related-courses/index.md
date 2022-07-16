@@ -1,7 +1,7 @@
 ---
 Title: Careful scrutiny of online crypto-related courses
 ---
-
+#Careful scrutiny of online crypto-related courses
 <B> Background: </B> Given the rapid rise of cyber threats, the dire need of having secure systems cannot be overstated.
 To impede data thefts either in transit, in use, or at rest, one of the most reliable approaches is to use cryptography.
 Nonetheless, fatal mistakes in cryptography have inflicted irreversible damage on major businesses.

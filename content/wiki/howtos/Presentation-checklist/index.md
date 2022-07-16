@@ -1,7 +1,7 @@
 ---
 Title: Presentation checklist
 ---
-
+#Presentation checklist
 This checklist is partially inspired from the slides and talk of [Prof. Dr. Steffen Becker](https://www.uni-stuttgart.de/presse/experten/Prof.-Dr.-Steffen-Becker/) and [Prof. Dr. Michele Lanza](http://www.inf.usi.ch/lanza/), and our own experience
 
 ##Structure 

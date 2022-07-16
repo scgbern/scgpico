@@ -1,13 +1,10 @@
 ---
 Title: Boris Spasojević
 ---
-
-Research assistant at the Software Composition Group<br>
-<br>
-email: spasojev|at|iam.unibe.ch<br>
-office phone: \+41 (0)31 511 7636<br>
+#Boris Spasojević
+Research assistant at the Software Composition Group
 mobile: \+41 (0)76 66 88 175<br>
-webpage: http://scg.unibe.ch/staff/Boris-Spasojevic <br>
+webpage: /staff/Boris-Spasojevic <br>
 office number: 101
 
 Currently available student projects:
@@ -23,4 +20,4 @@ Currently available student projects:
 -  [GTInspector + FreQ](%base_url%/wiki/projects/mastersbachelorsprojects/obsolete/GTInspector_FreQ)
 
 #Publications
-[Author Page](%assets_url%/scgbib/?query=Boris Spasojev&filter=Year)
+[Author Page](%assets_url%/scgbib/?query=Spasojev&filter=Year)

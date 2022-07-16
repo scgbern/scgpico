@@ -1,7 +1,7 @@
 ---
 Title: How to use subversion
 ---
-
+#How to use subversion
 <b>Q How do I install a subversion client?
 </b>A You can grab an installer for Mac OSX from here: [http://www.codingmonkeys.de/mbo/](http://www.codingmonkeys.de/mbo/) (see download links on the right panel)
 
@@ -9,11 +9,13 @@ Title: How to use subversion
 </b>A You should add a user and password for yourself using htpasswd to the password file (in ~scg/.subversion/).  Please read the README-FIRST.txt that is on asterix in the .subversion directory. 
 
 1. To add yourself as a new user, please generate a new login/password by running:
-``` htpasswd svn-auth <login>
+```
+ htpasswd svn-auth <login>
 ```
 
 2. Once in asterix:/home/scg/.subversion edit the svn-access file to add your user. Generate a new login/password by running:
-``` htpasswd svn-auth <login>
+```
+ htpasswd svn-auth <login>
 ```
 
 3. You can test it by opening the following URL:
@@ -34,10 +36,12 @@ A  Make sure you are in the directory where the files are that you want to impor
 
 <b>Q Can I set an environment variable to tell svn which repository to use?
 </b>A No. But you only need to specify the repository when importing a new directory or checking out an existing one. You might want to define an environment variable as follows:
-``` setenv sv https://www.iam.unibe.ch/scg/svn_repos
+```
+ setenv sv https://www.iam.unibe.ch/scg/svn_repos
 ```
 Then you can simply checkout as follows:
-``` svn co $sv/scgbib
+```
+ svn co $sv/scgbib
 ```
 
 <b>Q How does svn differ from cvs?
@@ -45,7 +49,8 @@ Then you can simply checkout as follows:
 
 <b>Q How can I migrate my cvs project to svn?
 </b>Login to scg@asterix and run the script scgcvs2svn. For example:
-``` svn mkdir https://www.iam.unibe.ch/scg/svn_repos/Moose
+```
+ svn mkdir https://www.iam.unibe.ch/scg/svn_repos/Moose
  scgcvs2svn ParsingByExample Moose/ParsingByExample
 ```
 This will take the ParsingByExample cvs project and migrate it to the svn directory Moose/ParsingByExample. There is a -to flag if you only want to migrate the trunk (i.e., no branches or tags). If you want to get rid of the branches, tags and trunk directories altogether, use the commands <code>svn mkdir</code>, <code>svn mv</code> and <code>svn delete</code> to restructure the migrated project.
@@ -66,7 +71,8 @@ For papers, this means we can make copies of all stages of a paper, eg.
 - archivedCONF05
 - trunk [the main working version]
 and so on.
-``` svn copy trunk/   submittedCONF05
+```
+ svn copy trunk/   submittedCONF05
 ```
 will do the copy. The nice thing now is that we can now add to this copy. (E.g., to add later the pdf and the comments of the reviewers as Reviews.txt) Same with the others: the camera-ready copy will get its PDF, the archivedSCG will have the modifications for the citation infos in the tex and the final PDF (named like the one in the scg archive. This way we can retain the complete history easily, e.g. rejected submissions and a journal version can be continued with full history of the conference version.
 
@@ -87,7 +93,8 @@ will do the copy. The nice thing now is that we can now add to this copy. (E.g.,
 
 <b>Q I am using Omnigraffle 4 and it saves .graffle directories, not files. What can I do? </b>
 In the Terminal, execute
-```  defaults write com.omnigroup.OmniGraffle PrivateGraffleFlatFile 0
+```
+  defaults write com.omnigroup.OmniGraffle PrivateGraffleFlatFile 0
 ```
 
 <b> Q I get strange errors with an elsart.cls moved over from CVS. What's the problem? </b>
@@ -96,7 +103,8 @@ elseart.cls uses a feature of CVS that sets the version info inside the file. Wh
 <b> Q pdfs and pictures are added as text files. What can I do? </b>
 edit ~/.subversion/config, at the end of the file:
 
-``` enable-auto-props = yes
+```
+ enable-auto-props = yes
 
  \*.bat = svn:mime-type=text/plain;svn:eol-style=native
  \*.bmp = svn:mime-type=image/bmp

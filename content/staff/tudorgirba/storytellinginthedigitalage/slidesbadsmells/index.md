@@ -1,7 +1,7 @@
 ---
 Title: Slides Bad Smells
 ---
-
+#Slides Bad Smells
 "If it smells change it" - Grandma Kent. Bad smells can be erradicated using [Slides Refactorings](%base_url%/staff/tudorgirba/storytellinginthedigitalage/slidesrefactorings).
 
 Generic bad smells:

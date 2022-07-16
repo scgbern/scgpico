@@ -1,6 +1,6 @@
 <h1><a name="Download"></a>Download</h1> 
 
-The Classbox/J compiler is available on two platforms: [MacOSX](http://scg.unibe.ch/download/cbj/CBJ_MacOSX.zip) and [Linux](http://scg.unibe.ch/download/cbj/CBJ_Linux.zip).
+The Classbox/J compiler is available on two platforms: [MacOSX](/download/cbj/CBJ_MacOSX.zip) and [Linux](/download/cbj/CBJ_Linux.zip).
 
  
 #Links

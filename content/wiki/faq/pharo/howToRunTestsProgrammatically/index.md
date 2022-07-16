@@ -1,10 +1,11 @@
 ---
 Title: How do I programmatically run tests of specific categories?
 ---
-
+#How do I programmatically run tests of specific categories?
 - **Q How do I programmatically run tests of specific categories?**
 - **A**
-```| tr |
+```
+| tr |
 tr := TestRunner new.
 ToolBuilder open: tr.
 tr

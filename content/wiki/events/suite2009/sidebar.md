@@ -2,7 +2,7 @@
 
 
 -  [Suite-2009-workshop-reader.pdf](http://www.iam.unibe.ch/~scg/download/suite/Suite-2009-workshop-reader.pdf)
--  [suite2009.bib](http://scg.unibe.ch/download/suite/suite2009.bib)
+-  [suite2009.bib](/download/suite/suite2009.bib)
 
 # Navigation
 

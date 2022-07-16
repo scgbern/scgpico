@@ -1,7 +1,7 @@
 ---
 Title: PharoConf | MooseDay | 2013
 ---
-
+#PharoConf | MooseDay | 2013
 #PharoConf (April 2,3) <br/> [www.pharo-project.org](http://pharo-project.org) <br/> [@pharoproject](http://twitter.com/pharoproject)
 
 
@@ -75,7 +75,7 @@ For organizational purposes, please just register online:
 ##Venue
 The conference will be held at:
 
-University of Berne, <br/> Engehaldestr 8 <br/> Room 001 ([see directions](http://scg.unibe.ch/contact/maps))
+University of Berne, <br/> Engehaldestr 8 <br/> Room 001 ([see directions](/contact/maps))
 
 
 ##Hotels

@@ -1,7 +1,7 @@
 ---
 Title: How to get eduroam to work
 ---
-
+#How to get eduroam to work
 # First try setting it up manually:
 
 

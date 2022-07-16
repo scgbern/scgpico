@@ -1,7 +1,7 @@
 ---
 Title: WOOR2005 Dynamic Analysis
 ---
-
+#WOOR2005 Dynamic Analysis
 The goal for the Dynamic Analysis working group during WOOR is to spend 1/2 a day comparing the results our tools/approaches recovered from the same case. Here are some instructions to you in order to make the necessary preparations.
 
 #THE SCENARIO

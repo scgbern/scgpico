@@ -1,7 +1,7 @@
 ---
 Title: Directions to home
 ---
-
+#Directions to home
 #How to get to the Nierstrasz Home
 
 We live at [Fluhmattweg 41](http://map.search.ch/3122-kehrsatz/fluhmattweg-41.en.html) in Kehrsatz, just southwest of Bern, overlooking the Belp airport. Our postal address is: 

@@ -1,7 +1,7 @@
 ---
 Title: FAMIX extension for PHP
 ---
-
+#FAMIX extension for PHP
 #PHP is the new COBOL
 
 There is tons of PHP code out there, spaghetti code, unmaintainable code, and this code will last. Alas, because PHP is not a nice and static language as java it is rarely used in research, but there is a growing demand for analysis of PHP code and we want Moose to take part. A first step will be to parse PHP and model it in Moose, and then comes inventing and exploring new metrics and visualizations specialized for PHP, detecting patterns and defects particular to PHP and so on and so on... maybe even dynamic analysis might be an option.

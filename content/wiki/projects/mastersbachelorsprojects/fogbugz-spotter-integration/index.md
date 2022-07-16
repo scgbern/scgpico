@@ -1,7 +1,7 @@
 ---
 Title: Fogbugz-Pharo Integration
 ---
-
+#Fogbugz-Pharo Integration
 #Motivation
 Bug tracking systems are essential in software development as they allows teams to manage bugs, organize work and prioritize what's important. ![Fogbugz](http://www.fogcreek.com/fogbugz/) is a bug tracking system used by the ![Pharo](http://www.pharo.org) language. Fogbugz is a lightweight and easy to use bug tracker with great search functionality. 
 

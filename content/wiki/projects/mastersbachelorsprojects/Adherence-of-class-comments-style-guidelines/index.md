@@ -1,7 +1,7 @@
 ---
 Title: Adherence of class comments to the commenting style guidelines
 ---
-
+#Adherence of class comments to the commenting style guidelines
 #Introduction
 Coding style guidelines provide various conventions to write code or comments in a particular style. For example,  according to Java Oracle style guidelines, a class comment should provide high-level overview such as one-line summary, author information written with @author annotation. However, how often developers follow these commenting guidelines in their class comments, is not explored. Additionally, these guidelines differ across organizations, projects, or programming languages.
 A recent study [[Rani20a](https://arxiv.org/abs/2005.11583)] in Pharo explored the commenting guidelines for class comment.
@@ -14,7 +14,7 @@ They also found that Pharo developers follow commenting guidelines while writing
 -  To what extent developer class comments follow these commenting guidelines?
 -  To what extent existing style checkers or linters support checking commenting guidelines?
 
-NB: The project is an extension to the [previous-project](http://scg.unibe.ch/wiki/projects/mastersbachelorsprojects/How-class-comments-differ-in-common-programming-languages), and the initial four steps mentioned in the previous project are already accomplished. 
+NB: The project is an extension to the [previous-project](/wiki/projects/mastersbachelorsprojects/How-class-comments-differ-in-common-programming-languages), and the initial four steps mentioned in the previous project are already accomplished. 
 
 #Steps
 
@@ -26,8 +26,8 @@ NB: The project is an extension to the [previous-project](http://scg.unibe.ch/wi
 
 #Further Material
 
--  [Introduction to the topic](http://scg.unibe.ch/download/softwarecomposition/2020-11-10-Abukar-AdherenceClassCommentsStyleGuidelines.pdf)
--  [Progress](http://scg.unibe.ch/download/softwarecomposition/2021-05-04-Abukar-AdherenceClassCommentsStyleGuidelines.pdf)
+-  [Introduction to the topic](/download/softwarecomposition/2020-11-10-Abukar-AdherenceClassCommentsStyleGuidelines.pdf)
+-  [Progress](/download/softwarecomposition/2021-05-04-Abukar-AdherenceClassCommentsStyleGuidelines.pdf)
 
 #Contact
 

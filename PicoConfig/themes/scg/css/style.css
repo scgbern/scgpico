@@ -45,7 +45,7 @@ body { display: flex; flex-direction: column; }
 }
 
 .container {
-    max-width: 48em;
+    max-width: 75%;
     padding: 0 0.5em;
     margin: 0 auto;
 	  flex: 3 3 auto;
@@ -54,6 +54,16 @@ body { display: flex; flex-direction: column; }
 
 /* very ugly overflow fix, avoid this whenever possible! */
 #main .container { overflow-x: auto; }
+
+/*** The side navigation menu ***/
+
+.sidebar {
+  margin: 0em;
+  padding: 2em 0 1em;
+  max-width: 25%;
+  flex: 1 0 auto;
+  overflow: auto;
+}
 
 /*** BASIC LAYOUT: HEADER ***/
 
@@ -137,6 +147,14 @@ body { display: flex; flex-direction: column; }
 
     #title, #logo { padding: 2em 1.5em 2em 0; }
     #logo { height: 8.8em; }
+
+	  .sidebar {
+	    width: 100%;
+		  max-width: 100%;
+		  padding: 1em;
+	    height: auto;
+	    position: relative;
+	  }
 
     #nav {
         clear: both;

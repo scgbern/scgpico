@@ -1,7 +1,7 @@
 ---
 Title: Pangea 2.0
 ---
-
+#Pangea 2.0
 <iframe src="//www.slideshare.net/slideshow/embed_code/39626851" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> 
 </div>
 **Pangea enables running language independent analyses on corpora of OO software projects.** 
@@ -13,7 +13,8 @@ The main use case for Pangea is writing an analysis script, and deploying it in 
 
 The following is a script which is available as examples/noc.st file in your distribution. It prints to stdio the system name, and the number of classes in the system. 
 
-``` "Print the number of classes in the system"
+```
+ "Print the number of classes in the system"
  Script is: [ 
 	CommaSeparated values
 		* Pangea model systemName;
@@ -25,7 +26,8 @@ The following is a script which is available as examples/noc.st file in your dis
 
 To deploy the script on all the systems in the corpus and collect the results in a .csv file you run: 
 
-``` pangea run script -c QualitasCorpus-20120401r examples/noc.st  > noc.csv
+```
+ pangea run script -c QualitasCorpus-20120401r examples/noc.st  > noc.csv
 ```
 
 Visualizing the noc.csv we get a glimpse of the sizes of the systems in the corpus: 
@@ -43,18 +45,20 @@ Pangea runs on a Mac, but should also work on Linux and Windows, as long as bash
 Pangea can consume north of 20GB of space (10G sources and 20G of tools, models, and intermediate representations only for QualitasCorpus).
 
 #Available software corpora
-A list of currently supported software corpora can be found ![here](http://scg.unibe.ch/pangea/2.0/data/content.txt). 
+A list of currently supported software corpora can be found ![here](/pangea/2.0/data/content.txt). 
 
 
 #How to Install
 To install Pangea create a working folder, and run the following command: 
 
-``` git clone https://github.com/caracciolo/pangea.git
+```
+ git clone https://github.com/caracciolo/pangea.git
 ```
 
 Since pangea without a corpus, is like corn flakes without milk, now you can query the available corpora: 
 
-``` ./pangea corpora
+```
+ ./pangea corpora
  Available: 
   QualitasCorpus-20120401r Squeaksource-100 micro-qc
  Installed: 
@@ -63,7 +67,8 @@ Since pangea without a corpus, is like corn flakes without milk, now you can que
 
 The three corpora you see available are the Qualitas Corpus, a corpus of 100 Smalltalk systems, and a small test corpus, named micro-qc. Say that you want to install the Qualitas Corpus. In the Pangea folder you run the following two commands to get it:
 
-``` ./pangea get mse -c QualitasCorpus-20120401r
+```
+ ./pangea get mse -c QualitasCorpus-20120401r
  ./pangea make models -c QualitasCorpus-20120401r 
 ```
 
@@ -73,7 +78,8 @@ Step (2) will create Moose images for all the systems using the latest Moose [re
 
 If for your analysis you also need the sources of the systems, then you can run: 
 
-``` ./pangea get src -c QualitasCorpus-20120401r
+```
+ ./pangea get src -c QualitasCorpus-20120401r
 ```
 
 *Caveat:* about 2GB of data will downloaded for the mse models and the same for the sources. Depending on your connection and machine, this can take some time.

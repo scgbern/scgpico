@@ -1,12 +1,12 @@
 ---
 Title: Installation
 ---
-
+#Installation
 ChangeBoxes are tested and developed with Squeak 3.9. You need an image that is compiled with NewCompiler. Shout is always nice, too.
 
 ## Demo Image
 
--  Get a demo image with ChangeBoxes at [http://scg.unibe.ch/download/changeboxes/ChangeboxesDemo.zip](http://scg.unibe.ch/download/changeboxes/ChangeboxesDemo.zip) (25. 1. 2007)
+-  Get a demo image with ChangeBoxes at [/download/changeboxes/ChangeboxesDemo.zip](/download/changeboxes/ChangeboxesDemo.zip) (25. 1. 2007)
 -  For the latest version, get the ChangeBoxes and then ChangeBox-activation packages at [http://www.squeaksource.com/ChangeBoxes.html](http://www.squeaksource.com/ChangeBoxes.html)
 -  Run the SUnit Tests in ChangeBoxes-Tests in order to assert that everything went well
 
@@ -24,7 +24,8 @@ ChangeBoxes are tested and developed with Squeak 3.9. You need an image that is 
 #Monticello
 You can load the source from Monticello. Get ChangeBoxes first, then ChangeBox-activation.
 
-``` MCHttpRepository
+```
+ MCHttpRepository
     location: 'http://www.squeaksource.com/ChangeBoxes'
     user: ''
     password: ''

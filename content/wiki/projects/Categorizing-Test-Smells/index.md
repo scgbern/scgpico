@@ -1,7 +1,7 @@
 ---
 Title: Categorizing Test Smells
 ---
-
+#Categorizing Test Smells
 #Goal:
 
 

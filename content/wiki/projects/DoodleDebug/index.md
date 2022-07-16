@@ -1,7 +1,7 @@
 ---
 Title: DoodleDebug
 ---
-
+#DoodleDebug
 Visualize Java objects in a simple and powerful way.<br>
 ![DoodleDebug-logo](%assets_url%/files/ec/udkh75goo2569poq43luwd2ksqwy7t/DoodleDebug-logo_small.png)
 

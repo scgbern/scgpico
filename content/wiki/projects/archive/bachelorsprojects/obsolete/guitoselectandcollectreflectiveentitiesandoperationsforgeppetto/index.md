@@ -1,7 +1,7 @@
 ---
 Title: GUI to select and collect reflective entities and operations for Geppetto
 ---
-
+#GUI to select and collect reflective entities and operations for Geppetto
 Geppetto is a framework providing unanticipated partial behavioral reflection in Smalltalk (i.e., Squeak). Geppetto allows the developer to analyze and adapt the behavior of running applications by introducing so-called hooks, small pieces of code, into the binary (i.e., bytecode) of methods. Geppetto follows the model of hooksets and links, first proposed by [Reflex](http://reflex.dcc.uchile.cl/).
 
 To select reflective entities (i.e., packages, classes and methods which should be reflected with Geppetto) and to select specific operations to be reified (e.g., a message send to method #size in a reflective entity), the programmer has to enumerate and specify these selections in source code which is both time-consuming and complex. Furthermore, it is hard to see the "big picture", e.g., to see which entities of the system are currently reflective (i.e., where hooks are installed). 

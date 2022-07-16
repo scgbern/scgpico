@@ -1,7 +1,7 @@
 ---
 Title: Agile Software Analysis
 ---
-
+#Agile Software Analysis
 ![Asa-logo.png](%assets_url%/files/54/v4kl5a1k0snggemb5a6lfdmhj2phil/asa-logo.png)*Agile Software Analysis* is a project funded by the [Swiss National Science Foundation](http://www.snf.ch/) ([SNF project 200020_162352](http://p3.snf.ch/Project-162352).)
 The project is a continuation of [Agile Software Assessment](%base_url%/research/snf13)
 
@@ -31,4 +31,4 @@ Like its predecessor, this project is designed as four related PhD tracks (inclu
 
 In addition to disseminating the results of the research through academic publications, we will continue to release software artifacts (tools, IDE extensions etc.) as part of the Pharo development environment and the Moose analysis platform used by a wide community of academic and industrial partners.
 
-For more information, please consult the [Research Plan](http://scg.unibe.ch/download/projectreports/snf16-part2.pdf) of the project [pdf].
+For more information, please consult the [Research Plan](/download/projectreports/snf16-part2.pdf) of the project [pdf].

@@ -1,7 +1,7 @@
 ---
 Title: Luca Liechti
 ---
-
+#Luca Liechti
 Hello. I'm Luca. I'm writing my bachelor thesis with the SCG.
 
 [Inferring NoSQL Database Schemas](%base_url%/wiki/projects/InferringNoSQL-Database-Schemas)

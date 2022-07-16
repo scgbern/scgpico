@@ -1,7 +1,7 @@
 ---
 Title: SCG Movie Night
 ---
-
+#SCG Movie Night
 #SCG Movie Night date &mdash; December 17, 2021
 
 [Singin' in the Rain](https://en.wikipedia.org/wiki/Singin'_in_the_Rain) (1952) is at once a great musical, and very funny and clever comedy, and a commentary on the transition from slient to sound movies.

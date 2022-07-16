@@ -1,7 +1,7 @@
 ---
 Title: Lego Mindstorm
 ---
-
+#Lego Mindstorm
 Lego Mindstorm can be easily controlled within Squeak. 
 The PECOS model is a component model focused on embedded system. It has been implemented in Squeak.
 

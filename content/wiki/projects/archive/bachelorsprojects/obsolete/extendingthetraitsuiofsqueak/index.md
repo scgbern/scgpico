@@ -1,7 +1,7 @@
 ---
 Title: Extending the Traits UI of Squeak
 ---
-
+#Extending the Traits UI of Squeak
 Traits are new in the version 3.9 of Squeak but are still lacking a sophisticated user interface. The goal of this project would be to extend an early version of a traits browser which is based on the OmniBrowser framework. Ideas:
 
 

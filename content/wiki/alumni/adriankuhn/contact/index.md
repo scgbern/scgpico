@@ -1,7 +1,7 @@
 ---
 Title: Coordinates of Adrian Kuhn
 ---
-
+#Coordinates of Adrian Kuhn
 - [Email of Adrian Kuhn](%base_url%/wiki/alumni/adriankuhn/email)
 
 My working office is Room 206 in [Schützenmattstrasse 14](http://map.search.ch/bern/schuetzenmattstrasse-14). 
@@ -14,17 +14,20 @@ For history aficionados, the institute is located in the building of the former 
 
 Phone number of my office is
 
-```   +41 31 631 3547
+```
+   +41 31 631 3547
 ```
 
 Fax number of the SCG lab is
 
-```   +41 31 631 3355
+```
+   +41 31 631 3355
 ```
 
 Please address postal items as follows
 
-```   Adrian Kuhn
+```
+   Adrian Kuhn
    Software Composition Group
    Institut fuer Informatik
    Universitaet Bern

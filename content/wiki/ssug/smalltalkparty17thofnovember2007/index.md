@@ -1,7 +1,7 @@
 ---
 Title: Smalltalk Party, 17th of November 2007
 ---
-
+#Smalltalk Party, 17th of November 2007
 #What
 SSUG is organizing a <b>Smalltalk Gathering</b>. We invite all Smalltalkers to join this event to share their enthusiasm and knowledge about Smalltalk.
 

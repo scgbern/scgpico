@@ -1,7 +1,7 @@
 ---
 Title: Leonel Merino
 ---
-
+#Leonel Merino
 **This page is no longer maintained.** Since September 2018 I work as a postdoctoral researcher at the [Visualization Research Center](https://www.visus.uni-stuttgart.de/institut/mitarbeiter/Merino/?__locale=en) in the University of Stuttgart. Please visit my [new homepage](https://leonelmerino.github.io). 
 
 
@@ -14,7 +14,8 @@ My main research interests are in the areas of software visualization, program c
 <div style="background-color: #eeeeee">
 #Contact
 </div>
-```<contact>
+```
+<contact>
    <email>
       <work>merino [@] inf.unibe.ch</work>
       <private>leonelmerino [@] gmail.com</private>
@@ -143,7 +144,7 @@ My main research interests are in the areas of software visualization, program c
 - [Create](%base_url%/staff/merino/create-accessors) accessors automatically
 - [Random](%base_url%/staff/merino/RTRandomLayout) layout for Roassal
 - Winter school [poster](%assets_url%/files/91/9yaz5j7vo0dn9zizpl1l1fp970j2r9/poster-merino-2.pdf)
-- Planning a trip to the University of Chile (DCC)?. Some tips [ here ](http://scg.unibe.ch/staff/merino/Chile)
+- Planning a trip to the University of Chile (DCC)?. Some tips [ here ](/staff/merino/Chile)
 - [Community](%base_url%/staff/merino/Community)
 
 <div style="background-color: #eeeeee">

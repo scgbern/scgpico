@@ -1,10 +1,8 @@
 ---
 Title: Bifröst
 ---
-
-<div id="logo" style="position: relative; height: 50px">![http://scg.unibe.ch/download/Bifrost/BifrostLogoWhiteBackground.png](http://scg.unibe.ch/download/Bifrost/BifrostLogoWhiteBackground.png)</div>
-
-<br>
+#Bifröst
+![/download/Bifrost/BifrostLogoWhiteBackground.png](%assets_url%/download/Bifrost/BifrostLogoWhiteBackground.png)
 
 Bifröst is a unified approach to structural and behavioral reflection. Bifröst is a model of fined-grained unanticipated dynamic structural and behavioral adaptation. Instead of providing reflective capabilities as an external mechanism Bifröst integrates them deeply in the environment.
 Bifröst was previously known as Albedo.
@@ -23,7 +21,7 @@ To get started you can either use a ready-made one-click image (suggested), or t
 
 ##One-Click Image
 
--  Download the [Bifröst](http://scg.unibe.ch/download/Bifrost/bifrost-OneClick.app.zip) distribution.
+-  Download the [Bifröst](/download/Bifrost/bifrost-OneClick.app.zip) distribution.
 -  Launch the executable of your platform:
 	-  Mac: bifrost-OneClick.app
 	-  Linux: bifrost-OneClick.app/bifrost-OneClick.sh
@@ -32,7 +30,8 @@ To get started you can either use a ready-made one-click image (suggested), or t
 
 
 ##Loading
-```Gofer new 
+```
+Gofer new 
 	squeaksource: 'bifrost';
 	package: 'ConfigurationOfBifrost';
 	load.
@@ -42,10 +41,10 @@ To get started you can either use a ready-made one-click image (suggested), or t
 
 ##Tools using Bifröst
 
--  [Chameleon](http://scg.unibe.ch/research/bifrost/chameleon)
--  [Subjectopia](http://scg.unibe.ch/research/subjectopia)
--  [Talents](http://scg.unibe.ch/research/bifrost/talents)
--  [MetaSpy](http://scg.unibe.ch/research/bifrost/metaSpy)
+-  [Chameleon](/research/bifrost/chameleon)
+-  [Subjectopia](/research/subjectopia)
+-  [Talents](/research/bifrost/talents)
+-  [MetaSpy](/research/bifrost/metaSpy)
 
 #Contact
 

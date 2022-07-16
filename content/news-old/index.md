@@ -1,7 +1,7 @@
 ---
 Title: Old SCG News
 ---
-
+#Old SCG News
 #Old SCG News
 
 <div class="date">2009-04-17</div> 

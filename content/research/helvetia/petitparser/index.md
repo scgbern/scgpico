@@ -1,7 +1,7 @@
 ---
 Title: PetitParser
 ---
-
+#PetitParser
 <div id="logo" style="position: relative; height: 50px">![logo.png](%assets_url%/files/c0/gidr6vlrj4aw5k22a3y9fajle0qui0/petitparser-small.png)</div>
 
 Grammars for programming languages are traditionally specified statically. They are hard to compose and reuse due to ambiguities that inevitably arise. PetitParser combines ideas from scannerless parsing, parser combinators, parsing expression grammars and packrat parsers to model grammars and parsers as objects that can be reconfigured dynamically.
@@ -17,7 +17,8 @@ There is a dedicated chapter on PetitParser in [Deep into Pharo](http://rmod.lil
 
 Pharo Smalltalk is the main development environment of PetitParser. To load the core library evaluate the following code:
 
-```Gofer new
+```
+Gofer new
     renggli: 'petit'; 
     package: 'PetitParser';
     load.
@@ -25,7 +26,8 @@ Pharo Smalltalk is the main development environment of PetitParser. To load the 
 
 To get the full toolset, including a dedicated editor and some experimental tools, use the following Metacello script:
 
-```Gofer new
+```
+Gofer new
     renggli: 'petit';
     package: 'ConfigurationOfPetitParser';
     load.
@@ -39,12 +41,14 @@ PetitParser has been reported to also work in Squeak.
 
 To load the package PetitParser.star one can type:
 
-```gst-package http://smalltalk.gnu.org/project/petitparser/package.xml
+```
+gst-package http://smalltalk.gnu.org/project/petitparser/package.xml
 ```
 
 To load the PetitParser.star into the image do:
 
-```PackageLoader fileInPackage: 'PetitParser'
+```
+PackageLoader fileInPackage: 'PetitParser'
 ```
 
 There are some differences between the official PetitParser and this port. GNU Smalltalk does not support binary selectors that have more than two characters. This means that \==> and >=> had to be mapped to something else. I have picked => and >< for now.

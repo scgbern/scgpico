@@ -1,7 +1,7 @@
 ---
 Title: Visualizations for Eclipse
 ---
-
+#Visualizations for Eclipse
 Eclipse, as great as it is as a development environment, still lacks software visualization. This project's goal is to take the most popular visualizations used in [Moose](http://moose.unibe.ch) and port them to Eclipse. This may also include porting [Mondrian](http://moose.unibe.ch/tools/Mondrian) to Java, but you are free to use any visualization framework. Mondrian needs a dynamic language for its scripting facility. We suggest to use Groovy, or Rhino the new Javascript engine of Java 6.
 
 What you should know

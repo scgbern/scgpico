@@ -1,7 +1,7 @@
 ---
 Title: CUSO Seminar on Improving Presentation Skills
 ---
-
+#CUSO Seminar on Improving Presentation Skills
 #What?
 People attending this workshop should be able to spot key elements that will
 allow them to improve their skill to do presentations.

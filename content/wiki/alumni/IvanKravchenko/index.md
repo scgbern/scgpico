@@ -1,7 +1,7 @@
 ---
 Title: Ivan Kravchenko
 ---
-
+#Ivan Kravchenko
 Current behavior-driven development (BDD) practices promise to engage more stakeholders in an agile software development process through the use of behavior specifications of the software product. However, current capabilities for behavior specification restrict possible feedback as they fail to reliably connect the specification with the corresponding implementation.
 
 I analyze 14 BDD tools to observe their limitations for facilitating feedback between multiple stakeholders. Existing BDD tools differ in characteristics regarding their support for ubiquitous language and specification format.

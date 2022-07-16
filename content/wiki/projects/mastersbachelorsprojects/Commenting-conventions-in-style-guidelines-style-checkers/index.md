@@ -1,7 +1,7 @@
 ---
 Title: Comparison of commenting conventions covered by style guidelines and tools
 ---
-
+#Comparison of commenting conventions covered by style guidelines and tools
 #Introduction
 Code comments are written in natural language and their syntax is neither imposed by a programming language's grammar nor checked by its compiler. Therefore, writing consistent comments across projects is a major concern. To motivate developers to write consistent and readable comments, various communities provide coding style guidelines, including, amongst others, naming conventions, formatting conventions, and commenting conventions.
 
@@ -35,9 +35,9 @@ The project can be extended to a thesis project.
 
 ##Further Material
 
--  [Introduction to the topic](http://scg.unibe.ch/download/softwarecomposition/2021-03-30-Dooley-StyleCheckerSupport.pdf)
--  [Results](http://scg.unibe.ch/download/softwarecomposition/2021-06-29-Dooley-StyleCheckerSupport.pdf)
--  [Thesis](http://scg.unibe.ch/archive/projects/Dool21a.pdf) 
+-  [Introduction to the topic](/download/softwarecomposition/2021-03-30-Dooley-StyleCheckerSupport.pdf)
+-  [Results](/download/softwarecomposition/2021-06-29-Dooley-StyleCheckerSupport.pdf)
+-  [Thesis](/archive/projects/Dool21a.pdf) 
 
 #Contact
 [Pooja Rani](%base_url%/staff/Pooja-Rani)

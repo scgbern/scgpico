@@ -1,7 +1,7 @@
 ---
 Title: How do I install git locally under Mac OSX?
 ---
-
+#How do I install git locally under Mac OSX?
 - **Q How do I install git locally under Mac OSX?**
 - **A** Use these:
 

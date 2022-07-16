@@ -1,7 +1,7 @@
 ---
 Title: Domain specific Requirements Elicitation (RE) -- a user-centric approach
 ---
-
+#Domain specific Requirements Elicitation (RE) -- a user-centric approach
 Can we build a mobile app that gathers requirements from our customers for a software project? Can we make our app smart enough to export those requirements into development environment? By doing so can we ease our work? Let's figure out! 
 
 Domain modelling is an activity of creating a domain model that represents important and relevant aspects of the problem to be solved&mdash;- and the solution is a software. Domain modelling demands rigours domain knowledge, and such domain knowledge can only be uncovered through effective RE. Traditional RE methods are not suitable enough for domain specific demands during the elicitation phase e.g. discovering and specifying domain entities, their behaviours and their relationships with each other [1]. There exist domain-specific requirements languages (DSRLs) to overcome this barrier. However, it adds the burden of learning a new language for requirements engineer or business analyst.

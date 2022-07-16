@@ -1,7 +1,7 @@
 ---
 Title: Robert Niemiec
 ---
-
+#Robert Niemiec
 Requirements Engineering (RE) is a critical activity for every software project. Requirements serve as a discussion platform between stakeholders to achieve a shared vision of the product-to-be.
 
 The various artifacts used to present and document requirements are often dispersed between different platforms, tools and other mediums (e.g. e-mails, sticky notes). This makes consistent documentation and traceability potentially cumbersome.

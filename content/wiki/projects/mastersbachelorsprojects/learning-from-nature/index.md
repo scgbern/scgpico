@@ -1,7 +1,7 @@
 ---
 Title: Learning from nature: How nature resolves security issues
 ---
-
+#Learning from nature: How nature resolves security issues
 #<font style="color:red;">This project is unavailable since it already has been assigned to a BSc student.</font>
 <br><p><font style="color:grey;">
 #Introduction

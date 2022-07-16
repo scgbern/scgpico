@@ -1,7 +1,7 @@
 ---
 Title: FreQ
 ---
-
+#FreQ
 ![Freq-tmp-logo](%assets_url%/files/51/xmdxwrup9c62j54uhq85c3mslthm4h/Untitled-24.png)
 
 Freq is a plugin for the Pharo default browser called Nautilus. 
@@ -13,7 +13,8 @@ This plugin shows the most commonly used methods of classes. The information is 
 
 - Open workspace and execute
 
-```Gofer new
+```
+Gofer new
 url: 'http://smalltalkhub.com/mc/spasojev/FrequentlyUsedMethodsPluginForNautilus/main';
 package: 'ConfigurationOfFreQ';
 load.

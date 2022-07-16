@@ -1,7 +1,7 @@
 ---
 Title: Navigation History Browser
 ---
-
+#Navigation History Browser
 When we navigate a software system in an IDE, we typically open many many windows or tabs to browse various classes, methods and other artifacts. Soon we don't know anymore what we have already browsed in the past and what kind of windows we opened and/or closed. Some empirical experiments we conducted show us that developers browse often the same artifacts several times, often by closing the window containing the artifact and re-open it again after a while.
 
 The whole navigation process developers perform during a coding session is not recorded, there is no means to access the navigation history (ie. in which order developers opened which windows or performed which operations, eg. modifying, creating or removing artifacts). But this navigation history is interesting to exploit, because making it available to the developer could give a much better insight into the the navigation process being performed by the developer. Eventually an explicit and interactive access to the navigation history could help the developer saving time, eg. by giving him a quick access to previously browsed artifacts or by revealing what parts of the system he or she has already been inspected.

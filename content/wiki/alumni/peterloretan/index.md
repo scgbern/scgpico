@@ -1,10 +1,11 @@
 ---
 Title: Peter Loretan
 ---
-
+#Peter Loretan
 ## Software Cartographer Todos
 
-``` \[5.] Draw symbols on map, I will give you a block that returns the symbol for each location (or nil). 
+```
+ \[5.] Draw symbols on map, I will give you a block that returns the symbol for each location (or nil). 
  \[ ] Color by hapax topic
  \[ ] Do another example with author information (hackontest?)
  \[ ] Do hackontest case studies

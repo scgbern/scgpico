@@ -1,7 +1,7 @@
 ---
 Title: How to Fill out Travel Expenses when you get back from a Trip
 ---
-
+#How to Fill out Travel Expenses when you get back from a Trip
 The expenses form is available at: [Spesen-Form](%assets_url%/download/forms/)
 
 Our expenses are paid either by the Canton or by SNF.

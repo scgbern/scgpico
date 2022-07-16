@@ -1,7 +1,7 @@
 ---
 Title: Senseo
 ---
-
+#Senseo
 Senseo is an Eclipse plugin enhancing the Java perspective with various dynamic metrics such as number of objects created or amount of memory allocated in particular methods.
 Moreover, it enriches the source code views with precise information about message sends such as receiver or argument types, or number of invocations occurred at runtime.
 These metrics get aggregated over several system runs.

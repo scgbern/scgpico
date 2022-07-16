@@ -1,7 +1,7 @@
 ---
 Title: JUnitWire
 ---
-
+#JUnitWire
 <b>JUnitWire</b> is a testing framework for Java, based on the idea (and part of the code) of [JExample](%base_url%/research/jexample). It's an extension of JUnit which allows you to let tests work together, without this having a negative impact on test feedback.
 
 JUnitWire differs from JUnit in the same way as JExample does. If a test A depends on another test B which already failed, test A will be marked as skipped, rather than failed.
@@ -10,7 +10,8 @@ JUnitWire mostly differs from JExample in the way tests are wired together. Ther
 
 <br>
 
-```@Test
+```
+@Test
 public Set testAdd() {
     Set set = new TreeSet();
     set.add("Foo");

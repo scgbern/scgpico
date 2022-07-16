@@ -1,11 +1,12 @@
 ---
 Title: How can I prepare source code listings?
 ---
-
+#How can I prepare source code listings?
 - **Q How can I prepare source code listings?**
 - **A** \\usepackage{listings}
 See also [http://www.ctan.org/tex-archive/macros/latex/contrib/listings/listings.pdf](http://www.ctan.org/tex-archive/macros/latex/contrib/listings/listings.pdf)
-```\usepackage{listings}
+```
+\usepackage{listings}
 \usepackage{bold-extra}
 \lstset{
     language=PASCAL,

@@ -1,7 +1,7 @@
 ---
 Title: Patrick Indermühle
 ---
-
+#Patrick Indermühle
 I am a bachelor student currently working on a bachelor's thesis about Modular exceptions under the supervision of Oscar Nierstrasz.
 
 The aim of the Modular exceptions thesis is to create ways to attach exception handling to functions and methods without having to manually change the code. The goal is to keep the exception handling outside the method so as to not clutter the code. This will keep the code readable and stable. This is accomplished by using wrapper methods and meta-links among other solutions. The implementation of these wrappers and meta-links will be handled by the ModularExceptions class that is currently being developed. 

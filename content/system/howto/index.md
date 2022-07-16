@@ -1,7 +1,7 @@
 ---
 Title: How To
 ---
-
+#How To
 #General
 Please use lowercase characters to name pages and files. This is what you get asked for when creating a new structure or when moving one. The name of a structure is independent of the title and is used to refer to the page and to build the URL.
 

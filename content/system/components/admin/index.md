@@ -1,7 +1,7 @@
 ---
 Title: Admin
 ---
-
+#Admin
 <div class="admin footnote column span-24 last">
   <div class="column span-6">
     <h6>Navigation</h6>

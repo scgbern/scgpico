@@ -1,7 +1,7 @@
 ---
 Title: Demos Bad Smells
 ---
-
+#Demos Bad Smells
 Demos are a special breed of presentations. Their purpose is to show the live result of applying a certain experiment/technique/tool.
 
 

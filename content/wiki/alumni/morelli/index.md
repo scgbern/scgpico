@@ -1,7 +1,7 @@
 ---
 Title: Michael Morelli
 ---
+#Michael Morelli
 
-
--  [Bachelor Project Outline](http://scg.unibe.ch/wiki/students/morelli/Bachelor_Project_Outline)
--  [Potentially heuristics](http://scg.unibe.ch/wiki/students/morelli/potentially_heuristics)
+-  [Bachelor Project Outline](/wiki/students/morelli/Bachelor_Project_Outline)
+-  [Potentially heuristics](/wiki/students/morelli/potentially_heuristics)

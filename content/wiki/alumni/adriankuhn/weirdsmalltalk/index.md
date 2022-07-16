@@ -1,7 +1,7 @@
 ---
 Title: Weird Smalltalk
 ---
-
+#Weird Smalltalk
 This is weird
 
 [ structure renderListOfChildrenOn: html ]

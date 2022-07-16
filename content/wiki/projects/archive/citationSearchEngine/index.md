@@ -1,7 +1,7 @@
 ---
 Title: CiteWise: The Citation Search Engine
 ---
-
+#CiteWise: The Citation Search Engine
 #Project Idea:
 
 During the writing of a paper, one of the main difficulties is to find the right citation for some claims. For example: 

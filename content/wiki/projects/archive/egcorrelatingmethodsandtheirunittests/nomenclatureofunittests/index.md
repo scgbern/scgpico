@@ -1,7 +1,7 @@
 ---
 Title: Nomenclature of Unit Tests
 ---
-
+#Nomenclature of Unit Tests
 #Basic Definitions
 We first introduce some basic terminology, and then describe the categories of unit tests appearing in the taxonomy.
 ##Assertion
@@ -22,7 +22,8 @@ The dynamic program slice presented by Korel etal cite{Kore88a} is a part of a p
 ##Assertion slice
 An assertion slice of an assertion in a command is an intersection of all candidate methods called directly by the command and the dynamic program slice of the command up to the evaluation of the assertion and with respect to all variables used in the assertion. In the following example the program slice up to the first assertion with respect to variable c would not include the 4th statement and thus no call of the subtraction operator.
 
-```testSumAndSubstract
+```
+testSumAndSubstract
   a=1;
   b=1;
   c=a+b;
@@ -38,7 +39,8 @@ We say that a command **focuses on one method**, if it tests the result or side 
 We now describe and motivate each of the categories of unit tests appearing in the taxonomy. For each node of our taxonomy we present a real world example found in the Squeak unit tests. For more clarification see also figref{schema}.
 ##Command
 Unit tests are commands: The command receiver in the case of a XUnit test case can be constructed automatically, e.g. <code>new MyTestCase(myTestSelector)</code>. The whole command then looks like this:
-```new MyTestCase(myTestSelector)).run()
+```
+new MyTestCase(myTestSelector)).run()
 ```
 ##Method command
 A **command** that focuses on a single method.
@@ -46,13 +48,15 @@ A **command** that focuses on a single method.
 A method command which has assertions testing the outcome of **each call** of the method under test.
 ##Method test
 A method test command which tests the outcome of one call of a method under test. Example:
-```YearMonthWeekTest>>testIndexOfDay
+```
+YearMonthWeekTest>>testIndexOfDay
   self assert: (Week indexOfDay: 'Friday') = 6.
 ```
 </code>
 ##Method test suite
 A method test command which tests the outcome of the method under test in several situations. Example:
-```YearMonthWeekTest>>testDaysInMonth
+```
+YearMonthWeekTest>>testDaysInMonth
   self assert:
     (Month daysInMonth: 2 forYear: 2000) = 29.
   self assert:

@@ -1,9 +1,10 @@
 ---
 Title: Notes Concerning...
 ---
-
+#Notes Concerning...
 # AA Back
-``` 15.02.2010
+```
+ 15.02.2010
 ```
 
 # TODO I
@@ -39,20 +40,24 @@ Title: Notes Concerning...
 
 # json with jruby
 Native gem once again does not work. \*http://json-jruby.rubyforge.org/
-```sudo jruby -S gem install json-jruby
+```
+sudo jruby -S gem install json-jruby
 ```
 Or maybe use this?
-```sudo jruby -S gem install json_pure
+```
+sudo jruby -S gem install json_pure
 ```
 <br><br><br>
 
 # sqlite3 with ruby
 When you don't have the jdbc-sqlite3 adapter installed you get a helpful error message about a missing gem with the command for installing it listed &mdash; it lists the wrong name: 
 suggested install command: 
-```gem install activerecord-jdbc-sqlite3-adapter
+```
+gem install activerecord-jdbc-sqlite3-adapter
 ```
 actual install command: 
-```gem install activerecord-jdbcsqlite3-adapter
+```
+gem install activerecord-jdbcsqlite3-adapter
 ```
 <br><br><br>
 
@@ -77,35 +82,43 @@ Use Citeulike Account at<br>
 to export a personal .bib file<br>
 >> fgysin.bib<br>
 And attach both to the LaTex using
-```\bibliographystyle{abbrv}
+```
+\bibliographystyle{abbrv}
 \bibliography{scg,fgysin}
 ```
 Then you can cite using 
-```\cite{ ...bibTexKeys... }
+```
+\cite{ ...bibTexKeys... }
 ```
 <br><br><br>
 
 
 #IRC Client
 Command line based IRC client: irssi
-```/connect chat.freenote.net 8000
+```
+/connect chat.freenote.net 8000
 ```
 Connect to freenote hub.
-```/nick fgysin
+```
+/nick fgysin
 ```
 Change nick to 'fgysin'
-```/msg nickserv identify <password>
+```
+/msg nickserv identify <password>
 ```
 Identify the current nick with a password. (So you can actually use it...)
-```/join #jruby            /join 3206
+```
+/join #jruby            /join 3206
 ```
 Join a chat room.
-```/wc
+```
+/wc
 ```
 Leave a chat room.<br><br><br><br>
 
 #Ruby Require
-```puts $:
+```
+puts $:
 puts `pwd`
 ```
 Prints the load path, and the current folder (.). This is where require expects the things to import.<br><br><br><br>
@@ -137,13 +150,15 @@ Luke is a browser to browse Lucene indizes. Comes as a standalone .jar and has a
 
 #Java Source Code Parsing
 Lea's Code:
-```https://www.iam.unibe.ch/scg/svn_repos/Sources/JUnit3To4/src/ch/unibe/junit3to4/transformation/JUnit4Generator.java
+```
+https://www.iam.unibe.ch/scg/svn_repos/Sources/JUnit3To4/src/ch/unibe/junit3to4/transformation/JUnit4Generator.java
 ```
 
 The com.sun.tools classes actually are not meant to be used like that. If you want to do it anyway you must change warning type in Eclipse from error to warn. (Otherwise files wont compile...)
 
 Also there is not much doc around (no API, etc...), but one can download the src here:
-```http://hg.openjdk.java.net/jdk6/jdk6/langtools/archive/tip.zip
+```
+http://hg.openjdk.java.net/jdk6/jdk6/langtools/archive/tip.zip
 ```
 <br><br><br>
 
@@ -209,6 +224,7 @@ Also there is not much doc around (no API, etc...), but one can download the src
 - Smalltalk|1
 - Vala|1
 
-```select toplang, count(toplang) as nop from projects_light group by toplang order by nop desc;
+```
+select toplang, count(toplang) as nop from projects_light group by toplang order by nop desc;
 ```
 <br><br><br>

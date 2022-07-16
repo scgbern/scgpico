@@ -1,7 +1,7 @@
 ---
 Title: WOOR2005 Instructions  Practical arrangements
 ---
-
+#WOOR2005 Instructions  Practical arrangements
 Below find some late-breaking practical arrangements concerning the WOOR'05 Workshop at ECOOP.
 
 <h2>SCHEDULE</h2>

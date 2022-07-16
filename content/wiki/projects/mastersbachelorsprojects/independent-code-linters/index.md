@@ -1,7 +1,7 @@
 ---
 Title: Exploring Platform Independent Code Linting
 ---
-
+#Exploring Platform Independent Code Linting
 #Introduction
 Security code smells are complex and it is very time consuming to write linters for them.
 A linter is software that decides about the code, which must be highlighted in the editor view [1].
@@ -15,7 +15,8 @@ We will start with implementing an IntelliJ plug-in that supports generic lintin
 
 An example declaration for such a linter could be:
 
-```<linter name="Issue 001: 'Hello World' in production releases" language="Java">
+```
+<linter name="Issue 001: 'Hello World' in production releases" language="Java">
     <note>
         This linter highlights String variables with assigned "Hello World" values.
     </note>
@@ -29,7 +30,8 @@ An example declaration for such a linter could be:
 
 This should match the variable message in a code snippet like this:
 
-```String message = "Hello World!";
+```
+String message = "Hello World!";
 ```
 
 #Requirements

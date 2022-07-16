@@ -1,7 +1,7 @@
 ---
 Title: Traits - Composable Units of Behavior
 ---
-
+#Traits - Composable Units of Behavior
 Traits are a simple composition mechanism for structuring object-oriented programs. A Trait is essentially a parameterized set of methods; it serves as a behavioral building block for classes and is the primitive unit of code reuse. With Traits, classes are still organized in a single inheritance hierarchy, but they can make use of Traits to specify the incremental difference in behavior with respect to their superclasses.
 
 Unlike mixins and multiple inheritance, Traits do not employ inheritance as the composition operator. Instead, Trait composition is based on a set of composition operators that are *complementary* to single inheritance and result in better composition properties.

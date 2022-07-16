@@ -1,7 +1,7 @@
 ---
 Title: Identification of the class responsibility information from the Pharo class comments
 ---
-
+#Identification of the class responsibility information from the Pharo class comments
 #Introduction
 Comments in Pharo are expressed in a very different way compared to other programming languages. Writing documentation in other programming languages annotations and pseudo-English is used mostly omitting the subject of the sentence. Whereas in Pharo, the text is written freely in the comment.
 

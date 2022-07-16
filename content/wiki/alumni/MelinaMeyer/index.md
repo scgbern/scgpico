@@ -1,7 +1,7 @@
 ---
 Title: Melina Meyer
 ---
-
+#Melina Meyer
 My bachelor thesis is about "living user stories". 
 
 Since user stories are widely used in agile requirements engineering, there are multiple commercially available tools. However, it is a tedious task to trace and validate the user stories against the code since the management tools and development environment are independent. 

@@ -1,7 +1,7 @@
 ---
 Title: Notes
 ---
-
+#Notes
 ... for the [Trait-based Language International Workshop](%base_url%/wiki/events/traitbasedlanguageinternationalworkshop)
 
 # Philip reports on his work on introducing traits in miniJava

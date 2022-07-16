@@ -1,7 +1,7 @@
 ---
 Title: Future Work
 ---
-
+#Future Work
 This page describes ideas that we want to add in the future. If you want to propose a new idea, please send an email to <a href="mailto:roethlis@iam.unibe.ch">roethlis@iam.unibe.ch</a>
 .
 

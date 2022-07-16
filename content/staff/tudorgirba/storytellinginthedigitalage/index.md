@@ -1,7 +1,7 @@
 ---
 Title: Storytelling in the Digital Age
 ---
-
+#Storytelling in the Digital Age
 In the information age, we are bombarded with stimuli of all sorts and as a result, individuality becomes less important. However, every now and then, a chance appear when the entire concentration of an audience is dedicated to you. You should be prepared to make the most of that chance.
 
 Nowadays, such chances are dealt with bullet points: no story, just bullets. Long time ago, storytelling was an important social skill. Time passed and technology came in and provided tools to augment stories with visual and audio aids. The aids could be employed to provide evidence and create powerful images in the audience. 

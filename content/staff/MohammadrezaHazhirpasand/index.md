@@ -1,9 +1,9 @@
 ---
 Title: Mohammadreza Hazhirpasand
 ---
-
+#Mohammadreza Hazhirpasand
 <div class="contents column span-16"><p>
-I am a Ph.D. student of Software Composition Group at the University of Bern since April 2018, under the supervision of professor<a href="http://scg.unibe.ch/staff/oscar" target"_blank"> Oscar Nierstrasz </a>.
+I am a Ph.D. student of Software Composition Group at the University of Bern since April 2018, under the supervision of professor<a href="/staff/oscar" target"_blank"> Oscar Nierstrasz </a>.
 I received my M.Sc. ('18) in Information Security from the Universiti Teknologi Malaysia (UTM). During my master, I worked on designing an intelligent access point for mid-range wireless networks which was capable of providing two-factor authentication and attack detection.
 Prior to this, I had worked around 8 years in various companies as an information security consultant, developer, and cyber security instructor, e.g., CEH, Security\+, reverse engineering.
 
@@ -16,9 +16,9 @@ Prior to this, I had worked around 8 years in various companies as an informatio
 
 <h1>Project Proposals</h1>
 
--  [Abusing HTML5 permissions on browsers](http://scg.unibe.ch/wiki/projects/mastersbachelorsprojects/Abusing-HTML5-permissions-on-browsers)
--  [Building profile for developers using web scraping](http://scg.unibe.ch/wiki/projects/mastersbachelorsprojects/Building-profile-for-developers-using-web-scraping)
--  [Analyzing cryptographic questions on online sources](http://scg.unibe.ch/wiki/projects/mastersbachelorsprojects/Analyzing-cryptographic-questions-on-online-sources)
+-  [Abusing HTML5 permissions on browsers](/wiki/projects/mastersbachelorsprojects/Abusing-HTML5-permissions-on-browsers)
+-  [Building profile for developers using web scraping](/wiki/projects/mastersbachelorsprojects/Building-profile-for-developers-using-web-scraping)
+-  [Analyzing cryptographic questions on online sources](/wiki/projects/mastersbachelorsprojects/Analyzing-cryptographic-questions-on-online-sources)
 
 
 

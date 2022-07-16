@@ -1,7 +1,7 @@
 ---
 Title: Continuous Integration for VisualWorks
 ---
-
+#Continuous Integration for VisualWorks
 Continuous Integration is the process of continuous building, testing and reporting.
 
 This project would imply building a Continuous Integration tool for VisualWorks. The basic requirements would be:

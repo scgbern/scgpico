@@ -1,7 +1,7 @@
 ---
 Title: Moose Dojo @ SCG / March 04
 ---
-
+#Moose Dojo @ SCG / March 04
 #Goal
 Moose ([http://moosetechnology.org/](http://moosetechnology.org/)) platform for software and data analysis whose goal is to make custom analysis easy. It is an open source project started at SCG in 1996. It is supported by several research groups around the world.
 
@@ -22,5 +22,5 @@ Please send to the mailing list the topics you want to see addressed. The idea i
 
 #Spacetime
 
--  **Where**: [SCG Seminar Room](http://scg.unibe.ch/contact)
+-  **Where**: [SCG Seminar Room](/contact)
 -  **When**: Tuesday, March 04, '14

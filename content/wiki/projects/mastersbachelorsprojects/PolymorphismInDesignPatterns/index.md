@@ -1,7 +1,7 @@
 ---
 Title: Polymorphism Usage Idioms
 ---
-
+#Polymorphism Usage Idioms
 The current research results show that at least one in five methods is polymorphic, i.e. either is overridden or is overriding a method. 
 
 #Research questions:

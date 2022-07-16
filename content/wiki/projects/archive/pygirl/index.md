@@ -1,7 +1,7 @@
 ---
 Title: PyGirl
 ---
-
+#PyGirl
 <b>PyGirl</b> is a whole-system virtual machine (WS VM) implementation for the classic Gameboy.
 
 PyGirl is mostly meant as a research project in which we investigate the usefulness of the [PyPy](http://codespeak.net/pypy/dist/pypy/doc/home.html) toolchain for building cleanly designed, but ultimately efficient, WS VMs. PyGirl is fully written in RPython.

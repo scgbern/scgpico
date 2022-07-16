@@ -1,7 +1,7 @@
 ---
 Title: Dynamic Object-Oriented Programming with Smalltalk (ST - HS09)
 ---
-
+#Dynamic Object-Oriented Programming with Smalltalk (ST - HS09)
 ![Vectorized Smalltalk Balloon](%assets_url%/files/dd/88i5rqg6yquwjd2rhxm3cnhru4io75/balloon-vec.png)
 
 | | |

@@ -1,7 +1,7 @@
 ---
 Title: PyPy Sprint
 ---
-
+#PyPy Sprint
 Software Composition Group and the [PyPy Team](http://morepypy.blogspot.com/) organized a PyPy/Squeak sprint in the week of October 22-26, at the University of Bern, Switzerland, to bring Pypy and the Squeak VM together.  The general goal of the sprint was to use PyPy such that we can generate a Smalltalk VM that is able to start-up and run a Squeak image.
 
 Please refer to the blog for some impressions of the sprint

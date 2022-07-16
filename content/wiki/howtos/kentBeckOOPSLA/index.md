@@ -1,7 +1,7 @@
 ---
 Title: How to Get a Paper Accepted at OOPSLA
 ---
-
+#How to Get a Paper Accepted at OOPSLA
 *(A panel at OOPSLA-93, pages 429-436 of the proceedings)*
 
 *The full text can be found in the [ACM Digital Library](http://dl.acm.org/citation.cfm?id=165934).*

@@ -1,7 +1,7 @@
 ---
 Title: Qualitas Corpus Metrics Analysis
 ---
-
+#Qualitas Corpus Metrics Analysis
 #What?
 A metric-based analysis for Qualitas Corpus. Specifically, I developed a set of charts to depict LOC, NOM, NOC and NOP values for 85 systems from Qualitas Corpus, afterwards I analysed the results and found some characterisations.
 #Why?
@@ -10,7 +10,8 @@ Developers often ask questions such as how many LOC are too many?, how many clas
 #How?
 
 ##Installation
-```MCHttpRepository
+```
+MCHttpRepository
 	location: 'http://smalltalkhub.com/mc/merino/SoftwareAnalysis/main'
 	user: ''
 	password: ''
@@ -21,7 +22,8 @@ The files that the following scripts use can be downloaded from [here](%assets_u
 
 I collected the data using Explora's workbench, that allowed me to obtain the sum of LOC, NOM, NOC and NOP for each system. In this first approach I extracted averages using the following code:
 
-```|numberOfPackages numberOfClasses numberOfMethods numberOfLinesOfCode|
+```
+|numberOfPackages numberOfClasses numberOfMethods numberOfLinesOfCode|
 numberOfPackages := (eachModel allNamespaces reject:#isStub) size.
 numberOfClasses := (eachModel allModelClasses reject:#isStub) size.
 numberOfMethods := (eachModel allMethods reject:#isStub) size.
@@ -45,7 +47,8 @@ After discussing this with [Mircea](%base_url%/staff/mircea) and reading about u
 ##Second attempt
 I changed the script to collect the data accordingly:
 
-```|mooseGroupToCollection|
+```
+|mooseGroupToCollection|
 mooseGroupToCollection := [:group| 
 	|r| 
 	r := OrderedCollection new. 
@@ -90,7 +93,8 @@ The analysis of this chart shows that the variance of NOM is higher than NOC and
 
 Now, a proper question is what are the number for other languages. Are the values of these metrics similar among different languages?. So, we took a [Moose](http://www.moosetechnology.org) 5.0 beta image which comes with several Smalltalk (Pharo) applications and run the same experiment. In this case I am only interested in the mean value of NOC, NOM and LOC. The following code retrieve these values:
 
-```|nom loc noc nop|
+```
+|nom loc noc nop|
 classes := Smalltalk globals values select:#isClass.
 nom := (classes collect:[:e| e methods size]) median.
 loc := (classes flatCollect:[:e| e methods collect:#numberOfLinesOfCode]) median.

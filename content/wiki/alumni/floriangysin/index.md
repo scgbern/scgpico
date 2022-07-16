@@ -1,14 +1,14 @@
 ---
 Title: Florian Gysin
 ---
-
+#Florian Gysin
 <img src="http://www.id.unibe.ch/unibe/verwaltungsdirektion/informatikdienste/content/e209/e357/e11300/gysin.jpg" width="237" height="105" alt="Florian Gysin">
 
 
 <div align="left">
 **Work**<br>
-I am a bachelor student at the University of Bern since 2006 and am currently working on my bachelor thesis in computer science. The fields of my thesis are source code/software search-engines and it is supervised by <a href="http://scg.unibe.ch/staff/adriankuhn">Adrian Kuhn</a>.<br><br>
-Find out more about my work here: <a href="http://scg.unibe.ch/wiki/projects/archive/bender">Bender</a>
+I am a bachelor student at the University of Bern since 2006 and am currently working on my bachelor thesis in computer science. The fields of my thesis are source code/software search-engines and it is supervised by <a href="/staff/adriankuhn">Adrian Kuhn</a>.<br><br>
+Find out more about my work here: <a href="/wiki/projects/archive/bender">Bender</a>
 <br><br><br>
 
 

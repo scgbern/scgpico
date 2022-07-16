@@ -1,7 +1,7 @@
 ---
 Title: Using Assertions as Poor Mans Exceptions
 ---
-
+#Using Assertions as Poor Mans Exceptions
 In short, assertions are exceptions done right.
 
 Against all best practice and advice by style gurus, I consider (ab)using assertions as simple exceptions good style. Programming again in Java recently, I adopted the practice of using assertions as poor man's exception. Assertions have certain advantages over exceptions
@@ -12,12 +12,14 @@ Against all best practice and advice by style gurus, I consider (ab)using assert
 
 First compare
 
-```    assert condition : message;
+```
+    assert condition : message;
 ```
 
 to
 
-```    if (!(condition)) {
+```
+    if (!(condition)) {
         throw new CustomException(message);
     } 
 ```
@@ -28,7 +30,8 @@ If in your and your client's code nearly all try-catch statements guard against 
 
 NB: when ever you use assertions as exceptions, you should make sure that they are always turned on. Either use a compiler plugin to [force assertions](%base_url%/wiki/alumni/adriankuhn/javacompiler/forceassertions), are at least include a simple JUnit test that asserts that assertions are turned on
 
-```    import org.junit.Test;
+```
+    import org.junit.Test;
     public class AssertionsEnabledTest {
         @Test(expected = AssertionError.class)
         public void assertionsEnabled() {

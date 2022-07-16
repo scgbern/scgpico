@@ -1,7 +1,7 @@
 ---
 Title: Call For Papers
 ---
-
+#Call For Papers
 Please note that the submission closed. We accepted 14 papers.
 
 # Motivation and Goals

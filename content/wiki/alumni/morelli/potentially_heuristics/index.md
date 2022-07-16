@@ -1,7 +1,7 @@
 ---
 Title: Potential heuristics
 ---
-
+#Potential heuristics
 #algo for statically polymorphism method guessing:
 
 

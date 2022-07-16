@@ -1,7 +1,7 @@
 ---
 Title: Towards a better IDE
 ---
-
+#Towards a better IDE
 <b>Problems of current Smalltalk IDEs:</b>
 SD- let us try not to be tied with Smalltalk
 SD- I do not see the difference between A and C

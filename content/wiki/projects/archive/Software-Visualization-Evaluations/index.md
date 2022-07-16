@@ -1,7 +1,7 @@
 ---
 Title: How are Software Visualizations Evaluated?
 ---
-
+#How are Software Visualizations Evaluated?
 #Overview
 
 Abundant techniques have been proposed in the software visualization community to tackle specific development problems. A vast number of design studies have shown how visualization techniques support users to solve a task. However, a frequent argument against software visualizations is the lack of evaluations. We wonder: *What type of evaluations are used?* *Are evaluations mostly quantitative?* *Are evaluations reproducible?*      

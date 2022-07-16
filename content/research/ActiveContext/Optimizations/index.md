@@ -1,7 +1,7 @@
 ---
 Title: Optimizations
 ---
-
+#Optimizations
 It's quite clear that implemented *as-is*, the ActiveContext would imply a huge performance overhead. 
 
 Optimizations can be envisioned to drastically improve the performance. Such optimizations should however **preserve the semantic of the conceptual model**, which can then still be used to reason about.

@@ -1,12 +1,13 @@
 ---
 Title: DSL Auto-completion
 ---
-
+#DSL Auto-completion
 The project consists in building a web service that provides autocompletion for a DSL (domain specific language) implemented in the context of an ongoing research project.
 The DSL is implemented in smalltalk and its purpose is to enable developers to express constraints on their application. 
 Here is a simple example of how such a constrain might look like: 
 
-```var Test: Component with package= "ACAC-Test"
+```
+var Test: Component with package= "ACAC-Test"
 var Syntax: Component wit package= "ACAC-Syntax-*"
 Syntax cannot DependOn($Test)
 ```
@@ -25,7 +26,8 @@ For example, if a consumer declares that it supports rules having the following 
 
 An the user entered the following input:
  
-```var Test: Component with package= "ACAC-Test"
+```
+var Test: Component with package= "ACAC-Test"
 var Syntax: Component wit package= "ACAC-Syntax-*"
 Syntax
 ```
@@ -33,7 +35,8 @@ Syntax
 Then we should be able to propose 'cannot' as next keyword. 
 And if the user got further and entered the following text: 
 
-```Component $Test = Package(ACAC-Test)
+```
+Component $Test = Package(ACAC-Test)
 Component $Syntax = Package(ACAC-Syntax-*)
 Syntax cannot DependOn()
 ```

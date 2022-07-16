@@ -1,7 +1,7 @@
 ---
 Title: SCP 2016
 ---
-
+#SCP 2016
 ##Dear SCP 2016 Reviewer, dear Reader!
 
 On this web page we provide:
@@ -35,4 +35,4 @@ The archive is organized as follows:
 ##PetitParser in Moose
 Many concepts introduced in this thesis were integrated into PetitParser used in the [Moose](http://www.moosetechnology.org/) software and data analysis platform.
 
-The latest version of Petit Compiler can be found [here](http://scg.unibe.ch/research/petitcompiler).
+The latest version of Petit Compiler can be found [here](/research/petitcompiler).

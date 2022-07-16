@@ -1,7 +1,7 @@
 ---
 Title: Exploring different programming languages in Android projects
 ---
-
+#Exploring different programming languages in Android projects
 #Introduction
 For every software application growing over the years, the complexity increases substantially.
 That said, Android is becoming a mature operating system, thus the platform complexity achieved new heights over the past few years.

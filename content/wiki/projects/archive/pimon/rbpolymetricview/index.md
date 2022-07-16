@@ -1,7 +1,7 @@
 ---
 Title: RBPolymetricView
 ---
-
+#RBPolymetricView
 This page has been deprecated, please refer to [RBCrawler](%base_url%/wiki/projects/archive/rbcrawler) for more recent information.
 
 
@@ -13,7 +13,8 @@ Currently [RBCrawler](%base_url%/wiki/projects/archive/rbcrawler) is at the stag
 
 [RBCrawler](%base_url%/wiki/projects/archive/rbcrawler) is available at the following Store coordinates
 
-```  interface: PostgresSQLEXDIConnection
+```
+  interface: PostgresSQLEXDIConnection
   environment: db.iam.unibe.ch_scgStore
   user name: storeguest
   password: storeguest

@@ -1,7 +1,7 @@
 ---
 Title: Linus Schwab
 ---
-
+#Linus Schwab
 Hey there,
 
 My name is Linus Schwab, I'm studying computer science at the University of Bern and I'm currently working on my bachelor project.

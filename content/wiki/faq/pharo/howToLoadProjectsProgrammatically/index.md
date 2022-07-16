@@ -1,10 +1,11 @@
 ---
 Title: How do I programmatically load projects from SqueakSource?
 ---
-
+#How do I programmatically load projects from SqueakSource?
 - **Q How do I programmatically load projects from SqueakSource?**
 - **A**
-```| mc fileToLoad version |
+```
+| mc fileToLoad version |
 mc := Smalltalk at: #MCHttpRepository
 	ifPresent: [:repoClass |
 		repoClass location: 'www.squeaksource.com/Installer'

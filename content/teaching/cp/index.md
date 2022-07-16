@@ -1,7 +1,7 @@
 ---
 Title: CP: Concurrency: State Models and Design Patterns
 ---
-
+#CP: Concurrency: State Models and Design Patterns
 ![dining.png](%assets_url%/files/3d/gvp20bbi8vzc0i4vzd1asluu0ps91h/dining.png)
 
 | | |

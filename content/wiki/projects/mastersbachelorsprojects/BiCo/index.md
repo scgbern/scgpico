@@ -1,7 +1,7 @@
 ---
 Title: BiCo: Big Commit Analysis
 ---
-
+#BiCo: Big Commit Analysis
 #Project Idea
 When doing research in software evolution, researchers often extract commits (from GIT or SVN) and analyze how the code changes. However, commits can vary in size and type. For instance, a refactoring process can touch many files and change many lines of code, but fixing a typo in the comments touches only one file. Also commits are not always uni-purpose. Sometimes one commit may include a bug fix, a new feature, and a code refactoring. This variety of size and purpose of commits introduces difficulties when analyzing the evolution of software systems.
 

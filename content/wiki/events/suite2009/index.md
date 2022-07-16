@@ -1,7 +1,7 @@
 ---
 Title: Suite 2009
 ---
-
+#Suite 2009
 # **Please refer to [Suite 2010](%base_url%/wiki/events/suite2010) for more recent information!**
 
 As software development is a process of both information creation and information gathering, software developers are constantly searching for the right information and person to solve their problems at hand. This workshop will focus specifically on exploring the notion of search as a fundamental activity during software development. The goal of the workshop is to bring researchers and practitioners with special interest on search technology for software developers together. Participants will have broad range of expertise in topics ranging from building software tools and infrastructure, information retrieval, user studies and HCI, benchmarking and evaluation.

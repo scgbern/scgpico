@@ -1,7 +1,7 @@
 ---
 Title: Opal Compiler
 ---
-
+#Opal Compiler
 The OpalCompiler is a Smalltalk-to-Bytecode compiler for Pharo. Originaly it was named NewCompiler, which can be found [here](%base_url%/research/newcompiler).
 
 -  Support for full block closures.

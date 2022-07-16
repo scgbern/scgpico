@@ -1,7 +1,7 @@
 ---
 Title: Type hints usage in Python projects
 ---
-
+#Type hints usage in Python projects
 Many developer communities strongly adhere to certain naming conventions. A common idiom in dynamically-typed languages is to name method arguments (i.e., formal parameters to methods) after their expected type. 
 
 

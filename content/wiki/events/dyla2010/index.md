@@ -1,7 +1,7 @@
 ---
 Title: Welcome to DYLA 2010
 ---
-
+#Welcome to DYLA 2010
 The **DYLA Workshop** series focuses on the revival of dynamic languages. These days, dynamic languages (like Lisp, Ruby, Python, JavaScript, Lua, etc...) are getting ever more popular. This is a call to arms for academia! We need to explore the future of dynamic languages through its human aspects and technical issues. We also ought to look back and pick up solutions from existing dynamic languages (such as Scheme, Smalltalk, or Self) to be rediscovered and spread around.
 
 Dyla is now over. A twitter report may be found on [http://twitter.com/dyla2010](http://twitter.com/dyla2010).
@@ -107,7 +107,7 @@ above, this should foster participation from all targeted communities.
 , Heinrich-Heine-Universität, Düsseldorf, Germany
 - [Simon Denier](http://www.simondenier.eu), RMoD Research group, INRIA Lille-Nord Europe, France
 - [Michael Haupt](http://www.hpi.uni-potsdam.de/hirschfeld/people/haupt/), Hasso-Plattner-Institut, Potsdam, Germany
-- [Adrian Kuhn](http://scg.unibe.ch/staff/adriankuhn), University of Bern, Switzerland
+- [Adrian Kuhn](/staff/adriankuhn), University of Bern, Switzerland
 
 # Program committee
 
@@ -120,7 +120,7 @@ above, this should foster participation from all targeted communities.
 - [Kasper Lund](http://verdich.dk/kasper/), Google, Denmark.
 - [Michael Perscheid](http://www.hpi.uni-potsdam.de/hirschfeld/people/perscheid/), Hasso-Plattner-Institut, Potsdam, Germany
 - Rodolfo Toledo, University of Chile 
-- [Niko Schwarz](http://scg.unibe.ch/staff/Schwarz), University of Bern, Switzerland 
+- [Niko Schwarz](/staff/Schwarz), University of Bern, Switzerland 
 - [Peter Sommerlad](http://ifs.hsr.ch/Team/Partners/Peter_Sommerlad), HSR Rapperswil, Switzerland
 - [Alessandro Warth](http://www.tinlizzie.org/~awarth), Viewpoints Research Institute, USA
 - [Vadim Zaytsev](http://www.uni-koblenz.de/~zaytsev/), University of Koblenz, Germany.

@@ -1,7 +1,7 @@
 ---
 Title: Deadlines
 ---
-
+#Deadlines
 **SRC ICSE**<br>
 Paper, 2 pages<br>
 >> 07.01.2010<br>
@@ -17,7 +17,7 @@ Paper, 10 pages<br>
 **BA Thesis**<br>
 Thesis, 60 pages<br>
 >> 31.01.2010<br>
-[http://scg.unibe.ch/publications](http://scg.unibe.ch/publications)<br><br><br>
+[/publications](/publications)<br><br><br>
 
 
 **CHOOSE Sponsorship**<br>

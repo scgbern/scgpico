@@ -1,7 +1,7 @@
 ---
 Title: How to adminster the XServe1
 ---
-
+#How to adminster the XServe1
 ##Documentation
 
 -  at Apple: [http://www.apple.com/server/documentation/](http://www.apple.com/server/documentation/).

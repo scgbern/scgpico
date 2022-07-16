@@ -1,7 +1,7 @@
 ---
 Title: Adding a Visitor a Statistical Component
 ---
-
+#Adding a Visitor a Statistical Component
 ##Overview
 This Howto page describes how to add a new visitor over a document. The creation of a statistic component is depicted step by step. The idea is to have displayed the number of children if we are viewing a folder, or the size of a page if one is visited.
 
@@ -20,13 +20,15 @@ This Howto page describes how to add a new visitor over a document. The creation
 - Create a Package <b>SmallWiki Example Statistic</b>
 - The structure of a wiki page is described by a template therefore we have to define a new template for showing our statictical information. Create a class <b>TemplateStatistic</b> inheriting from <b>Template</b>
 - The template is then walked by a visitor whose responsibility is to display the structure. The visitor pattern is applied:
-```TemplateStatistic>>accept: aVisitor
+```
+TemplateStatistic>>accept: aVisitor
 	aVisitor acceptTemplateStatistic: self
 ```
 
 
 -  For the visitor renderer to work we have to extend it. Let's extend the visitor renderer in order to make our new component (template) displayable. The component have to manage differently if we have a folder or a page
-```VisitorRendererHtmlLight>>acceptTemplateStatistic: aTemplate 
+```
+VisitorRendererHtmlLight>>acceptTemplateStatistic: aTemplate 
 	| visitor |
 	visitor := VisitorStatistic on: stream.
 	action structure accept: visitor
@@ -34,12 +36,14 @@ This Howto page describes how to add a new visitor over a document. The creation
 
 - Create a class <b>VisitorStatistic</b> inheriting from <b>Visitor</b> with one instance variable named <b>htmlStream</b>
 - Create a class method:
-```VisitorStatistic class>>on: anHtmlStream
+```
+VisitorStatistic class>>on: anHtmlStream
 	^ self new htmlStream: anHtmlStream; yourself
 ```
 
 - Now we can define the visitor behavior
-```VisitorStatistic>>acceptChapter: structure 
+```
+VisitorStatistic>>acceptChapter: structure 
 	htmlStream class: 'boxtitle'.
 	htmlStream div: \[htmlStream text: 'Folder Statistic'].
 	htmlStream class: 'boxcontent'.
@@ -53,7 +57,8 @@ This Howto page describes how to add a new visitor over a document. The creation
 This code display a purple box titled 'Folder Statistic' displaying the number of chidren.
 
 - And for a page:
-```VisitorStatistic>>acceptPage: structure 
+```
+VisitorStatistic>>acceptPage: structure 
 	htmlStream class: 'boxtitle'.
 	htmlStream div: \[htmlStream text: 'Page Statistic'].
 	htmlStream class: 'boxcontent'.
@@ -65,7 +70,8 @@ This code display a purple box titled 'Folder Statistic' displaying the number o
 The compiler should complain about the message <b>sizeOfDocument:</b> because it is implemented nowhere.
 
 - We create this method:
-```VisitorStatistic>>sizeOfDocument: aDocument
+```
+VisitorStatistic>>sizeOfDocument: aDocument
 VisitorStatistic>>	| visitor |
 VisitorStatistic>>	visitor := VisitorSize new.
 VisitorStatistic>>	aDocument accept: visitor.
@@ -79,24 +85,28 @@ VisitorStatistic>>	^ visitor size
 
 
 - This variable need to be set to zero when a such visitor is created:
-```VisitorSize>>initialize
+```
+VisitorSize>>initialize
        super initialize.
 	size := 0
 ```
 
 - Let's create an accessor to this variable:
-```VisitorSize>>size
+```
+VisitorSize>>size
 	^ size
 ```
 
 - Specialized it when visiting a text:
-```VisitorSize>>acceptText: aText
+```
+VisitorSize>>acceptText: aText
 	size := size + aText text size
 ```
 
 
 - Now the new template needs to be incorpored into the template structure, that could be done by redefining the method:
-```VisitorRendererHtmlLight class>>defaultTemplate
+```
+VisitorRendererHtmlLight class>>defaultTemplate
 			...
 			add: (TemplateStructuresReferences new);
 			add: (TemplateStatistic new); "<== The new line !!"
@@ -105,7 +115,8 @@ VisitorStatistic>>	^ visitor size
 ```
 
 - Reinitialize the template hierarchy by evaluating in a workspace:
-```server root template: VisitorRendererHtmlLight defaultTemplate.
+```
+server root template: VisitorRendererHtmlLight defaultTemplate.
 ```
 
 ##Summary

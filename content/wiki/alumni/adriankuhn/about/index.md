@@ -1,7 +1,7 @@
 ---
 Title: About Adrian Kuhn
 ---
-
+#About Adrian Kuhn
 <img align="right" src="http://www.iam.unibe.ch/~akuhn/img/adriankuhn.jpg" style="margin-right:0px; height:26.667ex; width: 20ex;" title="Adrian Kuhn at ECOOP 2007 in Berlin."/>I received my PhD from the University of Bern in 2011. This is my website from when I was with the [Software Composition Group](%base_url%/) in Bern. My advisor was [Oscar Nierstrasz](%base_url%/staff/oscar). 
 
 <i>"I am in love with programming languages."</i>

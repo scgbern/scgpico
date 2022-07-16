@@ -1,7 +1,7 @@
 ---
 Title: Smalltalk Party, the 28th of October 2006
 ---
-
+#Smalltalk Party, the 28th of October 2006
 #What
 SSUG is organizing a <b>Smalltalk Gathering</b>. We invite all Smalltalkers to join this event to share their enthusiasm and knowledge about Smalltalk.
 

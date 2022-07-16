@@ -1,7 +1,7 @@
 ---
 Title: Common Writing Errors
 ---
-
+#Common Writing Errors
 This page collects several of the most common writing errors that I have noticed in papers, reports and theses. Many are related to incorrect translation from German (or other languages) to English.
 
 See also: [Get it Write](http://www.getitwriteonline.com/archive/tips.htm)

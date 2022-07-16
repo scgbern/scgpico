@@ -1,12 +1,14 @@
 ---
 Title: Oscar Nierstrasz
 ---
-
+#Oscar Nierstrasz
 [![/download/oscar/on-nov-2017-no-painting-very-small.jpg](%assets_url%/download/oscar/on-nov-2017-no-painting-very-small.jpg)](%base_url%/staff/oscar/oscar-free-picture)
+
 Oscar Nierstrasz is Professor Emeritus of Computer Science at the [Institute of Computer Science ](http://www.inf.unibe.ch/index_eng.html/) (INF) in the [Faculty of Science](http://www.philnat.unibe.ch/index_eng.html) of the [University of Bern](http://www.unibe.ch/index_eng.html), where he founded the [Software Composition Group](%base_url%/) in 1994. 
 He retired from the University of Bern at the end of 2021, and is currently working at [feenk.com](https://feenk.com/about/).
 He is co-author of over 300 [Oscar Nierstrasz &mdash; Publications](%assets_url%/scgbib/?query=Nierstrasz&filter=Year) and co-author of the open-source books *[Object-Oriented Reengineering Patterns](%assets_url%/download/oorp/)* and *[Pharo by Example](http://books.pharo.org)*.
-[![/download/oorp/pictures/oorp-small.jpg](%assets_url%/download/oorp/pictures/oorp-small.jpg)](http://scg.unibe.ch/download/oorp)
+
+[![/download/oorp/pictures/oorp-small.jpg](%assets_url%/download/oorp/pictures/oorp-small.jpg)](/download/oorp)
 [![/download/pharobyexample/pbe-small.jpg](%assets_url%/download/pharobyexample/pbe-small.jpg)](http://books.pharo.org)
 
 The Software Composition Group carried out research in diverse aspects of software evolution. Current research is focussed on *[Agile Software Assistance						](%base_url%/research/snf19)*: enabling software developers to quickly and effectively analyze complex software systems with the help of tools to rapidly construct, query and manipulate software models. 

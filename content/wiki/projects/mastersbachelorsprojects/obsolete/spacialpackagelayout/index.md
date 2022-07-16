@@ -1,7 +1,7 @@
 ---
 Title: Spatial Package Layout
 ---
-
+#Spatial Package Layout
 Package are usually presented as a tree sorted alphabetically.
 
 However, in most system following a layered design, high-level package are used to identify the layers. 

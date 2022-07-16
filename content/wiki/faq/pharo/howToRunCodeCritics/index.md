@@ -1,7 +1,7 @@
 ---
 Title: How do I run Code critics on a package?
 ---
-
+#How do I run Code critics on a package?
 - **Q How do I run Code critics on a package?**
 - **A** Start a pharo-dev image with the latest refactoring Browser code in it.
 

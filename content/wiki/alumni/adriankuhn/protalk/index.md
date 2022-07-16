@@ -1,7 +1,7 @@
 ---
 Title: Protalk
 ---
-
+#Protalk
 PROTALK extends Smalltalk with prototype-based inheritance, ie delegation.
 
 <img style="width:23ex;" align="right" src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Ouroboros.png/250px-Ouroboros.png">PROTALK turns Smalltalk object into real prototypes, without any change to the virtual machine. Protalk objects share the same object space with Smalltalk objects&mdash;actually, they are pure Smalltalk objects: an instance of a Protalk prototype is no different than an instance of a Smalltalk class. PROTALK uses the same inheritance and the same method lookup as Smalltalk.  
@@ -32,7 +32,8 @@ We all know how to get the class of an object
 
 What about setting the class of an object, does that work?
 
-```(3@4) class: Assocation 
+```
+(3@4) class: Assocation 
 ```
 
 Yes it works, but you must write it as follows
@@ -51,7 +52,8 @@ This changes the class of the receiver into the class of the argument, given tha
 
 Now, as we know how to can change the class of an object, we can create an object that is its own class.
 
-```oroboros := Class new.
+```
+oroboros := Class new.
 oroboros superclass: Class.
 oroboros methodDictionary: MethodDictionery new.
 oroboros setFormat: Class format.
@@ -76,7 +78,8 @@ Let's do that. First we have to create a new class <code>Thing</code> that inher
 
 Create a new class <code>Thing</code> with three instance variables
 
-```Object subclass: #Thing
+```
+Object subclass: #Thing
     instanceVariableNames: 'delegate methods format'
     classVariableNames: ''
     poolDictionaries: ''
@@ -85,19 +88,22 @@ Create a new class <code>Thing</code> with three instance variables
 
 Implement an initializer and a method <code>new2</code> that calls primitive 70.
 
-```Thing >> initialize
+```
+Thing >> initialize
     delegate := Object.
     methods := MethodDictionary new.
     format := superthing format.
 ```
 
-```Thing >> newToo
+```
+Thing >> newToo
     <primitive: 70>;
 ```
 
 Now, execute in a workspace:
 
-```object := Thing new.
+```
+object := Thing new.
 abomination := object newToo.
 ```
 
@@ -106,12 +112,14 @@ abomination class class &rArr; Thing</pre>
 
 Hence, instead of the usual two levels
 
-``` 	 object --isa--> Thing
+```
+ 	 object --isa--> Thing
 ```
 
 we have now three level of instantiation
 
-``` 	 abomination --isa--> object --isa--> Thing
+```
+ 	 abomination --isa--> object --isa--> Thing
 ```
 
 In the same way we can go to an unlimited number of instantiation levels. Combining this with the oroboros example above, we can create a prototype-based subspace within the class-based object space of a Smalltalk image. 

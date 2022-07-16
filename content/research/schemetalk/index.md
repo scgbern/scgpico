@@ -1,7 +1,7 @@
 ---
 Title: SchemeTalk
 ---
-
+#SchemeTalk
 <b>SchemeTalk</b> is a [Smalltalk](http://smalltalk.org) like OO system as an extension to and written/bootstrapped in Scheme.
 
 <br><br>
@@ -19,7 +19,7 @@ In order to show its close relation to real Smalltalk code, SchemeTalk implement
 
 ##Publications
 
--  Toon Verwaest and Lukas Renggli, "<i>Safe Reflection Through Polymorhpism</i>", ([submission](http://scg.unibe.ch/archive/papers/Verw09aSafeReflectionThroughPolymorphism.pdf)) is accepted for publication at [Casta '09](http://casta.unibe.ch).
+-  Toon Verwaest and Lukas Renggli, "<i>Safe Reflection Through Polymorhpism</i>", ([submission](/archive/papers/Verw09aSafeReflectionThroughPolymorphism.pdf)) is accepted for publication at [Casta '09](http://casta.unibe.ch).
 
 ##Download SchemeTalk
 SchemeTalk is available at:

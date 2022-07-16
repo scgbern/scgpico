@@ -1,7 +1,7 @@
 ---
 Title: Object-Centric Debugging
 ---
-
+#Object-Centric Debugging
 During the process of developing and maintaining a complex software system, developers pose detailed questions about the runtime behavior of the system. Source code views offer strictly limited insights, so developers often turn to tools like debuggers to inspect and interact with the running system. Unfortunately, traditional debuggers focus on the runtime stack as the key abstraction to support debugging operations, though the questions developers pose often have more to do with objects and their interactions.
 
 We propose object-centric debugging as an alternative approach to interacting with a running software system. We show how, by focusing on objects as the key abstraction, natural debugging operations can be defined to answer developer questions related to runtime behavior. We present a running prototype of an object-centric debugger, and demonstrate, with the help of a series of examples, how object-centric debugging offers more effective support for many typical developer tasks than a traditional stack-oriented debugger.
@@ -17,7 +17,7 @@ To get started you can either use a ready-made one-click image (suggested), or t
 
 ##One-Click Image
 
--  Download the [OCD](http://scg.unibe.ch/jenkins/job/ObjectDebugger/lastSuccessfulBuild/artifact/objectDebugger-OneClick.zip) distribution.
+-  Download the [OCD](/jenkins/job/ObjectDebugger/lastSuccessfulBuild/artifact/objectDebugger-OneClick.zip) distribution.
 -  Launch the executable of your platform:
 	-  Mac: objectDebugger-OneClick.app
 	-  Linux: objectDebugger-OneClick.app/objectDebugger-OneClick.sh
@@ -25,7 +25,8 @@ To get started you can either use a ready-made one-click image (suggested), or t
 
 
 ##Loading
-``` Gofer new
+```
+ Gofer new
  	squeaksource: 'ObjectDebugger';
        package: 'Ood';
        load.

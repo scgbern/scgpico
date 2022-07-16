@@ -1,7 +1,7 @@
 ---
 Title: Pervasive Visualization in Augmented Reality for Software Monitoring
 ---
-
+#Pervasive Visualization in Augmented Reality for Software Monitoring
 #Context
 Monitoring the behavior of a software system can be challenging for engineers. Analyzing the data coming from logs to look for anomalies can be tedious and error-prone. A software visualization can provide engineers great support to monitor the system's behavior by enabling them to identify visual patterns that might lead to actual anomalies in the system. However, the main challenge for engineers who are monitoring a running system is to maintain the focus in the tool to not miss data while performing other tasks.
 

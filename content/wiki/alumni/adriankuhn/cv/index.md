@@ -1,7 +1,7 @@
 ---
 Title: Adrian Kuhn
 ---
-
+#Adrian Kuhn
 <style>@media print { a:link:after, a:visited:after { content:\""; } }</style>
 
 - [About Adrian Kuhn](%base_url%/wiki/alumni/adriankuhn/about)

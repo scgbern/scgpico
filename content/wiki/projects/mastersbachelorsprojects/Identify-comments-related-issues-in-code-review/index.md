@@ -1,12 +1,12 @@
 ---
 Title: Identify the comment issues pointed out in the code review phase
 ---
-
+#Identify the comment issues pointed out in the code review phase
 #Introduction
 Code review is an important practice for software quality assurance. 
 It has been widely adopted in both open source and commercial software projects.
 One of the benefits of code review is to enforce coding standards to the code.
-[[Wen19a](http://scg.unibe.ch/scgbib?_k=H-4ihFcD&query=Wen19a)] constructed a taxonomy of code changes which triggers changes in comments. They confirmed that 20% of changes in the code trigger comment changes. Another study [[Rani20a](https://arxiv.org/abs/2005.11583)] showed that only 50% of the changes in the class comments are related to code changes. Remaining comment changes are about clarifying details of the class, formatting and adding information. 
+[[Wen19a](/scgbib?_k=H-4ihFcD&query=Wen19a)] constructed a taxonomy of code changes which triggers changes in comments. They confirmed that 20% of changes in the code trigger comment changes. Another study [[Rani20a](https://arxiv.org/abs/2005.11583)] showed that only 50% of the changes in the class comments are related to code changes. Remaining comment changes are about clarifying details of the class, formatting and adding information. 
 
 #Problem
 However, what aspects of comments are captured in the code review phase by reviewers is unexplored. 

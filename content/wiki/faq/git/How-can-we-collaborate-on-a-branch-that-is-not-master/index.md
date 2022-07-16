@@ -1,7 +1,7 @@
 ---
 Title: How can we collaborate on a branch that is not master
 ---
-
+#How can we collaborate on a branch that is not master
 **Q: We'd like to collaborate without polluting the master branch. How can I get an experimental branch to my collaborator?**
 
 
@@ -15,25 +15,29 @@ Let's look at those in detail.
 
 1. To upload a branch that is not master, you can simply type
 
-``` git push &mdash;all
+```
+ git push &mdash;all
 ```
 
 That will simply copy all your branches to the server. Similarly,
 
-``` get fetch &mdash;all
+```
+ get fetch &mdash;all
 ```
 
 will download all branches.
 
 2. Once you've got the branch on your computer, we can check it out. We could very simply type the following, though it isn't advisable:
 
-``` git checkout origin/try
+```
+ git checkout origin/try
 ```
 
 It does check out the branch, but now if you change things, git won't know on which branch to store modifications. Git knows these problems, and it's going to complain:
 
 
-```       
+```
+       
        You are in 'detached HEAD' state. You can look around, make experimental
        changes and commit them, and you can discard any commits you make in this
        state without impacting any branches by performing another checkout.
@@ -49,7 +53,8 @@ It does check out the branch, but now if you change things, git won't know on wh
 
 To avoid the warning and the attached problems, use a [tracking branch](http://book.git-scm.com/4_tracking_branches.html). A tracking branch is local branch that is aware of its server counterpart. For example, master is a tracking branch. It knows that its corresponding remote branch is origin/master. So, just type this:
 
-``` git branch &mdash;track try origin/try
+```
+ git branch &mdash;track try origin/try
  git checkout try
 ```
 

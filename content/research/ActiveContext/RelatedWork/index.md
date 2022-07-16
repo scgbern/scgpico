@@ -1,7 +1,7 @@
 ---
 Title: Related Work
 ---
-
+#Related Work
 Active context is a first-class context which combine several ideas found in other programming language abstractions; it shares similarities with *environment*, *contextual layer*, *module mechanism* and *persistent object upgrade*. 
 
 ![Related_work_vienne_diagram](%assets_url%/files/b2/s623h572b8u2i5mqgxi43sh24ndysx/Picture-1.png)

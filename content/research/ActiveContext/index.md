@@ -1,7 +1,7 @@
 ---
 Title: ActiveContext
 ---
-
+#ActiveContext
 **Active context** is a 1st class notion of context in the programming language. A context can be instantiated an manipulated as a regular object. There is one *active* context at a time. 
 
 With active context comes **contextual objects**. Contextual objects are objects whose state is not global, but local to the active context. 

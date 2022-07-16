@@ -1,7 +1,7 @@
 ---
 Title: Java Compiler
 ---
-
+#Java Compiler
 ## Download
 
 Some of my javac plugins

@@ -1,7 +1,7 @@
 ---
 Title: Lars Wüthrich
 ---
-
+#Lars Wüthrich
 Bachelor Thesis: Writing a Shape Grammar Editor
 
 I am a bachelor student working on creating a shape grammar editor in pharo under

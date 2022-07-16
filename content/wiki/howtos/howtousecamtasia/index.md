@@ -1,7 +1,7 @@
 ---
 Title: How to use Camtasia
 ---
-
+#How to use Camtasia
 # Setup
 
 -  Use a green screen with two flood lights on the screen, plus separate lights on your face, if possible. (eg Elgato green screen and Elgato Key Light Air)
@@ -42,4 +42,4 @@ Title: How to use Camtasia
 -  To make transitions, find the exact position where the background changes (eg new slide or switch to or from a demo). Cut the track with your image at that point, and then reposition and resize your image to a free spot.
 -  Tip: locate both the start and end of a sequence with the same background, and cut both. Then when you reposition your image, it will stay in the old spot after the second cut. This is useful when you transition from a slide to a demo and back again.
 
-2021-08-24 [on](http://scg.unibe.ch/staff/oscar)
+2021-08-24 [on](/staff/oscar)

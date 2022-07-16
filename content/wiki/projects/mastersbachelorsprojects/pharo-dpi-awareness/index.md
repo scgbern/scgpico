@@ -1,7 +1,7 @@
 ---
 Title: DPI-awareness in Pharo
 ---
-
+#DPI-awareness in Pharo
 #Project Idea
 Due to the rise of high-resolution displays in recent years, user interfaces
 that use fixed pixel-sizes for drawing certain elements tend to become too

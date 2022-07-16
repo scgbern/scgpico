@@ -1,14 +1,14 @@
 ---
 Title: A Taxonomy of Visual Programming Languages
 ---
-
+#A Taxonomy of Visual Programming Languages
 Since the 1970s a large variety of different kinds of visual programming languages have been developed. Curiously there exists no current and up-to-date survey of these languages, nor a taxonomy explaining the different approaches and what problems they solve. The goal of theis seminar project is to produce such a survey and a taxonomy by compiling a list of visual programming languages and classifying their features.
 
 #Some useful links:
 
 
--  [Visual Programming lecture](http://scg.unibe.ch/download/lectures/pl/PL-12VisualProgramming.pdf) of the [PL: Programming Languages](%base_url%/teaching/pl) MSc course
--  [Selected papers](http://scg.unibe.ch/scgbib?query=visprog)
+-  [Visual Programming lecture](/download/lectures/pl/PL-12VisualProgramming.pdf) of the [PL: Programming Languages](%base_url%/teaching/pl) MSc course
+-  [Selected papers](/scgbib?query=visprog)
 -  [Selected paper downloads](http://scgresources.unibe.ch/Literature/VisualProgramming/) (unibe access)
 -  [Wikipedia page on Visual Programming Languages](https://en.wikipedia.org/wiki/Visual_programming_language)
 

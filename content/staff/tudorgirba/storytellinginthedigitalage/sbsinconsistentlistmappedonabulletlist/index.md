@@ -1,7 +1,7 @@
 ---
 Title: SBS Inconsistent list mapped on a bullet list
 ---
-
+#SBS Inconsistent list mapped on a bullet list
 What is wrong with the following list?
 
 -  a gout

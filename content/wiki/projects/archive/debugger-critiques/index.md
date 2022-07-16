@@ -1,7 +1,7 @@
 ---
 Title: Code critiques in the Pharo debugger
 ---
-
+#Code critiques in the Pharo debugger
 *Code critiques* are the result of analysis tools that notify programmers of 
 code smells or refactoring possibilities, among others. One such 
 implementation exists in the Pharo IDE, where critiques are displayed in class 

@@ -1,7 +1,7 @@
 ---
 Title: Java Resources
 ---
-
+#Java Resources
 <I>Moved from the static SCG web on 2005-04-20 by omn &mdash; all links to be checked ...</I>
 #General Java Resources
 

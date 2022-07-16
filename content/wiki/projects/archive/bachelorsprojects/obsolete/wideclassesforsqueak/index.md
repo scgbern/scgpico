@@ -1,7 +1,7 @@
 ---
 Title: Wide Classes for Squeak
 ---
-
+#Wide Classes for Squeak
 [Manuel Serrano: Wide Classes](http://citeseer.ist.psu.edu/serrano99wide.html)
 
 This paper introduces the concepts of wide classes and widening as extensions to the object model of class-based languages such as Java and Smalltalk. Widening allows an object to be temporarily widened, that is transformed into an instance of a subclass, a wide class,  and, later on, to be shrunk, that is reshaped to its original class. Wide  classes share the main properties of plain classes: they have a name,  a superclass, they may be instantiated, they have an associated class  predicate and an associated type that may be used to override function  definitions.  

@@ -1,7 +1,7 @@
 ---
 Title: GitHubcello Configuration Loader
 ---
-
+#GitHubcello Configuration Loader
 #Project Idea
 
 For years [Pharo](http://pharo.org) developers were using Monticello versioning system and Metacello configuration manager. But nowadays more and more developers switch to git which makes versioning mush easier. However it's still complicated to load a project because of Metacello configurations burden. The goal of this project is to provide developers with tool to easily load a project if they know a GitHub url, username, etc...

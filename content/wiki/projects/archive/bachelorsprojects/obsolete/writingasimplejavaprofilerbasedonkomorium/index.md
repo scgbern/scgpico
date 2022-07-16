@@ -1,7 +1,7 @@
 ---
 Title: Writing a simple Java Profiler based on Komorium 
 ---
-
+#Writing a simple Java Profiler based on Komorium 
 Profilers enable us to perform dynamic analysis of programs. We are interested in how programs behave at runtime. The runtime analysis of OO systems reveals interesting information and helps us to combine domain knowledge with the software entities such as packages, classes and methods. 
 We are interested in abstracting traces of behaviour of a system and model it to reason about the concepts of a system, its architecture. 
 

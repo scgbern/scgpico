@@ -1,7 +1,7 @@
 ---
 Title: How to copy your data from your old Mac to your new mac at installation
 ---
-
+#How to copy your data from your old Mac to your new mac at installation
 When asked during the installation if you want to copy data from your old mac then:
 
 

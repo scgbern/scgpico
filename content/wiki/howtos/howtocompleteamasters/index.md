@@ -1,7 +1,7 @@
 ---
 Title: How to complete a Masters
 ---
-
+#How to complete a Masters
 As of September 2012, there is a new procedure concerning the master thesis.
 
 -  there is a new form “Master Thesis” which must be completed when you supervise a master student;
@@ -22,7 +22,7 @@ When you are writing your master thesis:
 -  Use the LaTeX template for the masters thesis in the scgbib git repo: git clone git://scg.unibe.ch/scgbib
 -  Pay attention to [Common Writing Errors](%base_url%/wiki/howtos/commonwritingerrors)!
 
-The final deliverable is the PDF of the thesis, which will be published in the [SCG archive](http://scg.unibe.ch/publications/scg-msc).
+The final deliverable is the PDF of the thesis, which will be published in the [SCG archive](/publications/scg-msc).
 
 #Providing a copy to the University library
 

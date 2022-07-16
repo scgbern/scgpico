@@ -1,8 +1,9 @@
 ---
 Title: EyeVis
 ---
-
-```v := RTView new.
+#EyeVis
+```
+v := RTView new.
 objs := RTObject withAllSubclasses flatCollect:#methods.
 els := RTEllipse new color: Color red; elementsOn: objs.
 v addAll: els.

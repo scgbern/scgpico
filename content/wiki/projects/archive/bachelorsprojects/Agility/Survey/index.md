@@ -1,21 +1,21 @@
 ---
 Title: Survey
 ---
-
+#Survey
 #Survey Questions Documents
 
--  [Survey questions - version1](http://scg.unibe.ch/wiki/projects/bachelorsprojects/Agility/Survey/surveyQuestionsv1)
--  [Survey questions - version2](http://scg.unibe.ch/wiki/projects/bachelorsprojects/Agility/Survey/v2)
+-  [Survey questions - version1](/wiki/projects/bachelorsprojects/Agility/Survey/surveyQuestionsv1)
+-  [Survey questions - version2](/wiki/projects/bachelorsprojects/Agility/Survey/v2)
 -  v3 see there &mdash;>
--  [Survey questions - version4](http://scg.unibe.ch/wiki/projects/bachelorsprojects/Agility/Survey/v4)
--  [Survey questions - version5](http://scg.unibe.ch/wiki/projects/bachelorsprojects/Agility/Survey/surveyround1version5)
--  [Survey questions - version6](http://scg.unibe.ch/wiki/projects/bachelorsprojects/Agility/Survey/questionsv6)
+-  [Survey questions - version4](/wiki/projects/bachelorsprojects/Agility/Survey/v4)
+-  [Survey questions - version5](/wiki/projects/bachelorsprojects/Agility/Survey/surveyround1version5)
+-  [Survey questions - version6](/wiki/projects/bachelorsprojects/Agility/Survey/questionsv6)
 
 
--  [2 questions for each need](http://scg.unibe.ch/wiki/projects/bachelorsprojects/Agility/Survey/2questionseach)
+-  [2 questions for each need](/wiki/projects/bachelorsprojects/Agility/Survey/2questionseach)
 
 
--  [draft of questions - new approach](http://scg.unibe.ch/wiki/projects/bachelorsprojects/Agility/Survey/newApproach)
+-  [draft of questions - new approach](/wiki/projects/bachelorsprojects/Agility/Survey/newApproach)
 
 #What do we want to know
 

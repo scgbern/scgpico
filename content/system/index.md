@@ -1,7 +1,7 @@
 ---
 Title: System
 ---
-
+#System
 - [Management](system/management)
 - [Templates](system/templates)
 - [Components](system/components)

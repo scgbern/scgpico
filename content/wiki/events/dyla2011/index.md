@@ -1,7 +1,7 @@
 ---
 Title: Dyla2011
 ---
-
+#Dyla2011
 The **DYLA Workshop** series focuses on the revival of dynamic languages. These days, dynamic languages (like Lisp, Ruby, Python, JavaScript, Lua, etc...) are getting ever more popular. This is a call to arms for academia! We need to explore the future of dynamic languages through its human aspects and technical issues. We also ought to look back and pick up solutions from existing dynamic languages (such as Scheme, Smalltalk, or Self) to be rediscovered and spread around.
 
 #Goal and Topics
@@ -51,10 +51,10 @@ And any topic relevant in applying and/or supporting dynamic languages: Smalltal
 
 *Papers:*
 
-- **Executable rules of encoding**, by John Moore. [PDF](http://scg.unibe.ch/download/dyla/2011/dyla11_submission_1.pdf)
-- **A Static Type Inference for Python, by Eva Maia**, Nelma Moreira and Rogério Reis. [PDF](http://scg.unibe.ch/download/dyla/2011/dyla11_submission_3.pdf)
-- **DoodleDebug, Beyond textual visualizations of objects**, by Niko Schwarz. [PDF](http://scg.unibe.ch/download/dyla/2011/dyla11_submission_4.pdf)
-- **Test Coverage With Hapao** by Vanessa Pena and Alexandre Bergel. [PDF](http://scg.unibe.ch/download/dyla/2011/dyla11_submission_5.pdf)
+- **Executable rules of encoding**, by John Moore. [PDF](/download/dyla/2011/dyla11_submission_1.pdf)
+- **A Static Type Inference for Python, by Eva Maia**, Nelma Moreira and Rogério Reis. [PDF](/download/dyla/2011/dyla11_submission_3.pdf)
+- **DoodleDebug, Beyond textual visualizations of objects**, by Niko Schwarz. [PDF](/download/dyla/2011/dyla11_submission_4.pdf)
+- **Test Coverage With Hapao** by Vanessa Pena and Alexandre Bergel. [PDF](/download/dyla/2011/dyla11_submission_5.pdf)
 
 Each paper will be presented for approx 30 minutes.
 

@@ -1,7 +1,7 @@
 ---
 Title: Incompatibilities
 ---
-
+#Incompatibilities
 Programs are constantly subject to change. As their size increases, they are also divided into modules. The rate at which modules may evolves may differ resulting in various possible incompatibilities which impeded the evolution of the overall software. 
 
 Here we show this problem with an extreme case. A class Point has radically changed from an implementation supporting Cartesian coordinate, to an implementation based on polar coordinate. 
@@ -10,7 +10,8 @@ One a submodule has already been update to match the new implementation of Point
 
 Using a context to convert the representation of the object (this is the opposite of representation independence), this incompatibility can be mitigated.
 
-```PolarContext>>transitionKeysFrom: keysFrom keysTo: keysTo
+```
+PolarContext>>transitionKeysFrom: keysFrom keysTo: keysTo
 
 ...
 
@@ -41,7 +42,8 @@ ifFalse: [
 
 And here would be a test case using both representation interchangeably.
 
-```| polarCtx cartesianCtx |
+```
+| polarCtx cartesianCtx |
 
 ( CartesianContext fromCurrent ) do: [
 	
@@ -69,7 +71,8 @@ And here would be a test case using both representation interchangeably.
 
 Which prints
 
-```P1: I am a CartesianPoint (x=10 y=10)
+```
+P1: I am a CartesianPoint (x=10 y=10)
 P1: I am a PolarPoint (r=14.14213562373095 theta=0.785398163397448)
 P2: I am a PolarPoint (r=4 theta=5)
 P1: I am a CartesianPoint (x=10 y=10)

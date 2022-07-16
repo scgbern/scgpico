@@ -1,7 +1,7 @@
 ---
 Title: Balz Aschwanden
 ---
-
+#Balz Aschwanden
 Hi SCG,
 
 I'm a bachelor student (major: computer science, minor: sociology) at Bern and I'm working on my bachelor thesis **Contextual Annotations on Dynamic Content**.

@@ -1,7 +1,7 @@
 ---
 Title: The Moldable Inspector
 ---
-
+#The Moldable Inspector
 Answering run-time questions in object-oriented systems involves reasoning about and exploring connections between multiple objects. Different developer questions exercise different aspects of an object and require different kinds of interactions depending on the relationships between objects, the application domain and the differing developer needs. 
 
 Object inspectors are the essential tools often used to reason about objects as they give direct access to object state. Traditional object inspectors, however, favor a generic view that focuses on the low level details of the state of single objects. This leads to an inefficient effort when answering specific questions about specific objects from specific domains.
@@ -36,9 +36,10 @@ Consider the case of the abstract syntax tree of a method. If you want to learn 
 
 ![http://humane-assessment.com/pierfiles/32/zdfyce64cv3csgbmdzeoodlkyp76pt/rbnode-on-object-deepcollectas.png](http://humane-assessment.com/pierfiles/32/zdfyce64cv3csgbmdzeoodlkyp76pt/rbnode-on-object-deepcollectas.png)
 
-[PetitParser](http://scg.unibe.ch/research/helvetia/petitparser) offers another example. Specifically, when building parsers using PetitParser, you want to play with them and investigate their behavior. To this end, PetitParser provides a dedicated browser that enables you to build full parsers in a class. But, when working in a workspace, you cannot benefit from this tool. The inspector offers the same sampler workspace possibility as in the PetitParser browser, only this time it lets you try samples on any parser instances. For example, below you see the result of inspecting the following parser:
+[PetitParser](/research/helvetia/petitparser) offers another example. Specifically, when building parsers using PetitParser, you want to play with them and investigate their behavior. To this end, PetitParser provides a dedicated browser that enables you to build full parsers in a class. But, when working in a workspace, you cannot benefit from this tool. The inspector offers the same sampler workspace possibility as in the PetitParser browser, only this time it lets you try samples on any parser instances. For example, below you see the result of inspecting the following parser:
 
-```natural := (#digit asParser plus flatten trim) name: 'natural'.
+```
+natural := (#digit asParser plus flatten trim) name: 'natural'.
 e := (($e asParser / $E asParser) , 
     ($- asParser / $+ asParser) optional , natural) name: 'e'.
 number := (($- asParser optional ,

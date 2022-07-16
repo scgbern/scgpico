@@ -1,7 +1,7 @@
 ---
 Title: Expressivness
 ---
-
+#Expressivness
 This page contains a detailed report on an experiment performed in order to assess the expressivness of Dicto. The experiment consisted in: (1) collecting a comprehensive set of rules, as reported in scientific publications; (2) finding an appropriate translation of the rules in Dicto. Based on the reported results we can see that the vast majority of the rules encountered during our study can be expressed in Dicto. 
 
 

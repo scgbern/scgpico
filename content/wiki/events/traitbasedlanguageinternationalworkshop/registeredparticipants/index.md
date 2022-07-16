@@ -1,7 +1,7 @@
 ---
 Title: Registered Participants
 ---
-
+#Registered Participants
 Who's attending the [Trait-based Language International Workshop](%base_url%/wiki/events/traitbasedlanguageinternationalworkshop)
 
 

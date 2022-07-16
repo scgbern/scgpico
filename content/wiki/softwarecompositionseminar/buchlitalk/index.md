@@ -1,7 +1,7 @@
 ---
 Title: Build your own DSL with Xtext [Interactive Workshop]
 ---
-
+#Build your own DSL with Xtext [Interactive Workshop]
 **Date:** Tuesday, 23. November 2010 10:15 - 12:00
 
 **Title:** Build your own DSL with Xtext  [Interactive Workshop]

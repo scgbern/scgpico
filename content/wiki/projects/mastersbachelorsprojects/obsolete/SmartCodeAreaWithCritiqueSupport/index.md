@@ -1,7 +1,7 @@
 ---
 Title: Smart Code Area With Critique Support
 ---
-
+#Smart Code Area With Critique Support
 #Motivation
 
 No one is safe from making mistakes, and writing code is not an exception here. But we as programmers can build tools that analyze your code and immediately inform you about the possible issues.

@@ -1,7 +1,7 @@
 ---
 Title: Investigation of apps Android AIDL use
 ---
-
+#Investigation of apps Android AIDL use
 #Introduction
 The [Android Interface Definition Language (AIDL)](https://developer.android.com/guide/components/aidl) is used to define interfaces available for [Android Inter-Process Communication (IPC)](https://stackoverflow.com/questions/5740324/what-are-the-ipc-mechanisms-available-in-the-android-os) throughout many apps.
 There is a positive trend of apps relying on other app's data, hence we expect that the use of IPC based on AIDL increases substantially for more recent apps due to the required inter-app communication.

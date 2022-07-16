@@ -1,7 +1,7 @@
 ---
 Title: Alain Stulz
 ---
-
+#Alain Stulz
 Hi! My name is Alain and I'm studying for a bachelor's degree at Uni Bern. I'm joining the Software Composition Group to write my bachelor thesis. 
 
 ##My Background

@@ -1,7 +1,7 @@
 ---
 Title: Problems
 ---
-
+#Problems
 #Open Problems
 
 -  How can variables that contain classes perfom a lookup for the current version of the class 

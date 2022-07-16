@@ -1,7 +1,7 @@
 ---
 Title: Return Null Analysis
 ---
-
+#Return Null Analysis
 #Project Idea
 
 In a previous study, we found out that NullPointerExceptions are very serious in Java projects. And also the most frequent bug-fix code change is actually inserting a null check in front of the statement that caused the exception.

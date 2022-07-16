@@ -1,7 +1,7 @@
 ---
 Title: OORPT 2006 Lecture SmallWiki
 ---
-
+#OORPT 2006 Lecture SmallWiki
 
 -  Lecturer: [Oscar Nierstrasz](%base_url%/staff/oscar)
 -  Assistants: [Tudor Girba](http://www.tudorgirba.com)

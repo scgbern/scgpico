@@ -1,7 +1,7 @@
 ---
 Title: Analyzing the inconsistency between comments and source code in Pharo
 ---
-
+#Analyzing the inconsistency between comments and source code in Pharo
 #Introduction
 In Pharo, as in many other programming languages, method/class comments represent a useful source of information to understand the responsibilities of a given class.
 

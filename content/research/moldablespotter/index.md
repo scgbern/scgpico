@@ -1,7 +1,7 @@
 ---
 Title: Moldable Spotter: a unified search interface for IDEs
 ---
-
+#Moldable Spotter: a unified search interface for IDEs
 Program comprehension requires developers to reason about many kinds of highly interconnected software entities. Dealing with this reality prompts developers to continuously intertwine searching and navigation. Nevertheless, current integrated development environments (IDEs) address searching by means of many independent and disconnected search tools. This not only impedes developers from reusing search results produced by one search tool as input for another search tool, but it also makes it difficult to find appropriate search tools, in the multitude of other tools provided by an IDE.
 
 To address this problem we start from the realization that having disconnected search tools within an IDE, each designed to work in isolation and on different data types, is part of the problem. We propose Spotter, a model for expressing and combining search tools in a unified way. Spotter has two main goals:
@@ -85,7 +85,8 @@ Custom searches for an object are defined as extension methods in class of that 
 
 By default, the main GTSpotter opens on itself. Thus, all the top level categories are defined as extensions of the GTSpotter class. For example, searching for all classes in the image, is achieved as follows:
 
-```GTSpotter>>spotterForClassesFor: aStep
+```
+GTSpotter>>spotterForClassesFor: aStep
      <spotterOrder: 10>
      aStep listProcessor
                allCandidates: [ Smalltalk allClasses ];
@@ -96,7 +97,8 @@ By default, the main GTSpotter opens on itself. Thus, all the top level categori
 
 Similarly, searching for the instance side methods inside a class, is achieved through an extension method of Class:
 
-```Class>>spotterMethodsFor: aStep
+```
+Class>>spotterMethodsFor: aStep
      <spotterOrder: 10>
      aStep listProcessor
                title: 'Instance methods';
@@ -106,7 +108,7 @@ Similarly, searching for the instance side methods inside a class, is achieved t
 ```
 
 The histogram below shows the the size distribution (in LOC) for 106 custom extensions.
-![http://scg.unibe.ch/download/moldablespotter/Spotter_Distribution.png](http://scg.unibe.ch/download/moldablespotter/Spotter_Distribution.png)
+![/download/moldablespotter/Spotter_Distribution.png](/download/moldablespotter/Spotter_Distribution.png)
 
 
 

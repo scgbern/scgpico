@@ -1,7 +1,7 @@
 ---
 Title: How to set up backup on a Mac
 ---
-
+#How to set up backup on a Mac
 Backing up data is essential. Your hard-drive WILL FAIL!
 
 This page is trying to collect some ticks and tricks for a sensible Backup Strategy. There are different ideas of how to do it. 

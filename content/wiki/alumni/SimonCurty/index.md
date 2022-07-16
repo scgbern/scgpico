@@ -1,7 +1,7 @@
 ---
 Title: Simon Curty
 ---
-
+#Simon Curty
 Hi there,
 
 I'm a bachelor student at Bern. As part of my bachelor thesis I'm working on the project **Bug Report Classifier**.

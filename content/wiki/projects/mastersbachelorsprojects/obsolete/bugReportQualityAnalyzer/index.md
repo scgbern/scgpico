@@ -1,7 +1,7 @@
 ---
 Title: Bug Report Quality Estimator
 ---
-
+#Bug Report Quality Estimator
 #Project Idea:
 
 There is a nice paper called [“What Makes a Good Bug Report?”](http://thomas-zimmermann.com/publications/files/bettenburg-fse-2008.pdf) by researchers from Germany, Switzerland, and Canada. This paper suggests that there is a big misunderstanding between bug reporters and bug fixers.

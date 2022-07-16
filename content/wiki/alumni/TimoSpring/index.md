@@ -1,7 +1,7 @@
 ---
 Title: Timo Spring
 ---
-
+#Timo Spring
 Hello. 
 My name is Timo Spring and I am a bachelor student at the SCG of the University of Bern. I am currently working on my bachelor thesis project about "Benchmarking Android Security Analyses". The project is supervised by Claudio Corrodi.
 

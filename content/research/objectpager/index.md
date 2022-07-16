@@ -1,7 +1,7 @@
 ---
 Title: The Object Pager
 ---
-
+#The Object Pager
 
 The Object Pager is a novel, compact means to explore a space of run-time objects.
 

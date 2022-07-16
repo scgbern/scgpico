@@ -1,7 +1,7 @@
 ---
 Title: Subjectopia
 ---
-
+#Subjectopia
 Subjective behavior is essential for applications that must adapt their behavior to changing circumstances. Many different solutions have been proposed in the past, based, for example, on perspectives, roles, contextual layers, and force trees. Although these approaches are somehow equally expressive, each imposes a particular world view which may not be appropriate for all applications.
 We propose a unification of these approaches, called Subjectopia, which makes explicit the underlying abstractions needed to support subjective behavior, namely subjects, contextual elements and decision strategies. We demonstrate how Subjectopia subsumes existing approaches, provides a more general foundation for modeling subjective behavior, and offers a means to alter subjective behavior in a running system.
 

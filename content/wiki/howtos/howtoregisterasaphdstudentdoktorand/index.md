@@ -1,7 +1,7 @@
 ---
 Title: How to register as a PhD student (Doktorand)
 ---
-
+#How to register as a PhD student (Doktorand)
 Since the beginning of 2013, new PhD students must apply directly to the Admissions Office and obtain a confirmation of MSc equivalence before they can start their studies. Please follow these instructions:
 [http://www.zib.unibe.ch/content/internationals/bewerbung/doktorat/index_eng.html](http://www.zib.unibe.ch/content/internationals/bewerbung/doktorat/index_eng.html)
 

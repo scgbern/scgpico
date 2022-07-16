@@ -1,7 +1,7 @@
 ---
 Title: YAPaCaMo (Yet Another Pharo Changes Model)
 ---
-
+#YAPaCaMo (Yet Another Pharo Changes Model)
 #Project Idea
 
 Software development process is all about evolution. Source code is changing during development, memory is changing during an execution. And one of the most trivial ways to understand a change between two entities is a [DiffView](https://en.wikipedia.org/wiki/Diff_utility): two textual versions are compared to identify which lines have been changed.

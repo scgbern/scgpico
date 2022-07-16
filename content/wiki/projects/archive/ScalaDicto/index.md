@@ -1,7 +1,7 @@
 ---
 Title: DSL in Scala
 ---
-
+#DSL in Scala
 A [DSL](http://en.wikipedia.org/wiki/Domain-specific_language) (Domain Specific Language) is a small language with a clearly defined grammar and a very readable syntax. 
 There are two types of DSL: external and internal. 
 Internal DSLs ride on a host language, so an internal DSL's syntax is both influenced and restricted by the host language. External DSLs can be built from the ground up but doing so requires mental muscle, as well as a very good parser.
@@ -10,7 +10,8 @@ The goal of this project is to build an internal DSL for Dicto using the Scala p
 Dicto is a lightweight language for specifying architectural rules. 
 Here is a small example: 
 
-```View: Package with name="org.app.view"
+```
+View: Package with name="org.app.view"
 Model: Package with name="org.app.model"
 Controller: Package with name="org.app.model"
 Tests: Class with parentClass="junit.framework.TestCase"
@@ -27,6 +28,6 @@ The end result should be a fully functioning Scala program that accepts the abov
 References: 
 
 -  [http://www.scalatest.org/user_guide/using_matchers](http://www.scalatest.org/user_guide/using_matchers)
--  [http://scg.unibe.ch/dicto/](http://scg.unibe.ch/dicto/)
+-  [/dicto/](/dicto/)
 
 Contact person: [Andrea Caracciolo](%base_url%/staff/Caracciolo)

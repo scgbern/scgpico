@@ -1,7 +1,7 @@
 ---
 Title: Squeak Refactoring Browser
 ---
-
+#Squeak Refactoring Browser
 The goal of this Bachelors Project is to improve the Refactoring Engine of Squeak. Smalltalk's refactoring Browser was the first refactoring tool, but it has not been developed for some years.
 
 Possible things to work on are:

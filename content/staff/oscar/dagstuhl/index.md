@@ -1,7 +1,7 @@
 ---
 Title: Dagstuhls I have attended
 ---
-
+#Dagstuhls I have attended
 #Dagstuhl workshops I have attended / plan to attend
 
 

@@ -1,7 +1,7 @@
 ---
 Title: Directions to INF
 ---
-
+#Directions to INF
 [![uninge.png](%assets_url%/files/60/4hs9e9a8pkihu29ahupbm4m5uszfvg/unienge.png)](%base_url%/contact)
 #Where are we?
 [INF](http://www.inf.unibe.ch/) is housed in Neubrückstrasse 10 (building 66). The **[Software Composition Group](%base_url%/)** is in Schützenmattstrasse 14, the building right *behind* Neubrückstrasse 10 (**building 68**). 

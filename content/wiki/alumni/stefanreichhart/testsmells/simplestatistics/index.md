@@ -1,7 +1,7 @@
 ---
 Title: Simple Statistics
 ---
-
+#Simple Statistics
 updated: October 14, 2006
 
 

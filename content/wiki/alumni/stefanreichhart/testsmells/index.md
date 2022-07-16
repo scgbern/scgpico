@@ -1,7 +1,7 @@
 ---
 Title: TestSmells
 ---
-
+#TestSmells
 TestLint is a tool to automatically detect design flaws in the test-code a.k.a TestSmells: "what is good, what is bad"
 
 ---

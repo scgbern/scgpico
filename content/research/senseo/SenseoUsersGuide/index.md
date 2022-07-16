@@ -1,7 +1,7 @@
 ---
 Title: Senseo Users Guide
 ---
-
+#Senseo Users Guide
 This page guides you through the installation of Senseo and its usage. Furthermore, we describe the different features and enrichments of Senseo.
 
 #Requirements
@@ -14,7 +14,7 @@ To be able to use Senseo with all its features a standard Eclipse installation i
 
 Senseo can be installed from an Eclipse update site. You need to add the following URL as an Eclipse Update Site in the Eclipse Update Manager:
 
-**Update-Site:** http://scg.unibe.ch/download/senseo/eclipse/
+**Update-Site:** /download/senseo/eclipse/
 
 You will then be able to install the senseo plugin within your Eclipse installation. After successfully restarting Eclipse, senseo is enabled and immediately available.
 

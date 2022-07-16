@@ -1,7 +1,7 @@
 ---
 Title: Using ScanSnap
 ---
-
+#Using ScanSnap
 
 -  All needed software is on scgresources, Folder Hardware/FujitsuScanSnap
 -  Read the Manual (File Manual.pdf)

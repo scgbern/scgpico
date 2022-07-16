@@ -1,7 +1,7 @@
 ---
 Title: Visualizing runtime information about memory, space consumption directly in source code
 ---
-
+#Visualizing runtime information about memory, space consumption directly in source code
 When we browse a method's source code we basically get no information about how this source code behaves at runtime. Which source code statement is most expensive to execute? How many objects get created in a method? How much memory is allocated by a message send? What is the typical size of a collection at runtime in terms of numbers of elements it contains or memory it consumes? What is the impact on execution time of sending a specific message to an object? For how much memory usage is a specific method execution responsible? How many objects do we create directly or indirectly in a method? If a method creates normally 10 objects, but suddenly, in a specific execution it might create 500, then this is an indication for a possible problem we might want to study further. Hence having available such information directly embedded in a method's source code is very attracting. 
 We envision the display of this information by means of bars of different length next to the vsource code statements. If we for instance use execution time as a measure, a statement consuming in average 90% of the whole method would get a long bar, a statement consuming just 1% exeuction time would get a very short bar. Clicking on the bar reveals more precise information, eg. lowest and highest execution time, number of executions, etc.
 Of course we also want to see aggregated values for whole methods when eg. browsing list of methods. There we could use the same techniques relying on the different lengths of bars to quickly spot methods with a suspicious execution behavior. 

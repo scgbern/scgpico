@@ -1,7 +1,7 @@
 ---
 Title: Android: Improvement of Security Smell detections and evaluation on practitioners
 ---
-
+#Android: Improvement of Security Smell detections and evaluation on practitioners
 #This project is intended for MSc students
 <br><p>
 #Introduction

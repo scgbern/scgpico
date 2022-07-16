@@ -1,7 +1,7 @@
 ---
 Title: DoodleDebug Quick Start Guide
 ---
-
+#DoodleDebug Quick Start Guide
 This is a guide to get DoodleDebug up and running locally as quick as possible.
 
 

@@ -9,9 +9,10 @@ B=/Users/oscar/Documents/Projects/scgpico/migration/bin
 
 SOURCE=scg@cindy.inf.unibe.ch:/srv/scg.unibe.ch/app/export/
 CONTENT=/Users/oscar/Documents/Projects/scgpico/content/
-
 LOCAL=/Users/oscar/Sites/Pico/content/
-TARGET=scg@yogi.inf.unibe.ch:/srv/testscg.unibe.ch/pico-release-v2/content/
+
+PICO=/Users/oscar/Documents/Projects/scgpico/
+TARGET=scg@yogi.inf.unibe.ch:/srv/testscg.unibe.ch/scgpico/
 
 echo rsync ${RSYNC} ${SOURCE} ${CONTENT}
 rsync ${RSYNC} ${SOURCE} ${CONTENT}
@@ -23,7 +24,7 @@ find . -name \*.md -exec $B/fixPierAccents {} \;
 echo rsync ${RSYNC} ${CONTENT} ${LOCAL}
 rsync ${RSYNC} ${CONTENT} ${LOCAL}
 
-echo rsync ${RSYNC} ${CONTENT} ${TARGET}
-rsync ${RSYNC} ${CONTENT} ${TARGET}
+echo rsync ${RSYNC} ${PICO} ${TARGET}
+rsync ${RSYNC} ${PICO} ${TARGET}
 
 open http://testscg.unibe.ch

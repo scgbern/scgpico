@@ -1,10 +1,11 @@
 ---
 Title: Which options are most important to configure?
 ---
-
+#Which options are most important to configure?
 - **Q Which options are most important to configure?**
 - **A**
-```General options>Prefix
+```
+General options>Prefix
 General options>Description
 General options>Send welcome message ...
 General options>Send goodbye message ...

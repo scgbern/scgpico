@@ -1,12 +1,13 @@
 ---
 Title: Ruby
 ---
-
+#Ruby
 Swarm Behavior in Ruby, a quick & dirty hack...
 
 &nbsp;
 
-``` class Array
+```
+ class Array
    def method_missing(symbol, \*args)
      # todo, implement according &#58;respons_to? method
      gm = most_common_type.group_method(symbol)

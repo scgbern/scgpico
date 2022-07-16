@@ -1,10 +1,11 @@
 ---
 Title: Global state no more global
 ---
-
+#Global state no more global
 Classes are object as well, which means that global state isn't really global anymore.
 
-```CtxBuffer class
+```
+CtxBuffer class
 	instanceVariableNames: 'defaultSize'
 
 CtxBuffer class>> new
@@ -13,11 +14,13 @@ CtxBuffer class>> new
 
 The context is an object, which can be parametrized with the new value to fill in the class-side variable.
 
-```Context subclass: #ConfigContext
+```
+Context subclass: #ConfigContext
 	instanceVariableNames: 'defaultSize'
 ```
 
-```ConfigContext>>transitionKeysFrom: instVarFrom keysTo: instVarTo
+```
+ConfigContext>>transitionKeysFrom: instVarFrom keysTo: instVarTo
 	| cls |
 	cls := instVarFrom at: 'class'.
 	( cls = CtxBuffer class ) 
@@ -33,7 +36,8 @@ The context is an object, which can be parametrized with the new value to fill i
 
 And here is a sample test case:
 
-```ConfigeTest>>testBufferSize
+```
+ConfigeTest>>testBufferSize
 	self assert: [ CtxBuffer new  size = 10 ].
 	( ConfigContext defaultSize: 20  ) do: [
 		self assert: [ CtxBuffer new  size = 20 ].

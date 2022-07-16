@@ -1,7 +1,7 @@
 ---
 Title: XML Configuration Rule Inference
 ---
-
+#XML Configuration Rule Inference
 Rule inference from J2EE XML config. files
 
 Finding out how to write XML configuration files is often hard. 

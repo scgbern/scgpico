@@ -1,8 +1,8 @@
 #Download
 
 
--  [JAR file](http://scg.unibe.ch/download/jexample/jexample-latest.jar), requires JUnit 4
--  [Eclipse update-site](http://scg.unibe.ch/download/jexample)
+-  [JAR file](/download/jexample/jexample-latest.jar), requires JUnit 4
+-  [Eclipse update-site](/download/jexample)
 -  [Sourceforge project](http://sourceforge.net/projects/jexample/)
 
 #Blog posts

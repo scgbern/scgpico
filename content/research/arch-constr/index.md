@@ -1,7 +1,7 @@
 ---
 Title: Architectural Monitoring
 ---
-
+#Architectural Monitoring
 Software architecture is designed to guarantee the fulfillment of a given set of non-functional requirements.  
 This is done by defining constraints on specific aspects of the implementation. 
 Architectural constraints are commonly used in practice but have never been studied analytically. 

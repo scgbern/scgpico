@@ -1,7 +1,7 @@
 ---
 Title: Implemented Rules
 ---
-
+#Implemented Rules
 
 -  so far, there are approx: 80 rules to detect test-smells AND / OR interesting "spots" 
 -  about 40% of all rules are dynamic,

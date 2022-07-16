@@ -1,7 +1,7 @@
 ---
 Title: Reverse engineering ESE projects
 ---
-
+#Reverse engineering ESE projects
 Until now, you have looked at a large system (ArgoUML). In the following 2 weeks, you will be looking at 5 small but similar systems developed by the ESE teams.
 
 This year the ESE teams develop a Music Player. You can find details about the projects on the [ESE website](http://ese.unibe.ch). 

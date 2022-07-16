@@ -1,7 +1,7 @@
 ---
 Title: ViDI v2 (Visual Design Inspector Reborn)
 ---
-
+#ViDI v2 (Visual Design Inspector Reborn)
 #Project Idea
 
 [ViDI](http://yuriy.tymch.uk/Vidi/) is a visual design inspector. It visualized the software under analysis, enriches visualization with a result of quality rules, allows to edit software and fix it in place.

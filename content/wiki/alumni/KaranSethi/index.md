@@ -1,7 +1,7 @@
 ---
 Title: Karan Sethi
 ---
-
+#Karan Sethi
 Hei
 
 I am studying computer science  at the University of Bern and working on my bachelor thesis, which I am enjoying a lot.

@@ -1,7 +1,7 @@
 
 | | |
 |---|---|
-|<img style="text-align:center" src="http://scg.unibe.ch/download/prani/profile-pic.JPG"/>|
+|<img style="text-align:center" src="/download/prani/profile-pic.JPG"/>|
 
 #Quick Links
 

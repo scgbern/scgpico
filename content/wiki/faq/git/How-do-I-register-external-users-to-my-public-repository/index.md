@@ -1,7 +1,7 @@
 ---
 Title: How do I register external users to my public repository?
 ---
-
+#How do I register external users to my public repository?
 - **Q How do I register external users to my public repository?**
 - **A** [http://scie.nti.st/2007/11/14/hosting-git-repositories-the-easy-and-secure-way](http://scie.nti.st/2007/11/14/hosting-git-repositories-the-easy-and-secure-way)
 

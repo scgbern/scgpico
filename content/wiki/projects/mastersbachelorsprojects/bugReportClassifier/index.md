@@ -1,7 +1,7 @@
 ---
 Title: Bug Report Classifier
 ---
-
+#Bug Report Classifier
 #Project Idea:
 
 A recent statistical study on 7000\+ bug reports, in open source issue trackers, showed that 33.8% of those reports are misclassified. In other words, instead of referring to code fixes, they refer  to feature requests, update in the documentation, or internal refactoring. This misclassification introduces a considerable bias in all previous bug prediction approaches.

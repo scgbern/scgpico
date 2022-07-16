@@ -1,11 +1,12 @@
 ---
 Title: How can I control double spacing?
 ---
-
+#How can I control double spacing?
 - **Q How can I control double spacing?**
 - **A** \\def\\baselinestretch{1.4}
 Alternatively:
-```\usepackage{setspace}
+```
+\usepackage{setspace}
 ...
 \begin{onehalfspace}
 ...

@@ -1,7 +1,7 @@
 ---
 Title: ArgoUML dilemma
 ---
-
+#ArgoUML dilemma
 You are an employee of Make Money Inc.
 
 The boss of the company has recently visited a conference, and he decided he wants the company to build a visualization editor. The visualization editor should support pictures as found in the following articles:

@@ -1,7 +1,7 @@
 ---
 Title: Slides Refactorings
 ---
-
+#Slides Refactorings
 Slides refactorings denote actions to be undertaken to erradicate [Slides Bad Smells](%base_url%/staff/tudorgirba/storytellinginthedigitalage/slidesbadsmells).
 
 Slide Refactorings Catalog:

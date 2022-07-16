@@ -1,7 +1,7 @@
 ---
 Title: Hardware
 ---
-
+#Hardware
 
 -  [SCG Hardware Wish List](%base_url%/wiki/scgjoblist/hardware/scghardwarewishlist)
 

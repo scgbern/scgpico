@@ -1,7 +1,7 @@
 ---
 Title: Visualization for Software Domain Extraction
 ---
-
+#Visualization for Software Domain Extraction
 #Motivation
 Software projects normally are built on top of many libraries that implement cross-project functionalities. Different projects would depend on different sets of libraries. Although  there should be common libraries that crosscut many projects, projects in the same domain should share a specific set of them (e.g., game projects should normally depend on common game libraries). The analysis of those dependencies could lead to unveil the domain to which a project belongs. Visualization can provide a concrete representation to projects, libraries and their dependencies, encouraging exploration and detection of patterns.
 

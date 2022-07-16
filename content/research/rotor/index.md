@@ -1,7 +1,7 @@
 ---
 Title: Traits in C#
 ---
-
+#Traits in C#
 *Traits in C#* is a project funding by [Microsoft Research](http://research.microsoft.com/) as a [Rotor Project](http://research.microsoft.com/Collaboration/University/Europe/RFP/Rotor/). The goal of the project was to investigate means to apply traits to statically typed languages such as C#. The project results included a formal investigation of traits in the context of Featherweight Java, a report on the problems and issues concerning the integration of traits into statically typed languages, and a prototype implementation of traits for C# by means of ``flattening\'' traits to the base language. (See the Publications and Downloads sidebar.)
 
 | | |
@@ -39,7 +39,7 @@ Oscar Nierstrasz is a Professor of Computer Science at the Institute of Computer
 Roel Wuyts is a professor at the Universit&eacute; Libre de Bruxelles. His current research topics revolve around four axes: Declarative Meta-Programming, particular to express software architectures; Language Symbiosis, specifically between languages of different paradigms; Components and Composition; and Development Environments with emphasis on program understanding and static analysis of source code.
 
 ##Stefan Reichhart
-Stefan Reichhart is a master student at the Institute of Computer Science (IAM) of the University of Bern, having minors in Mathematics and Business Administrations. He has developed the [first prototype of traits in C#](http://scg.unibe.ch/download/rotor/CSharpTDemo.zip). The results of his work were [presented](http://scg.unibe.ch/download/rotor/SSCLI2005TraitsCSharp.pdf) at the [SSCLI Capstone Workshop 2005](http://research.microsoft.com/workshops/SSCLI2005/) at Microsoft Research.
+Stefan Reichhart is a master student at the Institute of Computer Science (IAM) of the University of Bern, having minors in Mathematics and Business Administrations. He has developed the [first prototype of traits in C#](/download/rotor/CSharpTDemo.zip). The results of his work were [presented](/download/rotor/SSCLI2005TraitsCSharp.pdf) at the [SSCLI Capstone Workshop 2005](http://research.microsoft.com/workshops/SSCLI2005/) at Microsoft Research.
 
 #Project Description
 ##Background

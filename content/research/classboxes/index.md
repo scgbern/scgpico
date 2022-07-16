@@ -1,7 +1,7 @@
 ---
 Title: Classboxes
 ---
-
+#Classboxes
 Classboxes are a minimal module system supporting "local rebinding". 
 
 Classical modules systems support well the modular development of applications but lack the ability to add or replace a method in a class that is not defined in that module. But languages that support method addition and replacement do not provide a modular view of applications, and their changes have a global impact. The result is a gap between module systems for object-oriented languages on one hand, and the very desirable feature of method addition and replacement on the other hand. 

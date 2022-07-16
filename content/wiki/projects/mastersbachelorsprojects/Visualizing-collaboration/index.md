@@ -1,7 +1,7 @@
 ---
 Title: Visualizing Collaboration Networks
 ---
-
+#Visualizing Collaboration Networks
 #Motivation
 Open-source software is normally build by large groups of developers that remotely commit changes to a repository. Different developers can modify parts of the same component. Therefore, code authorship is the result of collaboration among developers. However, the degree of contribution of developers vary throughout components and over time. In a visualization, entities and relationships have a concrete representation, making complex data easier to understand. The most frequent visualization of collaboration networks is a graph (left figure). In it, nodes represent authors, and the edges link authors that collaborated in the same piece of code. However, due the high number of edges the resulting visualization is difficult to understand. Alternatively, to avoid this problem, collaboration networks can be visualized as bi-graphs (right figure). In a bi-graph, components are also represented by nodes.
 

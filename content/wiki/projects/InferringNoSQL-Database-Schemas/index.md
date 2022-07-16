@@ -1,7 +1,7 @@
 ---
 Title: Inferring NoSQL Database Schemas
 ---
-
+#Inferring NoSQL Database Schemas
 **RQ:** *To what extent is it possible to infer the implicit schema of a NoSQL database?*
 
 #Motivation:

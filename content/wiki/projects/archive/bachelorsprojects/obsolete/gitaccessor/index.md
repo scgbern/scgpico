@@ -1,10 +1,11 @@
 ---
 Title: Git Accessor
 ---
-
+#Git Accessor
 The goal of this project is to implement an object-oriented interface to Git, so that one can read and manipulate a repository from Smalltalk:
 
-``` git := GitRepository on: '~/example.git'.
+```
+ git := GitRepository on: '~/example.git'.
  git add: (GitFile named: 'hello.txt' contents: 'hello world').
  git commit: 'initial commit'.
  git tag: 'foo'.

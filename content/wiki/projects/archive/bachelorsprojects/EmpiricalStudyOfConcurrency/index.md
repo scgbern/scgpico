@@ -1,7 +1,7 @@
 ---
 Title: Empirical Study Of Concurrency in Open Source Object Oriented Software
 ---
-
+#Empirical Study Of Concurrency in Open Source Object Oriented Software
 **Goal:** Perform a study of the usage of concurrency and parallelism in Open Source OO software systems. The study can be a replication of the one that's mentioned at the end as related reading or can take a different approach.
 
 Research Questions
@@ -15,7 +15,7 @@ Research Questions
 Challenge #1:
 How to obtain large amounts of source code?
 
--  Look at [Pangea](http://scg.unibe.ch/pangea/)
+-  Look at [Pangea](/pangea/)
 -  Look at online repositories: Ohloh, SqueakSource, ScalaForge, RubyForge
 
 Challenge #2:

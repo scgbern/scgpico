@@ -1,7 +1,7 @@
 ---
 Title: Detecting (potentially) malicious behaviour in mobile apps
 ---
-
+#Detecting (potentially) malicious behaviour in mobile apps
 #Project Idea
 
 <div align="justify">

@@ -64,6 +64,8 @@ s/â//g;
 
 # OTHER post-processing
 
+s/http:\/\/scg.unibe.ch\//\//g;
+
 s/src="\/files\//src="%assets_url%\/files\//g;
 
 s/^- \[SCG Bachelors Projects\]\(%assets_url%\/scgbib\/\?query=scg-bp\|scg-ip\&filter=Year\)$/- [SCG Bachelors Projects](%assets_url%\/scgbib\/?query=scg-bp\&filter=Year)\n- [SCG Informatics Projects](%assets_url%\/scgbib\/?query=scg-ip\&filter=Year)/g;

@@ -1,10 +1,10 @@
 ---
 Title: Quicksilver
 ---
-
+#Quicksilver
 Quicksilver is a tool for interactive exploration of large data sets with the help of hierarchical graphs. 
 
-The following is an image generated with Quicksilver: it represents knowledge flow in StackOverflow in the first 5 years of its existence. For more details see the [paper](http://scg.unibe.ch/scgbib?query=Sche13a) published at SSE'13.
+The following is an image generated with Quicksilver: it represents knowledge flow in StackOverflow in the first 5 years of its existence. For more details see the [paper](/scgbib?query=Sche13a) published at SSE'13.
 
 ![Knowledge-flow-in-so](%assets_url%/files/8e/jwotis46cr3wak88t406nu5lnvssvb/image.jpg)
 
@@ -12,7 +12,8 @@ The following is an image generated with Quicksilver: it represents knowledge fl
 
 To load and play with Quicksilver run the following code in [Pharo](http://www.pharo-project.org/):
 
-```Gofer new
+```
+Gofer new
         smalltalkhubUser: 'Quicksilver' project: 'Quicksilver';
         package: 'ConfigurationOfQuicksilver';
         load.
@@ -23,12 +24,14 @@ ConfigurationOfQuicksilver loadDefault.
 
 To see Quicksilver in action try these examples:
 
-```QsFilesystemViewer for: '/some/path/on/your/system'
+```
+QsFilesystemViewer for: '/some/path/on/your/system'
 ```
 
 This will open a tree map view of a directory, with files and folders not modified for a long time highlighted darker
 
-```QsSystemViewer for: 'Zinc'
+```
+QsSystemViewer for: 'Zinc'
 ```
 
 This will open a view of the system with given name, in this case all packages starting with the name 'Zinc'.
@@ -47,7 +50,7 @@ At the core of Quicksilver we use hierarchical graphs to conquer the complexity 
 
 You can look at the [documentation of the hierarchical graph algorithms here](%base_url%/research/quicksilver/HierarchicalGraph).
 
-At [PharoConf  & MooseDay 2013](http://scg.unibe.ch/wiki/events/pharoconf-mooseday-2013) in Bern, a [small presentation about hierarchical graphs and Quicksilver](http://www.youtube.com/watch?v=pOxKVVoCH3A) was given.
+At [PharoConf  & MooseDay 2013](/wiki/events/pharoconf-mooseday-2013) in Bern, a [small presentation about hierarchical graphs and Quicksilver](http://www.youtube.com/watch?v=pOxKVVoCH3A) was given.
 
 ##Visualization
 
@@ -65,4 +68,4 @@ Check out the [documentation for the TreeMaplayout here](%base_url%/research/qui
 
 #Publications
 
--  [*Geo-locating the Knowledge Transfer in StackOverflow*](http://scg.unibe.ch/archive/papers/Sche13a-GeolocatingStackOverflow.pdf) by Dennis Schenk and Mircea Lungu
+-  [*Geo-locating the Knowledge Transfer in StackOverflow*](/archive/papers/Sche13a-GeolocatingStackOverflow.pdf) by Dennis Schenk and Mircea Lungu

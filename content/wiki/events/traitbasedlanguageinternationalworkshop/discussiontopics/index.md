@@ -1,7 +1,7 @@
 ---
 Title: Discussion Topics
 ---
-
+#Discussion Topics
 Topics for the [Trait-based Language International Workshop](%base_url%/wiki/events/traitbasedlanguageinternationalworkshop)
 
 Feel free to edit this page to add your wishes and discussion topics

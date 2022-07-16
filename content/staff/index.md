@@ -1,7 +1,7 @@
 ---
 Title: SCG Staff
 ---
-
+#SCG Staff
 [![/download/photos/SCG-InSession.JPG](%assets_url%/download/photos/SCG-InSession.JPG)](%assets_url%/download/photos/SCG-InSession.JPG)
 
 The SCG ceased operations at the end of 2021.

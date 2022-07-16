@@ -1,10 +1,11 @@
 ---
 Title: JExample
 ---
-
+#JExample
 Active context can be used to snapshot object and avoid cloning. Perfect for JExample-like unit tests:
 
-```testSuiteFailCtx
+```
+testSuiteFailCtx
 
 	| queue  |
 	
@@ -27,7 +28,8 @@ Active context can be used to snapshot object and avoid cloning. Perfect for JEx
 
 Running the test suite prints something like:
 
-```Test: testCreation
+```
+Test: testCreation
 Test: testCreation
 Test: testAdd:
 Test: testAdd2:
@@ -40,12 +42,14 @@ Test suite [success=6, failure=1]
 ```
 The context is a regular class, so in this case we also override the do: method to deal with faulty tests.
 
-```TestContext>>do: aBlock
+```
+TestContext>>do: aBlock
 
 	[ ^ super do: aBlock ] on: Error do: [ Transcript show: 'Failure occured'; cr. ].
 ```
 
-```TestContext>>transitionKeysFrom: instVarFrom keysTo: instVarTo
+```
+TestContext>>transitionKeysFrom: instVarFrom keysTo: instVarTo
 
 super transitionKeysFrom: instVarFrom  keysTo: instVarTo .
 

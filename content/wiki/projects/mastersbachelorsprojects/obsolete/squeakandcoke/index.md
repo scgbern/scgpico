@@ -1,7 +1,7 @@
 ---
 Title: Squeak and Coke
 ---
-
+#Squeak and Coke
 Goal: Implement a simple Squeak JIT compiler vm using the Coke code generator.
 
 more information:

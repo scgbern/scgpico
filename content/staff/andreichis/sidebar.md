@@ -20,7 +20,7 @@
 -  Me and [AliakseiSyrel](https://twitter.com/AliakseiSyrel) gave a presentation about [Pharo](http://www.pharo.org) at [Jazoon](http://www.jazoon.com).
 
 
-- *[Practical domain-specific debuggers using the Moldable Debugger framework](http://scg.unibe.ch/scgbib?query=Chis15c&display=abstract)* accepted in [Journal of Computer Languages, Systems & Structures](http://www.journals.elsevier.com/computer-languages-systems-and-structures/).
+- *[Practical domain-specific debuggers using the Moldable Debugger framework](/scgbib?query=Chis15c&display=abstract)* accepted in [Journal of Computer Languages, Systems & Structures](http://www.journals.elsevier.com/computer-languages-systems-and-structures/).
 
 
 <a class="twitter-timeline" href="https://twitter.com/Chis_Andrei" data-widget-id="596608888255963136">Tweets by @Chis_Andrei</a>

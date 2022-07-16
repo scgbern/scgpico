@@ -1,7 +1,7 @@
 ---
 Title: Analyzing and defining Finite state machines for feature behavior
 ---
-
+#Analyzing and defining Finite state machines for feature behavior
 Our feature analysis is based on extracting execution traces of features. We define a feature to be a user-triggerable action. 
 
 The goal of this project is to analyze the behavior of a systems features in terms of finite state machines. 

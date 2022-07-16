@@ -1,7 +1,7 @@
 ---
 Title: Identify various kinds of information from class comments automatically
 ---
-
+#Identify various kinds of information from class comments automatically
 #Introduction:
 Code comments play an important role in software understanding and maintenance tasks.
 Programming languages follow  different conventions to write class comments.
@@ -31,7 +31,7 @@ In continuation to our previous work, we aim to improve the existing machine-lea
 -  Present your results. 
 
 #Further Material
-[Class comment Analysis](http://scg.unibe.ch/download/softwarecomposition/2019-11-26-Ivan-classCommentAnalysis.pdf)
+[Class comment Analysis](/download/softwarecomposition/2019-11-26-Ivan-classCommentAnalysis.pdf)
 
 #Contact
 [Pooja Rani](%base_url%/staff/Pooja-Rani)

@@ -1,7 +1,7 @@
 ---
 Title: Esug 2006 Camp Smalltalk
 ---
-
+#Esug 2006 Camp Smalltalk
 ESUG 2006 Hacks with PMM, MM
 
 -  SqueakMap loading (http://mc.lukas-renggli.ch/sm/)

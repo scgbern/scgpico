@@ -1,7 +1,7 @@
 ---
 Title: Schizophrenic Classes
 ---
-
+#Schizophrenic Classes
 #Project Idea
 
 <div align="justify">

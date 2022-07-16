@@ -1,7 +1,7 @@
 ---
 Title: Pimon
 ---
-
+#Pimon
 Pimon is a small visualization framework written in Smalltalk.
 
 # The Pimon DSL
@@ -30,7 +30,8 @@ My vision, when writing Pimon, was to abstract the implementation of layout and 
 
 For example, a tree level is arranged as follows 
 
-```  TreeLevel >> arrange
+```
+  TreeLevel >> arrange
     | group |
     group := Group new
         addAll: self treeChildren;
@@ -46,7 +47,8 @@ For example, a tree level is arranged as follows
 
 Using conventional layout code, the above code would look as follows
 
-```  TreeLevel >> arrange
+```
+  TreeLevel >> arrange
     | x y bottom right parentLeft |
     x := 0.
     y := self treeParent height + 16.
@@ -80,7 +82,8 @@ Currently Pimon is at the stage of a prototype, interfaces and protocols may be 
 
 Pimon (including <i>RBPolymetricView</i>) is available at the following Store coordinates
 
-```  interface: PostgresSQLEXDIConnection
+```
+  interface: PostgresSQLEXDIConnection
   environment: db.iam.unibe.ch_scgStore
   user name: storeguest
   password: storeguest

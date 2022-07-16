@@ -1,7 +1,7 @@
 ---
 Title: PL Resources
 ---
-
+#PL Resources
 This page contains links for the Lecture [PL: Programming Languages](%base_url%/teaching/pl).
 
 See also: [CC Resources](%base_url%/teaching/cc/resources)
@@ -79,13 +79,13 @@ See also: [CC Resources](%base_url%/teaching/cc/resources)
 -  [Thinglab](http://wiki.squeak.org/squeak/607)
 -  [Squeakland (eToys)](http://www.squeakland.org/)
 	-  [SqueakJS / EToys](https://squeak.js.org/etoys/)
-	-  [eToys car demo video](http://scg.unibe.ch/download/Demos/Videos/eToysCarDemo.mov)
-	-  [ eToys state machine demo video](http://scg.unibe.ch/download/Demos/Videos/eToys-StateMachine-Demo.mov)
+	-  [eToys car demo video](/download/Demos/Videos/eToysCarDemo.mov)
+	-  [ eToys state machine demo video](/download/Demos/Videos/eToys-StateMachine-Demo.mov)
 
 -  [Scratch](http://scratch.mit.edu/)
 -  [Naked Objects](http://www.nakedobjects.org/)
 -  [AGG](http://www.user.tu-berlin.de/o.runge/agg/)
-	-  [AGG demo video](http://scg.unibe.ch/download/Demos/Videos/AGG-factorial-demo.mov)
+	-  [AGG demo video](/download/Demos/Videos/AGG-factorial-demo.mov)
 
 -  [Subtext](http://subtextual.org/)
 

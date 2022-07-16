@@ -1,7 +1,7 @@
 ---
 Title: 10 Things I want in a Prog Language
 ---
-
+#10 Things I want in a Prog Language
 In no particular order
 
 

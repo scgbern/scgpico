@@ -1,7 +1,7 @@
 ---
 Title: Agile and scrum
 ---
-
+#Agile and scrum
 Scrum and other agile methodologies are now widely accepted in practice. In Scrum, the work is organized in user stories and the customer is responsible for their organization in a product backlog. At the end of each iteration, the progress is reviewed and priorities are re-evaluated. During the iteration, daily meetings take place to set direction and focus. The overall emphasis is on the incremental delivery of working functionality and the reduction of work-in-progress.
 
 Despite a rich literature on the subject, more evidence-based research is needed to understand how agile works, and why it works, in practice. 
@@ -17,7 +17,7 @@ The 1st proposal was selected by Zuehlke
 #Research on Scrum Tools
 
 
--  [Scrum tool to improve project management](http://scg.unibe.ch/wiki/projects/bachelorsprojects/Agility/interestingpaper2)
+-  [Scrum tool to improve project management](/wiki/projects/bachelorsprojects/Agility/interestingpaper2)
 -  [http://www.microsoft.com/presspass/itanalyst/docs/05-05-10AgileDevelopmentManagementTools.PDF](http://www.microsoft.com/presspass/itanalyst/docs/05-05-10AgileDevelopmentManagementTools.PDF)
 
 
@@ -73,7 +73,7 @@ The 1st proposal was selected by Zuehlke
 
 chi, vhlcc, cscw, ese (www.eseconf.com)
 
--  [Table with the conferences and additional information](http://scg.unibe.ch/wiki/projects/bachelorsprojects/Agility/conferences)
+-  [Table with the conferences and additional information](/wiki/projects/bachelorsprojects/Agility/conferences)
 
 #Contacts
 

@@ -1,7 +1,7 @@
 ---
 Title: SDE: Software Design and Evolution
 ---
-
+#SDE: Software Design and Evolution
 ![SDE web image](%assets_url%/files/5d/x6asdk42eywwaescaa9so1ipx598bl/sde-web.jpg)
 
 | | |
@@ -17,7 +17,7 @@ Title: SDE: Software Design and Evolution
 |**Repetition:**|Fall Semester 2016
 
 #Description
-[![/download/oorp/pictures/oorp.jpg](%assets_url%/download/oorp/pictures/oorp.jpg)](http://scg.unibe.ch/download/oorp)
+[![/download/oorp/pictures/oorp.jpg](%assets_url%/download/oorp/pictures/oorp.jpg)](/download/oorp)
 [![/download/pharobyexample/pbe.jpg](%assets_url%/download/pharobyexample/pbe.jpg)](http://PharoByExample.org)
 Real software systems continuously evolve over time. Statically-typed programming languages, however, provide few mechanisms to enable software evolution. In this course we will explore mechanisms and techniques provided by dynamic programming languages, in particular Smalltalk, which facilitate both run-time change, and long-term evolution. We will also explore techniques used to analyze static models of software as well as running systems to support program comprehension, refactoring and reengineering. The course is based partly on two open-source textbooks: [Pharo by Example](http://PharoByExample.org), and [Object-Oriented Reengineering Patterns](%assets_url%/download/oorp/).
 

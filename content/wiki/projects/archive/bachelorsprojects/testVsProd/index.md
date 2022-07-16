@@ -1,7 +1,7 @@
 ---
 Title: Test code vs. production code
 ---
-
+#Test code vs. production code
 Testing is an integral part of software development. There has been a growing awareness on unit testing&mdash;and testing in general. **Test and production code differ in nature an intent though**. For instance, [code duplication is bad in production code, but fine in test code](http://stackoverflow.com/questions/3435809/is-it-ok-to-copy-paste-unit-tests-when-the-logic-is-basically-the-same/3436062#3436062); or  [production code can afford some complexity to be generic, but test code should be simple and specific](>http://stackoverflow.com/questions/2874296/reflection-in-unit-tests-for-checking-code-coverage/2904148#2904148). Test and production code coexist in most project, yet programming language have little support to distinguish between the two.
 
 To avoid scattering test code all around the code base, dependency injection has been adopted by many practitioners in industry. It is however on a very partial solution; dependency injection frameworks are general purpose, and more specific solutions would be welcome if their usage is solely to ease switching between test and production code. 

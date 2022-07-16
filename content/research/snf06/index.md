@@ -1,7 +1,7 @@
 ---
 Title: Analyzing, Capturing and Taming Software Change
 ---
-
+#Analyzing, Capturing and Taming Software Change
 *Analyzing, Capturing and Taming Software Change* is a project funded by the [Swiss National Science Foundation](http://www.snf.ch/) (SNSF project # [200020-113342](http://p3.snf.ch/Project-113342)).
 
 | | |

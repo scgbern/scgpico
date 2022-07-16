@@ -1,5 +1,5 @@
 #Resources
-[The Dependency Inversion ](%20Principle>http://www.objectmentor.com/resources/articles/dip.pdf)
+[The Dependency Inversion Principle](http://www.objectmentor.com/resources/articles/dip.pdf)
 
 [The Dependency Injection](http://martinfowler.com/articles/injection.html)
 

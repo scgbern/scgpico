@@ -1,7 +1,7 @@
 ---
 Title: Hyphenate adjectives, not nouns
 ---
-
+#Hyphenate adjectives, not nouns
 
 ---
 #Hyphenate adjectives, not nouns

@@ -1,14 +1,15 @@
 ---
 Title: ThreadLocalVariable
 ---
-
+#ThreadLocalVariable
 Active context can be used to properly define thread local variable without the need of *ad hoc* constructs such as holder object.
 
 #With LocalVariable
 
 Smalltalk has LocalVariable for this purpose.
 
-```ProcessLocalVariable subclass: #RegularLocalVariable
+```
+ProcessLocalVariable subclass: #RegularLocalVariable
 	instanceVariableNames: \''
 	classVariableNames: \''
 	poolDictionaries: \''
@@ -17,7 +18,8 @@ Smalltalk has LocalVariable for this purpose.
 
 Then with a fork
 
-```[
+```
+[
 	self checkRegularLocal: 0.
 	RegularLocalVariable value: 1.
 	self checkRegularLocal: 1.
@@ -34,14 +36,16 @@ Then with a fork
 
 A context can be created to define thread local semantics
 
-```Context subclass: #LocalContextTest
+```
+Context subclass: #LocalContextTest
 	instanceVariableNames: ''
 	classVariableNames: ''
 	poolDictionaries: ''
 	category: 'ActiveContext-Examples'
 ```
 
-```LocalContextTest>>transitionKeysFrom: keysFrom keysTo: keysTo
+```
+LocalContextTest>>transitionKeysFrom: keysFrom keysTo: keysTo
 keysFrom keysAndValuesDo: [ :key :val | 
 	keysTo at: key 
 	ifAbsent: [ 
@@ -52,7 +56,8 @@ keysFrom keysAndValuesDo: [ :key :val |
 
 Then with a fork
 
-```[	
+```
+[	
 	| ctx2 |
 	ctx2 := LocalContextTest ancestor: CurrentContext instance 
 				 uuid: #Child1.

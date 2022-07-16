@@ -1,13 +1,13 @@
 ---
 Title: Past events
 ---
-
+#Past events
 ##2021
 
 - *PC Member* of [ICSME 2021](https://icsme2021.github.io) (37th International Conference on Software Maintenance and Evolution &mdash; Luxembourg City, Sept. 27 - Oct. 1, 2021)
 ##2020
 
--  Keynote Speaker at [ASE 2020 Doctoral Symposium](https://conf.researchr.org/track/ase-2020/ase-2020-doctoral-symposium) (35th IEEE/ACM International Conference on Automated Software Engineering &mdash; Melbourne, Australia, Sept. 21, 2020) [[pdf slides](http://scg.unibe.ch/download/oscar/TamingYourPhD-ASE2020.pdf)]
+-  Keynote Speaker at [ASE 2020 Doctoral Symposium](https://conf.researchr.org/track/ase-2020/ase-2020-doctoral-symposium) (35th IEEE/ACM International Conference on Automated Software Engineering &mdash; Melbourne, Australia, Sept. 21, 2020) [[pdf slides](/download/oscar/TamingYourPhD-ASE2020.pdf)]
 - *PC Member* of [SANER 2020](https://saner2020.csd.uwo.ca) (27th IEEE International Conference on Software Analysis, Evolution and Reengineering - London, Ontario, Canada, Feb. 18-21, 2020)
 ##2019
 
@@ -248,4 +248,4 @@ Title: Past events
 
 - *Invited speaker at* [Architectural Approaches to Software Engineering](http://mcs.open.ac.uk/SoftEngSem/SoftEngSem.html) (seminar) &#8212; Open University, UK, Dec 8-9, 1998
 
-For earlier events, please see my [on-line cv](http://scg.unibe.ch/download/oncv/oncv.pdf).
+For earlier events, please see my [on-line cv](/download/oncv/oncv.pdf).

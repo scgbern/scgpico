@@ -1,7 +1,7 @@
 ---
 Title: How Programmers Could Work in the Future? Toward Immersive Programming In Augmented and  Virtual Reality
 ---
-
+#How Programmers Could Work in the Future? Toward Immersive Programming In Augmented and  Virtual Reality
 The field of Virtual Reality (VR) has made tremendous progress over the last few years. VR-related devices, including visors, controllers, haptic devices, have now reached a point where a human can wear them for a relatively long period of time while performing complex tasks, such as playing sophisticated video games.
 
 The field of software engineering is having a close look at this new way of interacting with a computer. In particular, the software visualization and software comprehension communities  have  recently  started  to  explore  the  benefits  of  adopting VR  within  a  working  environment.  Developers could benefit from technologies that promote  collaboration, embodiment, memory, and presence such as immersive VR and augmented reality (AR).

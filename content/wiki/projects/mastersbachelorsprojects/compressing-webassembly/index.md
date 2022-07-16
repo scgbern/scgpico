@@ -1,22 +1,26 @@
 ---
 Title: Compressing Webassembly: Efficient Stack Usage in a Stack-Based Bytecode
 ---
-
+#Compressing Webassembly: Efficient Stack Usage in a Stack-Based Bytecode
 WebAssembly (wasm) is a simple code format, that was introduced as a compile target for the web. The idea is to support arbitrary high-level programming languages in the browser, by exposing a low-level instruction set for compiler writers.
 
 A curiosity of wasm is that it is specified as a stack machine. For example in the add binary operation, the two operands are implicitly defined, as the last two results pushed to the stack. This format is supposed to be more dense. For example
-```a+b+c
+```
+a+b+c
 ```
 can be compiled to 
-```(add (add (getlocal a) (getlocal b)) (getlocal c))
+```
+(add (add (getlocal a) (getlocal b)) (getlocal c))
 ```
 The temporary result of
-```a+b
+```
+a+b
 ```
 does not need to be explicitly stored, it is just consumed by the second add. This leads to a more compact encoding, thus smaller files to download.
 
 So far for the theory. It turns out that current compilers are not very good at lowering optimized code to this stack based format. For example emscripten, a C to wasm compiler, produces a lot of loads and stores instead of using the stack. We might see something like
-```(local_set temp (add (getlocal a) (getlocal b)) (add (getlocal temp) (getlocal c))
+```
+(local_set temp (add (getlocal a) (getlocal b)) (add (getlocal temp) (getlocal c))
 ```
 instead of the more optimal version above.
 

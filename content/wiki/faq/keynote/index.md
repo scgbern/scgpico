@@ -1,7 +1,7 @@
 ---
 Title: Keynote FAQ
 ---
-
+#Keynote FAQ
 - **Q How do I make a Magic Move transition with text that moves *and* changes size?**
 - **A** Convert the text to PDF first (<COPY>, open Preview, <CMD>N, Save as PDF, copy back to Keynote and use for transition)
 

@@ -1,7 +1,7 @@
 ---
 Title: How the Comments of Smallwiki are Generated
 ---
-
+#How the Comments of Smallwiki are Generated
 ##Overview
 This page describe the creation of a new action used for displaying all the comments of Smallwiki.
 
@@ -14,12 +14,14 @@ You can use the result of this howto when you are working on smallwiki. It creat
 - Create a new package <b>SmallWiki Example Comments</b>. This package will contain everything needed for our application.
 - Create a class named <b>ViewCommentAction</b> inheriting from <b>Action</b>
 - First, we have to give a title to this action:
-```ViewCommentAction>>title
+```
+ViewCommentAction>>title
 	^ 'Comments'
 ```
 
 - We have to define what will be displayed when the use press of Comments:
-```ViewCommentAction>>renderContent
+```
+ViewCommentAction>>renderContent
 	| s |
 	s := SortedCollection sortBlock: \[:cls1 :cls2| cls1 name <= cls2 name].
 	s addAll: self class environment classes.
@@ -33,7 +35,8 @@ The we add in this collection all the classes belonging to the namespace SmallWi
 For each classe (now sorted according their name) an horizontal line is display (performed by <b>html horizontalRule</b>, 
 
 - and we display the class and methods comment throught the method <b>ViewCommentAction>>displayOn:classCommentFor:</b>:
-```ViewCommentAction>>displayOn: anHtmlStream classCommentFor: aClass
+```
+ViewCommentAction>>displayOn: anHtmlStream classCommentFor: aClass
 	anHtmlStream bold: \[anHtmlStream text: aClass name]; break.
 	anHtmlStream text: aClass comment.
 	anHtmlStream break.
@@ -42,7 +45,8 @@ For each classe (now sorted according their name) an horizontal line is display 
 ```
 
 - and finally:
-```ViewCommentAction>>displayOn: anHtmlStream methodCommentNamed: selector forClass: aClass
+```
+ViewCommentAction>>displayOn: anHtmlStream methodCommentNamed: selector forClass: aClass
 		| cm source parser methodComment |
 		cm := aClass methodDictionary at: selector.
 		source := cm getSource, Character cr printString.
@@ -60,14 +64,16 @@ For each classe (now sorted according their name) an horizontal line is display 
 
 
 - Now the Action is created, we just need to bind it to a page, just add a line in:
-```TemplateActionsCustom>>defaultActions
+```
+TemplateActionsCustom>>defaultActions
 		...
 		add: ViewCommentAction;
 		...
 ```
 
 - Now the action is available, we have to bind it to a page:
-```Page>>initializeActions
+```
+Page>>initializeActions
 	"self initializeActions"
 	super initializeActions.
 	self registerAction: PageView.

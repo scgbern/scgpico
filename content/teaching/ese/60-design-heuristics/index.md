@@ -1,7 +1,7 @@
 ---
 Title: 60 design heuristics
 ---
-
+#60 design heuristics
 This is a Summary of the heuristics in the [OO Design Heuristics](http://www.amazon.com/Object-Oriented-Design-Heuristics-Arthur-Riel/dp/020163385X) by Arthur Riel.
 
 #(A) Classes and Objects

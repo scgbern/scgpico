@@ -1,7 +1,7 @@
 ---
 Title: Develect
 ---
-
+#Develect
 **Develect** is a tool and research prototype that models developer expertise using vocabulary found in source code. We use our expertise-model to automatically assign incoming bug reports to developers.
 
 <center>*Who knows about that bug? &mdash; Look at the source, Luke!*</center>

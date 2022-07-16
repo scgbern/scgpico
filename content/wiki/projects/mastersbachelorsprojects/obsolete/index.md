@@ -1,7 +1,7 @@
 ---
 Title: â Obsolete Masters Projects
 ---
-
+#â Obsolete Masters Projects
 
 -  [Test/Document framework for Quality Rules](%base_url%/wiki/projects/archive/test-document-quality-rules) ([Yuriy Tymchuk](%base_url%/staff/YuriyTymchuk))
 -  [Smart Code Area With Critique Support](%base_url%/wiki/projects/mastersbachelorsprojects/obsolete/SmartCodeAreaWithCritiqueSupport) ([Yuriy Tymchuk](%base_url%/staff/YuriyTymchuk))

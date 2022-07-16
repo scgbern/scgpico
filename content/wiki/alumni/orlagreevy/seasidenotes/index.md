@@ -1,7 +1,7 @@
 ---
 Title: Seaside Notes
 ---
-
+#Seaside Notes
 ##Loading Seaside by hand....
 
 SqueakMap Installer

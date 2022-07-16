@@ -1,8 +1,9 @@
 ---
 Title: A kind of Inline-if for Smalltalk
 ---
-
-```? anArrayOfTwoBlocks
+#A kind of Inline-if for Smalltalk
+```
+? anArrayOfTwoBlocks
 "inline-if
 4 > 0	? {[ 'four' ].[ 'zero' ]}"
 	^self

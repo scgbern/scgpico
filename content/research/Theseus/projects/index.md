@@ -1,7 +1,7 @@
 ---
 Title: Projects
 ---
-
+#Projects
 **Theorectical foundations for incremental updates**
 
 With incremental updates, different versions of code coexists at run-time isolated into contexts. Objects shared across contexts are mediated with bidirectional transformations to accomodate structural changes. 

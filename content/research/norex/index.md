@@ -1,7 +1,7 @@
 ---
 Title: NOREX: Network of Reengineering Expertise
 ---
-
+#NOREX: Network of Reengineering Expertise
 *NOREX: Network of Reengineering Expertise* is a project fundedby the [Swiss National Science Foundation](http://www.snf.ch/) under SCOPES 2005-2008: Scientific Co-operation between Eastern Europe and Switzerland.
 
 | | |

@@ -1,7 +1,7 @@
 ---
 Title: How to organize a CUSO seminar?
 ---
-
+#How to organize a CUSO seminar?
 ##The Proposal:
 The first thing to do as to have an idea for the seminar. The idea should be discussed with Prof. Nierstrasz so he can ask for funds from CUSO. You should write down a maximum of one page about the idea and the topics to be covered in the seminar. Also you should write down a budget proposal for the seminar. The budget can be calculated as follows:
 

@@ -1,7 +1,7 @@
 ---
 Title: Sandbox for Persistence Entities and further analysis
 ---
-
+#Sandbox for Persistence Entities and further analysis
 <div align="justify">
 #Summary
 The main idea of the project is the evaluation of persistence layer with regard to the performance in case of accessing the database over analyzed layer. We will evaluate the approach of quality evaluation without the knowledge of layer and database structure. This can be done by extracting relevant SQL statements from the software and the underlying execution plan from the database.
@@ -11,20 +11,21 @@ We will start the analysis with the following key message
 **The  modern software is too complex for the complete analysis. Take it as a "black box" and extract only the results from this "black box**"
 </div>
 
-![http://scg.unibe.ch/files/48/kc10uxgi8y5por3cp7jfj6dogc6lff/blackbox.png](http://scg.unibe.ch/files/48/kc10uxgi8y5por3cp7jfj6dogc6lff/blackbox.png)
+![/files/48/kc10uxgi8y5por3cp7jfj6dogc6lff/blackbox.png](/files/48/kc10uxgi8y5por3cp7jfj6dogc6lff/blackbox.png)
 
 **Example of EXPLAIN in PostgreSQL**
-![http://scg.unibe.ch/files/2f/0m7gzq14yvwbptcdvk25li43k4e8ss/sql.png](http://scg.unibe.ch/files/2f/0m7gzq14yvwbptcdvk25li43k4e8ss/sql.png)
-![http://scg.unibe.ch/files/a9/yfccfgfc0uyb4mugybd2vtbh31gcdh/plan.png](http://scg.unibe.ch/files/a9/yfccfgfc0uyb4mugybd2vtbh31gcdh/plan.png)
+![/files/2f/0m7gzq14yvwbptcdvk25li43k4e8ss/sql.png](/files/2f/0m7gzq14yvwbptcdvk25li43k4e8ss/sql.png)
+![/files/a9/yfccfgfc0uyb4mugybd2vtbh31gcdh/plan.png](/files/a9/yfccfgfc0uyb4mugybd2vtbh31gcdh/plan.png)
 
 #Motivation
 When looking at a typical enterprise software layering, the following four layers are often given as an example
 
-![http://scg.unibe.ch/files/55/6mbfhgj55kqoppr3m3ugt86ukzg4h6/incubator_layering.png](http://scg.unibe.ch/files/55/6mbfhgj55kqoppr3m3ugt86ukzg4h6/incubator_layering.png)
+![/files/55/6mbfhgj55kqoppr3m3ugt86ukzg4h6/incubator_layering.png](/files/55/6mbfhgj55kqoppr3m3ugt86ukzg4h6/incubator_layering.png)
 
 This overview does not mention the transition from persistence layer to the underlying data in the database. Lets take a look at a simple example using Criteria API.
 
-```public UserEntity findById(Long id) {
+```
+public UserEntity findById(Long id) {
 
  CriteriaBuilder builder = getEntityManager().getCriteriaBuilder();
  CriteriaQuery<UserEntity> criteria = builder.createQuery(UserEntity.class);
@@ -40,7 +41,7 @@ This overview does not mention the transition from persistence layer to the unde
 ```
 
 This method will trigger the following execution steps
-![http://scg.unibe.ch/files/ac/p80jtzotbw7rsdhvtgw9k71lmws7wv/incubator_transition.png](http://scg.unibe.ch/files/ac/p80jtzotbw7rsdhvtgw9k71lmws7wv/incubator_transition.png)
+![/files/ac/p80jtzotbw7rsdhvtgw9k71lmws7wv/incubator_transition.png](/files/ac/p80jtzotbw7rsdhvtgw9k71lmws7wv/incubator_transition.png)
 
 The question often raised in terms of software quality analysis, e.g. in the case of performance problems, is: **"How expensive is this method"?**
 
@@ -50,7 +51,8 @@ Unfortunately, this approach will not succeed.
 
 The definition of the underlying Persistence Entities influences the **amount** and **structure** of resulted SQL Queries by accessing the entities. The following two Entities will trigger different amount of SQL statements
 
-```@Entity
+```
+@Entity
 @Table(name = "USERS")
 public class UserEntity {
     @Id
@@ -63,7 +65,8 @@ public class UserEntity {
 }
 ```
 
-```@Entity
+```
+@Entity
 @Table(name = "USERS")
 public class UserEntity {
     @Id
@@ -78,7 +81,8 @@ public class UserEntity {
 
 The difference between these two definitions is not clear straight away. It is one single line, which is different in the code
 
-``` @OneToMany(fetch = FetchType.EAGER) != @OneToMany(fetch = FetchType.LAZY)
+```
+ @OneToMany(fetch = FetchType.EAGER) != @OneToMany(fetch = FetchType.LAZY)
 ```
 
 The "EAGER" part will immediately trigger the selection of PhoneEntity and the "LAZY" part will not.
@@ -126,7 +130,7 @@ For our analysis we define the following options:
 -  [Oracle](https://en.wikipedia.org/wiki/Oracle_Database)
 -  [PostgreSQL](https://en.wikipedia.org/wiki/PostgreSQL)
 
-![http://scg.unibe.ch/files/21/0sxat1d9m2yhabcgkb1kafd0nj2344/sandbox.png](http://scg.unibe.ch/files/21/0sxat1d9m2yhabcgkb1kafd0nj2344/sandbox.png)
+![/files/21/0sxat1d9m2yhabcgkb1kafd0nj2344/sandbox.png](/files/21/0sxat1d9m2yhabcgkb1kafd0nj2344/sandbox.png)
 
 #Scope
 Construction of sandbox can be done together with a supervisor of the project. The level of student's involvement in the process of sandbox definition can vary from 0% to 100%

@@ -1,10 +1,10 @@
 ---
 Title: Thesis
 ---
-
+#Thesis
 **New Version**
 
-[New Version 13. Feb 2011](http://scg.unibe.ch/wiki/projects/bachelorsprojects/Agility/Thesis/NewVersion13Feb2011)
+[New Version 13. Feb 2011](/wiki/projects/bachelorsprojects/Agility/Thesis/NewVersion13Feb2011)
 
 **Structure**
 

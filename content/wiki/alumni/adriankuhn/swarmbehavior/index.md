@@ -1,11 +1,12 @@
 ---
 Title: Collective Behavior
 ---
-
+#Collective Behavior
 &nbsp;
 
 <div style="float: right;">![Fishswarm.png](%assets_url%/files/a9/28tb0n5sk45o3kfdbub4hklgz5ur6v/fishswarm.png)</div>
-``` Shark shark = new Shark();
+```
+ Shark shark = new Shark();
  Collection<Fish> swarm = new ArrayList();
  for ( ... ) swarm.add(new Fish());
  ...

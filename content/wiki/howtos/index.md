@@ -1,7 +1,7 @@
 ---
 Title: How To's
 ---
-
+#How To's
 ##SCG Library
 
 -  The SCG library is available online at [http://www.librarything.com/catalog/scg](http://www.librarything.com/catalog/scg)

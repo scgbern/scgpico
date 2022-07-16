@@ -1,7 +1,7 @@
 ---
 Title: CodeFoo
 ---
-
+#CodeFoo
 This page describes some of the most useful additions for Smalltalk, you can find more of them in the <code>CodeFooDevelopment</code> bundle on [How to access the SCG visualworks store](%base_url%/wiki/howtos/howtoaccessscgstore).
 
 
@@ -11,12 +11,14 @@ This page describes some of the most useful additions for Smalltalk, you can fin
 
 The simplest little extension that could possibly make a big difference. The extension allows to use symbols as unary blocks, for example you may replace
 
-```    coll do: \[ :each | each unaryMessage ]
+```
+    coll do: \[ :each | each unaryMessage ]
 ```
 
 with
 
-```    coll do: #unaryMessage
+```
+    coll do: #unaryMessage
 ```
 
 There is a package <code>SymbolValue</code> both on [How to access the SCG visualworks store](%base_url%/wiki/howtos/howtoaccessscgstore) as well as public store. For more information, please refer to [How valueable is a Symbol?](http://www.cincomsmalltalk.com/userblogs/travis/blogView?entry=3264534180) by Travis Griggs.
@@ -27,11 +29,13 @@ Answer a sort block based on the receiver, implemented as
 
 <div style="background: beige; border: 1px solid peru;">
 
-```  Symbol >> <b>asSortBlock</b>
+```
+  Symbol >> <b>asSortBlock</b>
     ^\[ :<!-- -->a :<!-- -->b | (a perform: self) <= (b perform: self) ]
 ```
 
-``` BlockClosure >> <b>asSortBlock</b>
+```
+ BlockClosure >> <b>asSortBlock</b>
     self numArgs = 1 ifTrue: \[ ^\[ :<!-- -->a :<!-- -->b | (self value: a) <= (self value: b) ] ].
     self numArgs = 2 ifTrue: \[ ^self ].
     self error: 'Not a sort block.' 
@@ -90,23 +94,27 @@ in particular those dealing with pre- and suffices are very useful
 
 Answer the transitive closure of the receiver, that is, all elements in the receiver plus any element reachable using the unary block. For example
 
-```    (Array with: Object) transitiveClosure: \[ :each | each subclasses ]
+```
+    (Array with: Object) transitiveClosure: \[ :each | each subclasses ]
 ```
 
 returns the same as
 
-```    Object withAllSubclasses
+```
+    Object withAllSubclasses
 ```
 
 Implemented as follows
 
 <div style="background: beige; border: 1px solid peru;">
 
-```  Collection >> <b>transitiveClosure:</b> unaryBlock
+```
+  Collection >> <b>transitiveClosure:</b> unaryBlock
     ^self species withAll: (self asSet <b>transitiveClosure:</b> unaryBlock)
 ```
 
-```  Set >> <b>transitiveClosure:</b> unaryBlock
+```
+  Set >> <b>transitiveClosure:</b> unaryBlock
     | closure candidates |
     closure := self species new.
     candidates := self copy.
@@ -128,7 +136,8 @@ Implemented as
 
 <div style="background: beige; border: 1px solid peru;">
 
-```  Set >> <b>removeAny</b>
+```
+  Set >> <b>removeAny</b>
     ^self remove: self any
 ```
 
@@ -140,19 +149,23 @@ General purpose implementation of <code>#do:</code>, implemented as
 
 <div style="background: beige; border: 1px solid peru;">
 
-```  UndefinedObject >> <b>asCollectionDo:</b> aBlock
+```
+  UndefinedObject >> <b>asCollectionDo:</b> aBlock
     ^self
 ```
 
-```  Object >> <b>asCollectionDo:</b> aBlock
+```
+  Object >> <b>asCollectionDo:</b> aBlock
     aBlock value: self
 ```
 
-```  Collection >> <b>asCollectionDo:</b> aBlock
+```
+  Collection >> <b>asCollectionDo:</b> aBlock
     self do: aBlock
 ```
 
-```  CharacterArray >> <b>asCollectionDo:</b> aBlock
+```
+  CharacterArray >> <b>asCollectionDo:</b> aBlock
     aBlock value: self
 ```
 
@@ -166,19 +179,23 @@ Implemented analog to <code>#asCollectionDo:</code> as
 
 <div style="background: beige; border: 1px solid peru;">
 
-```  UndefinedObject >> <b>asCollection</b>
+```
+  UndefinedObject >> <b>asCollection</b>
     ^#()
 ```
 
-```  Object >> <b>asCollection</b>
+```
+  Object >> <b>asCollection</b>
     ^Array with: self
 ```
 
-```  Collection >> <b>asCollection</b>
+```
+  Collection >> <b>asCollection</b>
     ^self
 ```
 
-```  CharacterArray >> <b>asCollection</b>
+```
+  CharacterArray >> <b>asCollection</b>
     ^Array with: self
 ```
 
@@ -279,7 +296,8 @@ The method is implemented as follows
 
 <div style="background: beige; border: 1px solid peru;">
 
-```  SequeancableCollection >> <b>sliceFrom:</b> s <b>to:</b> e
+```
+  SequeancableCollection >> <b>sliceFrom:</b> s <b>to:</b> e
     | start end |
     start := 1 max: (s positive ifTrue: \[s] ifFalse: \[self size + s + 1]).
     end := self size min: (e positive ifTrue: \[e] ifFalse: \[self size + e]).

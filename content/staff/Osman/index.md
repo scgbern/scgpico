@@ -1,7 +1,7 @@
 ---
 Title: Haidar Osman
 ---
-
+#Haidar Osman
 **This is my old page when I was a PhD student, Please refer to my linked in page for more up-to-date info on where I am, what I am doing, and how to contact me.**
 [https://www.linkedin.com/in/haidarosman/](https://www.linkedin.com/in/haidarosman/)
 

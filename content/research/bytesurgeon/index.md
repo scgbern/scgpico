@@ -1,7 +1,7 @@
 ---
 Title: ByteSurgeon
 ---
-
+#ByteSurgeon
 ByteSurgeon is a library to transform binary code in Smalltalk. It takes full advantage of the flexibility of the Squeak environment to enable bytecode transformation at runtime, thereby allowing dynamic, on-the-fly modification of applications. ByteSurgeon operates on bytecode in order to cope with situation where either the source code or a full compiler is not available, while providing appropriate high-level abstractions so that users do not need to program at the bytecode level. 
 
 #Users of ByteSurgeon

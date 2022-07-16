@@ -1,7 +1,7 @@
 ---
 Title: How to setup wireless LAN
 ---
-
+#How to setup wireless LAN
 You can now use IAMwavelan instead of scgairport for wireless access.  For instructions see:
 
 [http://www.iam.unibe.ch/institut/sysadmin/wlan](http://www.iam.unibe.ch/institut/sysadmin/wlan)

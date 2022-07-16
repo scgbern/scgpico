@@ -1,7 +1,7 @@
 ---
 Title: Projects
 ---
-
+#Projects
 I am working on [Theseus](%base_url%/research/Theseus), an approach to update server applications without restarting them (live updates), and [Dynamic Ownership](%base_url%/research/DynamicOwnership).
 
 I can propose the following projects:
@@ -51,7 +51,7 @@ We have built a first version of an extension of Smalltalk with dynamic ownershi
 
 -  *Required Profile:* Interested in language engineering, object-oriented design principles (encapsulation, aggregation, modularity, coupling) 
 -  *Opportunity:* To improve object-oriented design skills 
--  *References:* [Dynamic Ownership](%base_url%/research/DynamicOwnership), [Dynamic Ownership in a Dynamic Language](http://scg.unibe.ch/wiki/projects/bachelorsprojects/DynamicOwnership/DynamicOwnershipInDynLang)
+-  *References:* [Dynamic Ownership](%base_url%/research/DynamicOwnership), [Dynamic Ownership in a Dynamic Language](/wiki/projects/bachelorsprojects/DynamicOwnership/DynamicOwnershipInDynLang)
  
 
  

@@ -1,7 +1,7 @@
 ---
 Title: Visually Mining TravisTorrent
 ---
-
+#Visually Mining TravisTorrent
 #Motivation
 [TravisTorrent](https://travistorrent.testroots.org/) is a data set synthesized from GitHub and Travis CI that provides access to hundred of thousands of builds from a thousand of selected projects. Mining it researchers can evaluate hypothesis regarding the use of CI, testing patterns and software quality. 
 

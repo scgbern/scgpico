@@ -1,7 +1,7 @@
 ---
 Title: Smoke-free Restaurants in Bern
 ---
-
+#Smoke-free Restaurants in Bern
 #News!
 On July 1, 2009, all restaurants in the Canton of Bern will become smoke-free!
 

@@ -1,7 +1,7 @@
 ---
 Title: Detecting TestSmells
 ---
-
+#Detecting TestSmells
 <b>Conditional Test Logic</b> (metric, simple)
 
 -  parse testcases to detect conditionals and loops

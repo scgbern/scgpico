@@ -1,7 +1,7 @@
 ---
 Title: Visualizing and Mining Stack Traces
 ---
-
+#Visualizing and Mining Stack Traces
 #Motivation
 Profiling and debugging software can be challenging tasks. The stack of a program allows developers to track the sequence of nested methods called up to a certain point in the execution. These calls form a tree that contain valuable information useful when investigating bugs or doing performance improvements. Still, one stack trace is usually not enough. Collecting thousands of stack traces can provide better insight into the execution of a program, however, depending on their size and number, they can be hard to understand.
 

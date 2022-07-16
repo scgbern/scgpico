@@ -1,7 +1,7 @@
 ---
 Title: The Moldable Debugger
 ---
-
+#The Moldable Debugger
 Debuggers are crucial tools for developing object-oriented software systems as they give developers direct access to the running systems. Nevertheless, traditional debuggers rely on generic mechanisms to explore and exhibit the execution stack and system state, while developers reason about and formulate domain-specific questions using concepts and abstractions from their application domains. This creates an abstraction gap between the debugging needs and the debugging support leading to an inefficient and error-prone debugging effort. To reduce this gap, we propose a framework for developing domain-specific debuggers called the Moldable Debugger. 
 
 The Moldable Debugger is adapted to a domain by creating and combining domain-specific debugging operations with domain-specific debugging views, and adapts itself to a domain by selecting, at run time, appropriate debugging operations and views. 
@@ -20,7 +20,8 @@ Let's look at an example. The code below simulates a problem in a test that comp
 -  Download and run the [latest Moose 5.0 image](http://www.moosetechnology.org/download/5.0)
 -  Open a Workspace and execute the below code.
 
-```testClass := TestCase subclass: #ATest
+```
+testClass := TestCase subclass: #ATest
       instanceVariableNames: ''
       classVariableNames: ''
       poolDictionaries: ''

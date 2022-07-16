@@ -1,7 +1,7 @@
 ---
 Title: SCG Alumni
 ---
-
+#SCG Alumni
 Please add yourself or update your coordinates if you are a former [SCG](http://www.iam.unibe.ch/~scg/) member.
 
 You may also want to add youself to the [scg alumni mailing list](https://www.iam.unibe.ch/mailman/listinfo/scg-alumni) and join the [Joint Alumni Association in Computer Science](https://www.jointalumni.ch/).
@@ -59,7 +59,7 @@ You may also want to add youself to the [scg alumni mailing list](https://www.ia
 -  Matthias Rieger
 -  [Nathanael Schärli](http://www.iam.unibe.ch/~schaerli/)
 -  [Jean-Guy Schneider](http://www.it.swin.edu.au/staff/jschneider/)
--  [Dennis Schenk](http://scg.unibe.ch/wiki/alumni/dennisschenk)
+-  [Dennis Schenk](/wiki/alumni/dennisschenk)
 -  [Niko Schwarz](%base_url%/staff/Schwarz)
 -  Daniel Schweizer
 -  [Lukas Steiger](https://www.xing.com/profile/Lukas_Steiger)

@@ -1,7 +1,7 @@
 ---
 Title: WOOR 2007
 ---
-
+#WOOR 2007
 Welcome to the Wiki of the international <b>workshop on Object-Oriented Reengineering</b>.
 
 As with [WOOR2006](%base_url%/wiki/events/woor2006), this 10th anniversary edition will be hosted at the 21st European Conference on Object-Oriented Programming ([ECOOP2007](http://2007.ecoop.org/)).

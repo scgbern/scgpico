@@ -1,7 +1,7 @@
 ---
 Title: All SCG Eclipse Hacker Summit
 ---
-
+#All SCG Eclipse Hacker Summit
 Please fill in.
 
 

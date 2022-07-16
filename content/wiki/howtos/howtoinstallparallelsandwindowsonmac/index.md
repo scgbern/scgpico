@@ -1,7 +1,7 @@
 ---
 Title: How to install Parallels and Windows on Mac
 ---
-
+#How to install Parallels and Windows on Mac
 Many thanks to Markus for his help and patience, without him Paralles would not run on my machine (and you would not have this howto) &mdash; akuhn, january 2007
 
 ##Installing Parallels

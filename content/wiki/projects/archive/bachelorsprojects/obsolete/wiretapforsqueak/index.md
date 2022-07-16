@@ -1,7 +1,7 @@
 ---
 Title: Wiretap for Squeak
 ---
-
+#Wiretap for Squeak
 Wiretap is a fancy seaside gui that enables a user to switch on and off instrumentation of an application at runtime.
 The idea is based on the Java Wiretap project of Julien Fierz [http://www.iam.unibe.ch/~scg/Archive/Projects/Fier07a.pdf](http://www.iam.unibe.ch/~scg/Archive/Projects/Fier07a.pdf) (contact <a href="mailto:greevy@iam.unibe.ch">greevy@iam.unibe.ch</a>
 ). 

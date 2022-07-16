@@ -1,7 +1,7 @@
 ---
 Title: FM3
 ---
-
+#FM3
 <b>FM3</b> or <b>Fame meta-metamodel</b> is a model to describe metamodels.
 
 
@@ -54,7 +54,8 @@ subclasses NamedElement with attributes
 
 with these reserved instances 
 
-``` OBJECT := (FM3.Class (name 'Object') (root true))
+```
+ OBJECT := (FM3.Class (name 'Object') (root true))
  BOOLEAN := (FM3.Class (name 'Boolean') (primitive true) (superclass (ref: Object)))
  NUMBER := (FM3.Class (name 'Number') (primitive true) (superclass (ref: Object)))
  STRING := (FM3.Class (name 'String') (primitive true) (superclass (ref: Object)))

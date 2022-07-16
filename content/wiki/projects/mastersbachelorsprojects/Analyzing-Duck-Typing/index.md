@@ -1,7 +1,7 @@
 ---
 Title: Analyzing Duck Typing
 ---
-
+#Analyzing Duck Typing
 A method is *duck-typed* if it has the same signature as another method, neither of which overrides a similarly typed method of a common parent.
 
 Example: #value: is understood in Pharo Smalltalk by both blocks and symbols.

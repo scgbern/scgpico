@@ -1,7 +1,7 @@
 ---
 Title: Analyzing cryptographic questions on online sources
 ---
-
+#Analyzing cryptographic questions on online sources
 #Seminar Project
 <br><p>
 Cryptographic algorithms massively depend on mathematics and computer science. The cryptographic algorithms are designed in a way that breaking them is considered a hard task by adversaries. However, not all developers are familiar with cryptographic concepts and algorithms. As a result, they ask their uncertainties on online sources such as Stack Overflow and Crypto StackExchange. 

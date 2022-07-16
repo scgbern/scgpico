@@ -1,7 +1,7 @@
 ---
 Title: Mailman FAQ
 ---
-
+#Mailman FAQ
 - [Which options are most important to configure?](%base_url%/wiki/faq/mailman/whichOptionsToConfigure)
 
 ---

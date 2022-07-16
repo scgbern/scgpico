@@ -1,7 +1,7 @@
 ---
 Title: A vs. an
 ---
-
+#A vs. an
 
 ---
 #"A" vs. "an"

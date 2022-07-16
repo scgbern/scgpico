@@ -1,7 +1,7 @@
 ---
 Title: PEG
 ---
-
+#PEG
 The zen of PEG writing has reached the SCG labs...
 
 ## What is a PEG?
@@ -34,7 +34,7 @@ PEG in Smalltalk, by [Lukas Renggli](http://www.lukas-renggli.ch)
 
 PEG in Python, by Sandro De Zanet
 
--  [http://scg.unibe.ch/](http://scg.unibe.ch/)
+-  [/](/)
 
 ## PEGs elsewhere
 

@@ -1,7 +1,7 @@
 ---
 Title: Moose JEE
 ---
-
+#Moose JEE
 Moose JEE is an extension of [Moose](http://moose.unibe.ch) to analyze Java Enterprise applications. Moose JEE is still in a early stage of development but if you want try it please follow the instructions in the download section and please contact me for any question or suggestion about it.
 
 #Download
@@ -19,7 +19,8 @@ Choose below among the supported downloads:
 	-  Windows: launch .app/moose.exe
 
 -  Open a Workspace and execute the following code:
-```Gofer new
+```
+Gofer new
 	squeaksource: 'MooseJEE';					
 	package: 'ConfigurationOfMooseJEE';				
 	load.								
@@ -34,7 +35,8 @@ Choose below among the supported downloads:
 -  Download and install [Moose 4.1](http://www.moosetechnology.org/download/pharo) from Monticello
 -  Launch the Moose image
 -  Open a Workspace and execute the following code:
-```Gofer new
+```
+Gofer new
 	squeaksource: 'MooseJEE';					
 	package: 'ConfigurationOfMooseJEE';				
 	load.								
@@ -49,7 +51,8 @@ Choose below among the supported downloads:
 -  Download the last nightly build development image of [Moose](http://www.moosetechnology.org/download)
 -  Launch the image
 -  Open a Workspace and execute the following code:
-```Gofer new
+```
+Gofer new
 	squeaksource: 'MooseJEE';					
 	package: 'ConfigurationOfMooseJEE';				
 	load.								
@@ -73,4 +76,4 @@ Choose below among the supported downloads:
 
 
 - Main Contact: Fabrizio Perin <a href="mailto:perin@iam.unibe.ch">perin@iam.unibe.ch</a>
- [web page](http://scg.unibe.ch/staff/fabrizioperin)
+ [web page](/staff/fabrizioperin)

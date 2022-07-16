@@ -1,7 +1,7 @@
 ---
 Title: Talk Ideas
 ---
-
+#Talk Ideas
 Idea: show what you can do with it. Show small code samples.
 
 

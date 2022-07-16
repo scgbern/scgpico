@@ -1,7 +1,7 @@
 ---
 Title: String with Behavior
 ---
-
+#String with Behavior
 #<font style="color:red;">This project is unavailable since it already has been assigned to a MSc student.</font>
 <br><p><font style="color:grey;">
 

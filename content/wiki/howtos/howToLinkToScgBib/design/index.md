@@ -1,7 +1,7 @@
 ---
 Title: Design
 ---
-
+#Design
 #Design
 The source code resides at [http://www.squeaksource.com/Citezen.html](http://www.squeaksource.com/Citezen.html) in the package Citezen-Pier. Model classes are shown below in yellow, view classes in pink, Pier/Seaside classes in blue, and Citezen/Magritte classes in green.
 

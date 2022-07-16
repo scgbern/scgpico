@@ -1,7 +1,7 @@
 ---
 Title: Bender
 ---
-
+#Bender
 <div align="left">
 <span style="color:gray;">&mdash; *“It is our aim that the user of a code search engine is provided with as much information as possible with as little effort as necessary. Therefore Bender provides the user with additional meta information along with the actual pieces of code that were found for a query.”*<br><br>
 

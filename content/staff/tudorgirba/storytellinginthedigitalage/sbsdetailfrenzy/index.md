@@ -1,7 +1,7 @@
 ---
 Title: SBS Detail frenzy
 ---
-
+#SBS Detail frenzy
 
 - undistinguishable pictures (pictures tell a 1000 words if you can distinguish)
 -  small fonts

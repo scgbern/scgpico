@@ -1,7 +1,7 @@
 ---
 Title: How do code documentation efforts spread over class  hierarchy?
 ---
-
+#How do code documentation efforts spread over class  hierarchy?
 #Introduction
 Inheritance plays an essential role in object-oriented programming languages. 
 It claims to aid in maintaining a software[Booc94a], testing it [Basi90a] and producing a high quality of software[Basi96a]. 

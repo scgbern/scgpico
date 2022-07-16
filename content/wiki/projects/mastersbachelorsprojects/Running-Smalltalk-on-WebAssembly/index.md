@@ -1,7 +1,7 @@
 ---
 Title: Running Smalltalk on WebAssembly
 ---
-
+#Running Smalltalk on WebAssembly
 WebAssembly is a simple code format, that was introduced as a compile
 target for the web. The idea is to support arbitrary high-level
 programming languages in the browser, by exposing a low-level

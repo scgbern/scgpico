@@ -1,7 +1,7 @@
 ---
 Title: Hapax
 ---
-
+#Hapax
 <img border="0" width="160" src="http://www.iam.unibe.ch/~akuhn/img/hapax.png" align="right" style="margin-left:1ex;"/><big style="font-size:120%;"><b>Hapax</b></big> analyses the vocabulary of software systems. I apply search engine technology (Latent Semantic Analysis) to analyse the vocabulary and topics of software. In my research, I used Hapax for
 
 -  aspect mining,

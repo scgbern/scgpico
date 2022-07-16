@@ -1,10 +1,10 @@
 ---
 Title: Pier FAQ
 ---
-
+#Pier FAQ
 #Useful links
 
-- [Pier syntax](http://scg.unibe.ch/?view=PREditorHelp)
+- [Pier syntax](/?view=PREditorHelp)
 - [Pier Documentation](http://www.piercms.com/doc)
 	- [Pier browser shortcuts](http://www.piercms.com/doc/shortcuts)
 

@@ -1,7 +1,7 @@
 ---
 Title: Pluggable Editor
 ---
-
+#Pluggable Editor
 Smalltalk lacks an extensible editor component, that can not only be used to program in Smalltalk but also be extended to facilitate domain specific languages (DSLs). The goal of this project is to implement the model and view of a powerful editor component that is highly configurable and customizable. 
 
 ##Possible features

@@ -1,7 +1,7 @@
 ---
 Title: SCG Pier migration
 ---
-
+#SCG Pier migration
 The SCG website is an instance of [Pier](http://www.piercms.com), a CMS implemented in [Squeak Smalltalk](https://squeak.org).
 Although it was once cutting edge technology, it is now a piece of legacy software, running on an old Smalltalk image and vm.
 There is a high risk that after a future operating system upgrade, the vm will no longer work.

@@ -1,7 +1,7 @@
 ---
 Title: Infrastructure for Software Component Frameworks 
 ---
-
+#Infrastructure for Software Component Frameworks 
 *Infrastructure for Software Component Frameworks* is a research project of the [Software Composition Group]() at the University of Berne. The project is led by [Prof. Oscar Nierstrasz](http://www.iam.unibe.ch/~oscar/). The project is funded initially for two years by the Swiss National Science Foundation (SNSF # [2000-46947.96](http://p3.snf.ch/Project-46947)).
 
 The following text is extracted from the original research proposal.

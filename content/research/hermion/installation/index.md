@@ -1,7 +1,7 @@
 ---
 Title: Installation
 ---
-
+#Installation
 <i>OB-Enhancements</i>
 
 To use OB-Enhancements we recommend to get a recent version of the squeak-dev image which you can find here:
@@ -17,6 +17,6 @@ Installing Hermion is slightly more complex because you need the Reflectivity fr
 Afterwards you should install OB-Enhancements as mentioned above, either by using Package Universe or the Monticello repository at [http://source.wiresong.ca/ob/](http://source.wiresong.ca/ob/). If you use the later, load these packages in the following order: OmniBrowser, OB-Standard, OB-Morphic, OB-Enhancements (and maybe OB-Refactory).
 Finally you can load Hermion itself from this repository: [http://www.squeaksource.com/Hermion](http://www.squeaksource.com/Hermion).
 
-There is a [ready-made image](http://scg.unibe.ch/download/Hermion/Hermion.zip) available if you don't want to load those packages mentioned above by hand.
+There is a [ready-made image](/download/Hermion/Hermion.zip) available if you don't want to load those packages mentioned above by hand.
 
-Finally, if you want to use the feature browser or feature-centric environment as well, we provide this [feature browser image](http://scg.unibe.ch/download/Hermion/FeatureBrowser.zip)  to give it a try.
+Finally, if you want to use the feature browser or feature-centric environment as well, we provide this [feature browser image](/download/Hermion/FeatureBrowser.zip)  to give it a try.

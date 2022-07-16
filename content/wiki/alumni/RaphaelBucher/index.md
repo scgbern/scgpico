@@ -1,10 +1,10 @@
 ---
 Title: Raphael Bucher
 ---
-
+#Raphael Bucher
 Hello
 
-I'm working on my bachelors Thesis <a href="http://scg.unibe.ch/wiki/projects/mastersbachelorsprojects/Actionable-Software-Visualization">Actionable software visualization</a>, guided by Leonel Merino. 
+I'm working on my bachelors Thesis <a href="/wiki/projects/mastersbachelorsprojects/Actionable-Software-Visualization">Actionable software visualization</a>, guided by Leonel Merino. 
 
 The goal is to recommend developers suitable visualizations for their questions that arise during the development process. This tool will be integrated in Eclipse.
 

@@ -1,7 +1,7 @@
 ---
 Title: PetitParser Compiler
 ---
-
+#PetitParser Compiler
 <figure style="width: 150px; float: right;">![Logo](%assets_url%/files/ba/756pt73kvee5u2lojwv0jrog8wxd9q/pc-logo-v2.png)</figure>
 
 <br />
@@ -42,13 +42,15 @@ In general, we measure performance speedup ranging form factor two to ten. In th
 
 
 #Installation
-```Gofer new smalltalkhubUser: 'JanKurs' project: 'PetitParser';
+```
+Gofer new smalltalkhubUser: 'JanKurs' project: 'PetitParser';
     configurationOf: #PetitCompiler; load.
 (Smalltalk at: #ConfigurationOfPetitCompiler) perform: #'loadStable'.
 ```
 
 #Using PetitCompiler
-```| petitParser compiledParser |
+```
+| petitParser compiledParser |
 petitParser := PPSmalltlakParser new.
 "compilation might be costly do it only when you change your parser"
 compiledParser := parser compile.

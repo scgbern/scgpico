@@ -1,7 +1,7 @@
 ---
 Title: Meta-models and Tools for Evolution Towards Component Systems
 ---
-
+#Meta-models and Tools for Evolution Towards Component Systems
 *Meta-models and Tools for Evolution Towards Component Systems* is a project funded by the [Swiss National Science Foundation](http://www.snf.ch/) (SNSF project # [20-61655.00](http://p3.snf.ch/Project-61655)).
 
 | | |

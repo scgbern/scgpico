@@ -1,7 +1,7 @@
 ---
 Title: A Systematic Literature Review of Software Visualization Evaluation
 ---
-
+#A Systematic Literature Review of Software Visualization Evaluation
 Through software visualization developers can augment their capabilities to analyze multiple aspects of complex software systems. However, not every software visualization is suitable to tackle a given development concern. To understand how effective a software visualization is, it must be evaluated on that particular development task. We present an overview of the evaluation of existing visualizations, and examine their characteristics. In particular, we review the complete literature body of papers published in the SOFTVIS/VISSOFT conferences. Among the 387 papers published to date, we included in our study 181 full papers from which we extracted evaluation strategies, data collection methods and other various aspects of the evaluations. We found that 62% of the proposed software visualization approaches do not include an evaluation. We believe that for software visualization approaches to be adopted by developers, visualizations not only must prove their effectiveness via evaluations, but also evaluations should include participants of the target audience and real-world software systems. Finally, we recommend researchers in the field to conduct surveys that can help them to identify what are the frequent and complex problems that affect developers.
 
 [Data set](%assets_url%/files/75/glrwb4ijyyqpvk5cqodh2vo17y8zhx/software_visualization.ods) with the papers and extracted data in spreadsheet ODS format.

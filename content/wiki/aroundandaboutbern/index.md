@@ -1,7 +1,7 @@
 ---
 Title: Around and About Bern
 ---
-
+#Around and About Bern
 #Links
 
 -  [City of Bern](http://www.bern.ch/)

@@ -1,7 +1,7 @@
 ---
 Title: How to use the Canon Color printer
 ---
-
+#How to use the Canon Color printer
 Best is to have a look at the user manual (it's placed near the printer).
 
 In general: Install the drivers. The CD image is on Bigmac: CANONpixma.dmg

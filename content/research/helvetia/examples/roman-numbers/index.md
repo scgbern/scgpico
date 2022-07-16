@@ -1,17 +1,19 @@
 ---
 Title: Roman Numbers
 ---
-
+#Roman Numbers
 Imagine the requirement of supporting roman numbers within a programming language. We are looking for an approach that keeps the complete syntax of the host language and avoids to add any boilerplate code. We would like to be able to write expressions like:
 
-```self assert: VII = III + IV.
+```
+self assert: VII = III + IV.
 ```
 
 In the following example we assume that there is a converter method #romanToArabic in the class String answering the decimal representation of a roman number or nil, if invalid. 
 
 We add the following transformation rule to the system:
 
-```RomanDSL class>>transformation
+```
+RomanDSL class>>transformation
     <transform>
 
     ^ DSLTreePattern new 
@@ -36,7 +38,8 @@ Line by line explanation:
 
 Adding string interpolation to Smalltalk is a matter of adding a simple method that transforms string literals to a more complex AST after the initial parsing:
 
-```StringInterpolationDSL class>>stringInterpolation
+```
+StringInterpolationDSL class>>stringInterpolation
     <transform>
 
     ^ DSLTreePattern new
@@ -48,7 +51,8 @@ Adding string interpolation to Smalltalk is a matter of adding a simple method t
 
 The transformation itself is defined in a separate helper method:
 
-```StringInterpolationDSL class>>interpolate: aString
+```
+StringInterpolationDSL class>>interpolate: aString
     | stream parts string |
     stream := aString readStream.
     parts := OrderedCollection new.
@@ -66,7 +70,8 @@ This method makes use of [quasiquoting](http://repository.readscheme.org/ftp/pap
 
 The test case below demonstrates the new interpolation functionality:
 
-```StringInterpolationTest>>testArithmetic
+```
+StringInterpolationTest>>testArithmetic
     self assert: 'Result: {1 + 2}' = 'Result: 3'.
     self assert: '10! = {10 factorial}' = '10! = 3628800'
 ```

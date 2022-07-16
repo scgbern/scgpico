@@ -1,7 +1,7 @@
 ---
 Title: How to supervise a Bachelors project
 ---
-
+#How to supervise a Bachelors project
 Other than with the Informatikprojekt, as of now, students have to register when they start the project.
  
 
@@ -14,7 +14,8 @@ Other than with the Informatikprojekt, as of now, students have to register when
 
 The thesis should be written using the LaTeX template in the scgbib repo:
 
-```git clone git://scg.unibe.ch/scgbib
+```
+git clone git://scg.unibe.ch/scgbib
 ```
 
 **NB:** The Anleitung should be included as an appendix to the thesis (be sure it is labeled "Anleitung ...").
@@ -28,7 +29,7 @@ Students are expected to attend the [SC: Software Composition Seminar](%base_url
 
 *Please make sure that the written reports are carefully proofread and corrected before submitting them to Oscar.* (It is no fun to review a Bachelors thesis that is full of errors!)
 
-The final deliverable is the PDF of the report, which will be published in the [SCG archive](http://scg.unibe.ch/publications/scg-bp). There is no need to provide any printed copies.
+The final deliverable is the PDF of the report, which will be published in the [SCG archive](/publications/scg-bp). There is no need to provide any printed copies.
 
 Please check out [Common Writing Errors](%base_url%/wiki/howtos/commonwritingerrors).
 

@@ -1,7 +1,7 @@
 ---
 Title: Distributed Dynamic Type Information Repository
 ---
-
+#Distributed Dynamic Type Information Repository
 #The Context
 Knowing which of the possible implementations of a method are called at a given point in the code is valuable in different software engineering contexts, for instance,
 

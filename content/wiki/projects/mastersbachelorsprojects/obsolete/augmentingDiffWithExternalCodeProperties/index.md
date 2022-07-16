@@ -1,7 +1,7 @@
 ---
 Title: Augmenting Diff View With External Code Properties
 ---
-
+#Augmenting Diff View With External Code Properties
 #Project Idea
 Developers use diff view to understand the changes between two versions of code. While diff focuses mainly on textual changes, software itself is not about text. By providing additional information like warnings about possible bugs we can help developers to understand a purpose or identify side effects of the change. 
 

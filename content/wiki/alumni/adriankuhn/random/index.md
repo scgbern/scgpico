@@ -1,7 +1,7 @@
 ---
 Title: Random Notes
 ---
-
+#Random Notes
 # Random stuff
 
 
@@ -15,7 +15,7 @@ Some moose fun
 
 
 -  [Moosehaven](http://www.spectrumdata.com/moose/havenbrochure.html) is a self-contained model communitiy, owned and operated by the Loyal Order of Moose. They even offer <i>bicycle repairman</i> as a sunshine job to their members!
--  [Der Göttinger Elch](http://scg.unibe.ch/), is awarded each year to a German comedian or Emil Steinberger.
+-  [Der Göttinger Elch](/), is awarded each year to a German comedian or Emil Steinberger.
 -  Blog post on the origin of the initial [Elchkritiker-Quote](http://www.echolog.de/elchkritik/die_kritiker_der_elche.shtml) (in German)
 -  Dear Gentlemen, please enjoy the hottest [Moose Pinup](http://community.livejournal.com/vintagephoto/1636656.html) ever!
 -  Funny youtube clip &ndash; [Moose sings da blues](http://www.youtube.com/watch?v=5_wqvGVhYxk)

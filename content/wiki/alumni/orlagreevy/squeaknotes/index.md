@@ -1,7 +1,7 @@
 ---
 Title: Squeak Notes
 ---
-
+#Squeak Notes
 #
 ##Changing the mouse buttons
  - On the world menu choose "Preferences and Services"

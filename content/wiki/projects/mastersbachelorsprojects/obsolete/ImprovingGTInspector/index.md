@@ -1,7 +1,7 @@
 ---
 Title: Improving the GTInspector
 ---
-
+#Improving the GTInspector
 # Inspecting Objects
 
 Inspecting the state of objects is a common task in software development. There are numerous ways in which this can be done. The simples way is to just print a textual representation in the console. Even if it is a fast and easy approach it has limitations when displaying complex objects. If further provides no way to interact with the represented objects.
@@ -34,7 +34,7 @@ Available as a bachelor/seminar project. (Can be extended to a master project.)
 -  [2] [The moldable GTInspector deconstructed](http://www.humane-assessment.com/blog/the-moldable-gtinspector-deconstructed/)
 -  [3] [Extending the variables shown in GTInspector](http://www.humane-assessment.com/blog/extending-variables-shown-in-gtinspector/) 
 -  [4] [Dissecting the GTInspector](http://www.humane-assessment.com/blog/dissecting-the-gtinspector/)
--  [5] [Scripting Browsers with Glamour](http://scg.unibe.ch/archive/masters/Bung09a.pdf)
+-  [5] [Scripting Browsers with Glamour](/archive/masters/Bung09a.pdf)
 
 
 Contact: [Andrei Chiş](%base_url%/staff/andreichis)

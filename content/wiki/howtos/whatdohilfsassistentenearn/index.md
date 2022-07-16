@@ -1,7 +1,7 @@
 ---
 Title: What do hilfsassistenten (HAs) earn?
 ---
-
+#What do hilfsassistenten (HAs) earn?
 A HA is paid 3.75 points at a pay-scale of 5 points per month.
 
 That is usually paid over 5 months at 15% to give maximal insurance coverage.

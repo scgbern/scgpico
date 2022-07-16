@@ -1,7 +1,7 @@
 ---
 Title: May14Week
 ---
-
+#May14Week
 
 -  Tried to load SIXX Trace for Pier
 -  Loading Pier packages into VisualWorks - load the Parcel and then run SqueakLoader new nfirstLoad

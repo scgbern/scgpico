@@ -1,7 +1,7 @@
 ---
 Title: Cells
 ---
-
+#Cells
 <big><b>CELL</b></big> is a language model where objects are composed of smaller fragments. An additional layer of abstraction <i>below</i> the level of objects is introduced. The key motivation is to provide better support for language features that transcend objects. 
 
 The basic building blocks of the CELL model are object fragments, which are called <i>cells</i>. Objects are built up from groups of cells with delegation relationships between them. Cells themselves are simple structures, mainly consisting of 1) a lookup function, 2) a delegation pointer, and 3) an (optional) payload. 

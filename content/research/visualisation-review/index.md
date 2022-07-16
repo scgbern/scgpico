@@ -1,7 +1,7 @@
 ---
 Title: Towards Actionable Visualization for Software Developers
 ---
-
+#Towards Actionable Visualization for Software Developers
 Although abundant studies have shown how visualization can help software developers to perform their daily tasks, visualization is still not a common practice since developers have little support for adopting a proper visualization for their needs.
 
 In this paper we review the 368 papers published in SOFTVIS/VISSOFT venues and identify 86 design study papers that describe how visualization is used to alleviate various difficulties in software development. We classify these studies into groups of questions by service, process and problem domain that we collected from the research on software development community, and highlight the characteristics of each study. On the one hand, we support software developers to put visualization in action by mapping existing techniques to particular needs of various services, processes and problem domains. On the other hand, we help researchers in the field by exposing problem domains with little visualization support.
@@ -11,7 +11,7 @@ We publicly offer the complete set of extracted data in our study in [CSV](%asse
 
 The figure below shows a visualization of the universe of 346 papers published in SOFTVIS/VISSOFT. An image for [Pharo 4](http://pharo.org/download) can be obtained [here](%assets_url%/files/5d/n055arhmhif0la9ndto64sn4p4dv23/visualisation.zip).
 
-![http://scg.unibe.ch/download/merino/review-vissoft/collaboration-vissoft.html](http://scg.unibe.ch/download/merino/review-vissoft/collaboration-vissoft.html)
+![/download/merino/review-vissoft/collaboration-vissoft.html](/download/merino/review-vissoft/collaboration-vissoft.html)
 
 [Author Page](%assets_url%/scgbib/?query=Meri16a&filter=Year)
 

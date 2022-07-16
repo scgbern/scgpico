@@ -1,13 +1,13 @@
 ---
 Title: 1st International Workshop on Academic Software Development Tools and Techniques 2008
 ---
-
+#1st International Workshop on Academic Software Development Tools and Techniques 2008
 **Co-located with  [ECOOP 2008](http://2008.ecoop.org)**
 
 **Date:**  July 8, 2008.
 **Location:**  Paphos, Cyprus. 
 
-[http://scg.unibe.ch/wiki/wasdett2008](http://scg.unibe.ch/wiki/wasdett2008)
+[/wiki/wasdett2008](/wiki/wasdett2008)
 
 Links &rArr; [2nd WASDETT](http://wasdett2.wikispaces.com/) @ ICSM 2008
 

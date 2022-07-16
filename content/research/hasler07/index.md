@@ -1,7 +1,7 @@
 ---
 Title: Enabling the evolution of J2EE applications through reverse engineering and quality assurance
 ---
-
+#Enabling the evolution of J2EE applications through reverse engineering and quality assurance
 *Enabling the evolution of J2EE applications through reverse engineering and quality assurance* is a project funded by the [Hasler Foundation](http://www.haslerstiftung.ch/) (project no. 2234).
 
 | | |

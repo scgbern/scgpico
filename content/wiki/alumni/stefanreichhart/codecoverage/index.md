@@ -1,7 +1,7 @@
 ---
 Title: Code Coverage
 ---
-
+#Code Coverage
 "Christo" is an open-source tool to dynamically and safely retrieve code-coverage in Squeak. It provides a simple user interface, hiding the complexity of dynamic analysis and offers many powerful extensions compared to 'standard' code coverage tools.
 
 
