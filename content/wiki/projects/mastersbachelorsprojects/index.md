@@ -2,10 +2,9 @@
 Title: Masters, Bachelors and Seminar Projects @ SCG
 ---
 
-<!&mdash;(NB: Please insert new entries to the top of the list and delete obsolete entries.)&mdash;>
-<!&mdash; PLEASE PLEASE do not create empty subpages &mdash;>
+The seminar was last held in the Autumn of 2021 and will no longer take place.
 
-#Available Seminar topics (Autumn 2021)
+#Past Seminar topics (Autumn 2021)
 
 -  T1: [Implementing a Citation Search Engine in JavaScript](%base_url%/wiki/projects/mastersbachelorsprojects/Implementing-a-citation-search-engine-in-JavaScript) ([Oscar Nierstrasz](%base_url%/staff/oscar))
 -  T2: [Enhancing the User Experience in a Live Coding Environment](%base_url%/wiki/projects/mastersbachelorsprojects/Enhancing-the-User-Experience-in-a-Live-Coding-Environment) ([Oscar Nierstrasz](%base_url%/staff/oscar) and [Tudor Girba](http://www.tudorgirba.com))
@@ -17,7 +16,7 @@ Title: Masters, Bachelors and Seminar Projects @ SCG
 
 -  *more topics to be added here*
 
-#Old Seminar topics (Spring 2021)
+#Past Seminar topics (Spring 2021)
 
 -  [Identify various kinds of information from class comments automatically](%base_url%/wiki/projects/mastersbachelorsprojects/Identify-information-types-from-class-comments-automatically) ([Pooja Rani](%base_url%/staff/Pooja-Rani))
 -  [Glue code analysis in open-source projects that use BDD tools](%base_url%/wiki/projects/mastersbachelorsprojects/Glue-code-analysis-in-open-source-projects-that-use-BDD-tools) ([Nitish Patkar](%base_url%/staff/NitishPatkar))

@@ -9,6 +9,12 @@ This file lists pending migration todos, past todos (done) and a brief FAQ.
 * After fixes check again all links
 	- Sync again from yogi to cindy, regenerate testscg and check links again
 
+* Clean up the testscg folder
+	- Copy the assets folders from the old server to the root of the new server
+	- Checkout (copy) the scgpico and scgbib folders to the root
+	- Link the contents and assets folders to the server root folders
+	- Clean up the downloads folder (remove large cruft)
+
 ---
 # scgbib to do
 

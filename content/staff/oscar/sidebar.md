@@ -3,7 +3,6 @@
 #Quick links
 
 - [CV](%assets_url%/download/oncv/oncv.pdf)
-- [Contact]()
 - [Oscar Nierstrasz &mdash; Publications](%assets_url%/scgbib/?query=Nierstrasz&filter=Year) 
 - [Directions to INF](%base_url%/contact/maps)
 

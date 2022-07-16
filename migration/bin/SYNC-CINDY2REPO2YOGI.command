@@ -1,6 +1,6 @@
 #! /bin/sh
 #
-# Sync the exported files from Cindy to the local repo and to the remote test server. Open the remote test site.
+# Sync the exported files from Cindy to the local repo and to the local and remote test servers. Open the remote test site.
 #
 # 2022-07-04
 
@@ -19,6 +19,9 @@ rsync ${RSYNC} ${SOURCE} ${CONTENT}
 cd ${CONTENT}
 echo find . -name \*.md -exec $B/fixPierAccents {} \;
 find . -name \*.md -exec $B/fixPierAccents {} \;
+
+echo rsync ${RSYNC} ${CONTENT} ${LOCAL}
+rsync ${RSYNC} ${CONTENT} ${LOCAL}
 
 echo rsync ${RSYNC} ${CONTENT} ${TARGET}
 rsync ${RSYNC} ${CONTENT} ${TARGET}

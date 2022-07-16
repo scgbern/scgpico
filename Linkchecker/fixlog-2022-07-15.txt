@@ -8,7 +8,9 @@ Write comments and bugs to https://github.com/linkchecker/linkchecker/issues
 
 Start checking at 2022-07-15 12:28:09+002
 
-# TO FIX
+# Fixed Pier pages
+
+* Removed blanks in links
 
 URL        `%20Principle>http://www.objectmentor.com/resources/articles/dip.pdf'
 Name       `The Dependency Inversion'
@@ -86,22 +88,38 @@ Warning    [url-whitespace] Leading or trailing whitespace in URL
            ` http://iamwww.unibe.ch/~scg/Src/Doc/htgrep.html'.
 Result     Valid: filtered
 
+URL        `/seaside/pier/environment/pier.png?view=PRDownloadView'
+Parent URL http://testscg.unibe.ch/assets/files/07/htikbtysdocnb80oimqv7j38lxx048/style.css, line 39, col 17
+Real URL   http://testscg.unibe.ch/seaside/pier/environment/pier.png?view=PRDownloadView
+Check time 3.902 seconds
+Size       803B
+Result     Error: 404 Not Found
+
+URL        `Project%20proposal%20-%20Tool%20support%20for%20Scrum_files/filelist.xml'
+Parent URL http://testscg.unibe.ch/assets/files/d9/wi5sw91rfgihcqxgtmgkdalxluy540/Project-proposal---Tool-support-for-Scrum.htm, line 14, col 1
+Real URL   http://testscg.unibe.ch/assets/files/d9/wi5sw91rfgihcqxgtmgkdalxluy540/Project%20proposal%20-%20Tool%20support%20for%20Scrum_files/filelist.xml
+Check time 3.658 seconds
+Size       803B
+Result     Error: 404 Not Found
+
+URL        `../../../../../JavaDrawViewer.html'
+Name       `viewer applet'
+Parent URL http://testscg.unibe.ch/assets/download/lectures/sma/Demos/DynamicAnalysis/JHotDraw_6_b1/src/org/jhotdraw/samples/javadraw/JavaDrawAppletHelp.html, line 24, col 5
+Real URL   http://testscg.unibe.ch/assets/download/lectures/sma/Demos/DynamicAnalysis/JHotDraw_6_b1/JavaDrawViewer.html
+Check time 3.798 seconds
+Size       803B
+Result     Error: 404 Not Found
+
+# False positives
+
+* Connection error?
+
 URL        `yfhj2id8sjay2bsg2nv6rbiw8tkcga/'
 Name       `yfhj2id8sjay2bsg2nv6rbiw8tkcga/'
 Parent URL http://testscg.unibe.ch/assets/files/a0/, line 14, col 72
 Real URL   http://testscg.unibe.ch/assets/files/a0/yfhj2id8sjay2bsg2nv6rbiw8tkcga/
 Check time 5.002 seconds
 Result     Error: ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
-
-URL        `houseSimulation.php'
-Name       `houseSimulation.php'
-Parent URL http://testscg.unibe.ch/assets/download/AC/Bledar/script/, line 11, col 73
-Real URL   http://testscg.unibe.ch/assets/download/AC/Bledar/script/houseSimulation.php
-Check time 4.393 seconds
-D/L time   0.000 seconds
-Size       0B
-Warning    [url-content-size-zero] Content size is zero.
-Result     Valid: 200 OK
 
 URL        `?C=D;O=A'
 Name       `Description'
@@ -124,34 +142,12 @@ Real URL   http://testscg.unibe.ch/assets/download/scgbib/LatexTemplates/iam-tr/
 Check time 5.005 seconds
 Result     Error: ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
 
-URL        `/seaside/pier/environment/pier.png?view=PRDownloadView'
-Parent URL http://testscg.unibe.ch/assets/files/07/htikbtysdocnb80oimqv7j38lxx048/style.css, line 39, col 17
-Real URL   http://testscg.unibe.ch/seaside/pier/environment/pier.png?view=PRDownloadView
-Check time 3.902 seconds
-Size       803B
-Result     Error: 404 Not Found
-
 URL        `?C=S;O=D'
 Name       `Size'
 Parent URL http://testscg.unibe.ch/assets/files/4b/gcz7gcllngyqnpb792zvbp44s2e6hu/?C=S;O=A, line 8, col 146
 Real URL   http://testscg.unibe.ch/assets/files/4b/gcz7gcllngyqnpb792zvbp44s2e6hu/?C=S;O=D
 Check time 5.005 seconds
 Result     Error: ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
-
-URL        `Project%20proposal%20-%20Tool%20support%20for%20Scrum_files/filelist.xml'
-Parent URL http://testscg.unibe.ch/assets/files/d9/wi5sw91rfgihcqxgtmgkdalxluy540/Project-proposal---Tool-support-for-Scrum.htm, line 14, col 1
-Real URL   http://testscg.unibe.ch/assets/files/d9/wi5sw91rfgihcqxgtmgkdalxluy540/Project%20proposal%20-%20Tool%20support%20for%20Scrum_files/filelist.xml
-Check time 3.658 seconds
-Size       803B
-Result     Error: 404 Not Found
-
-URL        `../../../../../JavaDrawViewer.html'
-Name       `viewer applet'
-Parent URL http://testscg.unibe.ch/assets/download/lectures/sma/Demos/DynamicAnalysis/JHotDraw_6_b1/src/org/jhotdraw/samples/javadraw/JavaDrawAppletHelp.html, line 24, col 5
-Real URL   http://testscg.unibe.ch/assets/download/lectures/sma/Demos/DynamicAnalysis/JHotDraw_6_b1/JavaDrawViewer.html
-Check time 3.798 seconds
-Size       803B
-Result     Error: 404 Not Found
 
 URL        `?C=M;O=D'
 Name       `Last modified'
@@ -173,6 +169,19 @@ Parent URL http://testscg.unibe.ch/assets/download/jk/petit-compiler/java-src/co
 Real URL   http://testscg.unibe.ch/assets/download/jk/petit-compiler/java-src/com/sun/org/apache/xerces/internal/dom/events/?C=M;O=A
 Check time 31.196 seconds
 Result     Error: ReadTimeout: HTTPConnectionPool(host='testscg.unibe.ch', port=80): Read timed out. (read timeout=60)
+* Empty PHP
+
+URL        `houseSimulation.php'
+Name       `houseSimulation.php'
+Parent URL http://testscg.unibe.ch/assets/download/AC/Bledar/script/, line 11, col 73
+Real URL   http://testscg.unibe.ch/assets/download/AC/Bledar/script/houseSimulation.php
+Check time 4.393 seconds
+D/L time   0.000 seconds
+Size       0B
+Warning    [url-content-size-zero] Content size is zero.
+Result     Valid: 200 OK
+
+---
 
 Statistics:
 Downloaded: 98.6MB.

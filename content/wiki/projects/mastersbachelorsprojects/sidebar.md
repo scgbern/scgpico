@@ -1,8 +1,3 @@
-#Caveat
-
-The only topics available are those listed for the Software Composition Seminar (Autumn 2021).
-Due the retirement of Prof. Nierstrasz at the end of 2021, no new MSc or Bachelor projects can be started.
-
 #See also:
 
 

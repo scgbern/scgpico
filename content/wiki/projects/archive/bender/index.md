@@ -23,5 +23,5 @@ Download Bender VM package here to try it out: [Bender VM](%base_url%/wiki/proje
 
 ---
 # Publications
-Theoretical background of the Bender project.
-[Fixed Query](%assets_url%/scgbib/?query=*&filter=Year)
+
+See: [Theoretical background of the Bender project](%assets_url%/scgbib/?query= Gysi10&filter=Year).
