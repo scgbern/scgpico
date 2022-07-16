@@ -15,6 +15,8 @@ This file lists pending migration todos, past todos (done) and a brief FAQ.
 	- Link the contents and assets folders to the server root folders
 	- Clean up the downloads folder (remove large cruft)
 
+* Update the README files for the scgpico and scgbib repos
+
 ---
 # scgbib to do
 
@@ -34,6 +36,8 @@ This file lists pending migration todos, past todos (done) and a brief FAQ.
 
 ---
 ## DONE
+
+- Added a nice photo to the home page
 
 - Repaired broken scgbib links
 	- Example: /wiki/projects/archive/bender
