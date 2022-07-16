@@ -19,7 +19,7 @@ Visualisation can be a great tool for analysing these communities. In this proje
 - Roassal: [http://agilevisualization.com](http://agilevisualization.com)
 
 
-Presentation by [Dominik Seliner](%base_url%/wiki/alumni/DominikSeliner) &mdash; [EggShell &mdash; a workbench for the assessment of modeling pipelines for scientific communities](%assets_url%/download/softwarecomposition/Presentation-Dominik.pdf)
+Presentation by [Dominik Seliner](%base_url%/wiki/alumni/DominikSeliner) &mdash; [EggShell &mdash; a workbench for the assessment of modeling pipelines for scientific communities](%assets_url%/download/softwarecomposition/2016-07-07-Seliner-EggShell.pdf)
 
 Contact
 [Leonel Merino](%base_url%/staff/merino)

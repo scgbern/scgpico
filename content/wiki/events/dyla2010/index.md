@@ -107,7 +107,7 @@ above, this should foster participation from all targeted communities.
 , Heinrich-Heine-Universität, Düsseldorf, Germany
 - [Simon Denier](http://www.simondenier.eu), RMoD Research group, INRIA Lille-Nord Europe, France
 - [Michael Haupt](http://www.hpi.uni-potsdam.de/hirschfeld/people/haupt/), Hasso-Plattner-Institut, Potsdam, Germany
-- [Adrian Kuhn](/staff/adriankuhn), University of Bern, Switzerland
+- [Adrian Kuhn](%base_url%/wiki/alumni/adriankuhn), University of Bern, Switzerland
 
 # Program committee
 

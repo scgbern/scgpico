@@ -1,0 +1,171 @@
+LinkChecker 10.1.0
+Copyright (C) 2000-2016 Bastian Kleineidam, 2010-2021 LinkChecker Authors
+LinkChecker comes with ABSOLUTELY NO WARRANTY!
+This is free software, and you are welcome to redistribute it under
+certain conditions. Look at the file `LICENSE' within this distribution.
+Read the documentation at https://linkchecker.github.io/linkchecker/
+Write comments and bugs to https://github.com/linkchecker/linkchecker/issues
+
+Start checking at 2022-07-16 17:30:36+002
+
+URL        `/softwarenaut'
+Name       `Softwarenaut'
+Parent URL http://testscg.unibe.ch/research, line 200, col 4
+Real URL   http://testscg.unibe.ch/softwarenaut
+Check time 0.670 seconds
+Size       797B
+Result     Error: 404 Not Found
+
+URL        `http://testscg.unibe.ch/research/hasler07'
+Name       `Enabling the evolution of J2EE applications through reverse engineering and quality assurance'
+Parent URL http://testscg.unibe.ch/research, line 55, col 5
+Real URL   http://testscg.unibe.ch/research/hasler07
+Check time 63.790 seconds
+Result     Error: ReadTimeout: HTTPConnectionPool(host='testscg.unibe.ch', port=80): Read timed out. (read timeout=60)
+
+URL        `http://testscg.unibe.ch/research/snf06'
+Name       `Analyzing, Capturing and Taming Software Change'
+Parent URL http://testscg.unibe.ch/research, line 57, col 5
+Real URL   http://testscg.unibe.ch/research/snf06
+Check time 64.017 seconds
+Result     Error: ReadTimeout: HTTPConnectionPool(host='testscg.unibe.ch', port=80): Read timed out. (read timeout=60)
+
+URL        `http://testscg.unibe.ch/research/norex'
+Name       `NOREX'
+Parent URL http://testscg.unibe.ch/research, line 58, col 5
+Real URL   http://testscg.unibe.ch/research/norex
+Check time 63.719 seconds
+Result     Error: ReadTimeout: HTTPConnectionPool(host='testscg.unibe.ch', port=80): Read timed out. (read timeout=60)
+
+URL        `http://testscg.unibe.ch/research/rotor'
+Name       `Traits in C#'
+Parent URL http://testscg.unibe.ch/research, line 62, col 5
+Real URL   http://testscg.unibe.ch/research/rotor
+Check time 62.955 seconds
+Result     Error: ReadTimeout: HTTPConnectionPool(host='testscg.unibe.ch', port=80): Read timed out. (read timeout=60)
+
+URL        `http://testscg.unibe.ch/research/snf02'
+Name       `Tools and Techniques for Decomposing and Composing Software'
+Parent URL http://testscg.unibe.ch/research, line 64, col 5
+Real URL   http://testscg.unibe.ch/research/snf02
+Check time 62.824 seconds
+Result     Error: ReadTimeout: HTTPConnectionPool(host='testscg.unibe.ch', port=80): Read timed out. (read timeout=60)
+
+URL        `http://testscg.unibe.ch/research/snf00'
+Name       `Meta-models and Tools for Evolution Towards Component Systems'
+Parent URL http://testscg.unibe.ch/research, line 65, col 5
+Real URL   http://testscg.unibe.ch/research/snf00
+Check time 62.692 seconds
+Result     Error: ReadTimeout: HTTPConnectionPool(host='testscg.unibe.ch', port=80): Read timed out. (read timeout=60)
+
+URL        `/archive/pecos'
+Name       `Pervasive Component Systems'
+Parent URL http://testscg.unibe.ch/research, line 66, col 5
+Real URL   http://testscg.unibe.ch/archive/pecos
+Check time 62.374 seconds
+Result     Error: ReadTimeout: HTTPConnectionPool(host='testscg.unibe.ch', port=80): Read timed out. (read timeout=60)
+
+URL        `http://testscg.unibe.ch/research/snf98'
+Name       `A Framework Approach to Composing Heterogeneous Applications'
+Parent URL http://testscg.unibe.ch/research, line 67, col 5
+Real URL   http://testscg.unibe.ch/research/snf98
+Check time 62.614 seconds
+Result     Error: ReadTimeout: HTTPConnectionPool(host='testscg.unibe.ch', port=80): Read timed out. (read timeout=60)
+
+URL        `/staff/kursjan/resume2016v1'
+Name       `Resume'
+Parent URL http://testscg.unibe.ch/staff/kursjan, line 75, col 16
+Real URL   http://testscg.unibe.ch/staff/kursjan/resume2016v1
+Check time 4.356 seconds
+Size       797B
+Result     Error: 404 Not Found
+
+URL        `/wiki/students/DominiqueRahm'
+Name       `Dominique Rahm'
+Parent URL http://testscg.unibe.ch/wiki/alumni/AaronKarper, line 47, col 38
+Real URL   http://testscg.unibe.ch/wiki/students/DominiqueRahm
+Check time 3.993 seconds
+Size       797B
+Result     Error: 404 Not Found
+
+URL        `/teaching/sde'
+Name       `here'
+Parent URL http://testscg.unibe.ch/teaching/archive/sde/sde-resources, line 46, col 28
+Real URL   http://testscg.unibe.ch/teaching/sde
+Check time 4.477 seconds
+Size       797B
+Result     Error: 404 Not Found
+
+URL        `/wiki/students/LinoHess'
+Name       `Lino Hess'
+Parent URL http://testscg.unibe.ch/wiki/projects/mastersbachelorsprojects/Automatically-generate-Pharo-class-comments, line 67, col 5
+Real URL   http://testscg.unibe.ch/wiki/students/LinoHess
+Check time 3.832 seconds
+Size       797B
+Result     Error: 404 Not Found
+
+URL        `/dicto/'
+Name       `/dicto/'
+Parent URL http://testscg.unibe.ch/wiki/projects/archive/ScalaDicto, line 65, col 5
+Real URL   http://testscg.unibe.ch/dicto/
+Check time 3.589 seconds
+Size       797B
+Result     Error: 404 Not Found
+
+URL        `/staff/iriskeller'
+Name       `Iris Keller'
+Parent URL http://testscg.unibe.ch/wiki/howtos/howtobeanassistantforalecture, line 81, col 168
+Real URL   http://testscg.unibe.ch/staff/iriskeller
+Check time 2.682 seconds
+Size       797B
+Result     Error: 404 Not Found
+
+URL        `/staff/adriankuhn'
+Name       `Adrian Kuhn'
+Parent URL http://testscg.unibe.ch/wiki/events/dyla2010, line 140, col 5
+Real URL   http://testscg.unibe.ch/staff/adriankuhn
+Check time 3.826 seconds
+Size       797B
+Result     Error: 404 Not Found
+
+URL        `http://testscg.unibe.ch/assets/download/softwarecomposition/Presentation-Dominik.pdf'
+Name       `EggShell ? a workbench for the assessment of modeling pipelines for scientific communities'
+Parent URL http://testscg.unibe.ch/wiki/projects/mastersbachelorsprojects/obsolete/Mining-event-data, line 57, col 109
+Real URL   http://testscg.unibe.ch/assets/download/softwarecomposition/Presentation-Dominik.pdf
+Check time 3.461 seconds
+Size       797B
+Result     Error: 404 Not Found
+
+URL        `http://testscg.unibe.ch/news'
+Name       `SCG News'
+Parent URL http://testscg.unibe.ch/system/howto, line 56, col 11
+Real URL   http://testscg.unibe.ch/news
+Check time 6.012 seconds
+Size       797B
+Result     Error: 404 Not Found
+
+URL        `http://testscg.unibe.ch/system/components/randomhighlight'
+Name       `Random Highlight'
+Parent URL http://testscg.unibe.ch/system/howto, line 95, col 49
+Real URL   http://testscg.unibe.ch/system/components/randomhighlight
+Check time 2.962 seconds
+Size       797B
+Result     Error: 404 Not Found
+
+URL        `http://testscg.unibe.ch/system/management/users'
+Name       `Users'
+Parent URL http://testscg.unibe.ch/system/howto, line 60, col 76
+Real URL   http://testscg.unibe.ch/system/management/users
+Check time 6.062 seconds
+Size       797B
+Result     Error: 404 Not Found
+
+URL        `http://iamwww.unibe.ch/~scg/Src/Doc/htgrep.html'
+Name       `FAQ'
+Parent URL http://testscg.unibe.ch/assets/archive/software/w3catalog/W3CatalogHistory.html, line 139, col 1
+Real URL   http://iamwww.unibe.ch/~scg/Src/Doc/htgrep.html
+Info       The URL is outside of the domain filter, checked only
+           syntax.
+Warning    [url-whitespace] Leading or trailing whitespace in URL
+           ` http://iamwww.unibe.ch/~scg/Src/Doc/htgrep.html'.
+Result     Valid: filtered

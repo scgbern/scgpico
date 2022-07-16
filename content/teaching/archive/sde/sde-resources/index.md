@@ -2,7 +2,7 @@
 Title: SDE Resources
 ---
 #SDE Resources
-The main course page is [here](/teaching/sde).
+The main course page is [here](%base_url%/teaching/archive/sde).
 
 #Programming Smalltalk
 

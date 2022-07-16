@@ -10,21 +10,21 @@ RSYNC="-avz --delete -e ssh --stats --progress"
 MIRROR="/Users/oscar/Mirrors/home/scg/scg.unibe.ch"
 
 YOGI=scg@yogi.inf.unibe.ch:/srv/scg.unibe.ch
+TESTSCG=scg@yogi.inf.unibe.ch:/srv/testscg.unibe.ch
 CINDY=scg@cindy.inf.unibe.ch:/srv/scg.unibe.ch
 
-for arg in app/scg.image app/scg.changes web/archive/ web/download/ web/files/ 
+for arg in app/scg.image app/scg.changes
 do
 	echo rsync ${RSYNC} ${YOGI}/${arg} ${MIRROR}/${arg}
 	rsync ${RSYNC} \
-		'--exclude=camtasia' \
-		'--exclude=PTemp' \
-		'--exclude=SSdump' \
-		'--exclude=jk' \
-		'--exclude=Mohammad' \
-		'--exclude=oscar/temp' \
-		'--exclude=moldabledebugger' \
-		'--exclude=rascal' \
 		${YOGI}/${arg} ${MIRROR}/${arg}
+done
+
+for arg in app/scg.image app/scg.changes web/archive/ web/download/ web/files/
+do
+	echo rsync ${RSYNC} ${TESTSCG}/${arg} ${MIRROR}/${arg}
+	rsync ${RSYNC} \
+		${TESTSCG}/${arg} ${MIRROR}/${arg}
 done
 
 for arg in app/scg.image app/scg.changes web/archive/ web/download/ web/files/ 

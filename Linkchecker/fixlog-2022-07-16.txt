@@ -450,3 +450,77 @@ Real URL   http://testscg.unibe.ch/wiki/projects/bachelorsprojects/Agility/confe
 Check time 2.859 seconds
 Size       797B
 Result     Error: 404 Not Found
+
+URL        `/staff/kursjan/resume2016v1'
+Name       `Resume'
+Parent URL http://testscg.unibe.ch/staff/kursjan, line 75, col 16
+Real URL   http://testscg.unibe.ch/staff/kursjan/resume2016v1
+Check time 4.356 seconds
+Size       797B
+Result     Error: 404 Not Found
+
+URL        `/wiki/students/DominiqueRahm'
+Name       `Dominique Rahm'
+Parent URL http://testscg.unibe.ch/wiki/alumni/AaronKarper, line 47, col 38
+Real URL   http://testscg.unibe.ch/wiki/students/DominiqueRahm
+Check time 3.993 seconds
+Size       797B
+Result     Error: 404 Not Found
+
+URL        `/teaching/sde'
+Name       `here'
+Parent URL http://testscg.unibe.ch/teaching/archive/sde/sde-resources, line 46, col 28
+Real URL   http://testscg.unibe.ch/teaching/sde
+Check time 4.477 seconds
+Size       797B
+Result     Error: 404 Not Found
+
+URL        `/wiki/students/LinoHess'
+Name       `Lino Hess'
+Parent URL http://testscg.unibe.ch/wiki/projects/mastersbachelorsprojects/Automatically-generate-Pharo-class-comments, line 67, col 5
+Real URL   http://testscg.unibe.ch/wiki/students/LinoHess
+Check time 3.832 seconds
+Size       797B
+Result     Error: 404 Not Found
+
+URL        `/dicto/'
+Name       `/dicto/'
+Parent URL http://testscg.unibe.ch/wiki/projects/archive/ScalaDicto, line 65, col 5
+Real URL   http://testscg.unibe.ch/dicto/
+Check time 3.589 seconds
+Size       797B
+Result     Error: 404 Not Found
+
+URL        `/staff/iriskeller'
+Name       `Iris Keller'
+Parent URL http://testscg.unibe.ch/wiki/howtos/howtobeanassistantforalecture, line 81, col 168
+Real URL   http://testscg.unibe.ch/staff/iriskeller
+Check time 2.682 seconds
+Size       797B
+Result     Error: 404 Not Found
+
+URL        `/staff/adriankuhn'
+Name       `Adrian Kuhn'
+Parent URL http://testscg.unibe.ch/wiki/events/dyla2010, line 140, col 5
+Real URL   http://testscg.unibe.ch/staff/adriankuhn
+Check time 3.826 seconds
+Size       797B
+Result     Error: 404 Not Found
+
+URL        `http://testscg.unibe.ch/assets/download/softwarecomposition/Presentation-Dominik.pdf'
+Name       `EggShell ? a workbench for the assessment of modeling pipelines for scientific communities'
+Parent URL http://testscg.unibe.ch/wiki/projects/mastersbachelorsprojects/obsolete/Mining-event-data, line 57, col 109
+Real URL   http://testscg.unibe.ch/assets/download/softwarecomposition/Presentation-Dominik.pdf
+Check time 3.461 seconds
+Size       797B
+Result     Error: 404 Not Found
+
+URL        `http://iamwww.unibe.ch/~scg/Src/Doc/htgrep.html'
+Name       `FAQ'
+Parent URL http://testscg.unibe.ch/assets/archive/software/w3catalog/W3CatalogHistory.html, line 139, col 1
+Real URL   http://iamwww.unibe.ch/~scg/Src/Doc/htgrep.html
+Info       The URL is outside of the domain filter, checked only
+           syntax.
+Warning    [url-whitespace] Leading or trailing whitespace in URL
+           ` http://iamwww.unibe.ch/~scg/Src/Doc/htgrep.html'.
+Result     Valid: filtered

@@ -27,4 +27,4 @@ NB: Search the references in Scg bib
 #Contact
 
 -  [Pooja Rani](%base_url%/staff/Pooja-Rani)
--  [Lino Hess](/wiki/students/LinoHess)
+-  [Lino Hess](%base_url%/wiki/alumni/LinoHess)

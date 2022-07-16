@@ -28,6 +28,6 @@ The end result should be a fully functioning Scala program that accepts the abov
 References: 
 
 -  [http://www.scalatest.org/user_guide/using_matchers](http://www.scalatest.org/user_guide/using_matchers)
--  [/dicto/](/dicto/)
+-  [Dictō](%base_url%/research/arch-constr/Dicto)
 
 Contact person: [Andrea Caracciolo](%base_url%/staff/Caracciolo)
