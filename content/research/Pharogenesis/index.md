@@ -12,17 +12,6 @@ The source code database we built with Pharogenesis is available on github ([htt
 
 #Getting Started
 
-To get started you can either use a ready-made one-click image (suggested), or try to load the code yourself.
-
-##One-Click Image
-
--  Download the [Pharogenesis](/jenkins/job/Pharogenesis/lastSuccessfulBuild/artifact/Pharogenesis.zip) distribution.
--  Launch the executable of your platform:
-	-  Mac: Pharogenesis.app
-	-  Linux: Pharogenesis.app/Pharogenesis.sh
-	-  Windows: Pharogenesis.app/Pharogenesis.exe
-
-
 ##Load the Code
 
 -  Download a [Pharo 1.1.1](http://gforge.inria.fr/frs/download.php/28015/Pharo-1.1.1-OneClick.zip) one-click image.

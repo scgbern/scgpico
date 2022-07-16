@@ -21,7 +21,7 @@ My research interests are in software engineering, software evolution, ecosystem
 
 Here you can find several projects that are available at the moment. If you have other ideas that are related to any of these topics, feel free to contact me. 
 
--  [**How I Know My System**](/research/HIK-MSY) &mdash; Source code improvement via gamification  
+-  [**How I Know My System**](%base_url%/wiki/projects/HIK-MSY) &mdash; Source code improvement via gamification  
 -  **[Polite for EV3](%base_url%/wiki/projects/mastersbachelorsprojects/polite-for-ev3)** - API design for controlling the Mindstorms from Polite 
 -  **[The Large Word Collider](/wiki/projects/mastersbachelorsprojects/largewordcollider)** - Increasing the chance of a learner encountering his learned material
 -  **[Intelligent eBook Reader](%base_url%/wiki/projects/mastersbachelorsprojects/ebookreaderandroid)** - Innovative app supporting language acquisition
@@ -60,7 +60,7 @@ Teaching is learning, so I have been lucky to be teaching a broad range of topic
 6. [Software Composition Seminar](%base_url%/wiki/softwarecompositionseminar)
 
 <span style="color:red">(new) In the fall of 2014 I am teaching the following courses:
-7. [Software Design and Evolution](/teaching/sde)
+7. [Software Design and Evolution](%base_url%/teaching/archive/sde)
 8. [Introduction to Software Engineering](%base_url%/teaching/ese) 
 
 

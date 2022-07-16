@@ -44,7 +44,7 @@ Gofer new
 -  [Chameleon](/research/bifrost/chameleon)
 -  [Subjectopia](/research/subjectopia)
 -  [Talents](/research/bifrost/talents)
--  [MetaSpy](/research/bifrost/metaSpy)
+-  [MetaSpy](/research/bifrost/metaspy)
 
 #Contact
 

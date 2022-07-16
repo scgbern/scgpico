@@ -29,7 +29,7 @@ Students are expected to attend the [SC: Software Composition Seminar](%base_url
 
 *Please make sure that the written reports are carefully proofread and corrected before submitting them to Oscar.* (It is no fun to review a Bachelors thesis that is full of errors!)
 
-The final deliverable is the PDF of the report, which will be published in the [SCG archive](/publications/scg-bp). There is no need to provide any printed copies.
+The final deliverable is the PDF of the report, which will be published in the [SCG archive](%base_url%/publications). There is no need to provide any printed copies.
 
 Please check out [Common Writing Errors](%base_url%/wiki/howtos/commonwritingerrors).
 

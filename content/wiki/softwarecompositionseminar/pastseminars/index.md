@@ -28,7 +28,7 @@ Normally, the seminar takes place on Mondays at 14.00 in the afternoon in our se
 -  Sep 15 &mdash; MSc seminar project presentations and obligatory quiz (see NB above)
 -  Sep 1 &mdash; [Robert Niemiec](%base_url%/wiki/alumni/RobertNiemiec) &mdash; [Modeling requirements artifacts in an IDE ](%assets_url%/download/softwarecomposition/2020-09-01-Niemiec_RE_Artifacts_In-IDE.pdf) (final MSc presentation)
 -  Aug 25 &mdash; [Jonas Richner](%base_url%/wiki/alumni/JonasRichner) &mdash; [Interactive Visualization for Software Duplication](%assets_url%/download/softwarecomposition/2020-08-25-Richner-DuplicationVistualization.pdf) (first MSc presentation)
--  Aug 18 &mdash; [Christian Zürcher](%base_url%/wiki/students/ChristianZuercher) &mdash; [String 2.0](%assets_url%/download/softwarecomposition/2020-08-18-Zuercher-String2.0.pdf) (first MSc presentation) 
+-  Aug 18 &mdash; [Christian Zürcher](%base_url%/wiki/alumni/ChristianZuercher) &mdash; [String 2.0](%assets_url%/download/softwarecomposition/2020-08-18-Zuercher-String2.0.pdf) (first MSc presentation) 
 -  Aug 11 &mdash; [Patrick Frischknecht](%base_url%/wiki/alumni/PatrickFrischknecht) &mdash; [Detecting Lookalike Domains](%assets_url%/download/softwarecomposition/2020-08-11-Frischknecht-DetectingLookalikeDomains.pdf) (first MSc presentation)
 -  July 28 &mdash; [Said Ali](%base_url%/wiki/alumni/SaidAli) &mdash; [Profiling Cryptography Developers](%assets_url%/download/softwarecomposition/2020-07-28-Said-Ali.pdf) (final BSc presentation) 
 -  July 14 &mdash; [Robert Niemiec](%base_url%/wiki/alumni/RobertNiemiec) &mdash; [Bringing agile artifacts closer to the implementation](%assets_url%/download/softwarecomposition/2020-07-14-Niemiec-RequirementsInIDE.pdf) (first MSc presentation) 
@@ -41,7 +41,7 @@ Normally, the seminar takes place on Mondays at 14.00 in the afternoon in our se
 -  May 12 &mdash; [Nataliia Stulova](%base_url%/staff/Nataliia-Stulova) &mdash; [Keeping documentation up to date with the source code](%assets_url%/download/softwarecomposition/2020-05-12-Stulova-DocumentationSourceCode.pdf)
 -  May 5 &mdash; [Said Ali](%base_url%/wiki/alumni/SaidAli) &mdash; [Profiling Cryptography Developers](%assets_url%/download/softwarecomposition/2020-05-05-Ali-ProfilingCryptoDevelopers.pdf) (first BSc presentation)
 -  Apr 28 &mdash; [Ivan Kravchenko](%base_url%/wiki/alumni/IvanKravchenko) &mdash; [Moldable scenarios](%base_url%/wiki/projects/mastersbachelorsprojects/From-user-stories-to-live-documentation) (first MSc presentation)
--  Mar 31 &mdash; [Brian Schweigler](%base_url%/wiki/students/BrianSchweigler) &mdash; [An Investigation into Vulnerability Databases](%assets_url%/download/softwarecomposition/2020-03-31-Schweigler-VulnerabilityInvestigations.pdf) (final Bachelors presentation)
+-  Mar 31 &mdash; [Brian Schweigler](%base_url%/wiki/alumni/BrianSchweigler) &mdash; [An Investigation into Vulnerability Databases](%assets_url%/download/softwarecomposition/2020-03-31-Schweigler-VulnerabilityInvestigations.pdf) (final Bachelors presentation)
 -  Mar 17 &mdash; [Andreas Wälchli](%base_url%/wiki/alumni/AndreasWaelchli) &mdash; [A Sampling Profiler for JITing in Ř](%assets_url%/download/softwarecomposition/2020-03-17-Waelchli-SamplingProfiler.pdf) (first Masters presentation)
 -  Mar 3 &mdash; [Pascal Gerig](%base_url%/wiki/alumni/PascalGerig) &mdash; Phishing on Demand (final Bachelors presentation)
 -  Feb 11 
@@ -53,13 +53,13 @@ Normally, the seminar takes place on Mondays at 14.00 in the afternoon in our se
 	-  Dave Steven Meier &mdash; [Cryptography-related questions on Stack Overflow](%assets_url%/download/softwarecomposition/2020-01-28-Meier-analyzing-cryptographic-questions.pdf) (Seminar)
 	-  [Basil Schöni](%base_url%/wiki/alumni/BasilSchoeni)  &mdash; [Autogenerating Content Security Policies to Prevent Code Injection in Mobile Web Applications](%assets_url%/download/softwarecomposition/2020-01-28-Schoeni-AutogeneratingCSP.pdf) (final Bachelors presentation)
 
--  Jan 21 &mdash; [Christian Zürcher](%base_url%/wiki/students/ChristianZuercher) &mdash; [Android: Bypassing HTTPS Security](%assets_url%/download/softwarecomposition/2020-01-021-Zuercher-BypassingHTTPSSecurity.pdf) (Seminar)
+-  Jan 21 &mdash; [Christian Zürcher](%base_url%/wiki/alumni/ChristianZuercher) &mdash; [Android: Bypassing HTTPS Security](%assets_url%/download/softwarecomposition/2020-01-021-Zuercher-BypassingHTTPSSecurity.pdf) (Seminar)
 
 ##2019
 
 -  Dec 17
 	-  Emily Croxall &mdash; [From user stories to live-documentation](%assets_url%/download/softwarecomposition/2019-12-17-Croxall-FromUserStories.pdf) (seminar)
-	-  [Patrick Frischknecht](/wiki/students/PatrickFrischknecht) &mdash; [HTTP security headers in Web APIs](%assets_url%/download/softwarecomposition/2019-12-17-Frischknecht-HttpSecurityHeaders.pdf) (seminar)
+	-  [Patrick Frischknecht](%base_url%/wiki/alumni/PatrickFrischknecht) &mdash; [HTTP security headers in Web APIs](%assets_url%/download/softwarecomposition/2019-12-17-Frischknecht-HttpSecurityHeaders.pdf) (seminar)
 
 -  Dec 10 
 	-  [Melike Geçer](%base_url%/wiki/alumni/MelikeGecer) &mdash; [Debugging Spark Applications](%assets_url%/download/softwarecomposition/2019-12-10-MelikeGecer-Debugging%20Spark.pdf) (MSc final presentation)
@@ -70,12 +70,12 @@ Normally, the seminar takes place on Mondays at 14.00 in the afternoon in our se
 -  Nov 12 &mdash; [Dean Klopsch](%base_url%/wiki/alumni/DeanKlopsch) &mdash; [Learning from nature: How nature resolves security issues](%assets_url%/download/softwarecomposition/2019-11-12-Klopsch-LearningFromNature.pdf) (Bachelors, first presentation)
 -  Nov 5 &mdash; [Olivier Flückiger](%base_url%/staff/oli) &mdash; [Ř Melts Brains](%assets_url%/download/softwarecomposition/2019-11-05-Flueckiger-R.pdf) (SPLASH 2019 presentation)
 -  Oct 29 &mdash; [Pascal Gerig](%base_url%/wiki/alumni/PascalGerig) &mdash; Phishing on Demand (Bachelors, first presentation)
--  Oct 15 &mdash; [Brian Schweigler](%base_url%/wiki/students/BrianSchweigler) &mdash; [The Life of a Bug Report](%assets_url%/download/softwarecomposition/2019-10-15-Schweigler-LifeOfBugReport.pdf) (Bachelors, first presentation)
+-  Oct 15 &mdash; [Brian Schweigler](%base_url%/wiki/alumni/BrianSchweigler) &mdash; [The Life of a Bug Report](%assets_url%/download/softwarecomposition/2019-10-15-Schweigler-LifeOfBugReport.pdf) (Bachelors, first presentation)
 -  Oct 1 &mdash; [Alain Stulz](%base_url%/wiki/alumni/AlainStulz) &mdash; [Identifying and reducing technical debt in an iOS app framework](%assets_url%/download/softwarecomposition/2019-10-01-Stulz-AppsWithLove.pdf) (Bachelors, first presentation)
 -  August 13 &mdash; [Julian Weyermann](%base_url%/wiki/alumni/JulianWeyermann) &mdash; [DB-Reports with Oracle MLE](%assets_url%/download/softwarecomposition/2019-08-13-Weyermann-GraalVM.pdf) (Bachelors, first presentation)
 -  July 2 &mdash;[Mathias Birrer](%base_url%/wiki/alumni/MathiasBirrer) &mdash; [Investigating developer questions on social media](%assets_url%/download/softwarecomposition/2019-07-02-Investigating_developer_questions_in_social_media.pdf) (Msc, first presentation)
 -  June 25 &mdash; [Melike Geçer](%base_url%/wiki/alumni/MelikeGecer) &mdash; [Debugging Spark Applications](%assets_url%/download/softwarecomposition/2019-06-25-Gecer-DebuggingSpark.pdf) (MSc, first presentation)
--  June 11 &mdash; [Christian Zürcher](%base_url%/wiki/students/ChristianZuercher) &mdash; [Test name recommendation](%assets_url%/download/softwarecomposition/2019-06-11-Zuercher-TestNameRecommendation.pdf) (BSc, first presentation)
+-  June 11 &mdash; [Christian Zürcher](%base_url%/wiki/alumni/ChristianZuercher) &mdash; [Test name recommendation](%assets_url%/download/softwarecomposition/2019-06-11-Zuercher-TestNameRecommendation.pdf) (BSc, first presentation)
 -  May 28 
 	-  Elio Fritschi &mdash; [Outlining the state-of-the-art of requirements engineering tools](%assets_url%/download/softwarecomposition/2019-05-28-Fritschi-RE-Tools.pdf) (seminar)
 	-  Basil Schöni  &mdash; [Javascript injection in Android applications](%assets_url%/download/softwarecomposition/2019-05-28-Schoeni-JS-Injection.pdf) (first presentation, BSc)
@@ -87,12 +87,12 @@ Normally, the seminar takes place on Mondays at 14.00 in the afternoon in our se
 -  Mar 26 &mdash; [Pooja Rani](%base_url%/staff/Pooja-Rani) and [Manuel Leuenberger](%base_url%/staff/ManuelLeuenberger) &mdash; [Comment soup with a pinch of types, served in a leaky bowl](%assets_url%/download/softwarecomposition/2019-03-26-Pooja-Manuel-CommentSoupWithEtc.pdf) (Pharo Days rehearsal)
 -  Mar 19 &mdash; Simon Kafader &mdash;  [Fluent API for NodeJS Crypto](%assets_url%/download/softwarecomposition/2019-03-19-Kafader-FluentAPIforNodeJSCrypto.pdf) (BSc first presentation)
 -  Mar 12 &mdash; [Nitish Patkar](%base_url%/staff/NitishPatkar) &mdash; [Towards a Catalogue of Mobile Ruquirements Elicitation Techniques](%assets_url%/download/softwarecomposition/2019-03-12-NitshPatkar-TowardsACatalogueOfMobileRequirementsElicitation.pdf)
--  Feb 26 &mdash; [Artthik Sellathurai](%base_url%/wiki/students/Artthik) &mdash; [Visual scenario builder in Pharo](%assets_url%/download/softwarecomposition/2019-02-26-Artthik-Visual-scenario-builde-in-Pharo.pdf) (Bachelors first presentation)
+-  Feb 26 &mdash; [Artthik Sellathurai](%base_url%/wiki/alumni/Artthik) &mdash; [Visual scenario builder in Pharo](%assets_url%/download/softwarecomposition/2019-02-26-Artthik-Visual-scenario-builde-in-Pharo.pdf) (Bachelors first presentation)
 -  Feb 19 &mdash; [MSc seminar topic](%base_url%/wiki/projects/mastersbachelorsprojects) presentations and obligatory quiz.
 -  Feb 12 &mdash; [Jonas Richner](%base_url%/wiki/alumni/JonasRichner) &mdash; [Software Developers' Information Needs](%assets_url%/download/softwarecomposition/2019-02-12-Richner-DeveloperNeeds.pdf) (Bachelors final presentation)
 -  Feb 5 &mdash; [Manuela Eschler](%base_url%/wiki/alumni/ManuelaEschler) &mdash; [Search interface implementation for a Learning Management System](%assets_url%/download/softwarecomposition/2019-02-05-Eschler-SearchInterface.pdf) (Bachelors final presentation)
 -  Jan 29 &mdash; [Mario Hess](%base_url%/wiki/alumni/MarioHess) &mdash; [PerfVis: Visualization in Immersive Augmented Reality for Software Performance - A User Study](%assets_url%/download/softwarecomposition/2019-01-29-Hess-PerfVis.pdf) (Bachelors, final presentation)
--  Jan 15 &mdash; [Dominik Briner](/wiki/students/DominikBriner) &mdash; [Mobile Security Support for Android Developers](%assets_url%/download/softwarecomposition/2019-01-15-Briner-MobileSecuritySupportForAndroidDevelopers.pdf) (Bachelors)
+-  Jan 15 &mdash; [Dominik Briner](%base_url%/wiki/alumni/DominikBriner) &mdash; [Mobile Security Support for Android Developers](%assets_url%/download/softwarecomposition/2019-01-15-Briner-MobileSecuritySupportForAndroidDevelopers.pdf) (Bachelors)
 -  Jan 8 &mdash; Mathias Birrer &mdash; [Investigating developer's questions using web scraping (Seminar)](%assets_url%/download/softwarecomposition/2019-01-08-Mathias-Investigating_developers_questions_using_web%20scraping.pdf)
 
 ##2018
@@ -131,7 +131,7 @@ Normally, the seminar takes place on Mondays at 14.00 in the afternoon in our se
 	-  [Stefan Krüger](https://www.hni.uni-paderborn.de/swt/mitarbeiter/1456475238/) &mdash; [Secure Integration of Cryptographic Software](%assets_url%/download/softwarecomposition/2018-05-15-StefanKruegerSecureIntegrationOfCryptographicSoftware.pdf) (guest presentation)
 
 -  May 8
-	-  [Marc Tarnutzer](/wiki/students/MarcAndreaTarnutzer) &mdash; [Privacy concerns in public web APIs](%assets_url%/download/softwarecomposition/2018-05-08-Tarnutzer-PrivacyConcernsPublicWebAPIs.pdf) (Seminar)
+	-  [Marc Tarnutzer](%base_url%/wiki/alumni/MarcAndreaTarnutzer) &mdash; [Privacy concerns in public web APIs](%assets_url%/download/softwarecomposition/2018-05-08-Tarnutzer-PrivacyConcernsPublicWebAPIs.pdf) (Seminar)
 	-  Vincent Hofer &mdash; [Compiling to WebAssembly](%assets_url%/download/softwarecomposition/2018-05-08-Hofer-CompilingToWebAssembly.pdf) (Seminar)
 
 -  May 1 &mdash; Flurin Trübner &mdash; [Polyglot development using GraalVM](%assets_url%/download/softwarecomposition/2018-05-01-Truebner-GraalVM_Polyglot_Development.pdf) - Twitter analysis (Seminar)
@@ -360,7 +360,7 @@ Normally, the seminar takes place on Mondays at 14.00 in the afternoon in our se
 -  July 2. - [Andrea Caracciolo](%base_url%/staff/Caracciolo): [Experimentation in Software engineering](/download/AC/Experimentation%20in%20SE%20(book).pdf)
 -  June 4 - Michael Morelli: Detecting Polymorphism
 -  May 28 - Stefan Nüesch: Cost of Volatile
--  May 21 - [Bledar Aga](/wiki/students/bledaraga): Static Dependency Cycle Removal, Phokham Nonava: Keyword Analysis
+-  May 21 - [Bledar Aga](%base_url%/wiki/alumni/bledaraga): Static Dependency Cycle Removal, Phokham Nonava: Keyword Analysis
 -  May 14 - Attieh Givi: Layout-Sensitive Grammar in PetitParser Framework, Stefan Wanzenried: Parsing git log file
 -  May 7 - David Wettstein: Analyzing System Properties in Java
 -  Apr 30 - [Cedric Reichenbach](%base_url%/wiki/alumni/CedricReichenbach): [DoodleDebug](%base_url%/wiki/projects/DoodleDebug), presentation & demo

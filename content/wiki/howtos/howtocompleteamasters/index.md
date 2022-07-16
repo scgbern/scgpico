@@ -22,7 +22,7 @@ When you are writing your master thesis:
 -  Use the LaTeX template for the masters thesis in the scgbib git repo: git clone git://scg.unibe.ch/scgbib
 -  Pay attention to [Common Writing Errors](%base_url%/wiki/howtos/commonwritingerrors)!
 
-The final deliverable is the PDF of the thesis, which will be published in the [SCG archive](/publications/scg-msc).
+The final deliverable is the PDF of the thesis, which will be published in the [SCG publications archive](%base_url%/publications).
 
 #Providing a copy to the University library
 

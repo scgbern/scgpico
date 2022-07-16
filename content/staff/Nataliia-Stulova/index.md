@@ -26,7 +26,7 @@ More detailed information is available on my personal [web page](https://s0nata.
 
 -  Lecturer: [Software Skills Lab](/teaching/SoftwareSkills)
 -  Guest Lecturer: [SMA: Software Modeling and Analysis](/teaching/sma)/Dynamic Program Analysis ([slides](/download/lectures/sma/SMA-10%20%20Dynamic%20Program%20Analysis.pdf), [podcast](https://tube.switch.ch/videos/46fd6be3))
--  Guest Lecturer: [ESE: Introduction to Software Engineering (Einführung in SE)](/teaching/ese)/User Interface Design ([slides](/download/lectures/ese/ESE-12-UIDesign.pdf), [podcast](https://tube.switch.ch/videos/e4c668ac))
+-  Guest Lecturer: [ESE: Introduction to Software Engineering (Einführung in SE)](/teaching/ese)/User Interface Design ([podcast](https://tube.switch.ch/videos/e4c668ac))
 
 
 #Available Student Projects
@@ -65,6 +65,6 @@ More detailed information is available on my personal [web page](https://s0nata.
 
 | | | | | |
 |---|---|---|---|---|
-|*Interactive Visualizations for Software Duplication* |[Jonas Richner](/wiki/students/JonasRichner) | MSc thesis ([PDF](/archive/masters/Rich21a.pdf), [slides](/download/softwarecomposition/2020-08-25-Richner-DuplicationVistualization.pdf)) ||
-|*Bringing Agile Artifacts Closer To Implementation* | [Robert Niemiec](/wiki/students/RobertNiemiec) | MSc theis ([PDF](/archive/masters/Niem20a.pdf), [slides](/download/softwarecomposition/2020-07-14-Niemiec-RequirementsInIDE.pdf)) | [Nitish Patkar](/staff/NitishPatkar), [Andrei Chiş](/staff/andreichis) (feenk gmbh) |
+|*Interactive Visualizations for Software Duplication* |[Jonas Richner](%base_url%/wiki/alumni/JonasRichner) | MSc thesis ([PDF](/archive/masters/Rich21a.pdf), [slides](/download/softwarecomposition/2020-08-25-Richner-DuplicationVistualization.pdf)) ||
+|*Bringing Agile Artifacts Closer To Implementation* | [Robert Niemiec](%base_url%/wiki/alumni/RobertNiemiec) | MSc theis ([PDF](/archive/masters/Niem20a.pdf), [slides](/download/softwarecomposition/2020-07-14-Niemiec-RequirementsInIDE.pdf)) | [Nitish Patkar](/staff/NitishPatkar), [Andrei Chiş](/staff/andreichis) (feenk gmbh) |
 |*Moldable Scenario Builder*| [Ivan Kravchenko](/wiki/alumni/IvanKravchenko)| MSc thesis ([PDF](/archive/masters/Krav20a.pdf), [slides](/download/softwarecomposition/2020-06-23-Kravchenko-MoldableScenarioEdiot.pdf)) | [Nitish Patkar](/staff/NitishPatkar), [Andrei Chiş](/staff/andreichis) (feenk gmbh)

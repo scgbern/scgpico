@@ -1,7 +1,7 @@
 #Download
 
 
--  [JAR file](/download/jexample/jexample-latest.jar), requires JUnit 4
+-  [JAR file](/download/jexample/jexample-4.5-391.jar), requires JUnit 4
 -  [Eclipse update-site](/download/jexample)
 -  [Sourceforge project](http://sourceforge.net/projects/jexample/)
 

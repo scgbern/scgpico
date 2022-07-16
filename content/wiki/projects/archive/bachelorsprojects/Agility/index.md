@@ -17,7 +17,7 @@ The 1st proposal was selected by Zuehlke
 #Research on Scrum Tools
 
 
--  [Scrum tool to improve project management](/wiki/projects/bachelorsprojects/Agility/interestingpaper2)
+-  [Scrum tools to improve project management](%base_url%/wiki/projects/archive/bachelorsprojects/Agility/scrumTools)
 -  [http://www.microsoft.com/presspass/itanalyst/docs/05-05-10AgileDevelopmentManagementTools.PDF](http://www.microsoft.com/presspass/itanalyst/docs/05-05-10AgileDevelopmentManagementTools.PDF)
 
 
@@ -72,8 +72,6 @@ The 1st proposal was selected by Zuehlke
 #Conferences:
 
 chi, vhlcc, cscw, ese (www.eseconf.com)
-
--  [Table with the conferences and additional information](/wiki/projects/bachelorsprojects/Agility/conferences)
 
 #Contacts
 

@@ -1,4 +1,3 @@
-
 #Other Resources
 
 -  [Resume](%assets_url%/download/mlcv/MirceaLungu-Resume.pdf)

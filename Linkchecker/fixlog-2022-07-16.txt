@@ -1,0 +1,452 @@
+
+# Fixed -- moved to /wiki/alumni
+
+* Moved all students to alumni; patched broken addresses
+
+URL        `/wiki/students/SuadaAbukar'
+Name       `Suada Abukar'
+Parent URL http://testscg.unibe.ch/wiki/softwarecompositionseminar, line 142, col 18
+Real URL   http://testscg.unibe.ch/wiki/students/SuadaAbukar
+Check time 4.337 seconds
+Size       797B
+Result     Error: 404 Not Found
+
+URL        `/wiki/students/LinoHess'
+Name       `Lino Hess'
+Parent URL http://testscg.unibe.ch/wiki/softwarecompositionseminar, line 145, col 19
+Real URL   http://testscg.unibe.ch/wiki/students/LinoHess
+Check time 3.919 seconds
+Size       797B
+Result     Error: 404 Not Found
+
+URL        `/wiki/students/MichaelDooley'
+Name       `Style checkers support to code comments'
+Parent URL http://testscg.unibe.ch/wiki/softwarecompositionseminar, line 156, col 28
+Real URL   http://testscg.unibe.ch/wiki/students/MichaelDooley
+Check time 4.052 seconds
+Size       797B
+Result     Error: 404 Not Found
+
+URL        `/wiki/students/PatrickFrischknecht'
+Name       `Patrick Frischknecht'
+Parent URL http://testscg.unibe.ch/wiki/softwarecompositionseminar, line 157, col 5
+Real URL   http://testscg.unibe.ch/wiki/students/PatrickFrischknecht
+Check time 3.548 seconds
+Size       797B
+Result     Error: 404 Not Found
+
+URL        `/wiki/students/MelinaMeyer'
+Name       `Melina Meyer'
+Parent URL http://testscg.unibe.ch/wiki/softwarecompositionseminar, line 161, col 19
+Real URL   http://testscg.unibe.ch/wiki/students/MelinaMeyer
+Check time 3.829 seconds
+Size       797B
+Result     Error: 404 Not Found
+
+URL        `/wiki/students/DominikBriner'
+Name       `Dominik Briner'
+Parent URL http://testscg.unibe.ch/wiki/softwarecompositionseminar, line 176, col 19
+Real URL   http://testscg.unibe.ch/wiki/students/DominikBriner
+Check time 3.030 seconds
+Size       797B
+Result     Error: 404 Not Found
+
+# To delete or repair
+
+* This is hosted at a separate Pier service -- delete or migrate?
+
+URL        `/softwarenaut'
+Name       `Softwarenaut'
+Parent URL http://testscg.unibe.ch/research, line 200, col 4
+Real URL   http://testscg.unibe.ch/softwarenaut
+Check time 3.870 seconds
+Size       797B
+Result     Error: 404 Not Found
+
+# Fixed pier pages
+
+URL        `/research/freq'
+Name       `Freq'
+Parent URL http://testscg.unibe.ch/research, line 125, col 4
+Real URL   http://testscg.unibe.ch/research/freq
+Check time 4.841 seconds
+Size       797B
+Result     Error: 404 Not Found
+
+URL        `/publications/scg-msc'
+Name       `SCG archive'
+Parent URL http://testscg.unibe.ch/wiki/howtos/howtocompleteamasters, line 65, col 83
+Real URL   http://testscg.unibe.ch/publications/scg-msc
+Check time 4.320 seconds
+Size       797B
+Result     Error: 404 Not Found
+
+URL        `/download/softwarecomposition/ManuelSemianrPresentation.pdf'
+Name       `here'
+Parent URL http://testscg.unibe.ch/staff/ManuelLeuenberger, line 53, col 276
+Real URL   http://testscg.unibe.ch/assets/download/softwarecomposition/ManuelSemianrPresentation.pdf
+Check time 3.334 seconds
+Size       797B
+Info       Redirected to
+           `http://testscg.unibe.ch/assets/download/softwarecomposition/ManuelSemianrPresentation.pdf'.
+Result     Error: 404 Not Found
+
+URL        `/staff/kursjan/resume2016v1?view=PRDownloadView'
+Name       `Resume'
+Parent URL http://testscg.unibe.ch/staff/kursjan, line 75, col 16
+Real URL   http://testscg.unibe.ch/staff/kursjan/resume2016v1?view=PRDownloadView
+Check time 3.853 seconds
+Size       797B
+Result     Error: 404 Not Found
+
+URL        `Sparta%20Neon'
+Parent URL http://testscg.unibe.ch/research/sparta, line 51, col 5
+Real URL   http://testscg.unibe.ch/research/Sparta%20Neon
+Check time 3.957 seconds
+Size       797B
+Result     Error: 404 Not Found
+
+URL        `Sparta%20Multilanguage'
+Parent URL http://testscg.unibe.ch/research/sparta, line 60, col 5
+Real URL   http://testscg.unibe.ch/research/Sparta%20Multilanguage
+Check time 4.099 seconds
+Size       797B
+Result     Error: 404 Not Found
+
+URL        `Sparta%20Filters'
+Parent URL http://testscg.unibe.ch/research/sparta, line 67, col 5
+Real URL   http://testscg.unibe.ch/research/Sparta%20Filters
+Check time 3.795 seconds
+Size       797B
+Result     Error: 404 Not Found
+
+URL        `Sparta%20Shapes'
+Parent URL http://testscg.unibe.ch/research/sparta, line 72, col 5
+Real URL   http://testscg.unibe.ch/research/Sparta%20Shapes
+Check time 3.923 seconds
+Size       797B
+Result     Error: 404 Not Found
+
+URL        `/wiki/students/AliakseiSyrel'
+Name       `AliakseiSyrel'
+Parent URL http://testscg.unibe.ch/wiki/alumni/AliakseiSyrel, line 105, col 377
+Real URL   http://testscg.unibe.ch/wiki/students/AliakseiSyrel
+Check time 4.195 seconds
+Size       797B
+Result     Error: 404 Not Found
+
+URL        `/research/HIK-MSY'
+Name       `How I Know My System'
+Parent URL http://testscg.unibe.ch/staff/mircea, line 56, col 5
+Real URL   http://testscg.unibe.ch/research/HIK-MSY
+Check time 4.431 seconds
+Size       797B
+Result     Error: 404 Not Found
+
+URL        `/teaching/sde'
+Name       `Software Design and Evolution'
+Parent URL http://testscg.unibe.ch/staff/mircea, line 145, col 4
+Real URL   http://testscg.unibe.ch/teaching/sde
+Check time 4.736 seconds
+Size       797B
+Result     Error: 404 Not Found
+
+URL        `/jenkins/job/ObjectDebugger/lastSuccessfulBuild/artifact/objectDebugger-OneClick.zip'
+Name       `OCD'
+Parent URL http://testscg.unibe.ch/research/bifrost/OCD, line 53, col 18
+Real URL   http://testscg.unibe.ch/jenkins/job/ObjectDebugger/lastSuccessfulBuild/artifact/objectDebugger-OneClick.zip
+Check time 4.247 seconds
+Size       797B
+Result     Error: 404 Not Found
+
+URL        `/jenkins/job/Chameleon/lastSuccessfulBuild/artifact/chameleon-OneClick.zip'
+Name       `Chameleon'
+Parent URL http://testscg.unibe.ch/research/bifrost/chameleon, line 59, col 18
+Real URL   http://testscg.unibe.ch/jenkins/job/Chameleon/lastSuccessfulBuild/artifact/chameleon-OneClick.zip
+Check time 4.047 seconds
+Size       797B
+Result     Error: 404 Not Found
+
+URL        `/jenkins/job/Prisma/lastSuccessfulBuild/artifact/prisma-OneClick.zip'
+Name       `Prisma'
+Parent URL http://testscg.unibe.ch/research/bifrost/prisma, line 54, col 18
+Real URL   http://testscg.unibe.ch/jenkins/job/Prisma/lastSuccessfulBuild/artifact/prisma-OneClick.zip
+Check time 3.825 seconds
+Size       797B
+Result     Error: 404 Not Found
+
+URL        `/download/jexample/jexample-latest.jar'
+Name       `JAR file'
+Parent URL http://testscg.unibe.ch/research/jexample, line 107, col 5
+Real URL   http://testscg.unibe.ch/assets/download/jexample/jexample-latest.jar
+Check time 4.988 seconds
+Size       797B
+Info       Redirected to
+           `http://testscg.unibe.ch/assets/download/jexample/jexample-latest.jar'.
+Result     Error: 404 Not Found
+
+URL        `/jenkins/job/Pharogenesis/lastSuccessfulBuild/artifact/Pharogenesis.zip'
+Name       `Pharogenesis'
+Parent URL http://testscg.unibe.ch/research/Pharogenesis, line 54, col 18
+Real URL   http://testscg.unibe.ch/jenkins/job/Pharogenesis/lastSuccessfulBuild/artifact/Pharogenesis.zip
+Check time 4.459 seconds
+Size       797B
+Result     Error: 404 Not Found
+
+URL        `/wiki/students/AaronKarper'
+Name       `Aaron Karper'
+Parent URL http://testscg.unibe.ch/wiki/projects/archive/bachelorsprojects/SCodeBubbles, line 46, col 180
+Real URL   http://testscg.unibe.ch/wiki/students/AaronKarper
+Check time 4.223 seconds
+Size       797B
+Result     Error: 404 Not Found
+
+URL        `/wiki/students/DominiqueRahm'
+Name       `Dominique Rahm'
+Parent URL http://testscg.unibe.ch/wiki/projects/archive/bachelorsprojects/SCodeBubbles, line 46, col 238
+Real URL   http://testscg.unibe.ch/wiki/students/DominiqueRahm
+Check time 3.391 seconds
+Size       797B
+Result     Error: 404 Not Found
+
+URL        `http:///wiki/projects/mastersbachelorsprojects/Recognising-structural-patterns-in-code'
+Name       `"Recognising structural patterns in code Data"'
+Parent URL http://testscg.unibe.ch/wiki/alumni/CedricWalker, line 47, col 20
+Real URL   http:///wiki/projects/mastersbachelorsprojects/Recognising-structural-patterns-in-code
+Info       The URL is outside of the domain filter, checked only
+           syntax.
+Result     Error: URL has empty hostname
+
+URL        `/dicto'
+Name       `Dicto'
+Parent URL http://testscg.unibe.ch/staff/Caracciolo, line 61, col 5
+Real URL   http://testscg.unibe.ch/dicto
+Check time 3.922 seconds
+Size       797B
+Result     Error: 404 Not Found
+
+URL        `/download/lectures/ese/ESE-12-UIDesign.pdf'
+Name       `slides'
+Parent URL http://testscg.unibe.ch/staff/Nataliia-Stulova, line 64, col 133
+Real URL   http://testscg.unibe.ch/assets/download/lectures/ese/ESE-12-UIDesign.pdf
+Check time 3.501 seconds
+Size       797B
+Info       Redirected to
+           `http://testscg.unibe.ch/assets/download/lectures/ese/ESE-12-UIDesign.pdf'.
+Result     Error: 404 Not Found
+
+URL        `/wiki/students/JonasRichner'
+Name       `Jonas Richner'
+Parent URL http://testscg.unibe.ch/staff/Nataliia-Stulova, line 155, col 5
+Real URL   http://testscg.unibe.ch/wiki/students/JonasRichner
+Check time 3.563 seconds
+Size       797B
+Result     Error: 404 Not Found
+
+URL        `/download/lectures/ese/ESE-12-UIDesign.pdf'
+Name       `slides'
+Parent URL http://testscg.unibe.ch/staff/Nataliia-Stulova, line 64, col 133
+Real URL   http://testscg.unibe.ch/assets/download/lectures/ese/ESE-12-UIDesign.pdf
+Check time 3.501 seconds
+Size       797B
+Info       Redirected to
+           `http://testscg.unibe.ch/assets/download/lectures/ese/ESE-12-UIDesign.pdf'.
+Result     Error: 404 Not Found
+
+URL        `/wiki/students/JonasRichner'
+Name       `Jonas Richner'
+Parent URL http://testscg.unibe.ch/staff/Nataliia-Stulova, line 155, col 5
+Real URL   http://testscg.unibe.ch/wiki/students/JonasRichner
+Check time 3.563 seconds
+Size       797B
+Result     Error: 404 Not Found
+
+URL        `/wiki/students/RobertNiemiec'
+Name       `Robert Niemiec'
+Parent URL http://testscg.unibe.ch/staff/Nataliia-Stulova, line 160, col 5
+Real URL   http://testscg.unibe.ch/wiki/students/RobertNiemiec
+Check time 3.741 seconds
+Size       797B
+Result     Error: 404 Not Found
+
+URL        `/publications/scg-bp'
+Name       `SCG archive'
+Parent URL http://testscg.unibe.ch/wiki/howtos/howtosuperviseabachelorsproject, line 66, col 83
+Real URL   http://testscg.unibe.ch/publications/scg-bp
+Check time 3.255 seconds
+Size       797B
+Result     Error: 404 Not Found
+
+URL        `/wiki/students/MarcAndreaTarnutzer'
+Name       `Marc Tarnutzer'
+Parent URL http://testscg.unibe.ch/wiki/softwarecompositionseminar/pastseminars, line 350, col 5
+Real URL   http://testscg.unibe.ch/wiki/students/MarcAndreaTarnutzer
+Check time 3.386 seconds
+Size       797B
+Result     Error: 404 Not Found
+
+URL        `/wiki/students/bledaraga'
+Name       `Bledar Aga'
+Parent URL http://testscg.unibe.ch/wiki/softwarecompositionseminar/pastseminars, line 889, col 13
+Real URL   http://testscg.unibe.ch/wiki/students/bledaraga
+Check time 3.805 seconds
+Size       797B
+Result     Error: 404 Not Found
+
+URL        `/staff/adriankuhn'
+Name       `Adrian Kuhn'
+Parent URL http://testscg.unibe.ch/wiki/alumni/floriangysin, line 49, col 218
+Real URL   http://testscg.unibe.ch/staff/adriankuhn
+Check time 3.637 seconds
+Size       797B
+Result     Error: 404 Not Found
+
+URL        `/wiki/students/morelli/Bachelor_Project_Outline'
+Name       `Bachelor Project Outline'
+Parent URL http://testscg.unibe.ch/wiki/alumni/morelli, line 47, col 5
+Real URL   http://testscg.unibe.ch/wiki/students/morelli/Bachelor_Project_Outline
+Check time 3.984 seconds
+Size       797B
+Result     Error: 404 Not Found
+
+URL        `/wiki/students/morelli/potentially_heuristics'
+Name       `Potentially heuristics'
+Parent URL http://testscg.unibe.ch/wiki/alumni/morelli, line 48, col 5
+Real URL   http://testscg.unibe.ch/wiki/students/morelli/potentially_heuristics
+Check time 3.666 seconds
+Size       797B
+Result     Error: 404 Not Found
+
+URL        `/wiki/projects/mastersbachelorsprojects/tokenclassification'
+Name       `/wiki/projects/mastersbachelorsprojects/tokenclassification'
+Parent URL http://testscg.unibe.ch/wiki/alumni/JoelGuggisberg, line 47, col 52
+Real URL   http://testscg.unibe.ch/wiki/projects/mastersbachelorsprojects/tokenclassification
+Check time 3.592 seconds
+Size       797B
+Result     Error: 404 Not Found
+
+URL        `/wiki/students/ThomasSteinmann/validation?view=PRDownloadView'
+Name       `image'
+Parent URL http://testscg.unibe.ch/wiki/alumni/ThomasSteinmann, line 50, col 68
+Real URL   http://testscg.unibe.ch/wiki/students/ThomasSteinmann/validation?view=PRDownloadView
+Check time 4.722 seconds
+Size       797B
+Result     Error: 404 Not Found
+
+URL        `/wiki/projects/HaskellPetitParser'
+Name       `Project page'
+Parent URL http://testscg.unibe.ch/wiki/alumni/MilanKubicek, line 47, col 45
+Real URL   http://testscg.unibe.ch/wiki/projects/HaskellPetitParser
+Check time 4.666 seconds
+Size       797B
+Result     Error: 404 Not Found
+
+URL        `/wiki/projects/mastersbachelorsprojects/Mining-event-data'
+Name       `"Visually Mining Event Data"'
+Parent URL http://testscg.unibe.ch/wiki/alumni/DominikSeliner, line 48, col 44
+Real URL   http://testscg.unibe.ch/wiki/projects/mastersbachelorsprojects/Mining-event-data
+Check time 5.364 seconds
+Size       797B
+Result     Error: 404 Not Found
+
+URL        `/wiki/students/StefanBorer'
+Name       `Stefan Borer'
+Parent URL http://testscg.unibe.ch/wiki/alumni/TheodorTruffer, line 46, col 75
+Real URL   http://testscg.unibe.ch/wiki/students/StefanBorer
+Check time 4.742 seconds
+Size       797B
+Result     Error: 404 Not Found
+
+URL        `/wiki/projects/mastersbachelorsprojects/Actionable-Software-Visualization'
+Name       `Actionable software visualization'
+Parent URL http://testscg.unibe.ch/wiki/alumni/RaphaelBucher, line 47, col 39
+Real URL   http://testscg.unibe.ch/wiki/projects/mastersbachelorsprojects/Actionable-Software-Visualization
+Check time 3.972 seconds
+Size       797B
+Result     Error: 404 Not Found
+
+URL        `/dicto/'
+Name       `Dicto'
+Parent URL http://testscg.unibe.ch/wiki/projects/Refactoring-Ilias-with-Dicto, line 47, col 109
+Real URL   http://testscg.unibe.ch/dicto/
+Check time 2.484 seconds
+Size       797B
+Result     Error: 404 Not Found
+
+URL        `/pangea/'
+Name       `Pangea'
+Parent URL http://testscg.unibe.ch/wiki/projects/mastersbachelorsprojects/obsolete/ImprovingPangea, line 46, col 4
+Real URL   http://testscg.unibe.ch/pangea/
+Check time 3.323 seconds
+Size       797B
+Result     Error: 404 Not Found
+
+URL        `/staff/iriskeller'
+Name       `Iris Keller'
+Parent URL http://testscg.unibe.ch/wiki/howtos/howtobeanassistantforalecture, line 81, col 168
+Real URL   http://testscg.unibe.ch/staff/iriskeller
+Check time 2.954 seconds
+Size       797B
+Result     Error: 404 Not Found
+
+URL        `/wiki/wasdett2008'
+Name       `/wiki/wasdett2008'
+Parent URL http://testscg.unibe.ch/wiki/events/wasdett2008, line 49, col 4
+Real URL   http://testscg.unibe.ch/wiki/wasdett2008
+Check time 2.897 seconds
+Size       797B
+Result     Error: 404 Not Found
+
+URL        `/download/softwarecomposition/2015.01.06_FSharp_Intro_MilanKubicek_compr.pdf'
+Name       `Project introduction'
+Parent URL http://testscg.unibe.ch/wiki/projects/archive/HaskellPetitParser, line 59, col 4
+Real URL   http://testscg.unibe.ch/assets/download/softwarecomposition/2015.01.06_FSharp_Intro_MilanKubicek_compr.pdf
+Check time 4.108 seconds
+Size       797B
+Info       Redirected to
+           `http://testscg.unibe.ch/assets/download/softwarecomposition/2015.01.06_FSharp_Intro_MilanKubicek_compr.pdf'.
+Result     Error: 404 Not Found
+
+URL        `/archive/papers/Reng10cDynamicGrammars.pdf%20'
+Name       `PetitParser'
+Parent URL http://testscg.unibe.ch/wiki/projects/mastersbachelorsprojects/obsolete/OmniscientPetitParserDebugger, line 60, col 9
+Real URL   http://testscg.unibe.ch/assets/archive/papers/Reng10cDynamicGrammars.pdf%20
+Check time 4.994 seconds
+Size       797B
+Info       Redirected to
+           `http://testscg.unibe.ch/assets/archive/papers/Reng10cDynamicGrammars.pdf%20'.
+Result     Error: 404 Not Found
+
+URL        `/archive/papers/Hofe06aUnstuckNode.pdf%20'
+Name       `Design and Implementation of a Backward-In-Time Debugger'
+Parent URL http://testscg.unibe.ch/wiki/projects/mastersbachelorsprojects/obsolete/OmniscientPetitParserDebugger, line 64, col 9
+Real URL   http://testscg.unibe.ch/assets/archive/papers/Hofe06aUnstuckNode.pdf%20
+Check time 4.366 seconds
+Size       797B
+Info       Redirected to
+           `http://testscg.unibe.ch/assets/archive/papers/Hofe06aUnstuckNode.pdf%20'.
+Result     Error: 404 Not Found
+
+URL        `/news/DominiqueMatterFacultyPrize'
+Name       `Faculty award'
+Parent URL http://testscg.unibe.ch/wiki/alumni/adriankuhn/teaching, line 56, col 224
+Real URL   http://testscg.unibe.ch/news/DominiqueMatterFacultyPrize
+Check time 4.033 seconds
+Size       797B
+Result     Error: 404 Not Found
+
+URL        `/wiki/projects/bachelorsprojects/Agility/interestingpaper2'
+Name       `Scrum tool to improve project management'
+Parent URL http://testscg.unibe.ch/wiki/projects/archive/bachelorsprojects/Agility, line 56, col 5
+Real URL   http://testscg.unibe.ch/wiki/projects/bachelorsprojects/Agility/interestingpaper2
+Check time 2.707 seconds
+Size       797B
+Result     Error: 404 Not Found
+
+URL        `/wiki/projects/bachelorsprojects/Agility/conferences'
+Name       `Table with the conferences and additional information'
+Parent URL http://testscg.unibe.ch/wiki/projects/archive/bachelorsprojects/Agility, line 106, col 5
+Real URL   http://testscg.unibe.ch/wiki/projects/bachelorsprojects/Agility/conferences
+Check time 2.859 seconds
+Size       797B
+Result     Error: 404 Not Found

@@ -8,28 +8,3 @@ Software systems must typically be adapted to enable various kinds of software a
 We propose to avoid these problems by adapting systems on the fly. Only the entry points of the application are initially adapted with the help of reflective meta-objects that intercede on behalf of the adapted object. Each adaptation triggers further adaptations of objects reached during a run. We support software analyses by reifying execution events of running applications. Multiple adaptations can be supported in a single running system, since the meta-objects keep track of the scope of each adaptation. As a consequence, only the code that needs to be adapted is touched, and adaptations can be combined.
 We present Prisma, an implementation of on-the-fly software adaptation, we present examples of analyses supported by Prisma, and we demonstrate that Prisma is cost-effective from a performance perspective.
 
-#Getting Started
-
-To get started you can either use a ready-made one-click image (suggested), or try to load the code yourself.
-
-##One-Click Image
-
--  Download the [Prisma](/jenkins/job/Prisma/lastSuccessfulBuild/artifact/prisma-OneClick.zip) distribution.
--  Launch the executable of your platform:
-	-  Mac: prisma-OneClick.app
-	-  Linux: prisma-OneClick.app/prisma-OneClick.sh
-	-  Windows: prisma-OneClick.app/prisma-OneClick.exe
-
-
-##Loading
-```
-Gofer new 
-	squeaksource: 'prisma';
-	package: 'ConfigurationOfPrisma';
-	load.
-(Smalltalk at: #ConfigurationOfPrisma)
-	perform: #loadDefault.
-```
-
-#Publications
-[Fixed Query](%assets_url%/scgbib/?query=*&filter=Year)

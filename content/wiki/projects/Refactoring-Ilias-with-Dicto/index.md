@@ -3,7 +3,7 @@ Title: Refactoring Ilias with Dicto
 ---
 #Refactoring Ilias with Dicto
 #Objective
-Migrate the [Ilias](http://www.ilias.de) e-learning platform towards a new architecture using [Dicto](/dicto/). 
+Migrate the [Ilias](http://www.ilias.de) e-learning platform towards a new architecture using [Dictō](%base_url%/research/arch-constr/Dicto). 
 
 #Abstract
 When code bases grow there is need for extended architectural structures bringing with them changes in existing code. In any open source software it is hard to monitor whether this newly introduced architecture is being implemented in all parts of the software. New contributors or even experienced ones may add code that does not respect the new guidelines. Furthermore it is hard to identify which parts of the software the new architecture is already implemented and which parts need to be revisited, especially if done so by hand. Later on effort needs to be spent to keep the architecture decided on.

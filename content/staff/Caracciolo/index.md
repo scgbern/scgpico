@@ -19,7 +19,7 @@ My PhD thesis deals with techniques that help keeping the architecture aligned w
 ##\+ **Projects**
 
 -  [Architectural Monitoring](%base_url%/research/arch-constr): automated testing of architectural rules
-	-  [Dicto](/dicto): DSL prototype   
+	-  Dicto: DSL prototype   
 
 -  [Pangea 2.0](%base_url%/research/pangea):  language independent analyses on OO software corpora
 

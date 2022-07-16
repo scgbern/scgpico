@@ -11,27 +11,3 @@ We propose to resolve this problem by modeling meta-events explicitly.
 Instrumentation is dedicated to generating meta-events, and is fully separated from analysis tools which selectively subscribe to these events by applying the observer pattern at the meta-level.
 We survey approaches to reflection to establish the key requirements for practical applications, and illustrate the limitations of these approaches.
 We introduce Chameleon, a prototype modeling the meta-level as explicit meta-events observed by development tools.
-
-
-#Getting Started
-
-To get started you can either use a ready-made one-click image (suggested), or try to load the code yourself.
-
-
-##One-Click Image
-
--  Download the [Chameleon](/jenkins/job/Chameleon/lastSuccessfulBuild/artifact/chameleon-OneClick.zip) distribution.
--  Launch the executable of your platform:
-	-  Mac: chameleon-OneClick.app
-	-  Linux: chameleon-OneClick.app/chameleon-OneClick.sh
-	-  Windows: chameleon-OneClick.app/chameleon-OneClick.exe
-
-
-
-##Loading
-```
-Gofer new
-	squeaksource: 'Chameleon';
-	package: 'Chameleon';
-	load.
-```

@@ -10,27 +10,5 @@ We propose object-centric debugging as an alternative approach to interacting wi
 <div style="width: 100%" id="\__ss_13234611"><iframe src="http://www.slideshare.net/slideshow/embed_code/13234611" width="100%" height="450" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></div>
 
 
-
-#Getting Started
-
-To get started you can either use a ready-made one-click image (suggested), or try to load the code yourself.
-
-##One-Click Image
-
--  Download the [OCD](/jenkins/job/ObjectDebugger/lastSuccessfulBuild/artifact/objectDebugger-OneClick.zip) distribution.
--  Launch the executable of your platform:
-	-  Mac: objectDebugger-OneClick.app
-	-  Linux: objectDebugger-OneClick.app/objectDebugger-OneClick.sh
-	-  Windows: objectDebugger-OneClick.app/objectDebugger-OneClick.exe
-
-
-##Loading
-```
- Gofer new
- 	squeaksource: 'ObjectDebugger';
-       package: 'Ood';
-       load.
-```
-
 #Publications
 [Fixed Query](%assets_url%/scgbib/?query=*&filter=Year)

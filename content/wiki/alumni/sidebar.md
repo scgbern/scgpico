@@ -103,4 +103,10 @@
 - [Dominik Briner](alumni/DominikBriner)
 - [Suada Abukar](alumni/SuadaAbukar)
 - [Cyrill Rohrbach](alumni/CyrillRohrbach)
+- [Artthik Sellathurai](alumni/Artthik)
+- [Brian Schweigler](alumni/BrianSchweigler)
+- [Christian Zürcher](alumni/ChristianZuercher)
+- [Adrian Jörg](alumni/AdrianJoerg)
+- [Pascal André](alumni/PascalAndre)
+- [Sophie Pfister](alumni/SophiePfister)
 

@@ -57,7 +57,7 @@ The research group ceased its activities at the end of 2021.
 - [DoodleDebug](%base_url%/wiki/projects/DoodleDebug) &mdash; simply visualizing Java objects
 - [EATI](/research/eati) &mdash; Ecosystem Aware Type Inference prototype implementation for Pharo smalltalk
 -  [Explora](%base_url%/research/explora) &mdash; a visualisation tool for the analysis of multiple metrics of software corpora
-- [Freq](/research/freq) &mdash; An augmentation of method seeking tools for faster method seeking
+- [Freq](/research/Freq) &mdash; An augmentation of method seeking tools for faster method seeking
 - [Helvetia](%base_url%/research/helvetia) &mdash; Context specific language integration
 	- [Language Boxes](%base_url%/research/helvetia/languageboxes) &mdash; Bending Syntax and Semantics of the Host Language
 	- [PetitParser](%base_url%/research/helvetia/petitparser) &mdash; Practical Dynamic Grammars for Dynamic Languages

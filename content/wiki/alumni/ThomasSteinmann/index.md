@@ -9,4 +9,4 @@ My bachelor's thesis is called [Adding Class Support and Global Methods to Polit
 
 My main tasks in working with Polite are related to parsing, visitors & ASTs and compilers.
 
-The validation code for the thesis can be downloaded as a moose [image](/wiki/students/ThomasSteinmann/validation?view=PRDownloadView) for Pharo 4.
+The validation code for the thesis can be downloaded as a moose [image](%assets_url%/files/be/se9xucarj1tpz73bdcx64j5ez0r1ke/validation.image) for Pharo 4.

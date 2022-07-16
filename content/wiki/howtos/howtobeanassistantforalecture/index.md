@@ -67,7 +67,7 @@ Title: How to be an assistant for a lecture
 
 -  Enter the results in ILIAS/Academia
 -  Enter results of the questionnaires into a spreadsheet for statistics (get this from Oscar if you don't have the latest version for your course) and mail it to Oscar
--  Fill in the HA-Blatt for each Hilfsassistant (you should get this form from [Bettina Choffat](http://www.iam.unibe.ch/til/staff/choffat) for bachelor course or to [Iris Keller](/staff/iriskeller) for master course)
+-  Fill in the HA-Blatt for each Hilfsassistant (you should get this form from [Bettina Choffat](http://www.iam.unibe.ch/til/staff/choffat) for bachelor course or to Iris Keller for master course)
 
 ##Repeat exams
 

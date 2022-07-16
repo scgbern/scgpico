@@ -15,6 +15,14 @@ This file lists pending migration todos, past todos (done) and a brief FAQ.
 	- Link the contents and assets folders to the server root folders
 	- Clean up the downloads folder (remove large cruft)
 
+* Fix Apache rewrites
+	- set /scgbib etc as proxy rather than R=302
+
+* Try to connect to snaut pier and export those pages too ...
+
+* Remove links to proxies
+	- softwarenaut etc
+
 * Update the README files for the scgpico and scgbib repos
 
 ---
@@ -349,7 +357,7 @@ Dump the exported files into the content folder.
 # FAQ
 
 * Q How best to encode scgbib queries?
-	- */scgbib/?query=xxx*
+	- *TEXT>/scgbib?query=xxx*
 
 * Q How to use flex?
 	“flex” is shorthand for flex-grow, flex-shrink and flex-basis combined. 

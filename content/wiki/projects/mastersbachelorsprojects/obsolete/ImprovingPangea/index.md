@@ -2,7 +2,7 @@
 Title: Improving Pangea
 ---
 #Improving Pangea
-[Pangea](/pangea/) is a toolset that reduces the cost of setting up and running an empirical study. The project is freely accessible at: [/pangea/](/pangea/).
+[Pangea](%base_url%/research/pangea) is a toolset that reduces the cost of setting up and running an empirical study.
 It offers the possibility to run a study on different data sets (e.g. [Qualitas Corpus](http://www.qualitascorpus.com/)). The main way to create analysis in Pangea is using [Moose](http://www.moosetechnology.org/), an extensive platform for software and data analysis.
 
 Pangea uses an external exporter to analyze the source code of Java projects and create MSE files. These MSE files are then loaded into Moose. This creates a model of the software system on which the analysis is run. After the analysis is done the results can be stored into a file.

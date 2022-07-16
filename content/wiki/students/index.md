@@ -2,4 +2,4 @@
 Title: SCG Students
 ---
 #SCG Students
-SCG Bachelors and Masters students &mdash; please add yourself here.
+All students have moved to [SCG Alumni](%base_url%/wiki/alumni)

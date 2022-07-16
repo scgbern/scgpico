@@ -7,8 +7,6 @@ Title: 1st International Workshop on Academic Software Development Tools and Tec
 **Date:**  July 8, 2008.
 **Location:**  Paphos, Cyprus. 
 
-[/wiki/wasdett2008](/wiki/wasdett2008)
-
 Links &rArr; [2nd WASDETT](http://wasdett2.wikispaces.com/) @ ICSM 2008
 
 
