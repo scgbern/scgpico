@@ -39,14 +39,14 @@ body { display: flex; flex-direction: column; }
 #header, #footer { flex: 0 0 auto; }
 
 #main {
-  padding: 2em 0 2em;
+  padding: 2em 0;
 	display: flex;
 	flex-direction: row;
 }
 
 .container {
-    max-width: 75%;
-    padding: 0 0.5em;
+    /* max-width: 75%; */
+    padding: 0em 2em;
     margin: 0 auto;
 	  flex: 3 3 auto;
 }
@@ -59,7 +59,7 @@ body { display: flex; flex-direction: column; }
 
 .sidebar {
   margin: 0em;
-  padding: 2em 0 1em;
+  padding: 0em 0em;
   max-width: 25%;
   flex: 1 0 auto;
   overflow: auto;
