@@ -1,0 +1,108 @@
+LinkChecker 10.1.0
+Copyright (C) 2000-2016 Bastian Kleineidam, 2010-2021 LinkChecker Authors
+LinkChecker comes with ABSOLUTELY NO WARRANTY!
+This is free software, and you are welcome to redistribute it under
+certain conditions. Look at the file `LICENSE' within this distribution.
+Read the documentation at https://linkchecker.github.io/linkchecker/
+Write comments and bugs to https://github.com/linkchecker/linkchecker/issues
+
+Start checking at 2022-07-16 18:37:25+002
+
+# Fixed by apache rule
+
+URL        `/softwarenaut'
+Name       `Softwarenaut'
+Parent URL http://testscg.unibe.ch/research, line 200, col 4
+Real URL   http://testscg.unibe.ch/softwarenaut
+Check time 3.934 seconds
+Size       797B
+Result     Error: 404 Not Found
+
+# Fixed in pier
+
+URL        `mobiliar'
+Name       `mobiliar'
+Parent URL http://testscg.unibe.ch/wiki/events/pharoconf-mooseday-2013, line 259, col 33
+Real URL   http://testscg.unibe.ch/wiki/events/mobiliar
+Check time 4.551 seconds
+Size       797B
+Result     Error: 404 Not Found
+
+URL        `netstyle/choose'
+Name       `netstyle/choose'
+Parent URL http://testscg.unibe.ch/wiki/events/pharoconf-mooseday-2013, line 261, col 32
+Real URL   http://testscg.unibe.ch/wiki/events/netstyle/choose
+Check time 4.408 seconds
+Size       797B
+Result     Error: 404 Not Found
+
+URL        `netstyle'
+Name       `netstyle'
+Parent URL http://testscg.unibe.ch/wiki/events/pharoconf-mooseday-2013, line 260, col 30
+Real URL   http://testscg.unibe.ch/wiki/events/netstyle
+Check time 4.946 seconds
+Size       797B
+Result     Error: 404 Not Found
+
+URL        `netstyle/choose/unibe/esug'
+Name       `netstyle/choose/unibe/esug'
+Parent URL http://testscg.unibe.ch/wiki/events/pharoconf-mooseday-2013, line 263, col 27
+Real URL   http://testscg.unibe.ch/wiki/events/netstyle/choose/unibe/esug
+Check time 3.520 seconds
+Size       797B
+Result     Error: 404 Not Found
+
+URL        `netstyle/choose/unibe'
+Name       `netstyle/choose/unibe'
+Parent URL http://testscg.unibe.ch/wiki/events/pharoconf-mooseday-2013, line 262, col 27
+Real URL   http://testscg.unibe.ch/wiki/events/netstyle/choose/unibe
+Check time 4.701 seconds
+Size       797B
+Result     Error: 404 Not Found
+
+# IGNORE
+
+* Also various timeouts ignored
+
+URL        `http://testscg.unibe.ch/news'
+Name       `SCG News'
+Parent URL http://testscg.unibe.ch/system/howto, line 56, col 11
+Real URL   http://testscg.unibe.ch/news
+Check time 4.613 seconds
+Size       797B
+Result     Error: 404 Not Found
+
+URL        `http://testscg.unibe.ch/system/management/users'
+Name       `Users'
+Parent URL http://testscg.unibe.ch/system/howto, line 60, col 76
+Real URL   http://testscg.unibe.ch/system/management/users
+Check time 4.262 seconds
+Size       797B
+Result     Error: 404 Not Found
+
+URL        `http://testscg.unibe.ch/system/components/randomhighlight'
+Name       `Random Highlight'
+Parent URL http://testscg.unibe.ch/system/howto, line 95, col 49
+Real URL   http://testscg.unibe.ch/system/components/randomhighlight
+Check time 4.016 seconds
+Size       797B
+Result     Error: 404 Not Found
+
+URL        `houseSimulation.php'
+Name       `houseSimulation.php'
+Parent URL http://testscg.unibe.ch/assets/download/AC/Bledar/script/, line 11, col 73
+Real URL   http://testscg.unibe.ch/assets/download/AC/Bledar/script/houseSimulation.php
+Check time 3.443 seconds
+D/L time   0.000 seconds
+Size       0B
+Warning    [url-content-size-zero] Content size is zero.
+Result     Valid: 200 OK
+
+
+Statistics:
+Downloaded: 60.7MB.
+Content types: 883 image, 26252 text, 621 video, 7 audio, 9965 application, 50 mail and 3518 other.
+URL lengths: min=15, max=332, avg=91.
+
+That's it. 41296 links in 41519 URLs checked. 1 warning found. 23 errors found.
+Stopped checking at 2022-07-16 22:21:15+002 (3 hours, 43 minutes)

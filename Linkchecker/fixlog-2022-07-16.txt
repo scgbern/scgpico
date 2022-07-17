@@ -524,3 +524,43 @@ Info       The URL is outside of the domain filter, checked only
 Warning    [url-whitespace] Leading or trailing whitespace in URL
            ` http://iamwww.unibe.ch/~scg/Src/Doc/htgrep.html'.
 Result     Valid: filtered
+
+URL        `mobiliar'
+Name       `mobiliar'
+Parent URL http://testscg.unibe.ch/wiki/events/pharoconf-mooseday-2013, line 259, col 33
+Real URL   http://testscg.unibe.ch/wiki/events/mobiliar
+Check time 4.551 seconds
+Size       797B
+Result     Error: 404 Not Found
+
+URL        `netstyle/choose'
+Name       `netstyle/choose'
+Parent URL http://testscg.unibe.ch/wiki/events/pharoconf-mooseday-2013, line 261, col 32
+Real URL   http://testscg.unibe.ch/wiki/events/netstyle/choose
+Check time 4.408 seconds
+Size       797B
+Result     Error: 404 Not Found
+
+URL        `netstyle'
+Name       `netstyle'
+Parent URL http://testscg.unibe.ch/wiki/events/pharoconf-mooseday-2013, line 260, col 30
+Real URL   http://testscg.unibe.ch/wiki/events/netstyle
+Check time 4.946 seconds
+Size       797B
+Result     Error: 404 Not Found
+
+URL        `netstyle/choose/unibe/esug'
+Name       `netstyle/choose/unibe/esug'
+Parent URL http://testscg.unibe.ch/wiki/events/pharoconf-mooseday-2013, line 263, col 27
+Real URL   http://testscg.unibe.ch/wiki/events/netstyle/choose/unibe/esug
+Check time 3.520 seconds
+Size       797B
+Result     Error: 404 Not Found
+
+URL        `netstyle/choose/unibe'
+Name       `netstyle/choose/unibe'
+Parent URL http://testscg.unibe.ch/wiki/events/pharoconf-mooseday-2013, line 262, col 27
+Real URL   http://testscg.unibe.ch/wiki/events/netstyle/choose/unibe
+Check time 4.701 seconds
+Size       797B
+Result     Error: 404 Not Found

@@ -13,23 +13,25 @@ YOGI=scg@yogi.inf.unibe.ch:/srv/scg.unibe.ch
 TESTSCG=scg@yogi.inf.unibe.ch:/srv/testscg.unibe.ch
 CINDY=scg@cindy.inf.unibe.ch:/srv/scg.unibe.ch
 
+echo  "===== SYNCING YOGI TO LOCAL MIRROR ====="
+
 for arg in app/scg.image app/scg.changes
 do
-	echo rsync ${RSYNC} ${YOGI}/${arg} ${MIRROR}/${arg}
-	rsync ${RSYNC} \
-		${YOGI}/${arg} ${MIRROR}/${arg}
+	echo "===== rsync ${RSYNC} ${YOGI}/${arg} ${MIRROR}/${arg} ====="
+	rsync ${RSYNC} ${YOGI}/${arg} ${MIRROR}/${arg}
 done
 
-for arg in app/scg.image app/scg.changes web/archive/ web/download/ web/files/
+for arg in archive/ download/ files/
 do
-	echo rsync ${RSYNC} ${TESTSCG}/${arg} ${MIRROR}/${arg}
-	rsync ${RSYNC} \
-		${TESTSCG}/${arg} ${MIRROR}/${arg}
+	echo "===== rsync ${RSYNC} ${TESTSCG}/${arg} ${MIRROR}/web/${arg} ====="
+	rsync ${RSYNC} ${TESTSCG}/${arg} ${MIRROR}/web/${arg}
 done
+
+echo  "===== SYNCING LOCAL MIRROR TO CINDY ====="
 
 for arg in app/scg.image app/scg.changes web/archive/ web/download/ web/files/ 
 do
-	echo rsync ${RSYNC} ${MIRROR}/${arg} ${CINDY}/${arg}
+	echo r"===== sync ${RSYNC} ${MIRROR}/${arg} ${CINDY}/${arg} ====="
 	rsync ${RSYNC} ${MIRROR}/${arg} ${CINDY}/${arg}
 done
 

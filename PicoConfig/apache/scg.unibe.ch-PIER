@@ -1,0 +1,235 @@
+<VirtualHost *:80>
+
+        RewriteEngine On
+        ProxyPreserveHost On
+
+	ServerName scg.unibe.ch
+	ServerAlias scg.iam.unibe.ch
+	ServerAlias yogi.unibe.ch
+	ServerAdmin scg@iam.unibe.ch
+
+        DocumentRoot /srv/scg.unibe.ch/web
+
+	# error logs
+	ErrorLog /var/log/apache2/scg-error.log
+	CustomLog /var/log/apache2/scg-access.log vhost_combined
+
+	LogFormat "%{%s}t %h" iponly
+	# CustomLog "| sed -e s/[0-9]*$/0/ >> /var/log/apache2/scg-subnet.log" iponly
+	CustomLog "| /root/bin/ddos_logger" iponly
+	#SetEnvIfNoCase Referer 360Spider$ block_them
+
+	# normalize the domain
+	RewriteCond %{HTTP_HOST} !^scg\.unibe\.ch [nocase]
+	RewriteCond %{HTTP_HOST} !^$
+	RewriteRule ^/(.*) http://scg.unibe.ch/$1 [last,R=permanent]
+
+	# cgi scripts
+	RewriteRule ^/cgi-bin/oobib.cgi(.*)$ /cgi-bin/scgbib.cgi$1 [R=302,L]
+	RewriteRule ^/cgi-bin/onpubs.cgi(.*)$ /staff/oscar/onpubs [R=302,L]
+	RewriteRule ^/cgi-bin/missingabstracts.cgi(.*)$ /publications/missingAbstracts [R=302,L]
+	RewriteRule ^/cgi-bin/missingabstracts.cgi(.*)$ /publications/missingAbstracts [R=302,L]
+	RewriteRule ^/cgi-bin/missingdoi.cgi(.*)$ /publications/missingDOI [R=302,L]
+	RewriteRule ^/cgi-bin/missingpdf.cgi(.*)$ /publications/missingPDF [R=302,L]
+	RewriteRule ^/cgi-bin/scgbp.cgi(.*)$ /publications/scg-bp [R=302,L]
+	RewriteRule ^/cgi-bin/scgmsc.cgi(.*)$ /publications/scg-msc [R=302,L]
+	RewriteRule ^/cgi-bin/scgphd.cgi(.*)$ /publications/scg-phd [R=302,L]
+	RewriteRule ^/cgi-bin/scgpubs.cgi(.*)$ /publications/scg-pub [R=302,L]
+
+	# static files
+	DocumentRoot /srv/scg.unibe.ch/web
+	<Directory /srv/scg.unibe.ch/web>
+		Order allow,deny
+		Allow from all
+		#Deny from env=block_them
+		Options Indexes FollowSymLinks
+		AllowOverride All
+	</Directory>
+
+	# cgi-scripts
+	<Directory /srv/scg.unibe.ch/web/cgi-bin/>
+		AddHandler cgi-script .cgi
+		AllowOverride None
+		Options +ExecCGI -MultiViews +SymLinksIfOwnerMatch
+		Order allow,deny
+		Allow from all
+		#Deny from env=block_them
+	</Directory>
+
+#	<Location /svn>
+#		DAV svn
+#		SVNParentPath /srv/scg.unibe.ch/svn
+#		AuthType Basic
+#		AuthName "Subversion Repositories"
+#		AuthUserFile /srv/scg.unibe.ch/svn/svn-passwd
+#		AuthzSVNAccessFile /srv/scg.unibe.ch/svn/svn-access
+#		<LimitExcept GET PROPFIND OPTIONS REPORT>
+#			Require valid-user
+#		</LimitExcept>
+#	</Location>
+
+#	<Location />
+#		SetEnvIfNoCase Referer ^360Spider$ block_them
+#		Order allow,deny
+#		Allow from all
+#		Deny from env=block_them
+#	</Location>
+
+        RewriteRule ^/archive/diploma/(.*)$ /archive/masters/$1 [R=permanent]
+        RewriteRule ^/download/htgrep(.*)$ /archive/software/htgrep$1 [R=permanent]
+        RewriteRule ^/download/pharobyexample/PBE1-2009-10-28.pdf$ http://gforge.inria.fr/frs/download.php/25599/PBE1-2009-10-28.pdf [R=permanent]
+
+	# ignored urls
+        RewriteRule ^/(icons|download|archive|phpicalendar|cgi-bin|svn|git)(.*)$ - [last]
+
+	# scgbib shortcuts
+        RewriteRule ^/bib/(.*)$ /scgbib?query=$1&display=abstract [R=permanent]
+
+	# This page must be editable by students:
+        RewriteRule ^/teaching/softwarecompositionseminar.*$ /wiki/softwarecompositionseminar [R=permanent]
+
+        # moved pages
+        RewriteRule ^/research.html$ /research [R=permanent]
+        RewriteRule ^/Resources/JExample$ /research/jexample [R=permanent]
+        RewriteRule ^/wiki/((helvetia|changeboxes).*)$ /research/$1 [R=permanent]
+        RewriteRule ^/wiki/oscarnierstrasz/commonwritingerrors.*$ /wiki/howtos/commonwritingerrors [R=permanent]
+        RewriteRule ^/wiki/oscarnierstrasz/neversayallowtoagain.*$ /wiki/howtos/neversayallowtoagain [R=permanent]
+
+        RewriteRule ^/wiki/p2smallwiki.*$ /teaching/p2 [R=permanent]
+        RewriteRule ^/wiki/((diesel).*) /research/helvetia [R=permanent]
+        RewriteRule ^/wiki/((hermion).*) /research/$1 [R=permanent]
+
+        RewriteRule ^/wiki/codemap /research/softwarecartography [R=permanent]
+        RewriteRule ^/wiki/((fame).*) /wiki/projects/$1 [R=permanent]
+        RewriteRule ^/wiki/((spy).*) /wiki/projects/$1 [R=permanent]
+        RewriteRule ^/wiki/((develect).*) /wiki/projects/$1 [R=permanent]
+        RewriteRule ^/((jexample).*) /research/$1 [R=permanent]
+        RewriteRule ^/wiki/((jexample).*) /research/$1 [R=permanent]
+        RewriteRule ^/wiki/projects/((jexample).*) /research/$1 [R=permanent]
+        RewriteRule ^/wiki/((rbcrawler).*) /wiki/projects/$1 [R=permanent]
+        RewriteRule ^/wiki/((pimon).*) /wiki/projects/$1 [R=permanent]
+        RewriteRule ^/wiki/((pygirl).*) /wiki/projects/$1 [R=permanent]
+        RewriteRule ^/wiki/((schemetalk).*) /research/$1 [R=permanent]
+        RewriteRule ^/wiki/projects/((schemetalk).*) /research/$1 [R=permanent]
+        RewriteRule ^/wiki/((softwarecartography).*) /research/$1 [R=permanent]
+        RewriteRule ^/wiki/((cells).*) /wiki/projects/$1 [R=permanent]
+        RewriteRule ^/wiki/((codecrawler).*) http://www.inf.unisi.ch/faculty/lanza/codecrawler.html [R=permanent]
+
+        RewriteRule ^/wiki/moose/famoosr2007.* http://moose.unibe.ch/events/famoosr2007 [R=permanent]
+        RewriteRule ^/wiki/famoosr2007.* http://moose.unibe.ch/events/famoosr2007 [R=permanent]
+        RewriteRule ^/wiki/moose http://moose.unibe.ch/ [R=permanent]
+        RewriteRule ^/wiki/((wasdett2008).*) /wiki/events/$1 [R=permanent]
+        RewriteRule ^/wiki/((woor2007).*) /wiki/events/$1 [R=permanent]
+        RewriteRule ^/wiki/((woor2006).*) /wiki/events/$1 [R=permanent]
+        RewriteRule ^/wiki/((suite2009).*) /wiki/events/$1 [R=permanent]
+        RewriteRule ^/wiki/((phdgipfeli).*) /wiki/events/$1 [R=permanent]
+
+        RewriteRule ^/wiki/faq/latexfaq(.*) /wiki/faq/latex$1 [R=permanent]
+        RewriteRule ^/wiki/faq/mailmanfaq(.*) /wiki/faq/mailman$1 [R=permanent]
+        RewriteRule ^/wiki/faq/pharofaq(.*) /wiki/faq/pharo$1 [R=permanent]
+        RewriteRule ^/wiki/faq/pierfaq(.*) /wiki/faq/pier$1 [R=permanent]
+        RewriteRule ^/wiki/faq/seasidefaq(.*) /wiki/faq/seaside$1 [R=permanent]
+
+        RewriteRule ^/newjot(.*)$ http://jot.unibe.ch$1 [R=permanent]
+
+	
+	# link as published in the ERCIM News
+        RewriteRule ^/bigsoftwaredata(.*)$ /research/bigsoftwaredata$1 [R=permanent]
+
+	# staff pages
+        RewriteRule ^/wiki/((adriankuhn).*)$ /staff/$1 [R=permanent]
+        RewriteRule ^/wiki/((oscarnierstrasz).*)$ /staff/oscar [R=permanent]
+        RewriteRule ^/wiki/((adrianlienhard).*)$ http://www.adrian-lienhard.ch/ [R=permanent]
+        RewriteRule ^/wiki/((davidroethlisberger).*)$ /staff/$1 [R=permanent]
+        RewriteRule ^/wiki/((jorgeressia).*)$ /staff/$1 [R=permanent]
+        RewriteRule ^/wiki/((lukasrenggli).*)$ http://www.lukas-renggli.ch/ [R=permanent]
+        RewriteRule ^/wiki/((toonverwaest).*)$ /staff/$1 [R=permanent]
+        RewriteRule ^/wiki/((tudorgirba).*)$ http://www.tudorgirba.com/ [R=permanent]
+        RewriteRule ^/wiki/((marcusdenker).*)$ http://marcusdenker.de/ [R=permanent]
+        RewriteRule ^/wiki/((markusglli).*)$ http://www.emergent.de/ [R=permanent]
+        RewriteRule ^/wiki/((orlagreevy).*)$ /wiki/alumni/$1 [R=permanent]
+
+        # rss feeds
+        RewriteRule ^/scgnews.xml$ /news?view=PBEntriesRssView [R=permanent,last]
+        RewriteCond %{QUERY_STRING} action=RSSChangesFeed
+        RewriteRule ^/(.*)$ /$1?view=PBChangesRssView [R=permanent,last]
+
+
+ 	# proxy to dcd 
+	RewriteRule ^/dcd6(.*)$ http://localhost:8089/dcd6$1 [proxy,last]
+	RewriteRule ^/(.*)classbrowser(.*)$ http://localhost:8089/tools/classbrowser$2 [proxy,last]
+        RewriteRule ^/files/DCD6FileLibrary(.*)$ http://localhost:8089/files/DCD6FileLibrary$1 [proxy,last]
+	ProxyRequests Off
+
+        # some seaside case
+        RewriteRule ^/seaside/pier(.*)$ $1 [redirect,last]
+        RewriteRule ^/seaside/files(.*)$ http://localhost:8080/seaside/files$1 [proxy,last]
+
+        # proxy to jenkins
+	#RewriteRule ^/jenkins(.*)$ http://localhost:8083/jenkins$1 [proxy,last]
+        #ProxyPassReverse /jenkins http://localhost:8083/jenkins
+	#ProxyRequests Off
+
+
+        # proxy to experts 
+	RewriteRule ^/expertise(.*)$ http://localhost:8088/expertise$1 [proxy,last]
+        RewriteRule ^/resource(.*)$ http://localhost:8088/resource$1 [proxy,last]
+	ProxyRequests Off
+
+        # proxy to experts 
+	RewriteRule ^/softwarenaut(.*)$ http://localhost:8087/softwarenaut$1 [proxy,last]
+        RewriteRule ^/serveds(.*)$ http://localhost:8087/serveds$1 [proxy,last]
+	ProxyRequests Off
+
+	# proxy to the Pangea 
+	RewriteRule ^/pangea(.*)$  http://pinocchio.unibe.ch/pangea$1 [proxy,last]
+	#RewriteRule ^/FamixCorpus(.*)$  http://pinocchio.unibe.ch/FamixCorpus$1 [proxy,last]
+	ProxyRequests Off
+
+	# proxy to citewise
+	RewriteRule ^/CiteWise(.*)$  http://pinocchio.unibe.ch:8088/CiteWise$1 [proxy,last]
+        ProxyRequests Off
+
+	# proxy to the dicto
+	RewriteRule ^/dicto-dsl(.*)$  http://pinocchio.unibe.ch/dicto$1 [proxy,last]
+	ProxyRequests Off
+	RewriteRule ^/dicto(.*)$  http://pinocchio.unibe.ch/dicto$1 [proxy,last]
+	ProxyRequests Off
+
+        # proxy to the hikomsys
+        RewriteRule ^/hikomsys(.*)$  http://pinocchio.unibe.ch/hikomsys$1 [proxy,last]
+        ProxyRequests Off
+
+
+	# proxy to the survey
+        RewriteRule ^/survey(.*)$  http://pinocchio.unibe.ch/survey$1 [proxy,last]
+        ProxyRequests Off
+
+        # proxy to the Unisport API
+        RewriteRule ^/ese/unisport/(.*)$  http://pinocchio.unibe.ch/unisportAPI/$1 [proxy,last]
+        ProxyRequests Off
+
+	# proxy to jenkins
+        RewriteRule ^/ci(.*)$  http://pinocchio.unibe.ch:8070$1 [proxy,last]
+	ProxyRequests Off
+
+	# proxy to boris mongo rest
+        RewriteRule ^/mongorest(.*)$  http://pinocchio.unibe.ch:8081$1 [proxy,last]
+        ProxyRequests Off
+
+
+
+
+
+	# Local reverse proxy authorization override
+	<Proxy http://localhost:8083/jenkins*>
+  	Order deny,allow
+  	Allow from all
+	</Proxy>
+
+        # consult the filesystem overlay, otherwise pass on to pier
+        RewriteCond /srv/scg.unibe.ch/web/%{REQUEST_FILENAME} !-f
+        RewriteRule ^/(.*)$ http://localhost:8080/seaside/pier/$1 [proxy,last]
+
+</VirtualHost>
+
