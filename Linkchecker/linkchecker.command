@@ -6,8 +6,9 @@ D=`dirname "$0"`
 cd "$D"
 log=log.$$.txt
 
-# linkchecker http://scg.unibe.ch --verbose > log.txt
-
-linkchecker http://scg.unibe.ch > $log
+linkchecker http://scg.unibe.ch \
+	--ignore-url=/softwarenaut \
+	--no-follow-url=/softwarenaut \
+	> $log
 
 open $log
