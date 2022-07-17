@@ -8,8 +8,6 @@ This file lists pending migration todos, past todos (done) and a brief FAQ.
 
 * Update the README files for the scgpico and scgbib repos
 
-* Fix/disable the scripts
-
 * What to do about softwarenaut website?
 	- Retire it? Export those pages too?
 
@@ -33,6 +31,8 @@ This file lists pending migration todos, past todos (done) and a brief FAQ.
 
 ---
 ## DONE
+
+- Cleaned up or disabled scripts
 
 - Replace the scg pier service by the new pico service
 	- Adapted the apache file from the test server to the new scg server
