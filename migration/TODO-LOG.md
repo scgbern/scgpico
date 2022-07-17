@@ -8,15 +8,12 @@ This file lists pending migration todos, past todos (done) and a brief FAQ.
 
 * Update the README files for the scgpico and scgbib repos
 
-* What to do about softwarenaut website?
-	- Retire it? Export those pages too?
-
----
-# scgbib to do
-
 * Fix handling of accents in scgbib
 	* Fix the back-end js-conversion script in the new scgbib github repo
 	* Alternatively adapt the old perl accent translation script to post-process the file
+
+* What to do about softwarenaut website?
+	- Retire it? Export those pages too?
 
 * Clean up scgbib repo
 	* set up github actions to test for errors and generate JS
