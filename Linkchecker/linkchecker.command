@@ -6,8 +6,8 @@ D=`dirname "$0"`
 cd "$D"
 log=log.$$.txt
 
-# linkchecker http://testscg.unibe.ch --verbose > log.txt
+# linkchecker http://scg.unibe.ch --verbose > log.txt
 
-linkchecker http://testscg.unibe.ch > $log
+linkchecker http://scg.unibe.ch > $log
 
 open $log

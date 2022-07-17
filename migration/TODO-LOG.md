@@ -6,21 +6,10 @@ This file lists pending migration todos, past todos (done) and a brief FAQ.
 ---
 # Migration to do
 
-* Update the README files for the scgpico and scgbib repos
-
-* Fix handling of accents in scgbib
-	* Fix the back-end js-conversion script in the new scgbib github repo
-	* Alternatively adapt the old perl accent translation script to post-process the file
+* Work on the scgbib (see TODO in that repo)
 
 * What to do about softwarenaut website?
 	- Retire it? Export those pages too?
-
-* Clean up scgbib repo
-	* set up github actions to test for errors and generate JS
-	* set up assets/scgbib as a clone that can be pulled (won't work on yogi due to old RSA implementation)
-
----
-# web server to do
 
 * Enable and force HTTPS
 	- https://github.com/alejandroliu/ForceHttpsPlugin
