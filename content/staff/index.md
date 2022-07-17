@@ -5,7 +5,7 @@ Title: SCG Staff
 [![/download/photos/SCG-InSession.JPG](%assets_url%/download/photos/SCG-InSession.JPG)](%assets_url%/download/photos/SCG-InSession.JPG)
 
 The SCG ceased operations at the end of 2021.
-For question about former staff, please contact [Oscar Nierstrasz](%base_url%/staff/oscar).
+For questions about former staff, please contact [Oscar Nierstrasz](%base_url%/staff/oscar).
 
 #See also
 
