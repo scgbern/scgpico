@@ -18,8 +18,8 @@ Title: SDE: Software Design and Evolution
 
 #Description
 [![/download/oorp/pictures/oorp.jpg](%assets_url%/download/oorp/pictures/oorp.jpg)](/download/oorp)
-[![/download/pharobyexample/pbe.jpg](%assets_url%/download/pharobyexample/pbe.jpg)](http://PharoByExample.org)
-Real software systems continuously evolve over time. Statically-typed programming languages, however, provide few mechanisms to enable software evolution. In this course we will explore mechanisms and techniques provided by dynamic programming languages, in particular Smalltalk, which facilitate both run-time change, and long-term evolution. We will also explore techniques used to analyze static models of software as well as running systems to support program comprehension, refactoring and reengineering. The course is based partly on two open-source textbooks: [Pharo by Example](http://PharoByExample.org), and [Object-Oriented Reengineering Patterns](%assets_url%/download/oorp/).
+[![/download/pharobyexample/pbe.jpg](%assets_url%/download/pharobyexample/pbe.jpg)](https://books.pharo.org/updated-pharo-by-example)
+Real software systems continuously evolve over time. Statically-typed programming languages, however, provide few mechanisms to enable software evolution. In this course we will explore mechanisms and techniques provided by dynamic programming languages, in particular Smalltalk, which facilitate both run-time change, and long-term evolution. We will also explore techniques used to analyze static models of software as well as running systems to support program comprehension, refactoring and reengineering. The course is based partly on two open-source textbooks: [Pharo by Example](https://books.pharo.org/updated-pharo-by-example), and [Object-Oriented Reengineering Patterns](%assets_url%/download/oorp/).
 
 #Learning Outcomes
 After the successful completion of this course, you will: 

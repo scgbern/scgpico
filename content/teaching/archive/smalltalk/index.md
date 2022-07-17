@@ -23,7 +23,7 @@ Smalltalk is a powerful and flexible language that allows for rapid prototyping 
 ![PBE cover](%assets_url%/files/dc/dpfpw4nhhtkus5wh3adf8iz8qbynfj/cover1-preview.jpg)
 
 #Textbook
-The text for this course will be the open-source book [Pharo by Example](http://pharo-project.org/PharoByExample). Softcover copies of a special preview edition of this book will be available for sale during the introductory lecture at a reduced price of 30 Fr. (Instead of 25 Euros.)
+The text for this course will be the open-source book [Pharo by Example](https://books.pharo.org/updated-pharo-by-example). Softcover copies of a special preview edition of this book will be available for sale during the introductory lecture at a reduced price of 30 Fr. (Instead of 25 Euros.)
 
 #Schedule
 

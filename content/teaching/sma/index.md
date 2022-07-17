@@ -17,7 +17,7 @@ Title: SMA: Software Modeling and Analysis
 |**Repetition:**|Fall Semester 2020
 
 #Description
-[![/download/oorp/pictures/oorp-small.jpg](%assets_url%/download/oorp/pictures/oorp-small.jpg)](/download/oorp)[![/download/pharobyexample/pbe-small.jpg](%assets_url%/download/pharobyexample/pbe-small.jpg)](http://PharoByExample.org)Real software systems continuously evolve over time. As they evolve, they become harder to understand and maintain. In this course we will explore techniques to model complex software systems and analyze them to support program comprehension and reengineering tasks. 
+[![/download/oorp/pictures/oorp-small.jpg](%assets_url%/download/oorp/pictures/oorp-small.jpg)](/download/oorp)[![/download/pharobyexample/pbe-small.jpg](%assets_url%/download/pharobyexample/pbe-small.jpg)](https://books.pharo.org/updated-pharo-by-example)Real software systems continuously evolve over time. As they evolve, they become harder to understand and maintain. In this course we will explore techniques to model complex software systems and analyze them to support program comprehension and reengineering tasks. 
 Most lectures will combine theoretical background and practical application of tools and techniques. A portion of this course will make heavy use of Smalltalk, a live programming environment that supports advanced reflection metaprogramming techniques. Some material is based on two open-source textbooks: Pharo by Example, and Object-Oriented Reengineering Patterns.
 
 #Learning Outcomes

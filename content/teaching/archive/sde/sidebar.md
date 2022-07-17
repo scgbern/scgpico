@@ -9,7 +9,7 @@ This course was last taught by me in the Fall of 2020. The course materials have
 -  [Iceberg github repo of Smalltalk lecture examples](https://github.com/onierstrasz/sma-examples)
 -  [Roassal tutorial](%assets_url%/download/lectures/sma-exercises/Assignment-06-Tutorial.pdf)
 -  [Papers to read; other resources](%base_url%/teaching/archive/sde/sde-resources)
--  [Pharo by Example](http://PharoByExample.org) (open-source book)
+-  [Pharo by Example](https://books.pharo.org/updated-pharo-by-example) (open-source book)
 -  [Pharo](http://pharo.org/) (open-source Smalltalk)
 -  [Object-Oriented Reengineering Patterns](%assets_url%/download/oorp/) (open-source book)
 -  [Moose](http://www.moosetechnology.org/) (open-source analysis platform)

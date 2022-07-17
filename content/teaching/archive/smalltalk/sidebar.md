@@ -1,6 +1,6 @@
 #Resources
 
-- [Pharo by Example](http://pharo-project.org/PharoByExample) (open source textbook)
+- [Pharo by Example](https://books.pharo.org/updated-pharo-by-example) (open source textbook)
 - [Lecture notes](https://www.iam.unibe.ch/scg/svn_repos/Lectures/Smalltalk/) (open-source ppt)
 - [Course evaluation (HS 07)](%assets_url%/download/evaluations/HS07_08-W7083_Dynamic_Object-Oriented_Programming_w._Smalltalk.pdf)
 

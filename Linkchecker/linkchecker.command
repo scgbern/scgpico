@@ -8,7 +8,11 @@ log=log.$$.txt
 
 linkchecker http://scg.unibe.ch \
 	--ignore-url=/softwarenaut \
-	--no-follow-url=/softwarenaut \
+	--ignore-url=/assets \
+	--ignore-url=/scgbib \
+	--ignore-url=/download \
+	--ignore-url=/files \
+	--ignore-url=/archive \
 	> $log
 
 open $log
