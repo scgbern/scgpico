@@ -7,8 +7,8 @@
 
 #Sponsors
 
-[![mobiliar](mobiliar)](http://mobiliar.ch)
-[![netstyle](netstyle)](http://netstyle.ch)
-[![netstyle/choose](netstyle/choose)](http://choose.s-i.ch)
-[![netstyle/choose/unibe](netstyle/choose/unibe)](http://unibe.ch)
-[![netstyle/choose/unibe/esug](netstyle/choose/unibe/esug)](http://esug.org)
+[mobiliar](http://mobiliar.ch)
+[netstyle](http://netstyle.ch)
+[choose](http://choose.s-i.ch)
+[unibe](http://unibe.ch)
+[esug](http://esug.org)
