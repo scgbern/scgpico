@@ -1,6 +1,6 @@
 # Description
 
-This folder contains various resources and experiments to migrate the SCG Pier installation to Pico, a lightweight markdown-based CMS.
+This folder contains various resources used to migrate the SCG Pier installation to Pico, a lightweight markdown-based CMS.
 
 NOTES -- old notes
 TODO-LOG -- tasks to do and done, and a brief FAQ

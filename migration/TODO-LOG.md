@@ -6,30 +6,19 @@ This file lists pending migration todos, past todos (done) and a brief FAQ.
 ---
 # Migration to do
 
-* Changed all explicit references to http://scg.unibe.ch/ to /
-	* ... Run linkchecker to verify nothing is broken
-
-* Clean up the testscg folder
-	- Copy the assets folders from the old server to the root of the new server
-	- Checkout (copy) the scgpico and scgbib folders to the root
-	- Link the contents and assets folders to the server root folders
-	- Clean up the downloads folder (remove large cruft)
-
-* Fix Apache rewrites
-	- set /scgbib etc as proxy rather than R=302
-
-* Try to connect to snaut pier and export those pages too ...
-
-* Remove links to proxies
-	- softwarenaut etc
-
 * Update the README files for the scgpico and scgbib repos
+
+* Fix/disable the scripts
+
+* What to do about softwarenaut website?
+	- Retire it? Export those pages too?
 
 ---
 # scgbib to do
 
 * Fix handling of accents in scgbib
 	* Fix the back-end js-conversion script in the new scgbib github repo
+	* Alternatively adapt the old perl accent translation script to post-process the file
 
 * Clean up scgbib repo
 	* set up github actions to test for errors and generate JS
@@ -44,6 +33,24 @@ This file lists pending migration todos, past todos (done) and a brief FAQ.
 
 ---
 ## DONE
+
+- Replace the scg pier service by the new pico service
+	- Adapted the apache file from the test server to the new scg server
+	- Shut down the scg server
+	- Rename the scg and testscg service folders (backup the old scg service)
+	- Restart apache
+
+- Cleaned up the testscg folder
+	- Copied the assets, downloads and files folders from the old server to the root of the new server
+	- Copied the scgpico and scgbib folders to the root (can't checkout yet)
+	- Linked the contents and assets folders to the server root folders
+	- Cleaned up the downloads folder (removed large cruft)
+
+- Fixed Apache rewrites
+	- set /scgbib etc as proxy rather than R=302
+
+- Changed all explicit references to http://scg.unibe.ch/ to /
+	- Fixed (almost) all broken links
 
 - Merged the sidebar css into the main style
 

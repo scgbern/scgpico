@@ -5,8 +5,11 @@
 #
 # 2022-07-13
 
-RSYNC="-avz --delete -e ssh --stats --progress"
+echo "Don't do this -- the files have been migrated."
 
+exit
+
+RSYNC="-avz --delete -e ssh --stats --progress"
 MIRROR="/Users/oscar/Mirrors/home/scg/scg.unibe.ch"
 
 YOGI=scg@yogi.inf.unibe.ch:/srv/scg.unibe.ch

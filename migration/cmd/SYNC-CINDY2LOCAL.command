@@ -5,6 +5,10 @@
 #
 # 2022-07-04
 
+echo "Don't do this -- the files have been migrated."
+
+exit
+
 RSYNC="-avz --delete -e ssh --stats --progress"
 B=/Users/oscar/Documents/Projects/scgpico/migration/bin
 

@@ -1,4 +1,7 @@
 #! /bin/sh
+#
+# Generate a file containing all strange non-ascii characters found in the migrated pages.
+# This has been used to identify characters to translate in post-processing using the fixAccents script.
 
 REPO=/Users/oscar/Documents/Projects/scgpico
 cd ${REPO}
