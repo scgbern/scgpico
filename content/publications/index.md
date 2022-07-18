@@ -44,7 +44,7 @@ The following SCG publications, theses and demos have received awards:
 - *[IWST 2016 Best Paper Award (1st prize)](http://www.esug.org/wiki/pier/Conferences/2016/International-Workshop-IWST_16)* for [Optimizing Parser Combinators](%assets_url%/scgbib/?query=Kurs16a&filter=Year) by [Jan Kurš](%base_url%/staff/kursjan), Jan Vrany, [Dr. Mohammad Ghafari](%base_url%/staff/Mohammad-Ghafari), Mircea Lungu and [Oscar Nierstrasz](%base_url%/staff/oscar)
 - *[IWST 2016 Best Paper Award (2nd prize)](http://www.esug.org/wiki/pier/Conferences/2016/International-Workshop-IWST_16)* for [A Promising Approach for Debugging Remote Promises](%assets_url%/scgbib/?query=Lesk16b&filter=Year) by [Max Leske](%base_url%/wiki/alumni/maxleske), [Andrei Chiş](%base_url%/staff/andreichis) and [Oscar Nierstrasz](%base_url%/staff/oscar)
 - *[European Smalltalk User Group 2016 Technology Innovation Award (1st prize)](http://www.esug.org/wiki/pier/Conferences/2016/Innovation-Technology-Awards)* for [Sparta](/research/sparta) by [Aliaksei Syrel](%base_url%/wiki/alumni/AliakseiSyrel)
-- *[IAM Alumni prize](https://www.jointalumni.ch/awards/)* for [Max Leske](%base_url%/wiki/alumni/maxleske)'s MSc thesis, [Improving live debugging of concurrent threads](%assets_url%/scgbib/?query=Lesk16a &filter=Year)
+- *[IAM Alumni prize](https://www.jointalumni.ch/awards/)* for [Max Leske](%base_url%/wiki/alumni/maxleske)'s MSc thesis, [Improving live debugging of concurrent threads](%assets_url%/scgbib/?query=Lesk16a)
 
 
 ##2015
@@ -94,6 +94,6 @@ The following SCG publications, theses and demos have received awards:
 
 ##2003:
 
-- *[Ernst Denert-Stiftung Prize for Software Engineering](http://www.denert-stiftung.de/preistraegerarchiv/)* for [Michele Lanza](http://www.inf.usi.ch/lanza/)'s PhD thesis, [Object-Oriented Reverse Engineering -- Coarse-grained, Fine-grained, and Evolutionary Software Visualization](%assets_url%/scgbib/?query=lanza phd&filter=Year).
+- *[Ernst Denert-Stiftung Prize for Software Engineering](http://www.denert-stiftung.de/preistraegerarchiv/)* for [Michele Lanza](http://www.inf.usi.ch/lanza/)'s PhD thesis, [Object-Oriented Reverse Engineering -- Coarse-grained, Fine-grained, and Evolutionary Software Visualization](%assets_url%/scgbib/?query=lanza+phd).
 - *JMLC Best Paper Award* for [Classboxes: A Minimal Module Model Supporting Local Rebinding](%assets_url%/scgbib/?query=berg03a&filter=Year) by [Alexandre Bergel](http://www.bergel.eu/), [St&eacute;phane Ducasse](http://stephane.ducasse.free.fr/) and [Roel Wuyts](http://decomp.ulb.ac.be/roelwuyts/)
 - *[Faculty Prize](https://www.philnat.unibe.ch/ueber_uns/archiv/fakultaetspreise/index_ger.html)* for [Frank Buchli](http://www.linkedin.com/in/frankbuchli)'s Diploma thesis, [Detecting Software Patterns using Formal Concept Analysis](%assets_url%/scgbib/?query=buch03a&filter=Year)
