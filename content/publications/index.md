@@ -5,8 +5,8 @@ Title: Publications
 #SCG Publications
 Most of our [SCG Publications](%assets_url%/scgbib/?query=scg-pub&filter=Year) are available in electronic form as postscript, HTML or PDF files.
 
-[![/download/pharobyexample/pbe-small.jpg](%assets_url%/download/pharobyexample/pbe-small.jpg)](https://books.pharo.org/updated-pharo-by-example)
 #Pharo by Example
+[![/download/pharobyexample/pbe-small.jpg](%assets_url%/download/pharobyexample/pbe-small.jpg)](https://books.pharo.org/updated-pharo-by-example)
 [Pharo by Example](https://books.pharo.org/updated-pharo-by-example/)  is an open-source book about the Pharo development environment for the classic Smalltalk-80 programming language. This book updates the earlier [Squeak by Example](http://SqueakByExample.org/) to the Pharo fork of Squeak, and adds new chapters on the Seaside web application development framework, and on practical use of reflection in Pharo.
 
 #Object-Oriented Reengineering Patterns
