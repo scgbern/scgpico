@@ -29,7 +29,7 @@ Apart from this my research interests lie in the areas of:
 
 
 #Publications
-[Author Page](%assets_url%/scgbib/?query=Andrei Chis&filter=Year)
+[Author Page](%assets_url%/scgbib/?query=Andrei+Chis&filter=Year)
 
 #Awards
 

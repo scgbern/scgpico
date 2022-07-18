@@ -398,7 +398,7 @@ Title: Oldnews
 
  <div class="date">2006-10-12</div> 
 
- [Alexandre Bergel](https://www.cs.tcd.ie/Alexandre.Bergel/) has won the [Ernst Denert-Stiftung Prize for Software Engineering 2006](http://www.denert-stiftung.de/preistraeger/) for his PhD thesis [Classboxes &mdash; Controlling Visibility of Class Extensions](%assets_url%/scgbib/?query=bergel phd&filter=Year).
+ [Alexandre Bergel](https://www.cs.tcd.ie/Alexandre.Bergel/) has won the [Ernst Denert-Stiftung Prize for Software Engineering 2006](http://www.denert-stiftung.de/preistraeger/) for his PhD thesis [Classboxes &mdash; Controlling Visibility of Class Extensions](%assets_url%/scgbib/?query=Bergel+phd&filter=Year).
 
  <div class="date">2006-10-06</div> 
 

@@ -49,5 +49,5 @@ Currently I am working on gathering and identifying developers information needs
 <dl><dt> Email: <strong>pooja.rani |at| inf.unibe.ch</strong></dt><dt> Telephone: \+41 31 511 7639</dt><dt> Address: University of Bern, Software Composition Group,<br /> Room 106, Schützenmattstrasse 14, CH-3012 Bern</dt><dt> Webpage: <a title="/staff/Pooja-Rani" class="external" href="/staff/Pooja-Rani">/staff/Pooja-Rani</a></dt></dl>
                                                                                                 
 #Publications
-[Author Page](%assets_url%/scgbib/?query=pooja rani&filter=Year)                                                             
+[Author Page](%assets_url%/scgbib/?query=Pooja+Rani&filter=Year)                                                             
 </div>

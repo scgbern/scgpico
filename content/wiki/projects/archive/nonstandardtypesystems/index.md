@@ -13,7 +13,7 @@ Here are a few links to non-standard type systems. (from Jan Vitek)
 - [Scoped Types](http://jiangxi.cs.uwm.edu/publication/drafts/scoped04.pdf)
 - [Walker : type refinement](http://www.cs.princeton.edu/sip/pub/effective-type-refinements03.pdf)
 
-See also [SCG bib query "nonstandard types"](%assets_url%/scgbib/?query=nonstandard types&filter=Year)
+See also [SCG bib query "nonstandard types"](%assets_url%/scgbib/?query=nonstandard+types&filter=Year)
 
 Should be interesting for Pluggable Types
 
