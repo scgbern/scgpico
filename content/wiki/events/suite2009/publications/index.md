@@ -2,4 +2,4 @@
 Title: Accepted Papers
 ---
 #Accepted Papers
-[Fixed Query](%assets_url%/scgbib/?query=*&filter=Year)
+[Papers](%assets_url%/scgbib/?query=suite2009&filter=Year)

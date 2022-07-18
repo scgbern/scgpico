@@ -24,9 +24,15 @@ In this project we will investigate visualization and mining techniques that eas
 
 #Further reading
 
-[Fixed Query](%assets_url%/scgbib/?query=*&filter=Year)
+- [Pharo by Example](%assets_url%/scgbib/?query=Pharo by Example&filter=Year)
+- [Agile Visualization with Roassal](%assets_url%/scgbib/?query=Pena13a&filter=Year)
+- [Catch me if you can: performance bug detection in the wild](%assets_url%/scgbib/?query=Jovi11a&filter=Year)
 
 - Roassal: [http://agilevisualization.com](http://agilevisualization.com)
 
 Contact
 [Leonel Merino](%base_url%/staff/merino), [Andrei Chiş](%base_url%/staff/andreichis)
+
+
+
+

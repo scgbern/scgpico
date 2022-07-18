@@ -11,4 +11,4 @@ We propose object-centric debugging as an alternative approach to interacting wi
 
 
 #Publications
-[Fixed Query](%assets_url%/scgbib/?query=*&filter=Year)
+[Papers](%assets_url%/scgbib/?query=ocdebugging&filter=Year)

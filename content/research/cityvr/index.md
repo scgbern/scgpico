@@ -11,4 +11,4 @@ We introduce CityVR &mdash;an interactive software visualization tool that imple
 - [Demo](https://youtu.be/R0C-HMAtgnk)
 - Preprint (below)
 
-[Fixed Query](%assets_url%/scgbib/?query=*&filter=Year)
+[CityVR: Gameful Software Visualization](%assets_url%/scgbib/?query=Meri17c&filter=Year)

@@ -7,7 +7,7 @@ Software architecture is the result of a design effort aimed at ensuring a certa
 
 **Publications**
 
-[Fixed Query](%assets_url%/scgbib/?query=*&filter=Year)
+[How Do Software Architects Specify and Validate Quality Requirements?](%assets_url%/scgbib/?query=arch-constr-survey&filter=Year)
 
 **Related resources**:  
 

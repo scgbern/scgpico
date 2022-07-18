@@ -12,7 +12,7 @@ The Moldable Inspector is a novel extensible object inspector that addresses thi
 -  allowing developers to look at objects using multiple interchangeable presentations, tailored to the domain of the objects and the run-time question at hand;
 -  providing a workflow in which multiple levels of connecting objects can be seen together 
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/ewkhCmZNSnPPpR" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> </div>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/ewkhCmZNSnPPpR" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
 Next we will emphasise what makes this inspector different, introduce the current prototype and provide several usage scenarios.
 
@@ -112,7 +112,7 @@ Constructing and previewing queries over relational databases is typically done 
 |[Tudor Gîrba](http://tudorgirba.com)|
 
 #Publications
-[Fixed Query](%assets_url%/scgbib/?query=*&filter=Year)
+[The Moldable Inspector: a framework for domain-specific object inspection](%assets_url%/scgbib/?query=Chis14a&filter=Year)
 
 #Blog posts
 

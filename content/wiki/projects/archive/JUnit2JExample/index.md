@@ -78,7 +78,7 @@ java -cp path/to/junit3to4.jar:your_class_path ch.unibe.junit3to4.Converter\
 -  Run the created run configuration.
 
 #Publications
-[Fixed Query](%assets_url%/scgbib/?query=*&filter=Year)
+[JExample](%assets_url%/scgbib/?query=JExample&filter=Year)
 
 #People
 

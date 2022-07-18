@@ -51,7 +51,7 @@ I will maybe post some more detailed information about what we did during the we
 
 ## Publications
 
-[Fixed Query](%assets_url%/scgbib/?query=*&filter=Year)
+[Back to the future in one week — implementing a Smalltalk VM in PyPy](%assets_url%/scgbib/?query=Bolz08a&filter=Year)
 
 ## Some links
 

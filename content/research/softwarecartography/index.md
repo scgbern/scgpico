@@ -28,4 +28,4 @@ On a codemap we can display
 ---
 # Publications
 
-[Fixed Query](%assets_url%/scgbib/?query=*&filter=Year)
+[Papers](%assets_url%/scgbib/?query=codemap-pub&filter=Year)

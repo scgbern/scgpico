@@ -34,4 +34,4 @@ Gofer new
 ```
 
 #Publications
-[Fixed Query](%assets_url%/scgbib/?query=*&filter=Year)
+[Papers](%assets_url%/scgbib/?query=talents&filter=Year)

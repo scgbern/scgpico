@@ -17,4 +17,4 @@ Download a prototype here:
 ---
 # Thesis
 Theoretical background of the Bender project.
-[Fixed Query](%assets_url%/scgbib/?query=*&filter=Year)
+[Trust this Code?](%assets_url%/scgbib/?query=Gysi10c&filter=Year)

@@ -15,4 +15,4 @@ load.
 For simple usage, load the EATI plugin in to Nautilus. EATI requires an internet connection in order to get ecosystem that is regularly updated.
 
 #Publications
-[Fixed Query](%assets_url%/scgbib/?query=*&filter=Year)
+[Mining the Ecosystem to Improve Type Inference For Dynamically Typed Languages](%assets_url%/scgbib/?query=Spas14c&filter=Year)

@@ -7,6 +7,6 @@ Software architecture consists of a set of design choices that can be partially 
 
 **Publications**
 
-[Fixed Query](%assets_url%/scgbib/?query=*&filter=Year)
+[Dicto papers](%assets_url%/scgbib/?query=dicto-dsl&filter=Year)
 
 For further information, please contact  [Andrea Caracciolo](%base_url%/staff/Caracciolo)  

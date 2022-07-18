@@ -54,4 +54,4 @@ The source code of the project is hosted in the ![PoliteSmalltalk GitHub repo](h
 The easiest way to try out Polite is to [download it from Zenodo](https://zenodo.org/record/61578#.WDhvaqIrK9s)
 
 #Publications
-[Fixed Query](%assets_url%/scgbib/?query=*&filter=Year)
+[Papers](%assets_url%/scgbib/?query=politesmalltalk&filter=Year)

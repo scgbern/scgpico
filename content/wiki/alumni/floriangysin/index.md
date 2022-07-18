@@ -36,4 +36,4 @@ Switzerland<br>
 
 ---
 # Publications
-[Fixed Query](%assets_url%/scgbib/?query=*&filter=Year)
+[Papers](%assets_url%/scgbib/?query=Florian+Gysin&filter=Year)

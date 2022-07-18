@@ -7,7 +7,7 @@ Architectural rules are often defined but rarely tested. Current tools offer lim
 
 **Publications**
 
-[Fixed Query](%assets_url%/scgbib/?query=*&filter=Year)
+[Papers](%assets_url%/scgbib/?query=arch-constr-eval&filter=Year)
 
 **Related resources**:  
 

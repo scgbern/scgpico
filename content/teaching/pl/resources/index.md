@@ -36,7 +36,7 @@ See also: [CC Resources](%base_url%/teaching/cc/resources)
 
 ##Lambda Calculus
 
-[Fixed Query](%assets_url%/scgbib/?query=*&filter=Year)
+[The Why of Y](%assets_url%/scgbib/?query=pl-lit-lambda&filter=Year)
 
 ##Prototypes and JavaScript
 
@@ -58,7 +58,7 @@ See also: [CC Resources](%base_url%/teaching/cc/resources)
 
 ##Types
 
-[Fixed Query](%assets_url%/scgbib/?query=*&filter=Year)
+[Type theory papers](%assets_url%/scgbib/?query=pl-lit-types&filter=Year)
 
 ##Denotational Semantics
 

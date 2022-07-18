@@ -69,4 +69,5 @@ JExample is open source and available [for download](/download/jexample).
 
 # Publications
 
-[Fixed Query](%assets_url%/scgbib/?query=*&filter=Year)
+[Papers and thesis](%assets_url%/scgbib/?query=JExample+scg&filter=Year)
+

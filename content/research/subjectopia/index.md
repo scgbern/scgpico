@@ -26,4 +26,4 @@ To get started you can either use a ready-made image (suggested), or try to load
 -  Load the code in Monticello from the squeaksource repository [http://www.squeaksource.com/Decisionstrategy](http://www.squeaksource.com/Decisionstrategy)
 
 #Publications
-[Fixed Query](%assets_url%/scgbib/?query=*&filter=Year)
+[Subjectopia — Unifying Subjectivity](%assets_url%/scgbib/?query=subjectopia&filter=Year)

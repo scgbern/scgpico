@@ -15,4 +15,4 @@ To install and use Senseo please follow the [Users Guide to Senseo](%base_url%/r
 This [Research Paper](http://scg.iam.unibe.ch/archive/drafts/Roet09X-Senseo-DynInfo-Eclipse.pdf) published at ICSM 2009 explains Senseo, its techniques and principles in more detail.
 
 #Publications
-[Fixed Query](%assets_url%/scgbib/?query=*&filter=Year)
+[Papers](%assets_url%/scgbib/?query=senseo&filter=Year)
