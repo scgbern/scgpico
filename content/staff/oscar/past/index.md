@@ -116,7 +116,7 @@ Title: Past events
 
 ##2008
 
-- *PC Member* of [Models@run.time](http://www.comp.lancs.ac.uk/~bencomo/MRT/) (Colocated with [Models 2008](http://www.modelsconference.org/) &mdash; Toulouse, France, Sept 28-Oct 3, 2008)
+- *PC Member* of [Models&#64;run.time](http://www.comp.lancs.ac.uk/~bencomo/MRT/) (Colocated with [Models 2008](http://www.modelsconference.org/) &mdash; Toulouse, France, Sept 28-Oct 3, 2008)
 - *PC Member* of [FAMOOSr 2008](http://moose.unibe.ch/events/famoosr2008) (2nd Workshop on FAMIX and Moose in Reengineering &mdash; Colocated with [WCRE 2008](http://swerl.tudelft.nl/wcre2008/) &mdash; Antwerp, Belgium, Oct. 17, 2008)
 - *PC Member* of [OOPSLA Onward! 2008](http://www.oopsla.org/) (Object-Oriented Programming Systems, Languages and Applications &mdash; Nashville, US, Oct. 19-23, 2008)
 - *Invited Speaker* at [SVPP 2008](http://prog.vub.ac.be/svpp08/index.html) (Software Variability: a Programmers' Perspective &mdash; Brussels, Belgium, August 8-9, 2008)

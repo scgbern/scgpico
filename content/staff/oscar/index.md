@@ -45,6 +45,6 @@ Oscar Nierstrasz was born in the Netherlands, but grew up in Canada. He complete
 #Contact
 
 **Email:**
-<a href="mailto:oscar.nierstrasz@unibe.ch">oscar.nierstrasz@unibe.ch</a>
+<a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;oscar.nierstrasz&#64;unibe.ch">oscar.nierstrasz&#64;unibe.ch</a>
 
 ---

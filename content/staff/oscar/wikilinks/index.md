@@ -21,6 +21,6 @@ Title: Oscar's Wiki Links
 - [SCG Pier tasks](%base_url%/wiki/scgjoblist/scgpier)
 - [How to redirect a page?](%base_url%/wiki/faq/pier/howToRedirectAPage)
 - [Common Writing Errors](%base_url%/wiki/howtos/commonwritingerrors)
-- [Masters, Bachelors and Seminar Projects @ SCG](%base_url%/wiki/projects/mastersbachelorsprojects)
+- [Masters, Bachelors and Seminar Projects &#64; SCG](%base_url%/wiki/projects/mastersbachelorsprojects)
 - [Bachelors Projects](%base_url%/wiki/projects/archive/bachelorsprojects)
 - [How to prepare a Koreferat](%base_url%/wiki/howtos/howtoprepareakoreferat)
