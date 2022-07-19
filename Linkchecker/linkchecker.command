@@ -13,6 +13,7 @@ linkchecker http://scg.unibe.ch \
 	--ignore-url=/download \
 	--ignore-url=/files \
 	--ignore-url=/archive \
+		--check-extern \
 	> $log
 
 open $log

@@ -19,7 +19,7 @@ The research group ceased its activities at the end of 2021.
 - [NOREX](%base_url%/research/norex) &mdash; Network of Reengineering Expertise &mdash; SCOPES Project ([SNSF](http://p3.snf.ch/Project-110997)) &mdash; Nov. 2005 - Oct. 2007
 - [A Unified Approach to Composition and Extensibility](%base_url%/research/snf04) ([SNSF](http://p3.snf.ch/Project-105091)) &mdash; Oct. 2004-Sept. 2006
 - [RECAST: Evolution of Object-Oriented Applications ](%base_url%/research/recast)([SNSF](http://p3.snf.ch/project-66077)) &mdash; Sept. 2002-Aug. 2006
-- [ Foundations of Software Evolution](http://prog.vub.ac.be/FFSE/network.html) ([FWO](http://sun.fwo.be/page1en.php?lang=en) Research Network) &mdash; January 2001 - December 2005
+- [ Foundations of Software Evolution](http://prog.vub.ac.be/FFSE/network.html) ([FWO](https://www.fwo.be/en/) Research Network) &mdash; January 2001 - December 2005
 - [Traits in C# ](%base_url%/research/rotor)([Microsoft Research](http://research.microsoft.com/)) &mdash; March 2004 - Sept. 2005
 - Release network ([ESF](http://www.esf.org/)) &mdash; July 2002 - Sept. 2005
 - [Tools and Techniques for Decomposing and Composing Software ](%base_url%/research/snf02) ([SNSF](http://p3.snf.ch/Project-67855)) &mdash; Oct. 2002-Sept. 2004
