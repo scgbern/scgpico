@@ -9,7 +9,9 @@ RSYNC="-avz --delete -e ssh --stats --progress"
 LOCAL=/Users/oscar/Documents/Projects/
 REMOTE=scg@yogi.inf.unibe.ch:/srv/scg.unibe.ch/
 
-rsync ${RSYNC} ${LOCAL}/scgpico/ ${REMOTE}/scgpico/
+rsync ${RSYNC} \
+	'--exclude=_*' \
+	${LOCAL}/scgpico/ ${REMOTE}/scgpico/
 
 open http://scg.unibe.ch
 
