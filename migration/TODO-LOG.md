@@ -6,8 +6,6 @@ This file lists pending migration todos, past todos (done) and a brief FAQ.
 ---
 # Migration to do
 
-* Clean out cruft like system pages and links to news
-
 * Check external links
 
 * Enable and force HTTPS
@@ -19,6 +17,8 @@ This file lists pending migration todos, past todos (done) and a brief FAQ.
 
 ---
 ## DONE
+
+- Cleaned out cruft like system pages and links to news
 
 - Changed most of the redirect files to apache rewrite rules
 
