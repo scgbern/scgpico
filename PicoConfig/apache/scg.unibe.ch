@@ -39,6 +39,29 @@
 	
 	# Legacy moved pages
 	RewriteRule ^/oscar(.*) /staff/oscar$1 [R=permanent]
+	RewriteRule ^/akuhn(.*) /wiki/alumni/adriankuhn$1 [R=permanent]
+	RewriteRule ^/staff/adrianlienhard http://www.adrian-lienhard.ch [R=permanent]
+	RewriteRule ^/staff/marcusdenker http://marcusdenker.de [R=permanent]
+	RewriteRule ^/staff/lukasrenggli http://www.lukas-renggli.ch [R=permanent]
+	RewriteRule ^/staff/jorgeressia http://www.jorgeressia.com [R=permanent]
+	
+	RewriteRule ^/asa2(.*) /research/snf16$1 [R=permanent]
+	RewriteRule ^/asa3(.*) /research/snf19$1 [R=permanent]
+	RewriteRule ^/asa(.*) /research/snf13$1 [R=permanent]
+
+	RewriteRule ^/bender(.*) /wiki/projects/archive/bender$1 [R=permanent]
+	RewriteRule ^/chronia(.*) /wiki/alumni/adriankuhn/chronia$1 [R=permanent]
+	RewriteRule ^/codemap(.*) /research/softwarecartography$1 [R=permanent]
+	RewriteRule ^/jexample(.*) /research/jexample$1 [R=permanent]
+	RewriteRule ^/pinocchio(.*) /research/pinocchio$1 [R=permanent]
+	RewriteRule ^/research/Albedo(.*) /research/bifrost$1 [R=permanent]
+	
+	RewriteRule ^/cuso(.*) /download/CUSO$1 [R=permanent]
+	RewriteRule ^/oorp(.*) /download/oorp$1 [R=permanent]
+	RewriteRule ^/vissoft2016demo https://youtu.be/GJ8BONoaF0Q [R=permanent]
+	RewriteRule ^/wiki/howtos/neversayallowtoagain /wiki/howtos/commonwritingerrors/neversayallowtoagain [R=permanent]
+	RewriteRule ^/wiki/fontsizebuttons /wiki/projects/archive/fontsizebuttons [R=permanent]
+
 	RewriteRule ^/research.html$ /research [R=permanent]
 	RewriteRule ^/Resources/JExample$ /research/jexample [R=permanent]
 	RewriteRule ^/wiki/((helvetia|changeboxes).*)$ /research/$1 [R=permanent]

@@ -18,7 +18,7 @@ Participants are required to bring their smart phone/tablet and headphones for s
 9:30 - 11:00
 
 - Welcome
-- Guidelines /  agenda / Icebreaker
+- Guidelines / agenda / Icebreaker
 - Get your Mind ready to Present
 - Self-awareness
 - First-Take!

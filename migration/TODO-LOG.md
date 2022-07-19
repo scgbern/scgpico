@@ -20,6 +20,8 @@ This file lists pending migration todos, past todos (done) and a brief FAQ.
 ---
 ## DONE
 
+- Changed most of the redirect files to apache rewrite rules
+
 - Cleaned up or disabled scripts
 
 - Replace the scg pier service by the new pico service
