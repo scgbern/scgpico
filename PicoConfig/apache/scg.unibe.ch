@@ -59,7 +59,7 @@
 	RewriteRule ^/cuso(.*) /download/CUSO$1 [R=permanent]
 	RewriteRule ^/oorp(.*) /download/oorp$1 [R=permanent]
 	RewriteRule ^/vissoft2016demo https://youtu.be/GJ8BONoaF0Q [R=permanent]
-	RewriteRule ^/wiki/howtos/neversayallowtoagain /wiki/howtos/commonwritingerrors/neversayallowtoagain [R=permanent]
+	RewriteRule ^/wiki/howtos/neversayallowtoagain /wiki/howtos/commonwritingerrors/neverSayAllowsToAgain [R=permanent]
 	RewriteRule ^/wiki/fontsizebuttons /wiki/projects/archive/fontsizebuttons [R=permanent]
 
 	RewriteRule ^/research.html$ /research [R=permanent]

@@ -3,4 +3,4 @@ Title: Erwann Wernli
 ---
 #Erwann Wernli
 
-See [Projects](projects)
+See [Projects](ewernli/projects)
