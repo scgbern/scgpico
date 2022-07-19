@@ -6,14 +6,16 @@ This file lists pending migration todos, past todos (done) and a brief FAQ.
 ---
 # Migration to do
 
-* Work on the scgbib (see TODO in that repo)
+* Clean out cruft like system pages and links to news
 
-* What to do about softwarenaut website?
-	- Retire it? Export those pages too?
+* Check external links
 
 * Enable and force HTTPS
 	- https://github.com/alejandroliu/ForceHttpsPlugin
 	- PB: needs a certificate
+
+* What to do about softwarenaut website?
+	- Retire it? Export those pages too?
 
 ---
 ## DONE
