@@ -10,7 +10,6 @@
 - [SCG Students](wiki/students)
 - [SCG Alumni](wiki/alumni)
 - [Events](wiki/events)
-- [Cruft - pages to be removed ...](wiki/cruft)
 - [SC: Software Composition Seminar](wiki/softwarecompositionseminar)
 - [dev-codemap](wiki/devcodemap)
 - [OOMPS 2013 - OOpsla Mock Pc @ Scg 2013](wiki/oomps-2013)

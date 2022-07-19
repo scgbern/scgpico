@@ -22,7 +22,6 @@
 - [Leonel Merino](staff/merino)
 - [Claudio Corrodi](staff/Corrodi)
 - [Yuriy Tymchuk](staff/YuriyTymchuk)
-- [Natalia Tymchuk](staff/Natalia-Tymchuk)
 - [Dr. Mohammad Ghafari](staff/Mohammad-Ghafari)
 - [Cédric Vonesch](staff/Vonesch)
 - [Manuel Leuenberger](staff/ManuelLeuenberger)

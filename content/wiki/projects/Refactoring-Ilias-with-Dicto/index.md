@@ -11,5 +11,5 @@ This paper describes a case study that follows the approach of introducing autom
 
 #People
 
-- [Oskar Truffer](%base_url%/wiki/alumni/OskarTruffer)
+- Oskar Truffer
 - [Andrea Caracciolo](%base_url%/staff/Caracciolo)

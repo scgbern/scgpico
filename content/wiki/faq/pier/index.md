@@ -8,8 +8,6 @@ Title: Pier FAQ
 - [Pier Documentation](http://www.piercms.com/doc)
 	- [Pier browser shortcuts](http://www.piercms.com/doc/shortcuts)
 
-- [System How tos](%base_url%/system/howto)
-
 ---
 #Authoring Content
 - [How to redirect a page?](%base_url%/wiki/faq/pier/howToRedirectAPage)

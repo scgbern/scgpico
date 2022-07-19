@@ -6,8 +6,6 @@
 - [Archive](teaching/archive)
 - [CC: Compiler Construction](teaching/cc)
 - [EI: Einführung in die Informatik](teaching/ei)
-- [MSc registration Fall 2021](teaching/msc-registration-fall)
-- [MSc registration Spring 2021](teaching/msc-registration-spring)
 - [SMA: Software Modeling and Analysis](teaching/sma)
 - [Software Skills Lab](teaching/SoftwareSkills)
 

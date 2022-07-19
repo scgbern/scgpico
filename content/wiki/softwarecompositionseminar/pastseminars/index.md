@@ -258,7 +258,7 @@ Normally, the seminar takes place on Mondays at 14.00 in the afternoon in our se
 -  Feb 23 - Seminar introduction
 -  Feb 16
 	-  [Thomas Steinmann](%base_url%/wiki/alumni/ThomasSteinmann) &mdash; [Polite Smalltalk](%assets_url%/download/softwarecomposition/2016-02-16-Steinmann-Polite.pdf)
-	-  [Dominic Sina](%base_url%/wiki/alumni/DominicSina) &mdash; [TestView Plugin](%assets_url%/download/softwarecomposition/2016-02-16-Sina-TestViewPlugin.pdf) (Bachelors)
+	-  Dominic Sina &mdash; [TestView Plugin](%assets_url%/download/softwarecomposition/2016-02-16-Sina-TestViewPlugin.pdf) (Bachelors)
 
 -  Jan 26 - [Linus Schwab](%base_url%/wiki/alumni/LinusSchwab) &mdash; [Using RSS Feeds to Support Second Language Acquisition](%assets_url%/download/softwarecomposition/2016-01-26-Schwab-ZeeguuReader.pdf) (Bachelors)
 -  Jan 19 - [Andreas Hohler](%base_url%/wiki/alumni/AndreasHohler) &mdash; [Teamizer: Developing a suitable schedule and poll platform for the sports club Unihockey Lohn](%assets_url%/download/softwarecomposition/2016-01-19-Hohler-Teamizer.pdf) (Bachelors)
@@ -270,7 +270,7 @@ Normally, the seminar takes place on Mondays at 14.00 in the afternoon in our se
 -  Nov 17 - [Kenneth Radunz](%base_url%/wiki/alumni/KennethRadunz)  &mdash; [DSL Auto-completion](%base_url%/wiki/projects/DSL-autocompletion)
 -  Oct 27 - [Olivier Flückiger](%base_url%/staff/oli)  &mdash; [rjit: a JIT compiler for R with an LLVM backend](http://o1o.ch/assets/scg-seminar-oct-2015.pdf) (Guest)
 -  Oct 20 - [Andrei Chiş](%base_url%/staff/andreichis)  and [Aliaksei Syrel](%base_url%/wiki/alumni/AliakseiSyrel) &mdash; Introduction to Pharo
--  Oct 6 - [Oskar Truffer](%base_url%/wiki/alumni/OskarTruffer) &mdash; [Continuous Integration with Architectural Invariants](/download/softwarecomposition/2015-10-06-OskarTruffer-Dicto.pdf) (MSc)
+-  Oct 6 - Oskar Truffer &mdash; [Continuous Integration with Architectural Invariants](/download/softwarecomposition/2015-10-06-OskarTruffer-Dicto.pdf) (MSc)
 -  Sep 29 - [Milan Kubicek](%base_url%/wiki/alumni/MilanKubicek) &mdash; [Parsing F# with PetitParser](%assets_url%/download/softwarecomposition/2015-09-29-Kubicek-ParsingFSharp.pdf) (Bachelors)
 -  Sep 22 - [Prof. Shriram Krishnamurti](http://www.cs.brown.edu/~sk/) &mdash; [Tierless Programming and Reasoning for Software-Defined Networks](%base_url%/wiki/softwarecompositionseminar/TierlessProgramming)
 -  Sep 15 - Introduction to [SC seminar projects (HS 2015)](%base_url%/wiki/projects/mastersbachelorsprojects)
@@ -285,7 +285,7 @@ Normally, the seminar takes place on Mondays at 14.00 in the afternoon in our se
 	-  [Andrea Caracciolo](%base_url%/staff/Caracciolo) &mdash; WICSA \+ ICSE	
 
 -  May 26 - Ensar Guneşdoğdu &mdash; [Bug Prediction Made Easy](%assets_url%/download/softwarecomposition/2015-05-26-Ensar-Bug-Prediction.pdf) (Seminar)
--  May 19 - [Aliya Ibragimova](%base_url%/wiki/alumni/AliyaIbragimova) &mdash; [CiteWise: A Citation Search Engine](%assets_url%/download/softwarecomposition/2015-05-19-Aliya-Citewise.pdf) (Bachelors)
+-  May 19 - Aliya Ibragimova &mdash; [CiteWise: A Citation Search Engine](%assets_url%/download/softwarecomposition/2015-05-19-Aliya-Citewise.pdf) (Bachelors)
 -  May 5 - Manuel Leuenberger &mdash; [Null Check Analysis in Java Code](%assets_url%/download/softwarecomposition/2015-05-05-Leuenberger-NullCheck.pdf) (Seminar)
 -  April 28 - [Nevena Milojković](%base_url%/staff/Milojkovic) &mdash; ICPC rehearsal ["Polymorphism in the Spotlight: Studying its Prevalence in Java and Smalltalk"](%assets_url%/download/softwarecomposition/2015-04-28-Milojkovic-ICPC2015.pdf) (ICPC rehearsal)
 -  April 21 - [Andrea Caracciolo](%base_url%/staff/Caracciolo) &mdash; [Dicto: Architecture Conformance Checking](%assets_url%/download/softwarecomposition/2015-04-14-Caracciolo-Dicto-Wicsa.pdf) (WICSA rehearsal)
@@ -312,8 +312,8 @@ Normally, the seminar takes place on Mondays at 14.00 in the afternoon in our se
 	-  [Katja Kevic](http://www.ifi.uzh.ch/seal/people/kevic.html) - Developers' Context of Task-Relevant Artifacts
 
 -  Dec  2 - [Stefan Marr](http://stefan-marr.de) - Implementing languages on the RPython and Truffle VMs
--  Nov 25 - [Dominic Sina](%base_url%/wiki/alumni/DominicSina) - TetstView plugin for Nautilus
--  Nov 11 - [Oskar Truffer](%base_url%/wiki/alumni/OskarTruffer) - Dicto for Ilias
+-  Nov 25 - Dominic Sina - TetstView plugin for Nautilus
+-  Nov 11 - Oskar Truffer - Dicto for Ilias
 -  Nov 4 - Numa de Montmollin - Dicto for Scala
 -  Oct 28 - [Boris Spasojević](%base_url%/staff/Boris-Spasojevic) - Splash 2014 as seen by me
 -  Oct 7 - [Boris Spasojević](%base_url%/staff/Boris-Spasojevic) - EATI talk dry run for Onwards! 2014
@@ -597,13 +597,13 @@ Normally, the seminar takes place on Mondays at 14.00 in the afternoon in our se
 
 ##2001
 
-- 06 August 2001, [Daniel Schweizer](%base_url%/wiki/alumni/danielschweizer), 15' Demo of Moose Navigator &mdash; the code name of the prototype turning [CodeCrawler](http://www.inf.unisi.ch/faculty/lanza/codecrawler.html) into a navigation tool.
-- 30 April 2001, [Daniel Schweizer](%base_url%/wiki/alumni/danielschweizer), TopicMaps and Software Engineering &mdash; Diploma Outlook & Discussion
-- 19 March 2001, [Franz Achermann](%base_url%/wiki/alumni/franzachermann) &mdash; What is Piccola all about"
+- 06 August 2001, Daniel Schweizer, 15' Demo of Moose Navigator &mdash; the code name of the prototype turning [CodeCrawler](http://www.inf.unisi.ch/faculty/lanza/codecrawler.html) into a navigation tool.
+- 30 April 2001, Daniel Schweizer, TopicMaps and Software Engineering &mdash; Diploma Outlook & Discussion
+- 19 March 2001, Franz Achermann &mdash; What is Piccola all about"
 
 ##2000
 
-- 11 December 2000, [Lukas Steiger](%base_url%/wiki/alumni/lukassteiger) &mdash; Evolution Recovery of Software Systems using Metrics"
+- 11 December 2000, Lukas Steiger &mdash; Evolution Recovery of Software Systems using Metrics"
 - 4 December 2000, [Roel Wuyts](%assets_url%/files/91/9zlw7q8c3gq2xbzqby21qgg56nsrzg/Roel%20Wuyts) &mdash; Logic Meta Programming for Co-evolution of Design and Implementation"
 - 17 January 2000, Jean-Guy Schneider &mdash; "A Metamodel for Concurrent, Object-based Programming" (LMO2000 trial talk).
 

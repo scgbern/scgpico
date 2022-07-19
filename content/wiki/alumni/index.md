@@ -36,7 +36,7 @@ You may also want to add youself to the [scg alumni mailing list](https://www.ia
 -  [Nicole Haenni](%base_url%/wiki/alumni/nicolehaenni)
 -  [Andreas Hohler](%base_url%/wiki/alumni/AndreasHohler)
 -  [Isabelle Huber](http://www.philnat.unibe.ch/)
--  [Aliya Ibragimova](%base_url%/wiki/alumni/AliyaIbragimova)
+-  Aliya Ibragimova
 -  [Aaron Karper](%base_url%/wiki/alumni/AaronKarper)
 -  [Adrian Kuhn](%base_url%/wiki/alumni/adriankuhn)
 -  [Maudlin Kummer](%base_url%/wiki/alumni/MaudlinKummer)
