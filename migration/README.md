@@ -21,7 +21,9 @@ PMMarkdownWriter is a visitor that generates markdown for Pier pages and content
 
 The first version of the class was created by cloning PRWikiWriter, that is, by compiling each of its methods to the new class. We needed a sibling rather than a subclass because the visit* methods invoke the super methods inherited from PRVisitor. The visit* methods have been incrementally updated to generate proper markdown.
 
-NB: to keep the implementation is compact as possible, no new methods or class extensions are being added to other classes of the core Pier system. This leads to some ugly type-testing code.
+The implementation is based on a proof-of-concept prototype [realized by Ivan Ginovski](http://scg.unibe.ch/download/softwarecomposition/2020-12-15-Ginovski-SCGPierMigration.pdf) in a [seminar project](http://scg.unibe.ch/wiki/projects/mastersbachelorsprojects/SCG-Pier-migration).
+
+*NB:* to keep the implementation as compact as possible, no new methods or class extensions are being added to other classes of the core Pier system. This leads to some ugly type-testing code.
 
 ---
 
