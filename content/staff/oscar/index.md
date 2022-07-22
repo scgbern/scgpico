@@ -41,7 +41,7 @@ He is a citizen of Canada, Switzerland and Italy.
 #Odds and ends
 
 - My h-index is [53](https://scholar.google.com/citations?user=Yi00hUYAAAAJ)
-- My [Erdös number](http://www.oakland.edu/enp/) is 3: [Oscar Nierstrasz -- David M. Jackson -- E. Rodney Canfield -- Paul Erdös](%assets_url%/scgbib/?query=onerdos123&filter=Year)
+- My [Erdös number](http://www.oakland.edu/enp/) is 3: [Oscar Nierstrasz &mdash; David M. Jackson &mdash; E. Rodney Canfield &mdash; Paul Erdös](%assets_url%/scgbib/?query=onerdos123&filter=Year)
 - [Dagstuhls I have attended](%base_url%/staff/oscar/dagstuhl)
 - [This web page in 1999](http://web.archive.org/web/19990210095953/http://www.iam.unibe.ch/~oscar/) on the [Wayback machine](http://archive.org/web/web.php)
 

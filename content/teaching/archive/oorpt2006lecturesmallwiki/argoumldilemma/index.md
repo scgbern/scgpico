@@ -6,7 +6,7 @@ You are an employee of Make Money Inc.
 
 The boss of the company has recently visited a conference, and he decided he wants the company to build a visualization editor. The visualization editor should support pictures as found in the following articles:
 
--  [Polymetric Views -- A Lightweight Visual Approach to Reverse Engineering](%assets_url%/scgbib/?query=Lanz03d&filter=Year)
+-  [Polymetric Views &mdash; A Lightweight Visual Approach to Reverse Engineering](%assets_url%/scgbib/?query=Lanz03d&filter=Year)
 -  [The Class Blueprint: Visually Supporting the Understanding of Classes](%assets_url%/scgbib/?query=Duca05b&filter=Year)
 -  [How Developers Drive Software Evolution](%assets_url%/scgbib/?query=Girb05c&filter=Year)
 -  [Distribution Map](%assets_url%/scgbib/?query=Duca06c&filter=Year)

@@ -1,7 +1,7 @@
 ---
 Title: â Obsolete Bachelors Projects
 ---
-#â Obsolete Bachelors Projects
+#Obsolete Bachelors Projects
 Please move obsolete projects here:
 
 - [A Morphology mining tool for extracting features from user interfaces](obsolete/amorphologyminingtoolforextractingfeaturesfromuserinterfaces)
@@ -41,7 +41,7 @@ Please move obsolete projects here:
 - [Gathering of historical information about Squeaks evolution](obsolete/gatheringofhistoricalinformationaboutsqueaksevolution)
 - [Visualization of dynamic behavior in IDE](obsolete/visualizationofdynamicbehaviorinide)
 - [Integrate Google Search into Smalltalk image](obsolete/integrategooglesearchintosmalltalkimage)
-- [Coral -- scripting with Smalltalk](obsolete/coral)
+- [Coral &mdash; scripting with Smalltalk](obsolete/coral)
 - [Extending the Traits UI of Squeak](obsolete/extendingthetraitsuiofsqueak)
 - [Visualizing Open Source Software Systems](obsolete/Visualizing-Pangea)
 

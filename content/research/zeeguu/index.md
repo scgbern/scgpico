@@ -1,7 +1,7 @@
 ---
-Title: Zeeguu -- Ubiquitous Second Language Acquisition
+Title: Zeeguu &mdash; Ubiquitous Second Language Acquisition
 ---
-#Zeeguu -- Ubiquitous Second Language Acquisition
+#Zeeguu &mdash; Ubiquitous Second Language Acquisition
 Zeeguu is an open-source research project. Source code for the various components are available on GitHub: 
 
 -  [Android App](https://github.com/SimpleDay/Zeeguu)

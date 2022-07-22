@@ -21,7 +21,7 @@ And see also ``[How to Write Good](http://www.workableweb.com/_pages/tips_how_to
 - ["A" vs. "an"](%base_url%/wiki/howtos/commonwritingerrors/aVsAn)
 - [Avoid Nounification](%base_url%/wiki/howtos/commonwritingerrors/avoidNounification)
 - [Hyphenate adjectives, not nouns](%base_url%/wiki/howtos/commonwritingerrors/Runtime)
-- [Software -- countable or uncountable?](%base_url%/wiki/howtos/commonwritingerrors/Software)
+- [Software &mdash; countable or uncountable?](%base_url%/wiki/howtos/commonwritingerrors/Software)
 - [Get the "Lead" Out](%base_url%/wiki/howtos/commonwritingerrors/GetTheLeadOut)
 - ["Such that" vs "so that"](%base_url%/wiki/howtos/commonwritingerrors/SuchThatVsSoThat)
 - [Evaluate That Donkey](%base_url%/wiki/howtos/commonwritingerrors/EvaluateThatDonkey)

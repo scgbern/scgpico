@@ -10,7 +10,7 @@
 - [Avoid Nounification](commonwritingerrors/avoidNounification)
 - [Hyphenate adjectives, not nouns](commonwritingerrors/Runtime)
 - ["Less" vs. "Fewer"](commonwritingerrors/lessVsFewer)
-- [Software -- countable or uncountable?](commonwritingerrors/Software)
+- [Software &mdash; countable or uncountable?](commonwritingerrors/Software)
 - [Citations are annotations, not parts of speech](commonwritingerrors/citationsAreAnnotations)
 - [Get the "Lead" Out](commonwritingerrors/GetTheLeadOut)
 - ["Such that" vs "so that"](commonwritingerrors/SuchThatVsSoThat)

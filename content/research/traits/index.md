@@ -13,10 +13,10 @@ A mailing list is available for discussion and questions <a href="mailto:traits@
 
 #Selected Publications
 
-The following papers give an overview of Traits and show their practical usability. Note that the material of all these papers and more is also available in Nathanael Schärli's dissertation [Traits -- Composing Classes from Behavioral Building Blocks](%assets_url%/scgbib/?query=Nathanael+thesis+traits&filter=Year).
+The following papers give an overview of Traits and show their practical usability. Note that the material of all these papers and more is also available in Nathanael Schärli's dissertation [Traits &mdash; Composing Classes from Behavioral Building Blocks](%assets_url%/scgbib/?query=Nathanael+thesis+traits&filter=Year).
 
 
-- [Traits -- Composable Units of Behavior](%assets_url%/scgbib/?query=Nathanael+traits+Composable+Units&filter=Year) is the concept paper introducing Traits. It also compares Traits to mixins and multiple inheritance, summarizes a formal model for Traits, briefly discusses our implementation and gives an overview of a realistic application: refactoring the Smalltalk collection hierarchy.
+- [Traits &mdash; Composable Units of Behavior](%assets_url%/scgbib/?query=Nathanael+traits+Composable+Units&filter=Year) is the concept paper introducing Traits. It also compares Traits to mixins and multiple inheritance, summarizes a formal model for Traits, briefly discusses our implementation and gives an overview of a realistic application: refactoring the Smalltalk collection hierarchy.
 - [Traits: A Mechanism for Fine-grained Reuse](%assets_url%/scgbib/?query=Traits+Mechanism&filter=Year) is a newer paper accepted to TOPLAS. This paper is a mature description of traits and contains a formal model of traits. 
 - [Applying Traits to the Smalltalk Collection Hierarchy](%assets_url%/scgbib/?query=Applying+Traits+to+the+Smalltalk+Collection+Hierarchy&filter=Year) is an experience report of applying Traits to refactor the Smalltalk collection hierarchy. 
 - [Uniform and Safe Metaclass Composition](%assets_url%/scgbib/?query=Uniform+and+Safe+Metaclass+Composition&filter=Year) presents how traits can be used at the metalevel and offer safe metaclass composition model for Traits and defines some basic properties of Traits and classes.

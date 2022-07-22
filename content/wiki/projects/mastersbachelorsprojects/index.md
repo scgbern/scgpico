@@ -97,7 +97,7 @@ The seminar was last held in the Autumn of 2021 and will no longer take place.
 
 -  [Investigating developer's questions using web scraping](%base_url%/wiki/projects/mastersbachelorsprojects/Investigating-developer___s-questions-using-web-scraping) ([Pooja Rani](%base_url%/staff/Pooja-Rani))
 -  [Scriptable markdown pretty printer using GraalVM native-image](%base_url%/wiki/projects/mastersbachelorsprojects/Scriptable-markdown-pretty-printer-using-GraalVM-native-image) ([Boris Spasojević](%base_url%/staff/Boris-Spasojevic))
--  [Domain specific Requirements Elicitation (RE) -- a user-centric approach](%base_url%/wiki/projects/mastersbachelorsprojects/Domain-specific-Requirements-Elicitation-_RE_-a-user-centric-approach) ([Nitish Patkar](%base_url%/staff/NitishPatkar))
+-  [Domain specific Requirements Elicitation (RE) &mdash; a user-centric approach](%base_url%/wiki/projects/mastersbachelorsprojects/Domain-specific-Requirements-Elicitation-_RE_-a-user-centric-approach) ([Nitish Patkar](%base_url%/staff/NitishPatkar))
 -  [Abusing HTML5 permissions on browsers](%base_url%/wiki/projects/mastersbachelorsprojects/Abusing-HTML5-permissions-on-browsers) ([Mohammadreza Hazhirpasand](%base_url%/staff/MohammadrezaHazhirpasand))
 -  [Exploring different programming languages in Android projects](%base_url%/wiki/projects/mastersbachelorsprojects/purpose-android-languages) ([Pascal Gadient PhD](%base_url%/staff/PascalGadient))
 

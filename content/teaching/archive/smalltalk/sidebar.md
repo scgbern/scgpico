@@ -22,5 +22,5 @@
 
 - [Dynamic Web Development with Seaside](http://book.seaside.st) (free book)
 - [HPI Seaside Tutorial](http://www.swa.hpi.uni-potsdam.de/seaside/tutorial) (book and web site)
-- [Seaside -- a Multiple Control Flow Web Application Framework](%assets_url%/scgbib/?query=Duca04e&filter=Year) (article)
+- [Seaside &mdash; a Multiple Control Flow Web Application Framework](%assets_url%/scgbib/?query=Duca04e&filter=Year) (article)
 - [Seaside: A Flexible Environment for Building Dynamic Web Applications](%assets_url%/scgbib/?query=Duca07a&filter=Year) (article)

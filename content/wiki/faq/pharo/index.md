@@ -72,7 +72,7 @@ Title: Pharo FAQ
 #Parsing
 - [Which packages should I load to develop with SMaCC?](%base_url%/wiki/faq/pharo/howToDevelopWithSmacc)
 - [How do I run SmaCC?](%base_url%/wiki/faq/pharo/howToRunSmacc)
-- [SmaCC pops up an annoying "silence not found in the Sound library" when I click on the tabs -- how do I get it to stop?](%base_url%/wiki/faq/pharo/howToFixSilenceNotFound)
+- [SmaCC pops up an annoying "silence not found in the Sound library" when I click on the tabs &mdash; how do I get it to stop?](%base_url%/wiki/faq/pharo/howToFixSilenceNotFound)
 - [How do I generate a view of the AST of an expression?](%base_url%/wiki/faq/pharo/howToGenerateAnAST)
 
 ---

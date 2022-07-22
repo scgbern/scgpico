@@ -89,11 +89,11 @@ The following SCG publications, theses and demos have received awards:
 
 ##2006:
 
-- *[Ernst Denert-Stiftung Prize for Software Engineering](http://www.denert-stiftung.de/preistraegerarchiv/)* for [Alexandre Bergel](http://www.bergel.eu/)'s PhD thesis, [Classboxes -- Controlling Visibility of Class Extensions](%assets_url%/scgbib/?query=bergel%20phd&filter=Year).
+- *[Ernst Denert-Stiftung Prize for Software Engineering](http://www.denert-stiftung.de/preistraegerarchiv/)* for [Alexandre Bergel](http://www.bergel.eu/)'s PhD thesis, [Classboxes &mdash; Controlling Visibility of Class Extensions](%assets_url%/scgbib/?query=bergel%20phd&filter=Year).
 - *[IAM Alumni Prize](https://www.jointalumni.ch/awards/)* for Michael Meyer's MSc thesis, [Scripting Interactive Visualizations](%assets_url%/scgbib/?query=Meye06b&filter=Year).
 
 ##2003:
 
-- *[Ernst Denert-Stiftung Prize for Software Engineering](http://www.denert-stiftung.de/preistraegerarchiv/)* for [Michele Lanza](http://www.inf.usi.ch/lanza/)'s PhD thesis, [Object-Oriented Reverse Engineering -- Coarse-grained, Fine-grained, and Evolutionary Software Visualization](%assets_url%/scgbib/?query=lanza+phd).
+- *[Ernst Denert-Stiftung Prize for Software Engineering](http://www.denert-stiftung.de/preistraegerarchiv/)* for [Michele Lanza](http://www.inf.usi.ch/lanza/)'s PhD thesis, [Object-Oriented Reverse Engineering &mdash; Coarse-grained, Fine-grained, and Evolutionary Software Visualization](%assets_url%/scgbib/?query=lanza+phd).
 - *JMLC Best Paper Award* for [Classboxes: A Minimal Module Model Supporting Local Rebinding](%assets_url%/scgbib/?query=berg03a&filter=Year) by [Alexandre Bergel](http://www.bergel.eu/), [St&eacute;phane Ducasse](http://stephane.ducasse.free.fr/) and [Roel Wuyts](http://decomp.ulb.ac.be/roelwuyts/)
 - *[Faculty Prize](https://www.philnat.unibe.ch/ueber_uns/archiv/fakultaetspreise/index_ger.html)* for [Frank Buchli](http://www.linkedin.com/in/frankbuchli)'s Diploma thesis, [Detecting Software Patterns using Formal Concept Analysis](%assets_url%/scgbib/?query=buch03a&filter=Year)
