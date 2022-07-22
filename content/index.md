@@ -10,3 +10,9 @@ The SCG was led by [Oscar Nierstrasz](%base_url%/staff/oscar) at the Institute o
 As of January 2022, the research and teaching activities of the SCG have been taken over by the [Software Engineering Group](https://seg.inf.unibe.ch) led by [Prof. Timo Kehrer](https://seg.inf.unibe.ch/people/timo/).
 
 This web site provides access to the [Research](%base_url%/research), [Publications](%base_url%/publications) and [Teaching](%base_url%/teaching) material produced by the SCG to the end of 2021.
+
+<form action="http://www.google.com/search" method="get">
+    <input type="hidden" name="q" value="site:scg.unibe.ch">
+    <input type="text" name="q" alt="search">
+    <input type="submit" value="Search SCG">
+</form>
