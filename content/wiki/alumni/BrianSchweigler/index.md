@@ -12,7 +12,7 @@ I'm working under the supervision of Pascal Gadient and Prof. Dr. Oscar Nierstra
 ---
 
 - CVE: [https://cve.mitre.org](https://cve.mitre.org)
-- National Vulnerability Database: [https://nvd.nist.gov/vuln/search](https://nvd.nist.gov/vuln/search)
+- National Vulnerability Database: https://nvd.nist.gov/vuln/search
 - Background on the Current Vulnerability Scoring System (CVSS): [https://www.first.org/cvss/](https://www.first.org/cvss/)
 
 ---

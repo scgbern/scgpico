@@ -1,7 +1,7 @@
 *See also:*
 
 -  [Past Seminar Presentations](%base_url%/wiki/softwarecompositionseminar/pastseminars)
--  [JMCS page](https://mcs.unibnf.ch/courses/seminar-software-composition/)
+-  JMCS page
 -  [Masters, Bachelors and Seminar Projects @ SCG](%base_url%/wiki/projects/mastersbachelorsprojects)
 -  [Presentation checklist](%base_url%/wiki/howtos/Presentation-checklist)
 -  [Podcasts](https://tube.switch.ch/channels/972d8a59)

@@ -144,7 +144,7 @@ Prof. Kim Mens is one of the originators of the 'reuse contract' technique and o
 Roel Wuyts
 IMEC, Belgium (Belgium)
 Université Libre de Bruxelles (Belgium)
-[http://decomp.ulb.ac.be/roelwuyts/](http://decomp.ulb.ac.be/roelwuyts/)
+http://decomp.ulb.ac.be/roelwuyts/
 Prof. Roel Wuyts is Senior Software Engineer at the IMEC Research Centre and former professor of the Université Libre de Bruxelles. His research interests include software evolution and code restructuring, for which he (co-)developed various tools and techniques such as the SOUL language.
 
 Harald Gall

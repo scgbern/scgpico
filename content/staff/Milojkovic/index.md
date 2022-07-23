@@ -30,7 +30,7 @@ Please see [SCG Projects](%base_url%/wiki/projects)
 #Reviewing activities
 I co-reviewed for the following conferences/workshops:
 
--  [ICSME 2015](http://www.icsme.uni-bremen.de/) (International Conference on Software Maintenance and Evolution)
+-  ICSME 2015 (International Conference on Software Maintenance and Evolution)
 -  [ICSE 2015](http://2015.icse-conferences.org/) (International Conference on Software Engineering)
 -  SANER 2015 (International Conference on Software Analysis, Evolution, and Reengineering)
 -  [SLE 2014](http://www.sleconf.org/2014/) (International Conference on Software Language Engineering)

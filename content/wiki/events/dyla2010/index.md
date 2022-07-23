@@ -116,7 +116,7 @@ above, this should foster participation from all targeted communities.
 - [Johan Fabry](http://www.dcc.uchile.cl/~jfabry/Welcome.html), University of Chile 
 - [Matthew Flatt](http://www.cs.utah.edu/~mflatt), University of Utah, USA
 - Stephan Herrmann, TU Berlin, Germany
-- [Abram Hindle](http://swag.uwaterloo.ca/~ahindle/), University of Waterloo, Canada
+- Abram Hindle, University of Waterloo, Canada
 - [Kasper Lund](http://verdich.dk/kasper/), Google, Denmark.
 - [Michael Perscheid](http://www.hpi.uni-potsdam.de/hirschfeld/people/perscheid/), Hasso-Plattner-Institut, Potsdam, Germany
 - Rodolfo Toledo, University of Chile 

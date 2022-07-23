@@ -91,7 +91,7 @@ There is also a version of PetitParser for Smalltalk/X.
 
 #Contact
 
-Please report bugs or ask questions in the [Pharo](http://lists.gforge.inria.fr/mailman/listinfo/pharo-project) or [Moose](http://www.moosetechnology.org/about/contact) mailing-lists.
+Please report bugs or ask questions in the Pharo or Moose mailing-lists.
 
 #License
 

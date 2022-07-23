@@ -71,5 +71,5 @@ If you plan to attend, please register:
 - Franz Josef Konrad
 - Herbert König
 - [Tudor Girba](%base_url%/staff/tudorgirba)
-	- [http://moose.unibe.ch/tools/mondrian](http://moose.unibe.ch/tools/mondrian)
+	- http://moose.unibe.ch/tools/mondrian
 

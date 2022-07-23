@@ -55,7 +55,7 @@ Title: Activities of Adrian Kuhn
 -  [IAM Alumini event](http://www.iam.unibe.ch/alumni/events/ftwevent.2005-10-20.8849111720) at [IGE](http://www.ige.ch/) (Swiss Federal Insitute of Intellectual Property), <i>Reverse Enginering Java Bytecode</i>, 21 February 2006, Bern, Switzerland.
 
 
--  For conference presentation, please refer to [slides folder](http://www.iam.unibe.ch/~akuhn/s).
+-  For conference presentation, please refer to slides folder.
 
 ##Lectures
 

@@ -36,7 +36,7 @@ I just started at Google Munich where I'll work on the V8 JavaScript engine.
 -  <b>Pinocchio</b>: An open system for language experimentation ([link](%base_url%/research/pinocchio))
 -  <b>Pharo</b>: Pharo is a clean, innovative, open-source Smalltalk-inspired environment ([link](http://www.pharo-project.org/))
 -  <b>JUnitWire</b>: Testing framework based on [JExample](%base_url%/research/jexample) ([link](%base_url%/wiki/projects/archive/junitwire))
--  <b>Moose</b>: Re-engineering framework ([link](http://moose.unibe.ch))
+-  <b>Moose</b>: Re-engineering framework (link)
 -  <b>Spy</b>: Squeak VM implemented fully in RPython (PyPy) ([link](%base_url%/wiki/projects/archive/spy))
 -  <b>PyGirl</b>: A whole-system virtual machine written in RPython (PyPy) ([link](%base_url%/wiki/projects/archive/pygirl))
 -  <b>Fame</b>: Meta-modeling framework available in multiple languages ([link](%base_url%/wiki/projects/archive/fame))

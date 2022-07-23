@@ -16,8 +16,8 @@
 *(unibe intranet or vpn only)*
 
 - [Concurrent programming in Java](http://scgresources.unibe.ch/Literature/Books/ConcurrentProgrammingInJavaDesignPrinciplesAndPatterns.pdf) (unibe access only)
-- [Online Supplement](http://gee.cs.oswego.edu/dl/cpj/index.html) to *Concurrent Programming in Java* by Doug Lea.
-- [java.util.concurrent Interest Site](http://gee.cs.oswego.edu/dl/concurrency-interest/index.html)
+- Online Supplement to *Concurrent Programming in Java* by Doug Lea.
+- java.util.concurrent Interest Site
 - [Concepts and Notations for Concurrent Programming](http://scgresources.unibe.ch/~scg/Literature/CP/Andr83aSurvey.pdf) survey paper (pdf)
 - [Petri Nets](http://scgresources.unibe.ch/~scg/Literature/CP/Pete77aSurvey.pdf) survey paper (pdf)
 - [Linda](http://scgresources.unibe.ch/~scg/Literature/CP/Carr89aSurvey.pdf) survey paper (pdf)

@@ -33,6 +33,9 @@ def main(argv):
   file2UrlDict = readAndSplitLinkFile(linkFile)
   # eprint(file2UrlDict)
   for file, urls in file2UrlDict.items():
+    if not exists(file):
+      eprint(f"Skipping non-existent file {file}")
+      continue
     contents = getFileContents(file)
     newContents = contents
     for url in urls:

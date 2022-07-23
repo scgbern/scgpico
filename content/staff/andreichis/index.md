@@ -10,7 +10,7 @@ I am a PhD Candidate at the University of Bern in the Software Composition Group
 
 #Research Interests
 <div>
-I maintain that integrated development environments (IDEs) have to be moldable, that is, they have to be aware of the application under development and the developer's tasks and enable rapid and effective customization to new applications and development tasks. In my current research I build new solutions that make this vision possible. At the moment, as part of the [Glamorous Toolkit](http://gt.moosetechnology.org/) team, I am working on:
+I maintain that integrated development environments (IDEs) have to be moldable, that is, they have to be aware of the application under development and the developer's tasks and enable rapid and effective customization to new applications and development tasks. In my current research I build new solutions that make this vision possible. At the moment, as part of the Glamorous Toolkit team, I am working on:
 </div>
 
 -  [Moldable Debugger](/research/moldabledebugger): make the creation of domain-specific debuggers an easy and cheap activity;
@@ -34,9 +34,9 @@ Apart from this my research interests lie in the areas of:
 #Awards
 
 - *[SPLASH 2015 Distinguished Demo Award](http://2015.splashcon.org)* for [GTInspector: A Moldable Domain-Aware Object Inspector](http://2015.splashcon.org/event/splash2015-demos-gtinspector-a-moldable-domain-aware-object-inspector) by [Andrei Chiş](%base_url%/staff/andreichis), [Tudor Girba](http://www.tudorgirba.com/), [Oscar Nierstrasz](%base_url%/staff/oscar), [Aliaksei Syrel](%base_url%/wiki/alumni/AliakseiSyrel)
-- *[European Smalltalk User Group 2015 Technology Innovation Award (1st prize)](http://www.esug.org/wiki/pier/Conferences/2015/Innovation-Technology-Awards)* for [GT Spotter](http://gt.moosetechnology.org/) by Aliaksei Syrel, [Andrei Chiş](%base_url%/staff/andreichis), [Tudor Girba](http://www.tudorgirba.com/), Juraj Kubelka and Stefan Reichhart
+- *[European Smalltalk User Group 2015 Technology Innovation Award (1st prize)](http://www.esug.org/wiki/pier/Conferences/2015/Innovation-Technology-Awards)* for GT Spotter by Aliaksei Syrel, [Andrei Chiş](%base_url%/staff/andreichis), [Tudor Girba](http://www.tudorgirba.com/), Juraj Kubelka and Stefan Reichhart
 - *[Software Language Engineering (SLE) 2014 Best Student Paper Award](http://www.sleconf.org/2014/AcceptedPapers.html)* for [The Moldable Debugger: A Framework for Developing Domain-Specific Debuggers](%assets_url%/scgbib/?query=Chis14b&filter=Year) by [Andrei Chiş](%base_url%/staff/andreichis), [Tudor Girba](http://www.tudorgirba.com/) and [Oscar Nierstrasz](%base_url%/staff/oscar)
-- *[European Smalltalk User Group 2014 Technology Innovation Award (1st prize)](http://www.esug.org/wiki/pier/Conferences/2014/Innovation-Technology-Awards)* for [GT Inspector](http://gt.moosetechnology.org/) by [Andrei Chiş](%base_url%/staff/andreichis), [Tudor Girba](http://www.tudorgirba.com/) and Aliaksei Syrel
+- *[European Smalltalk User Group 2014 Technology Innovation Award (1st prize)](http://www.esug.org/wiki/pier/Conferences/2014/Innovation-Technology-Awards)* for GT Inspector by [Andrei Chiş](%base_url%/staff/andreichis), [Tudor Girba](http://www.tudorgirba.com/) and Aliaksei Syrel
 -  *[IWST 2014 Best Paper Award (3rd prize)](http://www.esug.org/wiki/pier/Conferences/2014/IWST14)* for [The Moldable Inspector: A framework for domain-specific object inspection](%assets_url%/scgbib/?query=Chis14a&filter=Year) by [Andrei Chiş](%base_url%/staff/andreichis), [Tudor Girba](http://www.tudorgirba.com/) and [Oscar Nierstrasz](%base_url%/staff/oscar)
 
 #Talks and tutorials

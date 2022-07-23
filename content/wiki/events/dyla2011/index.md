@@ -97,7 +97,7 @@ above, this should foster participation from all targeted communities.
 #Program committee
 
 
-- [Gabriela Arévalo](http://www.lifia.info.unlp.edu.ar/en/gabriela.htm), University of La Plata, Argentina
+- Gabriela Arévalo, University of La Plata, Argentina
 - Jean-Baptiste Arnaud, RMoD Team, INRIA Lille Nord Europe, France
 - [Alexandre Bergel](http://www.bergel.eu/), University of Chile 
 - [Carl Friedrich Bolz](http://cfbolz.de/), Heinrich-Heine-Universität
