@@ -14,5 +14,5 @@ This web site provides access to the [Research](%base_url%/research), [Publicati
 <form action="http://www.google.com/search" method="get">
     <input type="hidden" name="q" value="site:scg.unibe.ch">
     <input type="text" name="q" alt="search">
-    <input type="submit" value="Search SCG">
+    <input type="submit" value="Search SCG" formtarget="_blank"/>
 </form>
