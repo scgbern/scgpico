@@ -176,7 +176,7 @@ Normally, the seminar takes place on Mondays at 14.00 in the afternoon in our se
 -  Nov 7 &mdash; [Lars Wüthrich](%base_url%/wiki/alumni/LarsWuethrich) &mdash; [A visual editor for shape grammars (Bachelors)](%assets_url%/download/softwarecomposition/2017-11-07-Wuethrich-ShapeGrammars.pdf)
 -  Oct 31 &mdash; [Manuel Leuenberger](%base_url%/staff/ManuelLeuenberger) &mdash; [An integrated environment for literature research](%assets_url%/download/softwarecomposition/2017-10-31-Leuenberger-ILE.pdf)
 -  Oct 24 &mdash; [Sara Peeters](%base_url%/wiki/alumni/SaraPeeters) &mdash; [A Web App to Help Autistic People Communicate about Autism](%assets_url%/download/softwarecomposition/2017-10-24-Peeters-AutismWebApp.pdf) (Bachelors)
--  Oct 3 &mdash; [Oscar Nierstrasz](%base_url%/staff/oscar) &mdash; [Great Moments in the History of OOP](https://www.slideshare.net/onierstrasz/great-moments-in-the-history-of-oop)
+-  Oct 3 &mdash; [Oscar Nierstrasz](%base_url%/staff/oscar) &mdash; Great Moments in the History of OOP
 -  Sept 19 &mdash; [MSc seminar topic](%base_url%/wiki/projects/mastersbachelorsprojects) presentations and obligatory quiz.
 -  Aug 29 &mdash; [Pascal Gadient PhD](%base_url%/staff/PascalGadient) &mdash; [Security in Android Applications](%assets_url%/download/softwarecomposition/2017-08-29-Gadient-SecurityInAndroidApplications.pdf) (Masters)
 -  Aug 15 &mdash; [Dominik Fankhauser](%base_url%/wiki/alumni/DominikFankhauser) &mdash; [Developing a club management software](%assets_url%/download/softwarecomposition/2017-08-15-Fankhauser-Club_management_software.pdf) (Bachelors)
@@ -291,7 +291,7 @@ Normally, the seminar takes place on Mondays at 14.00 in the afternoon in our se
 -  April 21 - [Andrea Caracciolo](%base_url%/staff/Caracciolo) &mdash; [Dicto: Architecture Conformance Checking](%assets_url%/download/softwarecomposition/2015-04-14-Caracciolo-Dicto-Wicsa.pdf) (WICSA rehearsal)
 -  April 14 - [Aaron Karper](https://github.com/zombiecalypse) &mdash; [Functional vs OO Design Patterns](https://docs.google.com/presentation/d/10VxrAPsPklwkaqwdZu-0QRuqaA4hOZwfP9d5yGdJMTk/edit#slide=id.p)
 -  April 7 - Spring break; no SC seminar
--  Mar 31 - [Alain Plantec](http://dossen.univ-brest.fr/apl/index.php/Accueil) &mdash; [Bloc: Reinventing Morphic](https://vimeo.com/115336678)
+-  Mar 31 - Alain Plantec &mdash; [Bloc: Reinventing Morphic](https://vimeo.com/115336678)
 -  Mar 24 - [Maudlin Kummer](%base_url%/wiki/alumni/MaudlinKummer) &mdash; [Categorizing Test Smells](%base_url%/wiki/projects/Categorizing-Test-Smells)
 -  Mar 23 - [Rathesan (Radi) Iyadurai](%base_url%/wiki/alumni/RadiIyadurai) &mdash; [Parsing Ruby (reloaded)](%assets_url%/download/softwarecomposition/2015-03-23-Iyadurai-ParsingRubyReloaded.pdf) (Bachelors)
 -  Mar 3 - [Michael Rüfenacht](%base_url%/wiki/alumni/MichaelRuefenacht) &mdash; [Error Recovery in PEGs](%assets_url%/download/softwarecomposition/2015-03-03-Ruefenacht-PEGS-Error-Recovery.pdf) (MSc)
@@ -369,7 +369,7 @@ Normally, the seminar takes place on Mondays at 14.00 in the afternoon in our se
 -  Apr 9 - [Jan Kurš](%base_url%/staff/kursjan): Composable and Modular Petit Parsing
 -  Mar 26 - [Oscar Nierstrasz](%base_url%/staff/oscar): [Identify the Champion](%assets_url%/download/champion/index.html) Revisited
 -  Mar 19 - [Oscar Nierstrasz](%base_url%/staff/oscar): [ASDS 2013](http://www.ifi.uzh.ch/seal/events/ASDS-2013.html) overview (mindmap)
--  Mar 5 - [Michael Pradel](http://mp.binaervarianz.de/): Automatic Testing of Sequential and Concurrent Substitutability
+-  Mar 5 - Michael Pradel: Automatic Testing of Sequential and Concurrent Substitutability
 -  Feb 19 - Introduction to seminar projects; quiz
 
 ##2012
@@ -424,7 +424,7 @@ Normally, the seminar takes place on Mondays at 14.00 in the afternoon in our se
 -  July 26: [Andrea Quadri](%base_url%/wiki/alumni/quadri) &mdash; Reflection through operational decomposition
 -  July 5: [Daniel Langone](%base_url%/wiki/alumni/daniellangone) &mdash; Modelling Subjectivity
 -  June 21: Michal Musial &mdash; Task Manager in the IDE
--  May 17: [David Gurtner](%base_url%/wiki/alumni/DavidGurtner) &mdash; [ActiveContext](%base_url%/research/ActiveContext) in [Pinocchio](%base_url%/research/pinocchio); Max Leske &mdash; [GitFS](http://buildinggitfs.blogspot.com/)
+-  May 17: [David Gurtner](%base_url%/wiki/alumni/DavidGurtner) &mdash; [ActiveContext](%base_url%/research/ActiveContext) in [Pinocchio](%base_url%/research/pinocchio); Max Leske &mdash; GitFS
 -  May 10: [Camillo Bruni](%base_url%/wiki/alumni/camillobruni) &mdash; [Pinocchio](%base_url%/research/pinocchio) VM
 -  May 3: [Marcel Härry](%base_url%/wiki/alumni/marcelhrry) &mdash; [Senseo](%base_url%/research/senseo) (final presentation)
 -  April 26: Markus Balsiger &mdash; Representing software features in the Eclipse IDE
@@ -441,7 +441,7 @@ Normally, the seminar takes place on Mondays at 14.00 in the afternoon in our se
 -  September 21: Lea Hänsenberger &mdash; JUnit2JExample
 -  September 7: [Niko Schwarz](%base_url%/staff/Schwarz) &mdash; Mathematica: the cool parts
 -  August 17: [Adrian Kuhn](%base_url%/wiki/alumni/adriankuhn) &mdash; "State-of-the-art in Source Code Search."  
--  July 13: [Anja Guzzi](http://atelier.inf.unisi.ch/~guzzia/Casina/Home.html) &mdash; Supporting Collaboration Awareness in Multi-developer Projects
+-  July 13: Anja Guzzi &mdash; Supporting Collaboration Awareness in Multi-developer Projects
 -  June 8: Marcel Härry &mdash; [Senseo](/research/senseo) &mdash; Augmenting Static Source Views in IDEs with Dynamic Metrics
 -  May 25: [Oscar Nierstrasz](%base_url%/staff/oscar) &mdash; "Citezen-Pier: scgbib queries inside Pier"
 -  May 11: [Adrian Kuhn](%base_url%/wiki/alumni/adriankuhn) &mdash; "SquareBuilder and Turtlez, two little languages in P2's Ludo game."
@@ -474,7 +474,7 @@ Normally, the seminar takes place on Mondays at 14.00 in the afternoon in our se
 -  April 28: Manuel Friedli &mdash; ECCrawler: Visual Navigation for Eclipse
 -  April 21: Dominique Matter &mdash; Vocabulary and Author Correlation in Versioned Systems
 -  April 14: Julien Fierz &mdash; Navigation Support for Back-in-Time Debugging
--  April 7: Andrea Brühlmann &mdash; [Metanool](http://moose.unibe.ch/tools/metanool), Enriching Reverse Engineering with Annotations
+-  April 7: Andrea Brühlmann &mdash; Metanool, Enriching Reverse Engineering with Annotations
 -  March 3: Cédric Jeanneret (EPFL) &mdash; Insights on model composition
 -  February 25: Lukas Renggli &mdash; A quick demo of GemStone/S 
 -  February 18: Lea Hänsenberger &mdash; JExample, extending JUnit with explicit dependencies
@@ -492,11 +492,11 @@ Normally, the seminar takes place on Mondays at 14.00 in the afternoon in our se
 -  September 24: Manuel Friedli &mdash; Visual Navigation for Eclipse
 -  September 24: Anselm Strauss &mdash; Dynamic Aspects
 -  September 17: Lucas Streit &mdash; Basil: Scripting Flash from Smalltalk
--  August 20: [Tudor Girba](http://www.tudorgirba.com) &mdash; [Moose Finder](http://moose.unibe.ch/tools/moosefinder)
+-  August 20: [Tudor Girba](http://www.tudorgirba.com) &mdash; Moose Finder
 -  August 13: Adrian Urfer &mdash; GraphDrawing
--  June 18: Adrian Dozsa &mdash; [Analyzing Lisp Systems](http://moose.unibe.ch/tools/moosli)
+-  June 18: Adrian Dozsa &mdash; Analyzing Lisp Systems
 -  June 11: Julien Fierz &mdash; J-Wiretap, Extracting Execution Models for Reverse Engineering
--  June 4: Lucas Streit &mdash; [Basil: A Flash Output Framework for Smalltalk](http://moose.unibe.ch/tools/basil)
+-  June 4: Lucas Streit &mdash; Basil: A Flash Output Framework for Smalltalk
 -  May 14: Mircea Lungu &mdash; Latest News from Lugano
 -  May 14: [Oscar Nierstrasz](%base_url%/staff/oscar) &mdash; Societal Computing &mdash; report from Interlink WG
 -  April 23: Marc Mooser &mdash; Parsing Ada
@@ -504,7 +504,7 @@ Normally, the seminar takes place on Mondays at 14.00 in the afternoon in our se
 -  March 19: Nik Haldimann &mdash; TypePlug
 -  Feb 26: Lukas Renggli &mdash; Evolving Objects<br/>David Roethlisberger &mdash; Feature Browser
 -  Feb 19: Florian Thalmann &mdash; "Rubato Composer"
--  Feb 12: Matthias Junker and Markus Hofstetter &mdash; Scripting Charts with [EyeSee](http://moose.unibe.ch/tools/eyesee)
+-  Feb 12: Matthias Junker and Markus Hofstetter &mdash; Scripting Charts with EyeSee
 -  Feb 5: Philipp Bunge &mdash; Shrew
 -  Jan 29: Pascal Zumkehr &mdash; Changeboxes
 
@@ -513,7 +513,7 @@ Normally, the seminar takes place on Mondays at 14.00 in the afternoon in our se
 -  Dec 15 (Friday @ 14h00): Stefan Reichhart &mdash; TestLint (TestSmells) & Case-Study-Results (summarized), maybe also Delta-Debugging with Christo
 -  Dec 15 (Friday @ 11h00): Philippe Marschall &mdash; Persephone: practical uses
 -  Dec 11: Nik Haldimann &mdash; TypePlug
--  Nov 27: Julien Fierz &mdash; [Java Profiler for Moose](http://moose.unibe.ch/tools/jwiretap)
+-  Nov 27: Julien Fierz &mdash; Java Profiler for Moose
 -  Nov 20: [David Roethlisberger](%base_url%/staff/davidroethlisberger) &mdash; Informal brainstorming to improve IDEs (in Squeak, in Smalltalk, or in general)
 -  Nov 13: Philipp Bunge &mdash; Analyzing Subversion repositories
 -  Nov 06: Marcel Härry &mdash; JPAAM: A pluggable authentication and authorisation framework
@@ -531,7 +531,7 @@ Normally, the seminar takes place on Mondays at 14.00 in the afternoon in our se
 -  Mar 13: David Röthlisberger &mdash; Unanticipated Reflection with Geppetto
 -  Mar 7: Michael Meyer &mdash; [The nice visualization engine wihtout a final name](http://moose.unibe.ch/tools/mondrian)
 -  Feb 20: Romain Robbes
--  Feb 6: Mauricio Seeberger &mdash; [How Developers Drive Software Evolution](http://moose.unibe.ch/tools/chronia)
+-  Feb 6: Mauricio Seeberger &mdash; How Developers Drive Software Evolution
 -  Feb 5: Florian Thalmann &mdash; JamTomorrow: Collaborative Music Generation in Croquet
 
 ##2005
@@ -597,7 +597,7 @@ Normally, the seminar takes place on Mondays at 14.00 in the afternoon in our se
 
 ##2001
 
-- 06 August 2001, Daniel Schweizer, 15' Demo of Moose Navigator &mdash; the code name of the prototype turning [CodeCrawler](http://www.inf.unisi.ch/faculty/lanza/codecrawler.html) into a navigation tool.
+- 06 August 2001, Daniel Schweizer, 15' Demo of Moose Navigator &mdash; the code name of the prototype turning CodeCrawler into a navigation tool.
 - 30 April 2001, Daniel Schweizer, TopicMaps and Software Engineering &mdash; Diploma Outlook & Discussion
 - 19 March 2001, Franz Achermann &mdash; What is Piccola all about"
 

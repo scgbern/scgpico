@@ -72,8 +72,8 @@ The research group ceased its activities at the end of 2021.
 	-  [The "Moldable Inspector"](%base_url%/research/moldableinspector) &mdash; high-level ways to visualize and explore objects
 	-  [The "Moldable Spotter"](%base_url%/research/moldablespotter) &mdash; a unified search interface for IDEs
 
-- [Moose](http://moose.unibe.ch) &mdash; A platform for software and data analysis
-	- [Moose JEE](%base_url%/research/Moose-JEE) &mdash; A [Moose](http://moose.unibe.ch) extension for Java Enterprise Applications
+- Moose &mdash; A platform for software and data analysis
+	- [Moose JEE](%base_url%/research/Moose-JEE) &mdash; A Moose extension for Java Enterprise Applications
 
 - [Object Flow](%base_url%/research/objectflow) &mdash; Tracking the flow of objects at runtime
 - [Pangea](/research/pangea) &mdash; infrastructure for statically analysing software corpora. 

@@ -170,7 +170,7 @@ SystemWindow
 -  Look at the description of system window.
 -  Count the number of ivars 
 -  Notice how many responsibilities it has.
--  [http://bugs.impara.de/view.php?id=5124](http://bugs.impara.de/view.php?id=5124)
+-  http://bugs.impara.de/view.php?id=5124
 
 Number
 

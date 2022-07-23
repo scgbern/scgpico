@@ -6,7 +6,7 @@ Title: CP: Concurrency: State Models and Design Patterns
 
 | | |
 |---|---|
-|**Course:**| [21005](https://mcs.unibnf.ch/courses/concurrency-state-models-and-design-patterns/) (Autumn Semester 2021)
+|**Course:**| 21005 (Autumn Semester 2021)
 |**Lecturer:**|[Prof. Oscar Nierstrasz](%base_url%/oscar)
 |**Assistants:**|[Pascal Gadient PhD](%base_url%/staff/PascalGadient), [Mohammadreza Hazhirpasand](%base_url%/staff/MohammadrezaHazhirpasand)
 |**Lecture:**|Wednesday, 10h15 - 12h00
@@ -21,7 +21,7 @@ Title: CP: Concurrency: State Models and Design Patterns
 This course provides an introduction to concurrent programming with Java. The course focuses on *fundamental concepts* important for developing correctly functioning concurrent programs, such as safety, liveness and fairness, and on *standard programming patterns* and *techniques* for dealing with these issues.
 The course will include two lab sessions (replacing the regular lecture hours) in which students will work in small groups to apply the techniques presented. 
 
-Much of the practical material in this lecture will be based on: Doug Lea, [*Concurrent Programming in Java: Design Principles and Patterns*](http://gee.cs.oswego.edu/dl/cpj/index.html), Addison-Wesley, 1999.
+Much of the practical material in this lecture will be based on: Doug Lea, *Concurrent Programming in Java: Design Principles and Patterns*, Addison-Wesley, 1999.
 The theoretical foundations will be based on: Jeff Magee and Jeffrey Kramer, [*Concurrency: State Models & Java Programs*](https://www.doc.ic.ac.uk/~jnm/book/), John Wiley, 1999. 
 
 #Learning Outcomes

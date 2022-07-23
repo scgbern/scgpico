@@ -44,7 +44,7 @@ Title: Teaching
 - [Archive](%base_url%/teaching/archive) of old course web pages
 - [Archive](%assets_url%/archive/lectures) of old lectures and [svn repo](https://www.iam.unibe.ch/scg/svn_repos/Lectures/) (not maintained)
 - [How to complete a Masters](%base_url%/wiki/howtos/howtocompleteamasters)
-- [Unibe semester dates](http://www.advd.unibe.ch/imd/wiwdaten.htm)
+- Unibe semester dates
 - [Swiss Joint Master of Science in Computer Science](http://mcs.unibnf.ch/)
 - [CUSO Doctoral Program in Computer Science](http://informatique.cuso.ch/en) (formerly [Troisième cycle romand d'informatique](http://www.cuso.ch/3e-cycle/informatique/))
-- [Vorlesungsverzeichnis on-line](http://evub.unibe.ch/pievub/)
+- Vorlesungsverzeichnis on-line

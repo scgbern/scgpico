@@ -121,7 +121,7 @@ A [tuple space](http://en.wikipedia.org/wiki/Tuple_space) is a form of a shared 
 
 #Mondrian
 
-[Mondrian](http://moose.unibe.ch/tools/mondrian) is a graph based visualization framework that provides a declarative Smalltalk API for users to specify new visualizations and compose existing ones. This language extension makes it possible to define new shapes using a CSS like syntax:
+Mondrian is a graph based visualization framework that provides a declarative Smalltalk API for users to specify new visualizations and compose existing ones. This language extension makes it possible to define new shapes using a CSS like syntax:
 
 ```
  shape {

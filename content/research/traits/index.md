@@ -9,7 +9,7 @@ Unlike mixins and multiple inheritance, Traits do not employ inheritance as the 
 We have implemented Traits in [Squeak](http://www.squeak.org), an open-source Smalltalk-80 dialect. In the meantime, Traits have had a significant practical impact and have been [ported to various other languages](%base_url%/research/traits).
 
 A mailing list is available for discussion and questions <a href="mailto:traits@iam.unibe.ch">traits@iam.unibe.ch</a>
-, but you need to [register](https://www.iam.unibe.ch/mailman/listinfo/traits) first. 
+, but you need to register first. 
 
 #Selected Publications
 
@@ -39,8 +39,8 @@ In his [series about the unfolding of the Perl 6 design](http://www.perl.com/pub
 Discussions on roles vs inheritance are quite active among Perl bloggers. See for example
 
 -  [http://www.modernperlbooks.com/mt/2009/04/the-why-of-perl-roles.html](http://www.modernperlbooks.com/mt/2009/04/the-why-of-perl-roles.html)
--  [http://use.perl.org/~Ovid/journal/38862](http://use.perl.org/~Ovid/journal/38862)
--  [http://use.perl.org/search.pl?tid=&query=roles&op=journals](http://use.perl.org/search.pl?tid=&query=roles&op=journals)
+-  http://use.perl.org/~Ovid/journal/38862
+-  http://use.perl.org/search.pl?tid=&query=roles&op=journals
  
 ##Scala
 [Scala](http://scala.epfl.ch/) is a modern multi-paradigm programming language that smoothly integrates features of object-oriented and functional languages. Scala also [features Traits](http://www.scala-lang.org/node/126), which is particularly interesting because they are smoothly integrated into Scala's static type system (which is similar to the type system of Java and C#).

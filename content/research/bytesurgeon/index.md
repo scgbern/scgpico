@@ -10,8 +10,8 @@ ByteSurgeon has been used in a number of projects:
 
 -  Geppetto I, Unanticipated Partial Behavioral Reflection, [Paper](%assets_url%/scgbib/?query=roet07b&filter=Year), [Source Repository](http://www.squeaksource.com/Geppetto.html) (David R&ouml;thlisberger)
 -  Untuck, An Omniscient Debugger: [Paper](%assets_url%/scgbib/?query=hofe06a&filter=Year) (Christoph Hofer)
--  Christo, Testcoverage Analysis: [Christo Wiki](http://smallwiki.unibe.ch/stefanreichhart/codecoverage/) (Stefan Reichart)
--  Object History, Persistent Objects: [Object History Website](http://decomp.ulb.ac.be/frdricpluquet/researchactivities/objecthistory/) (Fr&eacute;d&eacute;ric Pluquet)
+-  Christo, Testcoverage Analysis: Christo Wiki (Stefan Reichart)
+-  Object History, Persistent Objects: Object History Website (Fr&eacute;d&eacute;ric Pluquet)
 
 #Download
 

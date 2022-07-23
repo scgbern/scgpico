@@ -2,7 +2,7 @@
 Title: SchemeTalk
 ---
 #SchemeTalk
-<b>SchemeTalk</b> is a [Smalltalk](http://smalltalk.org) like OO system as an extension to and written/bootstrapped in Scheme.
+<b>SchemeTalk</b> is a Smalltalk like OO system as an extension to and written/bootstrapped in Scheme.
 
 <br><br>
 <center><img src="http://www.iam.unibe.ch/~verwaest/schemetalk/schemetalk-object-inspector.png" style="width: 40em"><br>

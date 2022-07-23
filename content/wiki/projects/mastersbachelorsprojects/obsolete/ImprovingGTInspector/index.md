@@ -6,7 +6,7 @@ Title: Improving the GTInspector
 
 Inspecting the state of objects is a common task in software development. There are numerous ways in which this can be done. The simples way is to just print a textual representation in the console. Even if it is a fast and easy approach it has limitations when displaying complex objects. If further provides no way to interact with the represented objects.
 
-A better approach is to use an inspector, a dedicated tool for displaying object state. Such a tool is the [GTInspector](http://www.humane-assessment.com/blog/glamorous-inspector-for-smalltalk/%20) from the [Moose](http://www.moosetechnology.org%20) platform. Among its many features it allows objects to have multiple graphical representations, as not all objects are create equal. It further provides a simple mechanism for creating new types of views for objects. A detailed description of the inspector can be found at the following links: [1], [2], [3], [4].
+A better approach is to use an inspector, a dedicated tool for displaying object state. Such a tool is the GTInspector from the Moose platform. Among its many features it allows objects to have multiple graphical representations, as not all objects are create equal. It further provides a simple mechanism for creating new types of views for objects. A detailed description of the inspector can be found at the following links: [1], [2], [3], [4].
 
 # Problem
 

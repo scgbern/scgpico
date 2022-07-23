@@ -304,7 +304,7 @@ SD feedback:
 <br><br><br><br><br>
 <b>Resources</b>
 
--  Next interface [http://docs-pdf.sun.com/802-2109/802-2109.pdf](http://docs-pdf.sun.com/802-2109/802-2109.pdf)
+-  Next interface http://docs-pdf.sun.com/802-2109/802-2109.pdf
 -  [http://www.betterdesktop.org/welcome/](http://www.betterdesktop.org/welcome/)
 -  [http://www.betterdesktop.org/welcome/index.php?q=data&PHPSESSID=3a4644f008f895770783050c6ec28b17](http://www.betterdesktop.org/welcome/index.php?q=data&PHPSESSID=3a4644f008f895770783050c6ec28b17)
 -  Apple HIG: [http://developer.apple.com/documentation/UserExperience/Conceptual/OSXHIGuidelines/index.html](http://developer.apple.com/documentation/UserExperience/Conceptual/OSXHIGuidelines/index.html)

@@ -71,7 +71,7 @@ The partition should be named after the machine (e.g., macarthur) so it can be e
 ```
 	You can use chsh to do this.
 ```
-17. Update the configuration files and set the environment variables to access cvs (see  [Environment Variables](http://scgwiki.iam.unibe.ch:8080/SCG/501)).
+17. Update the configuration files and set the environment variables to access cvs (see  Environment Variables).
 18. Enable fast user switching.
 ```
 	System Preferences -> Accounts -> Login Options -> Enable fast user switching
@@ -107,5 +107,5 @@ To ensure X11 starts automatically when you log, add X11 in System Preferences -
 	-  Install Eclipse
 
 -  Download [http://macromates.com](http://macromates.com), ie TextMate
--  Download [http://homepage.mac.com/martinott/](http://homepage.mac.com/martinott/), ie SVN
+-  Download http://homepage.mac.com/martinott/, ie SVN
 -  Save the nice green iTunes logo, then update your mac.

@@ -95,7 +95,7 @@ And any topic relevant in applying and/or supporting dynamic languages: Smalltal
 - Organizers
 - [Carl Friedrich Bolz](http://cfbolz.de/), Heinrich-Heine-Universität Düsseldorf, Germany
 - [Camillo Bruni](https://twitter.com/#!/camillobruni), RMoD, INRIA, France
-- [Adrian Kuhn](https://www.cs.ubc.ca/people/adrian-kuhn), UBC, Canada
+- Adrian Kuhn, UBC, Canada
 - [Olivier Michel](http://www.lacl.fr/~michel/doku.php?id=start), UPEC, France
 - [Lukas Renggli](http://www.lukas-renggli.ch/), Google, Switzerland
 - [Juan Pablo Sandoval Alcocer](http://www.dcc.uchile.cl/~jsandova/), University of Chile, Chile

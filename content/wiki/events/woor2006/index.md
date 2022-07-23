@@ -107,7 +107,7 @@ In previous years, participants to the workshop have been actively contributing 
 
 -  The first form of contributions targets design recovery tool builders and users. It consists in filling out the questionnaire (soon) available at this [Form](%base_url%/wiki/events/woor2006/form) and submitting it along with a short text detailing the rationale for the choice of the tools. This information, in addition to the discussions during the workshop, will help building a map of the design recovery tools out there. <b>If you are interested in this form of contribution or have any question, please contact either Yann-Gaël Guéhéneuc (<a href="mailto:guehene@iro.umontreal.ca">guehene@iro.umontreal.ca</a>
 ) or Roel Wuyts (<a href="mailto:roel.wuyts@ulb.ac.be">roel.wuyts@ulb.ac.be</a>
-).</b> (The questionnaire will be soon available at [http://smallwiki.unibe.ch/woor/questionnaire/](http://smallwiki.unibe.ch/woor/questionnaire/).)
+).</b> (The questionnaire will be soon available at http://smallwiki.unibe.ch/woor/questionnaire/.)
 -  The second form of contributions targets researchers and industrials active in reengineering. We explicitly solicit experience reports from the software industry as well as contributions from researchers, tool producers, and methodology providers. Areas of interests include, but are not limited to:
 
 -  Experiences on re-engineering large object-oriented systems

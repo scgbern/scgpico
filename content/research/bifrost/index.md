@@ -48,7 +48,7 @@ Gofer new
 
 #Contact
 
-Please report bugs or ask questions in the [Pharo](http://lists.gforge.inria.fr/mailman/listinfo/pharo-project) or [Moose](http://www.moosetechnology.org/about/contact) mailing-lists.
+Please report bugs or ask questions in the Pharo or [Moose](http://www.moosetechnology.org/about/contact) mailing-lists.
 
 #Publications
 [Papers](%assets_url%/scgbib/?query=bifrost&filter=Year)

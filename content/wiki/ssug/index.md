@@ -4,7 +4,7 @@ Title: SSUG
 #SSUG
 #Welcome to Swiss Smalltalk User Group
 
-Welcome to the wiki of the <strong>Swiss Smalltalk User Group</strong> (SSUG). The goal of SSUG is to bring together Swiss Smalltalk practicioners from Industry and Academia. The main communication vehicle is the [mailing-list](http://www.iam.unibe.ch/cgi-bin/majordomo). Register to the mailing-list and participate to the event.
+Welcome to the wiki of the <strong>Swiss Smalltalk User Group</strong> (SSUG). The goal of SSUG is to bring together Swiss Smalltalk practicioners from Industry and Academia. The main communication vehicle is the mailing-list. Register to the mailing-list and participate to the event.
 
 ##Upcoming Events
 

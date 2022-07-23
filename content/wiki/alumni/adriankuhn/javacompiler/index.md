@@ -22,7 +22,7 @@ You best start with these links
 -  [http://openjdk.java.net/groups/compiler/](http://openjdk.java.net/groups/compiler/)
 -  [http://weblogs.java.net/blog/tball/archive/2006/09/hacking_javac.html](http://weblogs.java.net/blog/tball/archive/2006/09/hacking_javac.html)
 -  [http://blogs.sun.com/darcy/entry/so_you_want_to_change](http://blogs.sun.com/darcy/entry/so_you_want_to_change)
--  [http://www.ahristov.com/tutorial/java-compiler.html](http://www.ahristov.com/tutorial/java-compiler.html)
+-  http://www.ahristov.com/tutorial/java-compiler.html
 
 See also
 

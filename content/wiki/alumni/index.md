@@ -4,7 +4,7 @@ Title: SCG Alumni
 #SCG Alumni
 Please add yourself or update your coordinates if you are a former [SCG](http://www.iam.unibe.ch/~scg/) member.
 
-You may also want to add youself to the [scg alumni mailing list](https://www.iam.unibe.ch/mailman/listinfo/scg-alumni) and join the [Joint Alumni Association in Computer Science](https://www.jointalumni.ch/).
+You may also want to add youself to the scg alumni mailing list and join the [Joint Alumni Association in Computer Science](https://www.jointalumni.ch/).
 
 
 
@@ -14,8 +14,8 @@ You may also want to add youself to the [scg alumni mailing list](https://www.ia
 -  [Gabriela Arevalo](http://www.lifia.info.unlp.edu.ar/en/gabriela.htm)
 -  [Alexandre Bergel](http://www.bergel.eu/)
 -  [Roland Bertuli](http://www.new.facebook.com/profile.php?id=1193731892)
--  [Frank Buchli](http://www.buchli.org/frank/)
--  [Philipp Bunge](https://pbunge.crimson.ch/)
+-  Frank Buchli
+-  Philipp Bunge
 -  [Damien Cassou](http://damiencassou.seasidehosting.st/)
 -  [Andrea Caracciolo](%base_url%/staff/Caracciolo)
 -  [Juan Carlos Cruz](http://www.linkedin.com/pub/6/297/22b)
@@ -28,7 +28,7 @@ You may also want to add youself to the [scg alumni mailing list](https://www.ia
 -  [Olivier Flückiger](%base_url%/staff/oli)
 -  [Markus Gaelli](http://www.emergent.de/)
 -  [Tudor Gîrba](http://www.tudorgirba.com/)
--  [Orla Greevy](http://www.sw-eng.ibone.ch/team/greevy)
+-  Orla Greevy
 -  [David Gurtner](%base_url%/wiki/alumni/DavidGurtner)
 -  [Daniel Langone](%base_url%/wiki/alumni/daniellangone)
 -  [Lea Hänsenberger](%base_url%/wiki/alumni/lea)
@@ -58,7 +58,7 @@ You may also want to add youself to the [scg alumni mailing list](https://www.ia
 -  Tamar Richner
 -  Matthias Rieger
 -  [Nathanael Schärli](http://www.iam.unibe.ch/~schaerli/)
--  [Jean-Guy Schneider](http://www.it.swin.edu.au/staff/jschneider/)
+-  Jean-Guy Schneider
 -  [Dennis Schenk](/wiki/alumni/dennisschenk)
 -  [Niko Schwarz](%base_url%/staff/Schwarz)
 -  Daniel Schweizer

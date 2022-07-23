@@ -42,8 +42,8 @@ Examples of backup setups
 
 -  1000GB Firewire at home and at SCG for rsync mirror and incremental backups
 -  160GB iPod for mirroring files between home and office
--  [tsync](https://www.iam.unibe.ch/scg/svn_repos/oscar/MacScripts/tsync) wrapper script around rsync uses timestamp to avoid syncing the wrong way (!)
--  [iPodSync](https://www.iam.unibe.ch/scg/svn_repos/oscar/MacScripts/BACKUPscripts/iPod/iPodSync.command) command checks the timestamp to decide which direction to sync
--  [BACKUP](https://www.iam.unibe.ch/scg/svn_repos/oscar/MacScripts/BACKUPscripts/iPod/BACKUP2iPod.command) and [UPDATE](https://www.iam.unibe.ch/scg/svn_repos/oscar/MacScripts/BACKUPscripts/iPod/UPDATEfromiPod.command) scripts specify what to sync
--  [bu](https://www.iam.unibe.ch/scg/svn_repos/oscar/MacScripts/bu) is a script that uses tar to make full and incremental backups, based on recommendations from the [O'Reilly book](http://www.librarything.com/work/206208/book/15404780)
+-  tsync wrapper script around rsync uses timestamp to avoid syncing the wrong way (!)
+-  iPodSync command checks the timestamp to decide which direction to sync
+-  BACKUP and UPDATE scripts specify what to sync
+-  bu is a script that uses tar to make full and incremental backups, based on recommendations from the [O'Reilly book](http://www.librarything.com/work/206208/book/15404780)
 -  Mirror and incremental backup folders on desktop machine at SCG to enable remote rsync and backup from a laptop over the network (I used this from Australia successfully)

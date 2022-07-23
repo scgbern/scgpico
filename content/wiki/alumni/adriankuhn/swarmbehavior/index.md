@@ -46,7 +46,7 @@ NB, useful for both static and dynamic languages.
 
 -  For Ruby, see [Swarm Behavior in Ruby](%base_url%/wiki/alumni/adriankuhn/swarmbehavior/ruby), just a quick hack...
 -  For Smalltalk, [http://www.squeaksource.com/CollectiveBehavior.html](http://www.squeaksource.com/CollectiveBehavior.html)
--  For Java, [@erni/dist/jag.zip](https://www.iam.unibe.ch/scg/svn_repos/erni/dist/jag.zip) (tutorial see appendix of [David's thesis](http://www.iam.unibe.ch/~scg/Archive/Projects/Erni08a.pdf))
+-  For Java, @erni/dist/jag.zip (tutorial see appendix of [David's thesis](http://www.iam.unibe.ch/~scg/Archive/Projects/Erni08a.pdf))
 
 # People
 

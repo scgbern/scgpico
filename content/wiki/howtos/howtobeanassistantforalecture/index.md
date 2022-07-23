@@ -27,7 +27,7 @@ Title: How to be an assistant for a lecture
 	-  Ask Iris to coordinate the employment
 	-  Go to [Bettina Choffat](http://www.iam.unibe.ch/til/staff/choffat), she is responsible for the employment of hilfsassistants for bachelor courses
 
--  Set up mailing list for students, and if needed for staff: [https://www.iam.unibe.ch/mailman/listinfo](https://www.iam.unibe.ch/mailman/listinfo)
+-  Set up mailing list for students, and if needed for staff: https://www.iam.unibe.ch/mailman/listinfo
 
 ##Preparation for the first lecture
 

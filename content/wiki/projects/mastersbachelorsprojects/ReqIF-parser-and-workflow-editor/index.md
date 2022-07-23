@@ -24,7 +24,7 @@ Watch [this video](https://www.youtube.com/watch?v=p4OHK_Nuluk&ab_channel=Glamor
 -  Understand the specifics of ReqIFR. 
 Subsequently, you will build a ReqIF parser in [Glamorous Toolkit (GT)](https://gtoolkit.com/)  IDE to parse any ReqIF file and a device a similar solution to create requirements as first-class citizens as demonstrated in the video.
 
-**Note**: there already exists [STON format](https://ci.inria.fr/pharo-contribution/job/EnterprisePharoBook/lastSuccessfulBuild/artifact/book-result/STON/STON.html) to serialize objects. We will study whether we can use it to serialize the requirements. 
+**Note**: there already exists STON format to serialize objects. We will study whether we can use it to serialize the requirements. 
 
 #Contact 
 [Nitish Patkar](%base_url%/staff/NitishPatkar)

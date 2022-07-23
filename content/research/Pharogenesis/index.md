@@ -39,7 +39,7 @@ git checkout -b origin/pharo
 
 -  the [GitFS](http://www.squeaksource.com/GitFS.html) project on SqueakSource hosts all the code related to the implementation of Git on Filesystem
 -  the [Pharo](http://www.pharo-project.org/home) web page
--  the [Pharo collaboractive book](http://book.pharo-project.org)
+-  the Pharo collaboractive book
 -  the [Git](http://git-scm.com/) web page
 -  [Git for Squeak](http://www.squeaksource.com/Git.html) by Tony Garnock-Jones on SqueakSource
 -  Lukas Renggli's blog posts on Colin Putney's Filesystem library: [post 1](http://www.lukas-renggli.ch/blog/filesystem-1), [post 2](http://www.lukas-renggli.ch/blog/filesystem-2)

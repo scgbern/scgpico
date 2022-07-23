@@ -12,9 +12,9 @@ Many thanks to Markus for his help and patience, without him Paralles would not 
 -  Skip step 1, as we have a registration key
 -  Download the DMG package
 -  Run the installer
--  The activation key is in [https://www.iam.unibe.ch/scg/svn_repos/scg/SystemAdministration/SCGSoftwareInventory.xls](https://www.iam.unibe.ch/scg/svn_repos/scg/SystemAdministration/SCGSoftwareInventory.xls)
+-  The activation key is in https://www.iam.unibe.ch/scg/svn_repos/scg/SystemAdministration/SCGSoftwareInventory.xls
 -  Break Parallels installation and get a copy of windows.
--  Go to  [http://msdn40.e-academy.com/unibe_gesamter](http://msdn40.e-academy.com/unibe_gesamter) (not [http://msdn40.e-academy.com/ifiuam_bern/](http://msdn40.e-academy.com/ifiuam_bern/) )
+-  Go to  http://msdn40.e-academy.com/unibe_gesamter (not http://msdn40.e-academy.com/ifiuam_bern/ )
 -  Log in with your uni account
 -  You will get a key for windows XP there buying the free product
 -  The windows ISO is in [afp://scgresources.unibe.ch/scg/Resources/Software/INSTALLERS/Windows/](afp://scgresources.unibe.ch/scg/Resources/Software/INSTALLERS/Windows/)

@@ -47,7 +47,7 @@ If you plan to attend, please register:
 	- Class Migration, is it relevant in theory and practice? (open discussion)
 
 - Joseph Pelrine
-	- Toothpick, a new logging framework for Smalltalk (see [http://www.metaprog.com/Toothpick](http://www.metaprog.com/Toothpick))
+	- Toothpick, a new logging framework for Smalltalk (see http://www.metaprog.com/Toothpick)
 
 - Patty Gadegast
 - Julien Ithurbide

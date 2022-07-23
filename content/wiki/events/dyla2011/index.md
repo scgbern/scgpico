@@ -98,7 +98,7 @@ above, this should foster participation from all targeted communities.
 
 
 - [Gabriela Arévalo](http://www.lifia.info.unlp.edu.ar/en/gabriela.htm), University of La Plata, Argentina
-- [Jean-Baptiste Arnaud](http://rmod.lille.inria.fr/web/pier/team/Arnaud), RMoD Team, INRIA Lille Nord Europe, France
+- Jean-Baptiste Arnaud, RMoD Team, INRIA Lille Nord Europe, France
 - [Alexandre Bergel](http://www.bergel.eu/), University of Chile 
 - [Carl Friedrich Bolz](http://cfbolz.de/), Heinrich-Heine-Universität
 - [Stéphane Ducasse](http://stephane.ducasse.free.fr/), INRIA Lille Nord Europe
@@ -110,7 +110,7 @@ above, this should foster participation from all targeted communities.
 - [James Noble](http://homepages.ecs.vuw.ac.nz/~kjx/), Victoria University of Wellington
 - [Lukas Renggli](http://www.lukas-renggli.ch/), Google, Switzerland
 - [Jorge Ressia](http://www.jorgeressia.com/), SCG, University of Bern
-- [David Schneider](http://stups.cs.uni-duesseldorf.de/profile.php?id=222), Heinrich-Heine-Universität, Düsseldorf, Germany
+- David Schneider, Heinrich-Heine-Universität, Düsseldorf, Germany
 
 
 #News feed

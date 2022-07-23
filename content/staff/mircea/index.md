@@ -39,10 +39,10 @@ Here you can find several projects that are available at the moment. If you have
 |<div style="width:130px">Software Ecosystems</div>| |
 | | **Paper**: A [quantitative study](/scgbib?query=Haen14a&display=abstract) of developer needs in ecosystem context |
 | | **Tool**: The [St1-PL/1](/scgbib?query=Aesc13a&display=abstract) tool for PL1 Ecosystem analysis tested at Credit Suisse |
-| | **Workshop**: [WEA](http://wea.github.com) - the Third International Workshop on Ecosystem Architectures in Dubrovnik (co-located with ECSA)|
+| | **Workshop**: WEA - the Third International Workshop on Ecosystem Architectures in Dubrovnik (co-located with ECSA)|
 |  Languages | |
 | | **Language**: [Polite](%base_url%/research/Polite) - Investigating PL syntaxes closer to natural language |
-| | **Infrastructure**: [Zeeguu](https://www.zeeguu.unibe.ch) - Ubiquitous second language acquisition|
+| | **Infrastructure**: Zeeguu - Ubiquitous second language acquisition|
 | Visualization| |
 | | **Tool**: [Quicksilver](%base_url%/research/quicksilver) - Infrastructure for the interactive exploration of hierarchical data sets |
 | | **Framework**: [Moose](http://moosetechnology.org) - Software visualisation and analysis platform to which I and my students have been contributing since many years. |
@@ -80,10 +80,10 @@ For the full list see [my resume](%assets_url%/download/mlcv/MirceaLungu-Resume.
 Several Swiss and international events that I organize or have recently organized are: 
 
 
--  The [CHOOSE Forum 2012](http://choose.s-i.ch/events/forum2012): *Models vs. Services*
+-  The CHOOSE Forum 2012: *Models vs. Services*
 -  The 1st International [Workshop on Ecosystem Architectures](http://wea.github.io/) co-located in 2015 with ESEC/FSE.
--  The Seminar on [Advanced Tools and Techniques for SE](http://sattose.org/sattose2013) at the University of Bern in July 2013. 
--  The [CHOOSE Forum 2013](http://choose.s-i.ch/events/forum2013): *SE: Between Wishful Thinking and Thinkable Wishes*
+-  The Seminar on Advanced Tools and Techniques for SE at the University of Bern in July 2013. 
+-  The CHOOSE Forum 2013: *SE: Between Wishful Thinking and Thinkable Wishes*
 -  The 2nd International [Workshop on Ecosystem Architectures](http://wea.github.io/) co-located in 2014 with [ECSA](http://ecsa2014.cs.univie.ac.at/).
 
 I review for the following periodicals: 

@@ -7,7 +7,7 @@ Title: Reported Testing Tools
 - findbugs: [http://findbugs.sourceforge.net](http://findbugs.sourceforge.net)
 - checkstyle: [http://checkstyle.sourceforge.net](http://checkstyle.sourceforge.net)
 - pmd: [http://pmd.sourceforge.net](http://pmd.sourceforge.net)
-- Sonar: [http://www.sonarsource.org](http://www.sonarsource.org)
+- Sonar: http://www.sonarsource.org
 - codecity: [http://codecity.inf.usi.ch](http://codecity.inf.usi.ch)
 - appDynamics: [http://www.appdynamics.com](http://www.appdynamics.com)
 - JMeter: [http://jmeter.apache.org](http://jmeter.apache.org)
@@ -18,16 +18,16 @@ Title: Reported Testing Tools
 - Sotograph: [http://www.hello2morrow.com/products/sotograph](http://www.hello2morrow.com/products/sotograph)
 - Gomez: [http://www.gomez.com](http://www.gomez.com)
 - Selenium: [http://docs.seleniumhq.org/](http://docs.seleniumhq.org/)
-- LISA: [http://www.itko.com/solutions/index.jsp](http://www.itko.com/solutions/index.jsp)
+- LISA: http://www.itko.com/solutions/index.jsp
 - SoapUI: [http://www.soapui.org/](http://www.soapui.org/)
 - JAAS: [http://www.oracle.com/technetwork/java/javase/jaas/index.html](http://www.oracle.com/technetwork/java/javase/jaas/index.html)
 - Spring: [http://www.springsource.org/](http://www.springsource.org/)
 - Moose: [http://www.moosetechnology.org/](http://www.moosetechnology.org/)
-- dclcheck: [http://www.dclsuite.org/](http://www.dclsuite.org/)
+- dclcheck: http://www.dclsuite.org/
 - locust: [http://locust.io/](http://locust.io/)
 - gatling: [http://gatling-tool.org/](http://gatling-tool.org/)
 - HP Loadrunner: [http://www8.hp.com/us/en/software-solutions/software.html?compURI=1175451](http://www8.hp.com/us/en/software-solutions/software.html?compURI=1175451)
-- SAVE: [http://www.fc-md.umd.edu/save/](http://www.fc-md.umd.edu/save/)
+- SAVE: http://www.fc-md.umd.edu/save/
 - patternity: [https://code.google.com/p/patternity/](https://code.google.com/p/patternity/)
 - Ndepend: [http://ndepend.com/](http://ndepend.com/)
 - Macker: [http://innig.net/macker/index.html](http://innig.net/macker/index.html)

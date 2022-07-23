@@ -20,7 +20,7 @@ One team works on the beamer, one person of this team is the driver, the other t
 Learn more about OmniBrowser
 
 
--  [http://www.wiresong.ca/OmniBrowser/](http://www.wiresong.ca/OmniBrowser/)
+-  http://www.wiresong.ca/OmniBrowser/
 -  [http://www.iam.unibe.ch/~scg/Archive/Papers/Berg07cOmnibrowser.pdf](http://www.iam.unibe.ch/~scg/Archive/Papers/Berg07cOmnibrowser.pdf)
 
 Learn more about the Dojo style

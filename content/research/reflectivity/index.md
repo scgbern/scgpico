@@ -22,7 +22,7 @@ Latest Release: 0.19, Ready to run image: [Reflectivity.zip](%assets_url%/downlo
 
 How to install from Pharo (pre-closures) (more extensive description: [INSTALL.txt](%assets_url%/download/reflectivity/INSTALL.txt)): 
 
--  get Pharo from [pharoproject.org](http://pharoproject.org)
+-  get Pharo from pharoproject.org
 -  install ReflectivityLoader from [SqueakSource](http://www.squeaksource.com/Reflectivity.html)
 -  load packages with *ReflectivityLoader new loadStablePackages*
 -  Recompile the image using class *PERecompiler* 
@@ -36,7 +36,7 @@ How to install from Pharo (pre-closures) (more extensive description: [INSTALL.t
 -  Hermion: Exploiting Runtime Information in the IDE, [Paper](%assets_url%/scgbib/?query=roet08b&filter=Year), (David R&ouml;thlisberger)
 -  TypePlug: Pluggable Types for Squeak, [Paper](%assets_url%/scgbib/?query=hald07b&filter=Year), (Nik Haldiman)
 -  Transactional Memory for Smalltalk, [Paper](%assets_url%/scgbib/?query=reng07b&filter=Year), (Lukas Renggli)
--  HistOOry. Manage simply the past: Persistent Objects. [HistOOry Website](http://decomp.ulb.ac.be/frdricpluquet/researchactivities/histoory/), (Fr&eacute;d&eacute;ric Pluquet) 
+-  HistOOry. Manage simply the past: Persistent Objects. HistOOry Website, (Fr&eacute;d&eacute;ric Pluquet) 
 
 #Contact
 

@@ -80,7 +80,7 @@ Please, be sure that you keep the audience entertained, interested and motivated
 
 The workshop will have a demo-oriented style. The idea is to allow participants to demonstrate new and interesting features and discuss what they feel is relevant for the dynamic language community. Participants need to **submit a 2&mdash;4 page position paper **of their work in [ACM sig-alternate.cls](http://www.acm.org/sigs/publications/proceedings-templates) format. At the workshop, participants will be asked to give 10-minute “lightning demos” of their contributions. 
 
-Submission page is [https://www.easychair.org/login.cgi?conf=dyla10](https://www.easychair.org/login.cgi?conf=dyla10)
+Submission page is https://www.easychair.org/login.cgi?conf=dyla10
 
 # Targeted audience
 
@@ -105,7 +105,7 @@ above, this should foster participation from all targeted communities.
 - [Alexandre Bergel](http://bergel.eu), University of Chile, Santiago, Chile
 - <a href="mailto:cfbolz@gmx.de">cfbolz@gmx.de</a>
 , Heinrich-Heine-Universität, Düsseldorf, Germany
-- [Simon Denier](http://www.simondenier.eu), RMoD Research group, INRIA Lille-Nord Europe, France
+- Simon Denier, RMoD Research group, INRIA Lille-Nord Europe, France
 - [Michael Haupt](http://www.hpi.uni-potsdam.de/hirschfeld/people/haupt/), Hasso-Plattner-Institut, Potsdam, Germany
 - [Adrian Kuhn](%base_url%/wiki/alumni/adriankuhn), University of Bern, Switzerland
 
@@ -115,7 +115,7 @@ above, this should foster participation from all targeted communities.
 - [Tom Dinkelaker](http://www.stg.tu-darmstadt.de/staff/tom_dinkelaker/index.en.jsp), Technische Universität Darmstadt, Germany
 - [Johan Fabry](http://www.dcc.uchile.cl/~jfabry/Welcome.html), University of Chile 
 - [Matthew Flatt](http://www.cs.utah.edu/~mflatt), University of Utah, USA
-- [Stephan Herrmann](http://user.cs.tu-berlin.de/~stephan/), TU Berlin, Germany
+- Stephan Herrmann, TU Berlin, Germany
 - [Abram Hindle](http://swag.uwaterloo.ca/~ahindle/), University of Waterloo, Canada
 - [Kasper Lund](http://verdich.dk/kasper/), Google, Denmark.
 - [Michael Perscheid](http://www.hpi.uni-potsdam.de/hirschfeld/people/perscheid/), Hasso-Plattner-Institut, Potsdam, Germany

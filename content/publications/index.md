@@ -95,5 +95,5 @@ The following SCG publications, theses and demos have received awards:
 ##2003:
 
 - *Ernst Denert-Stiftung Prize for Software Engineering* for [Michele Lanza](http://www.inf.usi.ch/lanza/)'s PhD thesis, [Object-Oriented Reverse Engineering &mdash; Coarse-grained, Fine-grained, and Evolutionary Software Visualization](%assets_url%/scgbib/?query=lanza+phd).
-- *JMLC Best Paper Award* for [Classboxes: A Minimal Module Model Supporting Local Rebinding](%assets_url%/scgbib/?query=berg03a&filter=Year) by [Alexandre Bergel](http://www.bergel.eu/), [St&eacute;phane Ducasse](http://stephane.ducasse.free.fr/) and [Roel Wuyts](http://decomp.ulb.ac.be/roelwuyts/)
+- *JMLC Best Paper Award* for [Classboxes: A Minimal Module Model Supporting Local Rebinding](%assets_url%/scgbib/?query=berg03a&filter=Year) by [Alexandre Bergel](http://www.bergel.eu/), [St&eacute;phane Ducasse](http://stephane.ducasse.free.fr/) and Roel Wuyts
 - *[Faculty Prize](https://www.philnat.unibe.ch/ueber_uns/archiv/fakultaetspreise/index_ger.html)* for [Frank Buchli](http://www.linkedin.com/in/frankbuchli)'s Diploma thesis, [Detecting Software Patterns using Formal Concept Analysis](%assets_url%/scgbib/?query=buch03a&filter=Year)

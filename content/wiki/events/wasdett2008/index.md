@@ -7,7 +7,7 @@ Title: 1st International Workshop on Academic Software Development Tools and Tec
 **Date:**  July 8, 2008.
 **Location:**  Paphos, Cyprus. 
 
-Links &rArr; [2nd WASDETT](http://wasdett2.wikispaces.com/) @ ICSM 2008
+Links &rArr; 2nd WASDETT @ ICSM 2008
 
 
 ---
@@ -115,7 +115,7 @@ We deliberately do not put any restrictions on the kinds of tools that can be su
 In spite of our focus on experimental research tools, we explicitly solicit position papers from software industrials as well. Not only will their participation in the workshop allow them to get a sneak preview of state-of-the-art research tools, their opinions and visions would allow builders of research prototypes to learn more about the actual needs of industry.
 
 ##Submission Guidelines
-Submit your position paper in PDF, so that we can collect all of the submissions on a web-site. Please keep all position papers **between 5 and 10 pages**, and use the [style guidelines for Elsevier journal papers](http://www.elsevier.com/wps/find/authorsview.authors/elsart). A separate abstract including the e-mail addresses of the authors and URL's of their home pages must be submitted in ASCII text.
+Submit your position paper in PDF, so that we can collect all of the submissions on a web-site. Please keep all position papers **between 5 and 10 pages**, and use the style guidelines for Elsevier journal papers. A separate abstract including the e-mail addresses of the authors and URL's of their home pages must be submitted in ASCII text.
 
 
 -  !<s>WASDETT Easychair Submission</s>
@@ -137,8 +137,8 @@ NB: Submission timezone is APIA, ie out there in the Pacific at UTC-11.
 - Kim Mens (primary contact), Universite catholique de Louvain, [http://www.info.ucl.ac.be/~km](http://www.info.ucl.ac.be/~km)
 - Mark van den Brand, Eindhoven University of Technology, [http://www.win.tue.nl/~mvdbrand](http://www.win.tue.nl/~mvdbrand)
 - Adrian Kuhn, University of Berne, [Adrian Kuhn](%base_url%/wiki/alumni/adriankuhn)
-- Holger M. Kienle, University of Victoria, [http://holgerkienle.wikispaces.com](http://holgerkienle.wikispaces.com)
-- Roel Wuyts, IMEC Leuven, [http://homepages.ulb.ac.be/~rowuyts](http://homepages.ulb.ac.be/~rowuyts)
+- Holger M. Kienle, University of Victoria, http://holgerkienle.wikispaces.com
+- Roel Wuyts, IMEC Leuven, http://homepages.ulb.ac.be/~rowuyts
 
 ##Program Committee
 
@@ -147,11 +147,11 @@ NB: Submission timezone is APIA, ie out there in the Pacific at UTC-11.
 -  Dr. Pascal Costanza, Vrije Universiteit Brussel (Belgium), [http://p-cos.net](http://p-cos.net)
 -  Dr. Yann-Ga&euml;l Gu&eacute;h&eacute;neuc, University of Montreal (Canada), [http://www.yann-gael.gueheneuc.net](http://www.yann-gael.gueheneuc.net)
 -  Dr. Robert Hirschfeld, Hasso-Plattner-Institut Potsdam (Germany), [http://www.hirschfeld.org](http://www.hirschfeld.org)
--  Dr. Andy Kellens, Vrije Universiteit Brussel (Belgium), [http://prog.vub.ac.be/~akellens](http://prog.vub.ac.be/~akellens) 
--  Anne Keller, Universiteit Antwerpen (Belgium), [http://www.ua.ac.be/anne.keller](http://www.ua.ac.be/anne.keller)
+-  Dr. Andy Kellens, Vrije Universiteit Brussel (Belgium), http://prog.vub.ac.be/~akellens 
+-  Anne Keller, Universiteit Antwerpen (Belgium), http://www.ua.ac.be/anne.keller
 -  Dr. G&uuml;nter Kniesel, University of Bonn (Germany), [http://www.cs.uni-bonn.de/~gk/gk](http://www.cs.uni-bonn.de/~gk/gk)
 -  Dr. Jens Krinke, Fernuniversit&auml;t Hagen (Germany), [http://www.fernuni-hagen.de/ST/krinke](http://www.fernuni-hagen.de/ST/krinke). 
--  Dr. Michele Lanza, University of Lugano (Switzerland), [http://www.inf.unisi.ch/faculty/lanza](http://www.inf.unisi.ch/faculty/lanza)
+-  Dr. Michele Lanza, University of Lugano (Switzerland), http://www.inf.unisi.ch/faculty/lanza
 -  Dr. Radu Marinescu, University from Timisoara (Rumania), [http://www.cs.utt.ro/~radum](http://www.cs.utt.ro/~radum)
 -  Dr. Oscar Nierstrasz, University of Berne (Switzerland), [Oscar Nierstrasz](%base_url%/staff/oscar) 
 -  Dr. Martin Pinzger, University of Zurich (Switzerland), [http://seal.ifi.uzh.ch/pinzger](http://seal.ifi.uzh.ch/pinzger)
@@ -161,7 +161,7 @@ NB: Submission timezone is APIA, ie out there in the Pacific at UTC-11.
 -  Allen Wirfs-Brock (USA), [http://c2.com/cgi/wiki?AllenWirfsBrock](http://c2.com/cgi/wiki?AllenWirfsBrock)
 -  Dr. Andy Zaidman, Technische Universiteit Delft (The Netherlands), [http://www.st.ewi.tudelft.nl/~zaidman](http://www.st.ewi.tudelft.nl/~zaidman)
 -  Dr. Olivier Zendra, INRIA / LORIA (France), [http://www.loria.fr/~zendra](http://www.loria.fr/~zendra)
--  Dr. Tom Zimmerman, University of Calgary (Canada), [http://pages.cpsc.ucalgary.ca/~zimmerth](http://pages.cpsc.ucalgary.ca/~zimmerth)
+-  Dr. Tom Zimmerman, University of Calgary (Canada), http://pages.cpsc.ucalgary.ca/~zimmerth
 
 ##Download
 

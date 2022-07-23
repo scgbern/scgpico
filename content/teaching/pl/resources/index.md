@@ -24,7 +24,7 @@ See also: [CC Resources](%base_url%/teaching/cc/resources)
 ##Functional Programming
 
 - Paul Hudak, **[Conception, Evolution, and Application of Functional Programming Languages](http://scgresources.unibe.ch/~scg/Literature/PL/Huda89a-p359-hudak.pdf)**, ACM Computing Surveys, vol. 21, no. 3, September 1989, pp. 359-411.
-	- See also [preprint on-line](http://web.cs.iastate.edu/~lumpe/ComS541/Resources/p359-hudak.pdf)
+	- See also preprint on-line
 
 - [Functional programming FAQ](http://www.cs.nott.ac.uk/~gmh/faq.html)
 - Haskell: [http://www.haskell.org](http://www.haskell.org)

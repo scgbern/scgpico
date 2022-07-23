@@ -143,7 +143,7 @@ Title: Code Coverage
 
 -  Smalltalk
 	-  [http://www.refactory.com/Software/MethodWrappers/CoverageTool.html](http://www.refactory.com/Software/MethodWrappers/CoverageTool.html)
-	-  [http://st-www.cs.uiuc.edu/users/brant/Applications/WrapperApplications.html](http://st-www.cs.uiuc.edu/users/brant/Applications/WrapperApplications.html)
+	-  http://st-www.cs.uiuc.edu/users/brant/Applications/WrapperApplications.html
 	-  [http://www.cincomsmalltalk.com/publicRepository/Zork-Analysis.html](http://www.cincomsmalltalk.com/publicRepository/Zork-Analysis.html)
 
 -  Java (Maven)
