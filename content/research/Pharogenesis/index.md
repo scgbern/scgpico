@@ -2,7 +2,7 @@
 Title: Pharogenesis
 ---
 #Pharogenesis
-In the Smalltalk dialects [Squeak](http://squeak.org) and [Pharo](http://pharo-project.org) it is difficult to view changes to source code that occurred accross major releases. This poses a problem for development as well as for code analysis: Developers often need to be able to revert code to a previous version and for code analysis there should ideally be a single source of information. We solve the problem by building a [Git](http://git-scm.com) repository with the complete source code history of Pharo.
+In the Smalltalk dialects [Squeak](http://squeak.org) and [Pharo](https://pharo.org) it is difficult to view changes to source code that occurred accross major releases. This poses a problem for development as well as for code analysis: Developers often need to be able to revert code to a previous version and for code analysis there should ideally be a single source of information. We solve the problem by building a [Git](http://git-scm.com) repository with the complete source code history of Pharo.
 
 The tool we use to create the Git repository is called Pharogenesis. Pharogenesis uses a Smalltalk implementation of Git called GitFS to build a Git repository from the source code.
 
