@@ -6,7 +6,7 @@ Title: Around and About Bern
 
 -  [City of Bern](http://www.bern.ch/)
 -  [BernMobil](http://www.bernmobil.ch/) (public transport)
--  [SBB](http://www.sbb.ch/en/index.htm) (swiss trains)
+-  SBB (swiss trains)
 -  [Weather](http://www.intellicast.com/Local/IntlLocalStd.asp?loc=lszb&seg=LocalWeather&prodgrp=Forecast&product=Forecast&prodnav=none)
 -  Pollen report
 -  Skiing

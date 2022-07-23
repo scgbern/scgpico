@@ -60,7 +60,7 @@ If you plan to attend, please register:
 	- Gjallar, the workflow based bug tracker written in Squeak
 
 - Andreas Brodbeck
-	- Scratch (which is built with Squeak), see [http://www.scratch.ch](http://www.scratch.ch) and [http://llk.media.mit.edu/projects/scratch/](http://llk.media.mit.edu/projects/scratch/)
+	- Scratch (which is built with Squeak), see [http://www.scratch.ch](http://www.scratch.ch) and http://llk.media.mit.edu/projects/scratch/
 
 - Daniel Levy
 -  Stefan Reichhart (afternoon only)

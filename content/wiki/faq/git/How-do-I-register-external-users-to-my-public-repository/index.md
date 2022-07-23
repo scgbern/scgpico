@@ -8,6 +8,6 @@ Title: How do I register external users to my public repository?
 Links:
 
 -  [Git Man page](http://www.kernel.org/pub/software/scm/git/docs/gittutorial.html)
--  [Cheat-sheet](http://ktown.kde.org/%7Ezrusin/git/git-cheat-sheet-medium.png)
+-  Cheat-sheet
 -  [Setting up git](http://vafer.org/blog/20080115011407)
 -  [Git for windoze](http://github.com/guides/using-git-and-github-for-the-windows-for-newbies)

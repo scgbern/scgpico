@@ -10,7 +10,7 @@ Visit my master project's website, [JUnit2JExample](%base_url%/wiki/projects/arc
 
 -  http://www.csg.is.titech.ac.jp/~chiba/javassist
 -  [http://www.jboss.org/javassist/](http://www.jboss.org/javassist/)
--  [http://www.iam.unibe.ch/~akuhn/s/2006-IGE-Bytecode-Manipulation.pdf](http://www.iam.unibe.ch/~akuhn/s/2006-IGE-Bytecode-Manipulation.pdf)
+-  http://www.iam.unibe.ch/~akuhn/s/2006-IGE-Bytecode-Manipulation.pdf
 -  [http://spoon.gforge.inria.fr/](http://spoon.gforge.inria.fr/)
 
 

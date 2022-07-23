@@ -12,7 +12,7 @@ Second Language Acquisition (SLA) is always difficult and often boring, since on
 
 Some recent advances in Second Language Acquisition, such as the excellent Duolingo app are making progress in the right direction, but there is still much to be done.
 
-Our research which aims to revolutionize the way people enrich their vocabulary when learning a new language is code-named [Zeeguu](https://www.zeeguu.unibe.ch/). It is an infrastrucutre that allows learners to read any content they want while learning a new language. As they read various texts that are interesting for them and while they search for words that they do not understand the system builds a model of their knowledge in an online profile. 
+Our research which aims to revolutionize the way people enrich their vocabulary when learning a new language is code-named Zeeguu. It is an infrastrucutre that allows learners to read any content they want while learning a new language. As they read various texts that are interesting for them and while they search for words that they do not understand the system builds a model of their knowledge in an online profile. 
 
 Based on this online profile the system can recommend new texts, as well as generate personalised exercises. And provide the user with feedback regarding his progress.
 

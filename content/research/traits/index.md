@@ -34,7 +34,7 @@ Traits are available for [Squeak](http://www.squeak.org). Starting with version 
 Stevan Little [implemented Traits](http://search.cpan.org/~stevan/Class-Trait/) in [Perl 5](http://www.perl.com).
 The first Traits implementation by Stevan little is now obsolete. Stevan has created [Moose](http://search.cpan.org/dist/Moose/), a "postmodern object system for Perl 5", that has huge impact on the Perl community. Moose has a metaobject protocol, much like CLOS or Smalltalk; the notion of traits is called "Roles".
 
-In his [series about the unfolding of the Perl 6 design](http://www.perl.com/pub/a/2004/04/16/a12.html), Larry Wall, the creator of Perl, gives a description of Roles, the variation of Traits that is planned as a fundamental language element of Perl 6. See also: [Updated docs on the design of Perl6](http://perlcabal.org/syn/) ([objects and roles](http://perlcabal.org/syn/S12.html))
+In his [series about the unfolding of the Perl 6 design](http://www.perl.com/pub/a/2004/04/16/a12.html), Larry Wall, the creator of Perl, gives a description of Roles, the variation of Traits that is planned as a fundamental language element of Perl 6. See also: Updated docs on the design of Perl6 (objects and roles)
 
 Discussions on roles vs inheritance are quite active among Perl bloggers. See for example
 

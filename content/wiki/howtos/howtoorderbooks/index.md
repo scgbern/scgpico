@@ -2,7 +2,7 @@
 Title: How to order books
 ---
 #How to order books
-If you want an ebook, before ordering please check whether it is accessible through the [University Library](http://www.unibe.ch/university/services/university_library/research/e_books/index_eng.html).
+If you want an ebook, before ordering please check whether it is accessible through the University Library.
 
 Please note that since the INF (and SCG) library have moved to the ExWi building there is now a new procedure for ordering books.
 

@@ -33,7 +33,7 @@ Some remarks regarding the forms:
 
 #Electronic version of your thesis
 
-Please follow [these guidelines](http://www.unibe.ch/university/services/university_library/services/electronic_publishing/dissertations/index_eng.html).
+Please follow these guidelines.
 (NB: cached versions are also [here](%assets_url%/download/e-Diss/)). To deliver your copy, go to Hochschulstrasse 6 and ask to talk to the person responsible for the library publications (office in the last floor). 
 
 #Handing in your thesis at the Dekanat
@@ -44,7 +44,7 @@ See the [detailed schedule](http://www.philnat.unibe.ch/studies/graduation/index
 
 That day you have to hand in **4 copies** of your thesis to the [Dekanat](http://www.philnat.unibe.ch/ueber_uns/dekanat/studiensekretariat/index_ger.html). (NB: it used to be 5 copies; this changed in Oct. 2016.)
 Furthermore, the Dekanat requires the Beurteilung and Korreferat, which your advisor will directly hand in  (these papers  include a number of copies: 10 copies of the Beurteilung and 10 copies of the Koreferat).
-Make sure that you update the name of the dean on the title page of your thesis, it changes every now and then (the name of the current dean can be found on the [Phil-Nat website](http://www.philnat.unibe.ch/ueber_uns/dekanat/dekanatsleitung/index_ger.html)). 
+Make sure that you update the name of the dean on the title page of your thesis, it changes every now and then (the name of the current dean can be found on the Phil-Nat website). 
 
 Be sure to give a physical copy to the Chair (Vorstand) *before* the defence.
 

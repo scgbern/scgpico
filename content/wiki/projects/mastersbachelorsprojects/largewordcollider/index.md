@@ -19,7 +19,7 @@ The goal of The Large Word Collider project is to design and build a browser ext
 
 #What you will learn and practice
 
--  Developing Google Chrome extensions, which have an [excellent architecture](https://developer.chrome.com/extensions/index)
+-  Developing Google Chrome extensions, which have an excellent architecture
 -  Basic [natural language processing](http://norvig.com/ngrams/) algorithms
 -  [Good team-work](http://losingit65.files.wordpress.com/2014/01/nerd-party.png) since the project involves you working with the Zeeguu team
 

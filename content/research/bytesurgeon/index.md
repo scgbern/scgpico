@@ -28,6 +28,6 @@ To install the code in an existing image:
 
 #Contact
 
-- Author: [Marcus Denker](http://www.iam.unibe.ch/~denker) 
+- Author: Marcus Denker 
 - The ByteSurgeon Mailinglist is reflectivity@iam.unibe.ch. You can use the <a href= "https://www.iam.unibe.ch/mailman/listinfo/reflectivity">Mailman web interface</a> to subscribe. 
 - For reporting bugs, please use [the bug tracker](http://code.google.com/p/reflectivity/issues/list).

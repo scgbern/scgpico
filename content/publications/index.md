@@ -72,7 +72,7 @@ The following SCG publications, theses and demos have received awards:
 
 - *[Faculty Prize](https://www.philnat.unibe.ch/ueber_uns/archiv/fakultaetspreise/index_ger.html)* for [Lukas Renggli](http://www.lukas-renggli.ch/)'s PhD thesis, [Dynamic Language Embedding With Homogeneous Tool Support](%assets_url%/scgbib/?query=Reng10d&filter=Year)
 - *[IAM Alumni prize](https://www.jointalumni.ch/awards/)* for Florian Gysin's Bachelor thesis, [Trust this Code? &mdash; Improving Code Search Results through Human Trustability Factors](%assets_url%/scgbib/?query=Gysi10c&filter=Year)
-- *[ACM Student Research Competition (SRC 2010) award](http://src.acm.org/previouswinners.html)* for Florian Gysin's Bachelor work, [Improved social trustability of code search results](%assets_url%/scgbib/?query=Gysi10a&filter=Year)
+- *ACM Student Research Competition (SRC 2010) award* for Florian Gysin's Bachelor work, [Improved social trustability of code search results](%assets_url%/scgbib/?query=Gysi10a&filter=Year)
 
 ##2009: 
 

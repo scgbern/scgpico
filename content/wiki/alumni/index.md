@@ -2,7 +2,7 @@
 Title: SCG Alumni
 ---
 #SCG Alumni
-Please add yourself or update your coordinates if you are a former [SCG](http://www.iam.unibe.ch/~scg/) member.
+Please add yourself or update your coordinates if you are a former SCG member.
 
 You may also want to add youself to the scg alumni mailing list and join the [Joint Alumni Association in Computer Science](https://www.jointalumni.ch/).
 
@@ -11,7 +11,7 @@ You may also want to add youself to the scg alumni mailing list and join the [Jo
 -  Franz Achermann
 -  [Erik Aeschlimann](%base_url%/wiki/alumni/erikaeschlimann)
 -  [Bledar Aga](%base_url%/wiki/alumni/bledaraga)
--  [Gabriela Arevalo](http://www.lifia.info.unlp.edu.ar/en/gabriela.htm)
+-  Gabriela Arevalo
 -  [Alexandre Bergel](http://www.bergel.eu/)
 -  [Roland Bertuli](http://www.new.facebook.com/profile.php?id=1193731892)
 -  Frank Buchli
@@ -41,23 +41,23 @@ You may also want to add youself to the scg alumni mailing list and join the [Jo
 -  [Adrian Kuhn](%base_url%/wiki/alumni/adriankuhn)
 -  [Maudlin Kummer](%base_url%/wiki/alumni/MaudlinKummer)
 -  [Michele Lanza](http://www.inf.usi.ch/faculty/lanza/)
--  [Peng Liang](http://www.cs.rug.nl/~liangp/)
+-  Peng Liang
 -  [Max Leske](%base_url%/wiki/alumni/maxleske)
 -  [Markus Lumpe](http://www.ict.swin.edu.au/personal/mlumpe/)
 -  [Dominique Matter](%base_url%/wiki/alumni/dominiquematter)
--  [Igor Metz](http://www.glue.ch/~metz/)
+-  Igor Metz
 -  [Leonel Merino](%base_url%/staff/merino)
 -  [Nevena Milojković](%base_url%/staff/Milojkovic)
 -  [Haidar Osman](%base_url%/staff/Osman)
 -  [Fabrizio Perin](%base_url%/staff/fabrizioperin)
--  [Laura Ponisio](http://wwwhome.cs.utwente.nl/~ponisioml/)
+-  Laura Ponisio
 -  [Andrea Quadri](%base_url%/wiki/alumni/quadri)
 -  [Stefan Reichhart](%base_url%/wiki/alumni/stefanreichhart)
 -  [Lukas Renggli](http://www.lukas-renggli.ch/)
 -  [Jorge Ressia](%base_url%/staff/jorgeressia)
 -  Tamar Richner
 -  Matthias Rieger
--  [Nathanael Schärli](http://www.iam.unibe.ch/~schaerli/)
+-  Nathanael Schärli
 -  Jean-Guy Schneider
 -  [Dennis Schenk](/wiki/alumni/dennisschenk)
 -  [Niko Schwarz](%base_url%/staff/Schwarz)
@@ -67,4 +67,4 @@ You may also want to add youself to the scg alumni mailing list and join the [Jo
 -  [Yuriy Tymchuk](%base_url%/staff/YuriyTymchuk)
 -  [Toon Verwaest](%base_url%/staff/toonverwaest)
 -  [Erwann Wernli](http://www.ewernli.com/)
--  [Roel Wuyts](http://decomp.ulb.ac.be/roelwuyts/)
+-  Roel Wuyts

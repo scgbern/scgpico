@@ -20,7 +20,7 @@ We intend the workshop to facilitate interested researchers that share their ide
 
 -  [SUITE 2009 Website](%base_url%/wiki/events/suite2009)
 -  [Workshop's Easychair Submission Page](http://www.easychair.org/conferences/?c=.113876;conf=suite09)
--  [IEEE Proceedings Format Guide](http://www.cs.uoregon.edu/events/icse2009/calls/format/?n=DR)
+-  IEEE Proceedings Format Guide
 -  [ICSE Workshops](http://www.cs.uoregon.edu/events/icse2009/workshops/#Search)
 </td>
 <td>
@@ -86,7 +86,7 @@ We actively seek a format which emphasizes fruitful interactions and discussions
 
 <b>Be electronic.</b> Submit your position paper in PDF, using the workshop's <u>[EasyChair website](http://www.easychair.org/conferences/?c=.113876;conf=suite09)</u>, so that we can collect and publish all of the submissions on the web-site. Accepted submissions will be included in the IEEE digital library.
 
-Submissions should be made in the IEEE Proceedings format. Please follow the style guidelines as prescribed by [ICSE](http://www.cs.uoregon.edu/events/icse2009/calls/format/?n=DR), also detailed in the [IEEE web page](http://www.computer.org/portal/site/cscps/menuitem.02df7cde46985ea21618fc2e6bcd45f3/index.jsp?&pName=cscps_level1&path=cscps/cps&file=cps_forms.xml&xsl=generic.xsl&).
+Submissions should be made in the IEEE Proceedings format. Please follow the style guidelines as prescribed by ICSE, also detailed in the IEEE web page.
 
 <b>Be short.</b> Please keep all position papers under four pages.
 

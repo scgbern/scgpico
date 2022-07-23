@@ -43,7 +43,7 @@ Title: Activities of Adrian Kuhn
 -  Co-organizer of [WASSDeTT 2008](%base_url%/wiki/events/wasdett2008) (Workshop on Advanced Software Development Tools and Techniques) at ECOOP 2008, 7 July 2008, Paphos, Cyprus.
 -  Head organizer of [Squeak-PyPy Sprint](%base_url%/wiki/events/pypysprint), 22-26 Oct 2007, Bern, Switzerland. 
 -  Co-organizer of Famoosr 2007 (Workshop on FAMIX and Moose in Software Reengineering) at TOOLS 2007, 25 Jun 2007, Zurich, Switzerland.
--  Co-organizer of [Etoys](http://wiki.laptop.org/go/Etoys) workshop at [Informatiklehrertag Bayern](http://ddi.informatik.uni-erlangen.de/Service/veranstaltungen/iltb06/) (1st Bavarian Day for Computer Science Teachers), 16 Oct 2006, Erlangen, Germany.
+-  Co-organizer of [Etoys](http://wiki.laptop.org/go/Etoys) workshop at Informatiklehrertag Bayern (1st Bavarian Day for Computer Science Teachers), 16 Oct 2006, Erlangen, Germany.
 
 ##Invited Talks
 

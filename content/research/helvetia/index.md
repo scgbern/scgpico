@@ -32,7 +32,7 @@ Gofer new
 
 #Contact
 
-Feel free to ask questions and report bugs on the [Pharo mailing-list](http://lists.gforge.inria.fr/mailman/listinfo/pharo-project).
+Feel free to ask questions and report bugs on the Pharo mailing-list.
 
 #License
 

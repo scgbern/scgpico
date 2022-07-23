@@ -408,7 +408,7 @@ Normally, the seminar takes place on Mondays at 14.00 in the afternoon in our se
 -  Mar 1 - [Mascha Kurpicz](%base_url%/wiki/alumni/mkurpicz): Final Bachelor Presentation w/ Scrum Detector demo
 -  Feb 22 - [David Gurtner](%base_url%/wiki/alumni/DavidGurtner): Dynamic Software Updates with ActiveContext
 -  Feb 1 - [Daniel Langone](%base_url%/wiki/alumni/daniellangone): Subjectivity
--  Jan 18 - [Markus Herrmannsdörfer](http://www4.in.tum.de/~herrmama/): Evolutionary Metamodeling
+-  Jan 18 - Markus Herrmannsdörfer: Evolutionary Metamodeling
 
 ##2010
 
@@ -468,7 +468,7 @@ Normally, the seminar takes place on Mondays at 14.00 in the afternoon in our se
 -  July 28: Philipp Bunge &mdash; Glare UI: Flashing User Interfaces with Smalltalk
 -  July 21: Daniel Langone &mdash; Mapping Eclipse ASTs to Moose models
 -  June 23: Andrea Quadri &mdash; Squeak Source 2
--  June 2: Oscar Nierstrasz &mdash; a brief demo of [AGG: The Attributed Graph Grammar System](http://tfs.cs.tu-berlin.de/agg/index.html)
+-  June 2: Oscar Nierstrasz &mdash; a brief demo of AGG: The Attributed Graph Grammar System
 -  May 26: Camillo Bruni &mdash; [PyGirl](%base_url%/wiki/projects/archive/pygirl): Translating Whole-system VMs using PyPy
 -  May 5: David Erni &mdash; JavaGroups: Collective Behavior for Java
 -  April 28: Manuel Friedli &mdash; ECCrawler: Visual Navigation for Eclipse
@@ -529,7 +529,7 @@ Normally, the seminar takes place on Mondays at 14.00 in the afternoon in our se
 -  May 8: Pascal Zumkehr &mdash; ChangeBoxes
 -  Apr 3: Markus Gälli &mdash; Fit: An Acceptance Test Framework
 -  Mar 13: David Röthlisberger &mdash; Unanticipated Reflection with Geppetto
--  Mar 7: Michael Meyer &mdash; [The nice visualization engine wihtout a final name](http://moose.unibe.ch/tools/mondrian)
+-  Mar 7: Michael Meyer &mdash; The nice visualization engine wihtout a final name
 -  Feb 20: Romain Robbes
 -  Feb 6: Mauricio Seeberger &mdash; How Developers Drive Software Evolution
 -  Feb 5: Florian Thalmann &mdash; JamTomorrow: Collaborative Music Generation in Croquet
@@ -548,15 +548,15 @@ Normally, the seminar takes place on Mondays at 14.00 in the afternoon in our se
 -  Apr 18: David Röthlisberger &mdash; Reflex and Geppetto
 -  Mar 21: Mauricio Seeberger &mdash; Bridging Versioning Information to Van
 -  Mar 14: Gabriela Arevalo &mdash; CSMR '05 Rehearsal
--  Jan 31: [Orla Greevy](http://www.iam.unibe.ch/~greevy) &mdash; Feature Analysis Tool Demonstration
+-  Jan 31: Orla Greevy &mdash; Feature Analysis Tool Demonstration
  
 ##2004
 
--  December: [Orla Greevy](http://www.iam.unibe.ch/~greevy) &mdash; The Evolution of Features
+-  December: Orla Greevy &mdash; The Evolution of Features
 -  November 1st: Andy Kellens &mdash; On using logic programming ...
--  September 20: [Markus Kobel](http://www.iam.unibe.ch/~kobel/) &mdash; [CodeSnooper](http://www.iam.unibe.ch/~kobel/diploma.html) Demonstration
+-  September 20: Markus Kobel &mdash; CodeSnooper Demonstration
 -  August 16: Danny Dig, UIUC/SAG &mdash; Refactoring and Frameworks
--  June 28: [Orla Greevy](http://www.iam.unibe.ch/~greevy) &mdash; Retrospective Dynamic Analysis to Support Evolution (Request for Feedback Presentation)
+-  June 28: Orla Greevy &mdash; Retrospective Dynamic Analysis to Support Evolution (Request for Feedback Presentation)
 -  May 10: Mircea Lungu &mdash; Diploma Start Presentation
 -  Apr 5: Markus Kobel &mdash; Diploma Start Presentation
 -  Mar 29: Thomas Buehler &mdash; Diploma Start Presentation
@@ -612,7 +612,7 @@ Normally, the seminar takes place on Mondays at 14.00 in the afternoon in our se
 - 13 November: Serge Demeyer &mdash; (http://www.iam.unibe.ch/~demeyer/). "Object-Oriented Reengineering &mdash; The FAMOOS Experience". 
 - 29 November: Thomas Hofmann &mdash; Open Spaces 
 - 27 October: [Sander Tichelaar](%assets_url%/files/d2/fwlcmo5x2id8gh4wvl9jvw517ki6zh/Sander%20Tichelaar) &mdash; Language Independent Refactorings 
-- 20 October: Serge Demeyer &mdash; Why Unified is not Universal. UML Shortcomings for Coping with Round-trip Engineering, (UML'99 Presentation) [http://www.iam.unibe.ch/~demeyer](http://www.iam.unibe.ch/~demeyer) 
+- 20 October: Serge Demeyer &mdash; Why Unified is not Universal. UML Shortcomings for Coping with Round-trip Engineering, (UML'99 Presentation) http://www.iam.unibe.ch/~demeyer 
 - 1 October: Michele Lanza &mdash; A Hybrid Reverse Engineering Approach Combining Metrics and Program Visualization (WCRE'99 Presentation) 
 - 1 October: Stephane Ducasse &mdash; Patterns for Reverse Engineering (WCRE'99 Presentation) 
 - 1 September: Matthias Rieger &mdash; Language Independent Approach for Detecting Duplicated Code, (Presentation ICSM'99) 

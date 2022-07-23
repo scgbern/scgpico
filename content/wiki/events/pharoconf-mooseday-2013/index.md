@@ -84,8 +84,8 @@ The venue is close to the center of the city. Several hotels offer special Unive
 
 Here are some suggestions:
 
--  Hotel Kreuz - [http://www.kreuzbern.ch/en/hotel.html](http://www.kreuzbern.ch/en/hotel.html)
--  Hotel Metropole - [http://www.hotelmetropole.ch/EN/](http://www.hotelmetropole.ch/EN/)
+-  Hotel Kreuz - http://www.kreuzbern.ch/en/hotel.html
+-  Hotel Metropole - http://www.hotelmetropole.ch/EN/
 
 Cheaper stays can also be booked at the [Youth Hostel](http://www.youthhostel.ch/de/hostels/bern) that is also close to the center.
 

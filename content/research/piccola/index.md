@@ -13,8 +13,8 @@ There currently exist two experimental implementations of Piccola: *JPiccola* is
 ##JPiccola:
 
 - Download the [JPiccola 3.7c distribution](%assets_url%/download/piccola/JPiccola3.7c.zip) (~800KB zip file &#8212; includes JPiccola jar file, JPiccola Guide (pdf), and demo scripts
-- Download [external jar libraries](http://www.iam.unibe.ch/~scg/legacy/viewvc.cgi/extlib/?cvsroot=jpiccola) (copy these to the extlib folder of the download, if you do not already have newer copies)
--  [Browse](http://www.iam.unibe.ch/~scg/legacy/viewvc.cgi/?cvsroot=jpiccola) or [download](%assets_url%/download/piccola/jpiccola3.7c-src.zip) the JPiccola source files (cvs repository)
+- Download external jar libraries (copy these to the extlib folder of the download, if you do not already have newer copies)
+-  Browse or [download](%assets_url%/download/piccola/jpiccola3.7c-src.zip) the JPiccola source files (cvs repository)
 
 ##SPiccola:
 

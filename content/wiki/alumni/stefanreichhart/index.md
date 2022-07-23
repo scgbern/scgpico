@@ -44,7 +44,7 @@ Title: Stefan Reichhart
 
 # Varia
 
--  [Esug 2006 in Prague](http://www.iam.unibe.ch/~reichhar) - Pictures
+-  Esug 2006 in Prague - Pictures
 -  [Esug 2006 Camp Smalltalk](%base_url%/wiki/alumni/stefanreichhart/esug2006campsmalltalk) 
 -  [Squeak Graveyard](%base_url%/wiki/alumni/stefanreichhart/squeakgraveyard) - todo's
 
@@ -55,4 +55,4 @@ Title: Stefan Reichhart
 
 -  Mail: stefan underscore reichhart at students dot unibe dot ch
 -  Personal Webpage: [http://reichhart.freezope.org](http://reichhart.freezope.org)
--  IAM Webpage: [http://www.iam.unibe.ch/~reichhar/](http://www.iam.unibe.ch/~reichhar/)
+-  IAM Webpage: http://www.iam.unibe.ch/~reichhar/

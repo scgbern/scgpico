@@ -5,7 +5,7 @@ Title: Tools
 Links to the presented tools at the workshop:
 
 -  <span style="background:yellow;">[Churrasco](http://churrasco.inf.unisi.ch/)
--  [MARPLE](http://essere.disco.unimib.it/reverse/Marple.html)
+-  MARPLE
 -  <span style="background:yellow;">[Hopscotch](http://newspeaklanguage.org/)
 -  <span style="background:yellow;">[IntensiVE](http://www.intensive.be)
 -  [mCRL2](http://www.mcrl2.org/)

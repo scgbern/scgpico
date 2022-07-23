@@ -8,7 +8,7 @@ Title: Bringing Models Closer to Code
 |---|---|
 |<strong>Funding:</strong>|395'304.&#8212; SFr.
 |<strong>Period:</strong>|Oct 1, 2008 - Sept. 30, 2010
-|<strong>Collaborating teams:</strong>|[Run-time instrumentation group](http://www.inf.usi.ch/projects/ferrari/FERRARI.html), University of Lugano, Switzerland <br/> [REVEAL research group](http://www.inf.unisi.ch/faculty/lanza/), University of Lugano, Switzerland<br/>[RMod group](http://rmod.lille.inria.fr/), INRIA, Lille, France<br/> [Loose Research Group](http://loose.upt.ro/), Politehnica University of Timisoara, Rumania
+|<strong>Collaborating teams:</strong>|Run-time instrumentation group, University of Lugano, Switzerland <br/> [REVEAL research group](http://www.inf.unisi.ch/faculty/lanza/), University of Lugano, Switzerland<br/>[RMod group](http://rmod.lille.inria.fr/), INRIA, Lille, France<br/> [Loose Research Group](http://loose.upt.ro/), Politehnica University of Timisoara, Rumania
  
 #Keywords
 Software evolution; software models; model-driven-engineering; reverse engineering; domain specific languages; dynamic analysis; integrated development environments; model-centric development. 

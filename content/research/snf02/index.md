@@ -16,7 +16,7 @@ Despite advances in programming languages, software development environments, do
 
 This project proposes to develop new tools and techniques for *decomposing* software systems, that is, for breaking down and understanding complex software, and for *composing* software systems, that is, structuring software so that it becomes easier to maintain, reconfigure, and extend.
 
-The proposed work builds on our previous work on the [Moose analysis platform](http://moose.unibe.ch) and the Piccola composition language. 
+The proposed work builds on our previous work on the Moose analysis platform and the Piccola composition language. 
 
 For more information, please consult the [Research Plan](%assets_url%/download/projectreports/snf02-part2.pdf) of the project [pdf].
  

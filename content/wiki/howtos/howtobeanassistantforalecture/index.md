@@ -48,7 +48,7 @@ Title: How to be an assistant for a lecture
 ##Exam
 
 -  Enter the exam details in ILIAS/Academia
--  Prepare the exam, note the regulations [http://www.philnat.unibe.ch/lenya/philnat/live/studienbetrieb/formulare.html](http://www.philnat.unibe.ch/lenya/philnat/live/studienbetrieb/formulare.html). I.e., the time for the exam is limited to 30-180 minutes.
+-  Prepare the exam, note the regulations http://www.philnat.unibe.ch/lenya/philnat/live/studienbetrieb/formulare.html. I.e., the time for the exam is limited to 30-180 minutes.
 -  Let the Hilfsassistants solve it to see if the time and difficulty is ok
 -  Give it to Oscar and discuss it with him
 -  Print two sheets "Bitte Ruhe, Prüfung" for the lecture hall doors

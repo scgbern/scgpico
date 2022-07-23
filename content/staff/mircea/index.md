@@ -12,7 +12,7 @@ Title: Mircea F. Lungu
 
 I am a researcher at the Software Composition Group at the University of Berne. I work closely with [Oscar Nierstrasz](%base_url%/staff/oscar) and the members of [the group](/staff).
 
-I got my PhD from the University of Lugano, with [Michele Lanza](http://www.inf.usi.ch/faculty/lanza/) as advisor and my engineer degree from the Polytechnic University of Timişoara, with a thesis supervised by [Radu Marinescu](http://bigfoot.cs.upt.ro/~radum/) and [Tudor Girba](http://tudorgirba.com). I was as a visiting researcher at IBM TJ Watson Research Center in NY with [Wim De Pauw](https://researcher.ibm.com/researcher/view.php?person=us-wim). 
+I got my PhD from the University of Lugano, with [Michele Lanza](http://www.inf.usi.ch/faculty/lanza/) as advisor and my engineer degree from the Polytechnic University of Timişoara, with a thesis supervised by Radu Marinescu and [Tudor Girba](http://tudorgirba.com). I was as a visiting researcher at IBM TJ Watson Research Center in NY with [Wim De Pauw](https://researcher.ibm.com/researcher/view.php?person=us-wim). 
 
 My research interests are in software engineering, software evolution, ecosystem analysis, programming languages, and mobile applications.
 
@@ -68,7 +68,7 @@ Teaching is learning, so I have been lucky to be teaching a broad range of topic
 #Service to the Community
 
 I am on the PC of
-[SE Week](http://ansymo.ua.ac.be/csmr-wcre),
+SE Week,
 [OOPSLA](http://splashcon.org/), 
 [WCRE](http://wcre.wikidot.com/2013),
 [ICSM TD Track](http://icsm2013.tue.nl/ProgCommittee/index.html),
@@ -109,9 +109,9 @@ I advised the following master (MS) and bachelor (BS) theses at the Universities
 |&nbsp;&nbsp;| Erik Aeschlimann |  [St1-PL/1: Reverse Engineering PL1 Ecosystems](/archive/masters/Aesc13b.pdf) ([WCRE paper](/scgbib?query=Aesc13a&display=abstract))| MS, UB |
 |&nbsp;&nbsp;| Dennis Schenk | [Quicksilver: A Framework for Hierarchical Data Analysis](/archive/masters/Sche14a.pdf) ([SSE paper](/scgbib?query=Sche13a&display=abstract),[thesis](/archive/masters/Sche14a.pdf))| MS, UB |
 |&nbsp;&nbsp;| Nicole Haenni | [Information Needs in Software Ecosystems](/archive/masters/Haen14b.pdf) (papers: [WEA'13](/scgbib?query=Haen13a&display=abstract), [WEA'14](/scgbib?query=Haen14a&display=abstract))| MS, UB  |
-|&nbsp;&nbsp;| Jacopo Malnati | [Developer centric analysis of SVN ecosystems](http://www.inf.usi.ch/faculty/lanza/Downloads/Maln2009a.pdf) ([MSR paper](/scgbib?query=Maln09a&display=abstract))| MS, UL |
-|&nbsp;&nbsp;| Alessio Boeckmann |  [MARS - Modular Architecture Recommendation System](http://www.inf.usi.ch/faculty/lanza/Downloads/Boec2010a.pdf) | MS, UL |
-|&nbsp;&nbsp;| Jacopo Malnati | [X-Ray - An Eclipse Plug-in for Software Visualization. ](http://www.inf.usi.ch/faculty/lanza/Downloads/Maln07a.pdf) | BS, UL |
+|&nbsp;&nbsp;| Jacopo Malnati | Developer centric analysis of SVN ecosystems ([MSR paper](/scgbib?query=Maln09a&display=abstract))| MS, UL |
+|&nbsp;&nbsp;| Alessio Boeckmann |  MARS - Modular Architecture Recommendation System | MS, UL |
+|&nbsp;&nbsp;| Jacopo Malnati | X-Ray - An Eclipse Plug-in for Software Visualization.  | BS, UL |
 
 #Contact
 

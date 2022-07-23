@@ -21,7 +21,7 @@ The goal of this project is to improve the graphical widget used by the GTInspec
 
 # Benefits/Requirements/Challenges
 
-This project will give you the chance to learn about constructing graphical user interfaces and inspectors. The project will be done in [Pharo](http://www.pharo-project.org/%20), an open-source Smalltalk-inspired environment. You will see a language quite different from Java and C#. The GTInspector is written in [Glamour](http://www.moosetechnology.org/tools/glamour%20) an engine for scripting browsers. The work will also require some development in Morphic, the default framework for constructing user interfaces from Pharo. 
+This project will give you the chance to learn about constructing graphical user interfaces and inspectors. The project will be done in [Pharo](http://www.pharo-project.org/%20), an open-source Smalltalk-inspired environment. You will see a language quite different from Java and C#. The GTInspector is written in Glamour an engine for scripting browsers. The work will also require some development in Morphic, the default framework for constructing user interfaces from Pharo. 
 
 You should apply for this project if you have good programming skills in any object-oriented language. Knowing anything about Pharo, inspectors or user interfaces is not required.
 

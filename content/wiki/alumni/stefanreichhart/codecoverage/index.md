@@ -22,7 +22,7 @@ Title: Code Coverage
 
 #Demo Stuff
 
--  A very [Quick-Video-Intro](http://www.iam.unibe.ch/~reichhar/ChristoBasics.mov) to Christo
+-  A very Quick-Video-Intro to Christo
 -  Some example [Screenshots](%base_url%/wiki/alumni/stefanreichhart/codecoverage/screenshots) from "Christo" Browsers and Visualisations ...
 -  Statistics, [Case Studies](%base_url%/wiki/alumni/stefanreichhart/codecoverage/casestudies) and more ...
 
@@ -142,12 +142,12 @@ Title: Code Coverage
 #Related Tools
 
 -  Smalltalk
-	-  [http://www.refactory.com/Software/MethodWrappers/CoverageTool.html](http://www.refactory.com/Software/MethodWrappers/CoverageTool.html)
+	-  http://www.refactory.com/Software/MethodWrappers/CoverageTool.html
 	-  http://st-www.cs.uiuc.edu/users/brant/Applications/WrapperApplications.html
 	-  [http://www.cincomsmalltalk.com/publicRepository/Zork-Analysis.html](http://www.cincomsmalltalk.com/publicRepository/Zork-Analysis.html)
 
 -  Java (Maven)
 	-  [http://emma.sourceforge.net/](http://emma.sourceforge.net/)
-	-  [http://www.jcoverage.com/](http://www.jcoverage.com/)
+	-  http://www.jcoverage.com/
 	-  [http://www.cenqua.com/clover/](http://www.cenqua.com/clover/)
 
