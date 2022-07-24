@@ -10,7 +10,7 @@ The Reflectivity is work on progress based on Squeak. It provides extensions to 
 
 -  Behavioral Reflection is provided by a new and improved version of Geppetto, a realization of *Partial Behavioral Reflection* as pioneered by [Reflex](http://pleiad.dcc.uchile.cl/reflex).
 
-There are some slides from a demo at DYLA07 [here](http://www.iam.unibe.ch/~denker/talks/07DYLA/07ReflectivityDylan.pdf) 
+There are some slides from a demo at DYLA07 here 
 
 #Subsystems
 
@@ -22,7 +22,7 @@ Latest Release: 0.19, Ready to run image: [Reflectivity.zip](%assets_url%/downlo
 
 How to install from Pharo (pre-closures) (more extensive description: [INSTALL.txt](%assets_url%/download/reflectivity/INSTALL.txt)): 
 
--  get Pharo from [pharoproject.org](http://pharoproject.org)
+-  get Pharo from pharoproject.org
 -  install ReflectivityLoader from [SqueakSource](http://www.squeaksource.com/Reflectivity.html)
 -  load packages with *ReflectivityLoader new loadStablePackages*
 -  Recompile the image using class *PERecompiler* 

@@ -105,7 +105,7 @@ above, this should foster participation from all targeted communities.
 - [Tom van Cutsem](http://soft.vub.ac.be/~tvcutsem/), Vrije Universiteit Brussel
 - [Tom Dinkelaker](http://www.stg.tu-darmstadt.de/staff/tom_dinkelaker/), Technische Universität Darmstadt
 - [Johan Fabry](http://www.dcc.uchile.cl/~jfabry/Welcome.html), University of Chile 
-- [Sebastián González](http://www.info.ucl.ac.be/~sgm/coordinates.html), UC Louvain, Belgium
+- Sebastián González, UC Louvain, Belgium
 - [Roberto Ierusalimschy](http://www.inf.puc-rio.br/~roberto/), Pontifical University in Rio de Janeiro
 - [James Noble](http://homepages.ecs.vuw.ac.nz/~kjx/), Victoria University of Wellington
 - [Lukas Renggli](http://www.lukas-renggli.ch/), Google, Switzerland

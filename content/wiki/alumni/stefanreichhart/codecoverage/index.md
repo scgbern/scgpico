@@ -22,7 +22,7 @@ Title: Code Coverage
 
 #Demo Stuff
 
--  A very [Quick-Video-Intro](http://www.iam.unibe.ch/~reichhar/ChristoBasics.mov) to Christo
+-  A very Quick-Video-Intro to Christo
 -  Some example [Screenshots](%base_url%/wiki/alumni/stefanreichhart/codecoverage/screenshots) from "Christo" Browsers and Visualisations ...
 -  Statistics, [Case Studies](%base_url%/wiki/alumni/stefanreichhart/codecoverage/casestudies) and more ...
 

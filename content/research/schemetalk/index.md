@@ -33,10 +33,10 @@ SchemeTalk is available at:
 ##Documentation
 SchemeTalk is being documented piece by piece on my blog:
 
--  [Installing and Getting Started](http://www.iam.unibe.ch/~verwaest/blog/?p=5)
--  [First-class Slots](http://www.iam.unibe.ch/~verwaest/blog/?p=6)
--  [First-class Methods](http://www.iam.unibe.ch/~verwaest/blog/?p=7)
--  [Actors](http://www.iam.unibe.ch/~verwaest/blog/?p=17)
+-  Installing and Getting Started
+-  First-class Slots
+-  First-class Methods
+-  Actors
 
 ##Updates
 

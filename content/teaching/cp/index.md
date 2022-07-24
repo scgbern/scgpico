@@ -6,7 +6,7 @@ Title: CP: Concurrency: State Models and Design Patterns
 
 | | |
 |---|---|
-|**Course:**| [21005](https://mcs.unibnf.ch/courses/concurrency-state-models-and-design-patterns/) (Autumn Semester 2021)
+|**Course:**| 21005 (Autumn Semester 2021)
 |**Lecturer:**|[Prof. Oscar Nierstrasz](%base_url%/oscar)
 |**Assistants:**|[Pascal Gadient PhD](%base_url%/staff/PascalGadient), [Mohammadreza Hazhirpasand](%base_url%/staff/MohammadrezaHazhirpasand)
 |**Lecture:**|Wednesday, 10h15 - 12h00

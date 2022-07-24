@@ -49,6 +49,6 @@ I just started at Google Munich where I'll work on the V8 JavaScript engine.
 -  Olivier Flückiger helped me make [Pinocchio](%base_url%/research/pinocchio) self-sustaining ([bachelor](%assets_url%/archive/projects/Flue11a.pdf))
 -  [David Gurtner](%base_url%/wiki/alumni/DavidGurtner) worked on making [Pinocchio](%base_url%/research/pinocchio) fit for running [ActiveContext](%base_url%/research/ActiveContext), and helped [Erwann Wernli](%base_url%/staff/ewernli) to further define the ActiveContext model ([master](%assets_url%/archive/masters/Gurt11a.pdf))
 -  [Camillo Bruni](%base_url%/wiki/alumni/camillobruni) looked into techniques for optimally building reflective VMs, as a part of [Pinocchio](%base_url%/research/pinocchio) ([master](%assets_url%/archive/masters/Brun11a.pdf))
--  [Camillo Bruni](%base_url%/wiki/alumni/camillobruni) has used [PyPy](http://codespeak.net/pypy/dist/pypy/doc/) to build [PyGirl](%base_url%/wiki/projects/archive/pygirl) ([bachelor](%assets_url%/archive/projects/Brun09b.pdf))
+-  [Camillo Bruni](%base_url%/wiki/alumni/camillobruni) has used PyPy to build [PyGirl](%base_url%/wiki/projects/archive/pygirl) ([bachelor](%assets_url%/archive/projects/Brun09b.pdf))
 -  Daniel Langone worked on reengineering parsers from Eclipse plugins to extract facts ([bachelor](%assets_url%/archive/projects/Lang09a.pdf))
 -  Sandro De Zanet is using genetic algorithms to generate PEG parsers for code. ([master](%assets_url%/archive/masters/DeZa09a.pdf))

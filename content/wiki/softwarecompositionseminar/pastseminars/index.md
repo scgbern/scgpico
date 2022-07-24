@@ -176,7 +176,7 @@ Normally, the seminar takes place on Mondays at 14.00 in the afternoon in our se
 -  Nov 7 &mdash; [Lars Wüthrich](%base_url%/wiki/alumni/LarsWuethrich) &mdash; [A visual editor for shape grammars (Bachelors)](%assets_url%/download/softwarecomposition/2017-11-07-Wuethrich-ShapeGrammars.pdf)
 -  Oct 31 &mdash; [Manuel Leuenberger](%base_url%/staff/ManuelLeuenberger) &mdash; [An integrated environment for literature research](%assets_url%/download/softwarecomposition/2017-10-31-Leuenberger-ILE.pdf)
 -  Oct 24 &mdash; [Sara Peeters](%base_url%/wiki/alumni/SaraPeeters) &mdash; [A Web App to Help Autistic People Communicate about Autism](%assets_url%/download/softwarecomposition/2017-10-24-Peeters-AutismWebApp.pdf) (Bachelors)
--  Oct 3 &mdash; [Oscar Nierstrasz](%base_url%/staff/oscar) &mdash; [Great Moments in the History of OOP](https://www.slideshare.net/onierstrasz/great-moments-in-the-history-of-oop)
+-  Oct 3 &mdash; [Oscar Nierstrasz](%base_url%/staff/oscar) &mdash; [Great Moments in the History of OOP](%assets_url%/download/oscar/Simula50/GreatMomentsInOOP+notes.pdf)
 -  Sept 19 &mdash; [MSc seminar topic](%base_url%/wiki/projects/mastersbachelorsprojects) presentations and obligatory quiz.
 -  Aug 29 &mdash; [Pascal Gadient PhD](%base_url%/staff/PascalGadient) &mdash; [Security in Android Applications](%assets_url%/download/softwarecomposition/2017-08-29-Gadient-SecurityInAndroidApplications.pdf) (Masters)
 -  Aug 15 &mdash; [Dominik Fankhauser](%base_url%/wiki/alumni/DominikFankhauser) &mdash; [Developing a club management software](%assets_url%/download/softwarecomposition/2017-08-15-Fankhauser-Club_management_software.pdf) (Bachelors)
@@ -408,7 +408,7 @@ Normally, the seminar takes place on Mondays at 14.00 in the afternoon in our se
 -  Mar 1 - [Mascha Kurpicz](%base_url%/wiki/alumni/mkurpicz): Final Bachelor Presentation w/ Scrum Detector demo
 -  Feb 22 - [David Gurtner](%base_url%/wiki/alumni/DavidGurtner): Dynamic Software Updates with ActiveContext
 -  Feb 1 - [Daniel Langone](%base_url%/wiki/alumni/daniellangone): Subjectivity
--  Jan 18 - [Markus Herrmannsdörfer](http://www4.in.tum.de/~herrmama/): Evolutionary Metamodeling
+-  Jan 18 - Markus Herrmannsdörfer: Evolutionary Metamodeling
 
 ##2010
 
@@ -424,7 +424,7 @@ Normally, the seminar takes place on Mondays at 14.00 in the afternoon in our se
 -  July 26: [Andrea Quadri](%base_url%/wiki/alumni/quadri) &mdash; Reflection through operational decomposition
 -  July 5: [Daniel Langone](%base_url%/wiki/alumni/daniellangone) &mdash; Modelling Subjectivity
 -  June 21: Michal Musial &mdash; Task Manager in the IDE
--  May 17: [David Gurtner](%base_url%/wiki/alumni/DavidGurtner) &mdash; [ActiveContext](%base_url%/research/ActiveContext) in [Pinocchio](%base_url%/research/pinocchio); Max Leske &mdash; [GitFS](http://buildinggitfs.blogspot.com/)
+-  May 17: [David Gurtner](%base_url%/wiki/alumni/DavidGurtner) &mdash; [ActiveContext](%base_url%/research/ActiveContext) in [Pinocchio](%base_url%/research/pinocchio); Max Leske &mdash; GitFS
 -  May 10: [Camillo Bruni](%base_url%/wiki/alumni/camillobruni) &mdash; [Pinocchio](%base_url%/research/pinocchio) VM
 -  May 3: [Marcel Härry](%base_url%/wiki/alumni/marcelhrry) &mdash; [Senseo](%base_url%/research/senseo) (final presentation)
 -  April 26: Markus Balsiger &mdash; Representing software features in the Eclipse IDE
@@ -441,7 +441,7 @@ Normally, the seminar takes place on Mondays at 14.00 in the afternoon in our se
 -  September 21: Lea Hänsenberger &mdash; JUnit2JExample
 -  September 7: [Niko Schwarz](%base_url%/staff/Schwarz) &mdash; Mathematica: the cool parts
 -  August 17: [Adrian Kuhn](%base_url%/wiki/alumni/adriankuhn) &mdash; "State-of-the-art in Source Code Search."  
--  July 13: [Anja Guzzi](http://atelier.inf.unisi.ch/~guzzia/Casina/Home.html) &mdash; Supporting Collaboration Awareness in Multi-developer Projects
+-  July 13: Anja Guzzi &mdash; Supporting Collaboration Awareness in Multi-developer Projects
 -  June 8: Marcel Härry &mdash; [Senseo](/research/senseo) &mdash; Augmenting Static Source Views in IDEs with Dynamic Metrics
 -  May 25: [Oscar Nierstrasz](%base_url%/staff/oscar) &mdash; "Citezen-Pier: scgbib queries inside Pier"
 -  May 11: [Adrian Kuhn](%base_url%/wiki/alumni/adriankuhn) &mdash; "SquareBuilder and Turtlez, two little languages in P2's Ludo game."
@@ -468,7 +468,7 @@ Normally, the seminar takes place on Mondays at 14.00 in the afternoon in our se
 -  July 28: Philipp Bunge &mdash; Glare UI: Flashing User Interfaces with Smalltalk
 -  July 21: Daniel Langone &mdash; Mapping Eclipse ASTs to Moose models
 -  June 23: Andrea Quadri &mdash; Squeak Source 2
--  June 2: Oscar Nierstrasz &mdash; a brief demo of [AGG: The Attributed Graph Grammar System](http://tfs.cs.tu-berlin.de/agg/index.html)
+-  June 2: Oscar Nierstrasz &mdash; a brief demo of AGG: The Attributed Graph Grammar System
 -  May 26: Camillo Bruni &mdash; [PyGirl](%base_url%/wiki/projects/archive/pygirl): Translating Whole-system VMs using PyPy
 -  May 5: David Erni &mdash; JavaGroups: Collective Behavior for Java
 -  April 28: Manuel Friedli &mdash; ECCrawler: Visual Navigation for Eclipse
@@ -548,15 +548,15 @@ Normally, the seminar takes place on Mondays at 14.00 in the afternoon in our se
 -  Apr 18: David Röthlisberger &mdash; Reflex and Geppetto
 -  Mar 21: Mauricio Seeberger &mdash; Bridging Versioning Information to Van
 -  Mar 14: Gabriela Arevalo &mdash; CSMR '05 Rehearsal
--  Jan 31: [Orla Greevy](http://www.iam.unibe.ch/~greevy) &mdash; Feature Analysis Tool Demonstration
+-  Jan 31: Orla Greevy &mdash; Feature Analysis Tool Demonstration
  
 ##2004
 
--  December: [Orla Greevy](http://www.iam.unibe.ch/~greevy) &mdash; The Evolution of Features
+-  December: Orla Greevy &mdash; The Evolution of Features
 -  November 1st: Andy Kellens &mdash; On using logic programming ...
--  September 20: [Markus Kobel](http://www.iam.unibe.ch/~kobel/) &mdash; [CodeSnooper](http://www.iam.unibe.ch/~kobel/diploma.html) Demonstration
+-  September 20: Markus Kobel &mdash; CodeSnooper Demonstration
 -  August 16: Danny Dig, UIUC/SAG &mdash; Refactoring and Frameworks
--  June 28: [Orla Greevy](http://www.iam.unibe.ch/~greevy) &mdash; Retrospective Dynamic Analysis to Support Evolution (Request for Feedback Presentation)
+-  June 28: Orla Greevy &mdash; Retrospective Dynamic Analysis to Support Evolution (Request for Feedback Presentation)
 -  May 10: Mircea Lungu &mdash; Diploma Start Presentation
 -  Apr 5: Markus Kobel &mdash; Diploma Start Presentation
 -  Mar 29: Thomas Buehler &mdash; Diploma Start Presentation

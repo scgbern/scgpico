@@ -3,9 +3,9 @@ Title: Organizing Committee
 ---
 #Organizing Committee
 
-- [Sushil Bajracharya](http://www.ics.uci.edu/~sbajrach), University of California Irvine, USA.
+- Sushil Bajracharya, University of California Irvine, USA.
 -  [Adrian Kuhn](%base_url%/wiki/alumni/adriankuhn), University of Bern, Switzerland.
--  [Joel Ossher](http://www.ics.uci.edu/~jossher/), University of California Irvine, USA.
+-  Joel Ossher, University of California Irvine, USA.
 - [Yunwen Ye](http://www.sra.co.jp/people/ye), SRA, Japan. 
 
 #Program Committee
@@ -15,16 +15,16 @@ Title: Organizing Committee
 -  [Andrew Begel](http://research.microsoft.com/~abegel/) (Microsoft Research, US)
 -  [Cleidson de Souza](http://www.ufpa.br/cdesouza) (University Federal Para, Brasil)
 -  [Mark Grechanik](http://www.cs.uic.edu/~drmark/) (Accenture, US)
--  [Reid Holmes](http://pages.cpsc.ucalgary.ca/~rtholmes/) (University of Washington, US)
--  [Toshihiro Kamiya](http://sel.ist.osaka-u.ac.jp/~kamiya/) (AIST, Japan)
+-  Reid Holmes (University of Washington, US)
+-  Toshihiro Kamiya (AIST, Japan)
 -  [Andrew Ko](http://faculty.washington.edu/ajko/) (University of Washington, US)
--  [Einar Høst](http://www.nr.no/~einarwh/) (Norsk Regnesentral, Norway) 
+-  Einar Høst (Norsk Regnesentral, Norway) 
 -  [Erik Linstead](http://www1.chapman.edu/~linstead/) (Chapman University, US)
 -  [Cristina Lopes](http://www.ics.uci.edu/~lopes/) (University of California Irvine, US)
--  [Andrian Marcus](http://www.cs.wayne.edu/~amarcus/) (Wayne State University, US)
+-  Andrian Marcus (Wayne State University, US)
 -  [Oscar Nierstrasz](%base_url%/staff/oscar) (University of Bern, Switzerland)
--  [Martin Pinzger](http://swerl.tudelft.nl/bin/view/MartinPinzger/WebHome) (Delf University, Netherlands)
+-  Martin Pinzger (Delf University, Netherlands)
 -  [Lori Pollock](http://www.cis.udel.edu/~pollock/) (University of Delaware, US)
--  [Susan Sim](http://www.ics.uci.edu/~ses/) (University of California Irvine, US)
+-  Susan Sim (University of California Irvine, US)
 -  [Suresh Thummalapenta](http://www4.ncsu.edu/~sthumma/) (North Carolina State University, US)
 -  [Tom Zimmermann](http://thomas-zimmermann.com) (Microsoft Research, US)

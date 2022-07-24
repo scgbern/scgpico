@@ -5,7 +5,7 @@ Title: CC: Compiler Construction
 
 | | |
 |---|---|
-|**Course:**| [21025 Compiler Construction](http://mcs.unibnf.ch/program/courses-timetable/courses/compiler-construction-2) (Spring 2019)
+|**Course:**| 21025 Compiler Construction (Spring 2019)
 |**Lecturer:**|[Prof. Oscar Nierstrasz](%base_url%/oscar), [Dr. Mohammad Ghafari](%base_url%/staff/Mohammad-Ghafari)
 |**Assistants:**|[Manuel Leuenberger](%base_url%/staff/ManuelLeuenberger), [Rathesan (Radi) Iyadurai](%base_url%/wiki/alumni/RadiIyadurai)
 |**Audience:**|Master students in computer science 

@@ -39,7 +39,7 @@ My main research interests are in the areas of software visualization, program c
 ---
 [![Linkedin](%assets_url%/files/33/me2zx3n9nv76kytonn53l80oslmgju/linkedin_s.png)](http://www.linkedin.com/in/leonelmerino)
 [![Youtube](%assets_url%/files/22/nrybncsvl5hqreq0o2iyx75laltpjy/youtube_s.jpg)](http://www.youtube.com/user/leonelmerino)
-[![Bitbucket](%assets_url%/files/03/s0l3ormblg2ohbpvzmmkwzus54c110/bitbucket_s.png)](https://bitbucket.org/leonelmerino/visualisations)
+[![Bitbucket](%assets_url%/files/03/s0l3ormblg2ohbpvzmmkwzus54c110/bitbucket_s.png)](https://bitbucket.org/leonelmerino/)
 [![Smalltalkhub](%assets_url%/files/30/l84uj1w89txuy34sipxjk2w23cw0pe/smalltalkhub.png)](http://smalltalkhub.com/#!/~merino)
 
 ---

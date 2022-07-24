@@ -11,7 +11,7 @@ Grammars for programming languages are traditionally specified statically. They 
 #Getting Started
 
 Although PetitParser was born as part of the Helvetia infrastructure, it can be used independently. An introduction to PetitParser can be found in the following blog posts: [Writing Parsers with PetitParser](http://www.lukas-renggli.ch/blog/petitparser-1) and [Composite Grammars with PetitParser](http://www.lukas-renggli.ch/blog/petitparser-2).
-There is a dedicated chapter on PetitParser in [Deep into Pharo](http://rmod.lille.inria.fr/pbe2/), and there is a chapter on using PetitParser with Moose in the [Moose Book](http://www.themoosebook.org/book/internals/petit-parser).
+There is a dedicated chapter on PetitParser in [Deep into Pharo](http://rmod.lille.inria.fr/pbe2/), and there is a chapter on using PetitParser with Moose in the Moose Book.
 
 ##Pharo Smalltalk
 
@@ -87,7 +87,7 @@ There is also a version of [PetitParser for Dart](https://github.com/renggli/Pet
 
 ##Smalltalk/X
 
-There is also a version of [PetitParser for Smalltalk/X](https://bitbucket.org/janvrany/stx-goodies-petitparser/overview).
+There is also a version of PetitParser for Smalltalk/X.
 
 #Contact
 

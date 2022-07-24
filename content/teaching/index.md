@@ -46,5 +46,5 @@ Title: Teaching
 - [How to complete a Masters](%base_url%/wiki/howtos/howtocompleteamasters)
 - [Unibe semester dates](http://www.advd.unibe.ch/imd/wiwdaten.htm)
 - [Swiss Joint Master of Science in Computer Science](http://mcs.unibnf.ch/)
-- [CUSO Doctoral Program in Computer Science](http://informatique.cuso.ch/en) (formerly [Troisième cycle romand d'informatique](http://www.cuso.ch/3e-cycle/informatique/))
+- [CUSO Doctoral Program in Computer Science](http://informatique.cuso.ch/) 
 - [Vorlesungsverzeichnis on-line](http://evub.unibe.ch/pievub/)

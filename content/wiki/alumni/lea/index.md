@@ -260,8 +260,8 @@ The tool can be used on command line by executing a statement like
 java -cp &lt;path_to_junit3to4.jar&gt; OR &lt;path_to_junit4&gt;:&lt;path_to_bin&gt; ch.unibe.junit3to4.Converter -i path/to/java/file.java
 ```
 
-where the junit3to4.jar can be generated with an ant script in the [project](https://www.iam.unibe.ch/scg/svn_repos/Students/haense/JUnit3To4)
-or by editing and executing the RunConversion class in the [project](https://www.iam.unibe.ch/scg/svn_repos/Students/haense/JUnit3To4).
+where the junit3to4.jar can be generated with an ant script in the project
+or by editing and executing the RunConversion class in the project.
 
 ##<a name="23">20.03.09</a>
 Adapted the Junit3To4 converter so it checks if a class extends TestCase and implements at least one test method before it translates it to JUnit 4. Next thing to do is cope with suite() methods and super-calls.

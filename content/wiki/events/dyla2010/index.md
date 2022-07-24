@@ -123,7 +123,7 @@ above, this should foster participation from all targeted communities.
 - [Niko Schwarz](/staff/Schwarz), University of Bern, Switzerland 
 - [Peter Sommerlad](http://ifs.hsr.ch/Team/Partners/Peter_Sommerlad), HSR Rapperswil, Switzerland
 - [Alessandro Warth](http://www.tinlizzie.org/~awarth), Viewpoints Research Institute, USA
-- [Vadim Zaytsev](http://www.uni-koblenz.de/~zaytsev/), University of Koblenz, Germany.
+- Vadim Zaytsev, University of Koblenz, Germany.
 
 # News feed
 

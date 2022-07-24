@@ -24,7 +24,7 @@ See also: [CC Resources](%base_url%/teaching/cc/resources)
 ##Functional Programming
 
 - Paul Hudak, **[Conception, Evolution, and Application of Functional Programming Languages](http://scgresources.unibe.ch/~scg/Literature/PL/Huda89a-p359-hudak.pdf)**, ACM Computing Surveys, vol. 21, no. 3, September 1989, pp. 359-411.
-	- See also [preprint on-line](http://web.cs.iastate.edu/~lumpe/ComS541/Resources/p359-hudak.pdf)
+	- See also preprint on-line
 
 - [Functional programming FAQ](http://www.cs.nott.ac.uk/~gmh/faq.html)
 - Haskell: [http://www.haskell.org](http://www.haskell.org)
@@ -50,10 +50,10 @@ See also: [CC Resources](%base_url%/teaching/cc/resources)
 -  [Cheat sheet](http://javascript-reference.info/)
 -  Online [videos](http://www.mkbergman.com/?p=339) of JavaScript lectures
 -  [Closures in JavaScript](http://jibbering.com/faq/faq_notes/closures.html)
--  [Rhino](http://www.mozilla.org/rhino/)
+-  Rhino
 -  [ECMAScript Language Specification](http://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf)
--  Firefox [Firebug plugin](https://addons.mozilla.org/de/firefox/addon/1843)
--  [Lint](http://www.javascriptlint.com/) (also [online](http://www.javascriptlint.com/online_lint.php))
+-  Firefox Firebug plugin
+-  [Lint](http://www.javascriptlint.com/) (also online)
 -  [NodeJS](http://nodejs.org/) (server-side JS)
 
 ##Types
@@ -70,7 +70,7 @@ See also: [CC Resources](%base_url%/teaching/cc/resources)
 - [SWI Prolog](http://www.swi-prolog.org/)
 - Sicstus Prolog Manual: [http://www.sics.se/sicstus/docs/3.7.1/html/sicstus_toc.html](http://www.sics.se/sicstus/docs/3.7.1/html/sicstus_toc.html)
 - Open Prolog (for Mac) : [http://www.cs.tcd.ie/open-prolog/](http://www.cs.tcd.ie/open-prolog/)
--  P. Flach, [Simply Logical](http://www.cs.bris.ac.uk/~flach/SimplyLogical.html), 1994
+-  P. Flach, Simply Logical, 1994
 
 ##Visual Programming
 

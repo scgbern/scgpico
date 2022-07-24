@@ -27,7 +27,7 @@ Title: How to be an assistant for a lecture
 	-  Ask Iris to coordinate the employment
 	-  Go to [Bettina Choffat](http://www.iam.unibe.ch/til/staff/choffat), she is responsible for the employment of hilfsassistants for bachelor courses
 
--  Set up mailing list for students, and if needed for staff: [https://www.iam.unibe.ch/mailman/listinfo](https://www.iam.unibe.ch/mailman/listinfo)
+-  Set up mailing list for students, and if needed for staff: https://www.iam.unibe.ch/mailman/listinfo
 
 ##Preparation for the first lecture
 
@@ -48,7 +48,7 @@ Title: How to be an assistant for a lecture
 ##Exam
 
 -  Enter the exam details in ILIAS/Academia
--  Prepare the exam, note the regulations [http://www.philnat.unibe.ch/lenya/philnat/live/studienbetrieb/formulare.html](http://www.philnat.unibe.ch/lenya/philnat/live/studienbetrieb/formulare.html). I.e., the time for the exam is limited to 30-180 minutes.
+-  Prepare the exam, note the regulations http://www.philnat.unibe.ch/lenya/philnat/live/studienbetrieb/formulare.html. I.e., the time for the exam is limited to 30-180 minutes.
 -  Let the Hilfsassistants solve it to see if the time and difficulty is ok
 -  Give it to Oscar and discuss it with him
 -  Print two sheets "Bitte Ruhe, Prüfung" for the lecture hall doors

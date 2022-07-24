@@ -43,7 +43,7 @@ Title: Activities of Adrian Kuhn
 -  Co-organizer of [WASSDeTT 2008](%base_url%/wiki/events/wasdett2008) (Workshop on Advanced Software Development Tools and Techniques) at ECOOP 2008, 7 July 2008, Paphos, Cyprus.
 -  Head organizer of [Squeak-PyPy Sprint](%base_url%/wiki/events/pypysprint), 22-26 Oct 2007, Bern, Switzerland. 
 -  Co-organizer of [Famoosr 2007](http://moose.unibe.ch/events/famoosr2007) (Workshop on FAMIX and Moose in Software Reengineering) at TOOLS 2007, 25 Jun 2007, Zurich, Switzerland.
--  Co-organizer of [Etoys](http://wiki.laptop.org/go/Etoys) workshop at [Informatiklehrertag Bayern](http://ddi.informatik.uni-erlangen.de/Service/veranstaltungen/iltb06/) (1st Bavarian Day for Computer Science Teachers), 16 Oct 2006, Erlangen, Germany.
+-  Co-organizer of [Etoys](http://wiki.laptop.org/go/Etoys) workshop at Informatiklehrertag Bayern (1st Bavarian Day for Computer Science Teachers), 16 Oct 2006, Erlangen, Germany.
 
 ##Invited Talks
 
@@ -51,7 +51,7 @@ Title: Activities of Adrian Kuhn
 -  [SEAL Softtalk](http://seal.ifi.uzh.ch/softtalks/) at [Univeristy of Zurich](http://seal.ifi.uzh.ch/), <i>Software Cartography</i>, 30 April 2009, Zurich, Switzerland.
 -  [ESUG 2008](http://www.esug.org/Conferences/2008), <i>Fame, Meta-Modeling at Runtime</i>, 26 August 2008, Amstersam, Netherlands.
 -  [SEAL Softtalk](http://seal.ifi.uzh.ch/softtalks/) at [Univeristy of Zurich](http://seal.ifi.uzh.ch/), <i>Cartography for Software?</i>, 21 August 2007, Zurich, Switzerland.
--  [StuTS 2007](http://39.stuts.de/) (39th Student Conference on Linguistics), <i>Using Computer Linguistics to Analyze Software</i>, 24 May 2006, Bern, Switzerland. 
+-  StuTS 2007 (39th Student Conference on Linguistics), <i>Using Computer Linguistics to Analyze Software</i>, 24 May 2006, Bern, Switzerland. 
 -  [IAM Alumini event](http://www.iam.unibe.ch/alumni/events/ftwevent.2005-10-20.8849111720) at [IGE](http://www.ige.ch/) (Swiss Federal Insitute of Intellectual Property), <i>Reverse Enginering Java Bytecode</i>, 21 February 2006, Bern, Switzerland.
 
 

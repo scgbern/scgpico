@@ -31,5 +31,5 @@ The original Hapax is written in Visualworks Smalltalk. Recently, Romain an me s
 ## Slides
 
 
--  [2006-StuTS-LinguisticSoftwareAnalysis.pdf](http://www.iam.unibe.ch/~akuhn/Documents/Slides/2006-StuTS-LinguisticSoftwareAnalysis.pdf) (best)
--  [2005-WCRE-SemanticClustering.pdf](http://www.iam.unibe.ch/~akuhn/Documents/Slides/2005-WCRE-SemanticClustering.pdf)
+-  2006-StuTS-LinguisticSoftwareAnalysis.pdf (best)
+-  2005-WCRE-SemanticClustering.pdf

@@ -5,7 +5,7 @@ Title: Aliaksei Syrel
 <img alt="AliakseiSyrel-avatar" src="%assets_url%/files/c1/ha5z8woyb3x19db2de1sx1qejplpsz/AliakseiSyrel-mountains-300x300.png" width=150 style="margin-top:0; display: block">
 I am a bachelor student at the University of Bern in the Software Composition Group. Under the supervision of <a href="/staff/andreichis" target=_blank>Andrei Chiş</a> I work on my thesis in the area of embeding visualisations in user insterface or moldable tools.
 
-I contribute to <a href="http://pharo.org/" target=_blank>Pharo</a> and currently work on <a href="http://gt.moosetechnology.org/brick/" target=_blank>Brick</a>, a project with the aim of bringing beautiful vector-based widgets on top of Bloc.
+I contribute to <a href="http://pharo.org/" target=_blank>Pharo</a> and currently work on <a href="https://github.com/feenkcom/Brick" target=_blank>Brick</a>, a project with the aim of bringing beautiful vector-based widgets on top of Bloc.
 
 As part of <a href="http://gt.moosetechnology.org/" target=_blank>Glamorous Toolkit</a> team I am involved in building moldable tools and Pharo IDE.
 
@@ -40,7 +40,7 @@ We should not forget that first of all Sparta is a vector graphics engine. It al
 <img src="https://github.com/syrel/Sparta/raw/master/screenshots/Sparta-v1-Shapes.png" alt="Basic vector graphics in Sparta" title="Sparta Shapes" width=200 style="margin:0; display: block">
 
 <h1>Brick</h1>
-<a href="http://gtoolkit.org/brick/" target=_blank>Brick</a> is a set of vector-based material design widgets for Pharo.
+<a href="https://github.com/feenkcom/Brick" target=_blank>Brick</a> is a set of vector-based material design widgets for Pharo.
 <br><img alt="Brick-Browser" src="%assets_url%/files/00/xyze0md1dwu74w5fado5xp4kjzljkk/Brick-Browser.png" width=400 style="margin:0; display: block">
 
 <p>sponsored by ESUG as SummerTalk2015 project</p>

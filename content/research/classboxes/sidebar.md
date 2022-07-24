@@ -7,5 +7,5 @@ The Classbox/J compiler is available on two platforms: [MacOSX](/download/cbj/CB
 
 
 - [Classbox publications](%assets_url%/scgbib/?query=classbox&filter=Year)
-- [Classboxes in .NET](http://www.cs.iastate.edu/~lumpe/CBs/)
+- Classboxes in .NET
 - [Second implementation of Classboxes in Java](http://pleiad.dcc.uchile.cl/research/software/classboxes)

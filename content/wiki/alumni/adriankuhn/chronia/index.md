@@ -14,8 +14,8 @@ Title: Chronia
 Get Chronia and analyze your own CVS history! 
 
 
--  [Chronia image for VisualWorks](http://www.iam.unibe.ch/~akuhn/chronia/chronia-image.zip) 
--  [CHRONIA.EXE for Windows](http://www.iam.unibe.ch/~akuhn/chronia/chronia-exe.zip)
+-  Chronia image for VisualWorks 
+-  CHRONIA.EXE for Windows
 
 ## References
 
@@ -28,7 +28,7 @@ Get Chronia and analyze your own CVS history!
 ## Slides
 
 
--  [2005-IWPSE-OwnershipMap.pdf](http://www.iam.unibe.ch/~akuhn/Documents/Slides/2005-IWPSE-OwnershipMap.pdf)
+-  2005-IWPSE-OwnershipMap.pdf
 
 ## More Links
 

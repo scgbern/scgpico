@@ -13,7 +13,7 @@ Download:
 
 -  local copy: todo
 -  [IEEE CS digital library](http://doi.ieeecomputersociety.org/10.1109/MS.2009.25)
--  [IEEE Xplore](http://ieeexplore.ieee.org/search/wrapper.jsp?arnumber=4721178)
+-  IEEE Xplore
 
 (c) 2009 IEEE. Personal use of this material is permitted. However, permission to reprint/republish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to reuse any copyrighted component of this work in other works must be obtained from the IEEE.
 

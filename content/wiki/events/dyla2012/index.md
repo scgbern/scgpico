@@ -87,7 +87,7 @@ And any topic relevant in applying and/or supporting dynamic languages: Smalltal
 - [Alexandre Bergel](http://bergel.eu), Pleiad Lab, University of Chile, Santiago, Chile
 - [Damien Cassou](http://damiencassou.seasidehosting.st/), Arles research group at INRIA, France
 - [Jorge Ressia](http://www.jorgeressia.com/), University of Bern, Switzerland
-- [Serge Stinckwich](http://www.doesnotunderstand.org/wikka.php/), UMMISCO, IRD/Université Pierre et Marie Curie/Vietnam National University, Vietnam
+- Serge Stinckwich, UMMISCO, IRD/Université Pierre et Marie Curie/Vietnam National University, Vietnam
 
 #Program committee
 

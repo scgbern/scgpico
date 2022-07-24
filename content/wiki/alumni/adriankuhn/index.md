@@ -4,7 +4,7 @@ Title: Adrian Kuhn
 #Adrian Kuhn
 <script src="http://www.iam.unibe.ch/~akuhn/strip.js"></script>
 
-Goto &rArr; [Publications](%base_url%/wiki/alumni/adriankuhn/pubs) | [Slides](http://www.iam.unibe.ch/~akuhn/s) | [Activities](%base_url%/wiki/alumni/adriankuhn/activities) | [Contact](%base_url%/wiki/alumni/adriankuhn/contact) | [Citeulike](http://citeulike.com/user/akuhn) | [Twitter](http://twitter.com/akuhn) | [Blog](http://www.iam.unibe.ch/~akuhn/blog)
+Goto &rArr; [Publications](%base_url%/wiki/alumni/adriankuhn/pubs) | Slides | [Activities](%base_url%/wiki/alumni/adriankuhn/activities) | [Contact](%base_url%/wiki/alumni/adriankuhn/contact) | [Citeulike](http://citeulike.com/user/akuhn) | [Twitter](http://twitter.com/akuhn) | Blog
 
 
 ---
