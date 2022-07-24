@@ -1,0 +1,2563 @@
+LinkChecker 10.1.0
+Copyright (C) 2000-2016 Bastian Kleineidam, 2010-2021 LinkChecker Authors
+LinkChecker comes with ABSOLUTELY NO WARRANTY!
+This is free software, and you are welcome to redistribute it under
+certain conditions. Look at the file `LICENSE' within this distribution.
+Read the documentation at https://linkchecker.github.io/linkchecker/
+Write comments and bugs to https://github.com/linkchecker/linkchecker/issues
+
+Start checking at 2022-07-24 11:29:19+002
+
+URL        `http://www.advd.unibe.ch/imd/wiwdaten.htm'
+Name       `Unibe semester dates'
+Parent URL http://scg.unibe.ch/teaching, line 87, col 5
+Real URL   http://www.advd.unibe.ch/imd/wiwdaten.htm
+Check time 1.142 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='www.advd.unibe.ch', port=80): Max retries exceeded with url: /imd/wiwdaten.htm (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1097f8250>: Failed to establish a new con...
+
+URL        `http://evub.unibe.ch/pievub/'
+Name       `Vorlesungsverzeichnis on-line'
+Parent URL http://scg.unibe.ch/teaching, line 90, col 5
+Real URL   http://evub.unibe.ch/pievub/
+Check time 0.543 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='evub.unibe.ch', port=80): Max retries exceeded with url: /pievub/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1097f88b0>: Failed to establish a new connection: [Err...
+
+URL        `http://moose.unibe.ch'
+Name       `Moose'
+Parent URL http://scg.unibe.ch/research, line 158, col 4
+Real URL   http://moose.unibe.ch
+Check time 0.138 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='moose.unibe.ch', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10985e8b0>: Failed to establish a new connection: [Errno 8] ...
+
+URL        `http://scgresources.unibe.ch/Literature/Books/Somm11a-Sommerville-Software-Engineering-9th-edn-2011.pdf'
+Name       `Software Engineering'
+Parent URL http://scg.unibe.ch/teaching/ese, line 221, col 5
+Real URL   http://scgresources.unibe.ch/Literature/Books/Somm11a-Sommerville-Software-Engineering-9th-edn-2011.pdf
+Check time 0.954 seconds
+Size       291B
+Result     Error: 403 Forbidden
+
+URL        `http://scgresources.unibe.ch/~scg/Literature/Books/Rumb99aUMLreference.pdf'
+Name       `UML Reference'
+Parent URL http://scg.unibe.ch/teaching/ese, line 222, col 5
+Real URL   http://scgresources.unibe.ch/Literature/Books/Rumb99aUMLreference.pdf
+Check time 1.530 seconds
+Size       267B
+Info       Redirected to
+           `http://scgresources.unibe.ch/Literature/Books/Rumb99aUMLreference.pdf'.
+Result     Error: 403 Forbidden
+
+URL        `http://www.cambridge.org/us/catalogue/catalogue.asp?isbn=9780521820608&ss=res'
+Name       `Modern Compiler Implementation in Java (Second edition)'
+Parent URL http://scg.unibe.ch/teaching/cc, line 95, col 193
+Real URL   https://www.cambridge.org/us/catalogue/catalogue.asp?isbn=9780521820608&ss=res
+Check time 0.756 seconds
+Info       Redirected to
+           `https://www.cambridge.org/us/catalogue/catalogue.asp?isbn=9780521820608&ss=res'.
+Result     Error: 500 Internal Server Error
+
+URL        `http://scgresources.unibe.ch/Literature/Compilers/Appe02a-ch5-semantic_analysis.pdf'
+Name       `Semantic Analysis'
+Parent URL http://scg.unibe.ch/teaching/cc, line 222, col 5
+Real URL   http://scgresources.unibe.ch/Literature/Compilers/Appe02a-ch5-semantic_analysis.pdf
+Check time 0.036 seconds
+Size       277B
+Result     Error: 403 Forbidden
+
+URL        `http://scgresources.unibe.ch/~scg/Literature/Compilers/'
+Name       `mirrored PDFs'
+Parent URL http://scg.unibe.ch/teaching/cc, line 224, col 5
+Real URL   http://scgresources.unibe.ch/Literature/Compilers/
+Check time 0.408 seconds
+Size       251B
+Info       Redirected to
+           `http://scgresources.unibe.ch/Literature/Compilers/'.
+Result     Error: 403 Forbidden
+
+URL        `http://scgresources.unibe.ch/~scg/Literature/Books/GOF/contfso.htm'
+Name       `Design Patterns'
+Parent URL http://scg.unibe.ch/teaching/cc, line 226, col 5
+Real URL   http://scgresources.unibe.ch/Literature/Books/GOF/contfso.htm
+Check time 0.654 seconds
+Size       261B
+Info       Redirected to
+           `http://scgresources.unibe.ch/Literature/Books/GOF/contfso.htm'.
+Result     Error: 403 Forbidden
+
+URL        `http://scgresources.unibe.ch/Literature/Books/ConcurrentProgrammingInJavaDesignPrinciplesAndPatterns.pdf'
+Name       `Concurrent programming in Java'
+Parent URL http://scg.unibe.ch/teaching/cp, line 210, col 5
+Real URL   http://scgresources.unibe.ch/Literature/Books/ConcurrentProgrammingInJavaDesignPrinciplesAndPatterns.pdf
+Check time 0.089 seconds
+Size       290B
+Result     Error: 403 Forbidden
+
+URL        `http://scgresources.unibe.ch/~scg/Literature/CP/Andr83aSurvey.pdf'
+Name       `Concepts and Notations for Concurrent Programming'
+Parent URL http://scg.unibe.ch/teaching/cp, line 213, col 5
+Real URL   http://scgresources.unibe.ch/Literature/CP/Andr83aSurvey.pdf
+Check time 0.452 seconds
+Size       261B
+Info       Redirected to
+           `http://scgresources.unibe.ch/Literature/CP/Andr83aSurvey.pdf'.
+Result     Error: 403 Forbidden
+
+URL        `http://scgresources.unibe.ch/~scg/Literature/CP/Pete77aSurvey.pdf'
+Name       `Petri Nets'
+Parent URL http://scg.unibe.ch/teaching/cp, line 214, col 5
+Real URL   http://scgresources.unibe.ch/Literature/CP/Pete77aSurvey.pdf
+Check time 0.890 seconds
+Size       260B
+Info       Redirected to
+           `http://scgresources.unibe.ch/Literature/CP/Pete77aSurvey.pdf'.
+Result     Error: 403 Forbidden
+
+URL        `http://scgresources.unibe.ch/~scg/Literature/CP/Carr89aSurvey.pdf'
+Name       `Linda'
+Parent URL http://scg.unibe.ch/teaching/cp, line 215, col 5
+Real URL   http://scgresources.unibe.ch/Literature/CP/Carr89aSurvey.pdf
+Check time 1.006 seconds
+Size       260B
+Info       Redirected to
+           `http://scgresources.unibe.ch/Literature/CP/Carr89aSurvey.pdf'.
+Result     Error: 403 Forbidden
+
+URL        `http://www.inf.unisi.ch/faculty/lanza/'
+Name       `REVEAL research group'
+Parent URL http://scg.unibe.ch/research/snf19, line 70, col 5
+Real URL   http://www.inf.unisi.ch/faculty/lanza/
+Check time 0.004 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='www.inf.unisi.ch', port=80): Max retries exceeded with url: /faculty/lanza/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109e95fd0>: Failed to establish a new connec...
+
+URL        `http://smallwiki.unibe.ch/changeboxes/'
+Name       `prototype of changeboxes'
+Parent URL http://scg.unibe.ch/research/snf06, line 83, col 50
+Real URL   http://smallwiki.unibe.ch/changeboxes/
+Check time 0.022 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='smallwiki.unibe.ch', port=80): Max retries exceeded with url: /changeboxes/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109c2d820>: Failed to establish a new connec...
+
+URL        `http://www.iam.unibe.ch/~scg/Research/CodeCrawler/index.html'
+Name       `CodeCrawler'
+Parent URL http://scg.unibe.ch/research/recast, line 100, col 4
+Real URL   https://home.inf.unibe.ch//~scg/Research/CodeCrawler/index.html
+Check time 0.177 seconds
+Size       283B
+Info       Redirected to
+           `http://home.inf.unibe.ch/~scg/Research/CodeCrawler/index.html'.
+           Redirected to
+           `https://home.inf.unibe.ch//~scg/Research/CodeCrawler/index.html'.
+Result     Error: 403 Forbidden
+
+URL        `http://www.iam.unibe.ch/~scg/Research/Moose/index.html'
+Name       `Moose'
+Parent URL http://scg.unibe.ch/research/recast, line 103, col 4
+Real URL   https://home.inf.unibe.ch//~scg/Research/Moose/index.html
+Check time 0.208 seconds
+Size       283B
+Info       Redirected to
+           `http://home.inf.unibe.ch/~scg/Research/Moose/index.html'.
+           Redirected to
+           `https://home.inf.unibe.ch//~scg/Research/Moose/index.html'.
+Result     Error: 403 Forbidden
+
+URL        `http://www.parcplace.com/vwnc/'
+Name       `Cincom VisualWorks'
+Parent URL http://scg.unibe.ch/research/rotor, line 200, col 5
+Real URL   http://www.parcplace.com/vwnc/
+Check time 0.168 seconds
+Size       0B
+Result     Error: SSLError: HTTPSConnectionPool(host='www.parcplace.com', port=443): Max retries exceeded with url: /vwnc/ (Caused by SSLError(SSLError(1, '[SSL: TLSV1_UNRECOGNIZED_NAME] tlsv1 unrecognized name (_ssl.c:1125)')))
+
+URL        `http://st-www.cs.uiuc.edu/users/patterns/patterns.html'
+Name       `design-patterns'
+Parent URL http://scg.unibe.ch/research/snf96, line 80, col 882
+Real URL   http://st-www.cs.uiuc.edu/users/patterns/patterns.html
+Check time 0.125 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='st-www.cs.uiuc.edu', port=80): Max retries exceeded with url: /users/patterns/patterns.html (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1099e8760>: Failed to establ...
+
+URL        `http://www-dse.doc.ic.ac.uk/~regis/regis.html'
+Name       `Darwin'
+Parent URL http://scg.unibe.ch/research/snf96, line 84, col 96
+Real URL   http://www-dse.doc.ic.ac.uk/~regis/regis.html
+Check time 0.008 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='www-dse.doc.ic.ac.uk', port=80): Max retries exceeded with url: /~regis/regis.html (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1096d27c0>: Failed to establish a new...
+
+URL        `http://cuiwww.unige.ch/OSG/Hop/hop.html'
+Name       `lN'
+Parent URL http://scg.unibe.ch/research/snf96, line 89, col 706
+Real URL   http://cuiwww.unige.ch/OSG/Hop/hop.html
+Check time 0.473 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='cuiwww.unige.ch', port=80): Max retries exceeded with url: /OSG/Hop/hop.html (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109786340>: Failed to establish a new conne...
+
+URL        `http://smallwiki.unibe.ch/stefanreichhart/codecoverage/'
+Name       `Christo Wiki'
+Parent URL http://scg.unibe.ch/research/bytesurgeon, line 52, col 37
+Real URL   http://smallwiki.unibe.ch/stefanreichhart/codecoverage/
+Check time 0.050 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='smallwiki.unibe.ch', port=80): Max retries exceeded with url: /stefanreichhart/codecoverage/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109aa6d30>: Failed to estab...
+
+URL        `https://www.iam.unibe.ch/mailman/listinfo/reflectivity'
+Name       `Mailman web interface'
+Parent URL http://scg.unibe.ch/research/bytesurgeon, line 69, col 79
+Real URL   https://www.iam.unibe.ch/mailman/listinfo/reflectivity
+Check time 0.112 seconds
+Size       279B
+Result     Error: 404 Not Found
+
+URL        `http://vse-wiki.apis.de/index.cgi/Source%20code%20for%20VS-Smalltalk'
+Name       `port'
+Parent URL http://scg.unibe.ch/research/helvetia/petitparser, line 100, col 15
+Real URL   http://vse-wiki.apis.de/index.cgi/Source%20code%20for%20VS-Smalltalk
+Check time 0.058 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='vse-wiki.apis.de', port=80): Max retries exceeded with url: /index.cgi/Source%20code%20for%20VS-Smalltalk (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1098dd0d0>: Fa...
+
+URL        `http://decomp.ulb.ac.be/roelwuyts/'
+Name       `Roel Wuyts'
+Parent URL http://scg.unibe.ch/publications, line 134, col 313
+Real URL   http://decomp.ulb.ac.be/roelwuyts/
+Check time 60.072 seconds
+Result     Error: ConnectTimeout: HTTPConnectionPool(host='decomp.ulb.ac.be', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x109898c70>, 'Connection to decomp.ulb.ac.be timed...
+
+URL        `http://www.moosetechnology.org/about/contact'
+Name       `Moose'
+Parent URL http://scg.unibe.ch/research/helvetia/petitparser, line 108, col 130
+Real URL   http://moosetechnology.org/about/contact
+Check time 0.075 seconds
+Size       5KB
+Info       Redirected to
+           `http://moosetechnology.org/about/contact'.
+Result     Error: 404 Not Found
+
+URL        `http://squeak.ofset.org/squeak-dev'
+Name       `squeak-dev'
+Parent URL http://scg.unibe.ch/research/hermion, line 57, col 25
+Real URL   http://squeak.ofset.org/squeak-dev
+Check time 0.005 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='squeak.ofset.org', port=80): Max retries exceeded with url: /squeak-dev (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109afc4f0>: Failed to establish a new connection...
+
+URL        `http://gt.moosetechnology.org/'
+Name       `GToolkit'
+Parent URL http://scg.unibe.ch/research/moldableinspector, line 97, col 86
+Real URL   http://gt.moosetechnology.org/
+Check time 0.616 seconds
+Size       5KB
+Result     Error: 404 Not Found
+
+URL        `http://vimeo.com/moogaloop.swf?clip_id=13394631&server=vimeo.com&show_title=1&show_byline=1&show_portrait=0&color=&fullscreen=1'
+Parent URL http://scg.unibe.ch/research/Moose-JEE, line 99, col 304
+Real URL   https://vimeo.com/moogaloop.swf?clip_id=13394631&color=&fullscreen=1&server=vimeo.com&show_byline=1&show_portrait=0&show_title=1
+Check time 1.667 seconds
+Info       Redirected to
+           `https://vimeo.com/moogaloop.swf?clip_id=13394631&color=&fullscreen=1&server=vimeo.com&show_byline=1&show_portrait=0&show_title=1'.
+Result     Error: 404 Not Found
+
+URL        `http://www.iam.unibe.ch/~scg/legacy/viewvc.cgi/extlib/?cvsroot=jpiccola'
+Name       `external jar libraries'
+Parent URL http://scg.unibe.ch/research/piccola, line 54, col 14
+Real URL   https://home.inf.unibe.ch//~scg/legacy/viewvc.cgi/extlib/?cvsroot=jpiccola
+Check time 0.176 seconds
+Size       283B
+Info       Redirected to
+           `http://home.inf.unibe.ch/~scg/legacy/viewvc.cgi/extlib/?cvsroot=jpiccola'.
+           Redirected to
+           `https://home.inf.unibe.ch//~scg/legacy/viewvc.cgi/extlib/?cvsroot=jpiccola'.
+Result     Error: 403 Forbidden
+
+URL        `http://www.iam.unibe.ch/~scg/legacy/viewvc.cgi/?cvsroot=jpiccola'
+Name       `Browse'
+Parent URL http://scg.unibe.ch/research/piccola, line 55, col 5
+Real URL   https://home.inf.unibe.ch//~scg/legacy/viewvc.cgi/?cvsroot=jpiccola
+Check time 0.420 seconds
+Size       283B
+Info       Redirected to
+           `http://home.inf.unibe.ch/~scg/legacy/viewvc.cgi/?cvsroot=jpiccola'.
+           Redirected to
+           `https://home.inf.unibe.ch//~scg/legacy/viewvc.cgi/?cvsroot=jpiccola'.
+Result     Error: 403 Forbidden
+
+URL        `http://gee.cs.oswego.edu/dl/cpj/index.html'
+Name       `Concurrent Programming in Java: Design Principles and Patterns'
+Parent URL http://scg.unibe.ch/teaching/cp, line 92, col 79
+Real URL   http://gee.cs.oswego.edu/dl/cpj/index.html
+Check time 60.004 seconds
+Result     Error: ConnectTimeout: HTTPConnectionPool(host='gee.cs.oswego.edu', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x109b07a30>, 'Connection to gee.cs.oswego.edu tim...
+
+URL        `http://use.perl.org/~Ovid/journal/38862'
+Name       `http://use.perl.org/~Ovid/journal/38862'
+Parent URL http://scg.unibe.ch/research/traits, line 73, col 5
+Real URL   http://use.perl.org/~Ovid/journal/38862
+Check time 0.543 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='use.perl.org', port=80): Max retries exceeded with url: /~Ovid/journal/38862 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109827700>: Failed to establish a new conne...
+
+URL        `http://use.perl.org/search.pl?tid=&query=roles&op=journals'
+Name       `http://use.perl.org/search.pl?tid=&query=roles&op=journals'
+Parent URL http://scg.unibe.ch/research/traits, line 74, col 5
+Real URL   http://use.perl.org/search.pl?tid=&query=roles&op=journals
+Check time 0.313 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='use.perl.org', port=80): Max retries exceeded with url: /search.pl?tid=&query=roles&op=journals (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109c515e0>: Failed to es...
+
+URL        `http://docs.rechtsdienst.unibe.ch/Gesetze/studium/pn_rsl_080901.pdf'
+Name       `University of Bern Regulations'
+Parent URL http://scg.unibe.ch/wiki/howtos/howtosuperviseabachelorsproject, line 74, col 5
+Real URL   http://docs.rechtsdienst.unibe.ch/Gesetze/studium/pn_rsl_080901.pdf
+Check time 0.257 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='docs.rechtsdienst.unibe.ch', port=80): Max retries exceeded with url: /Gesetze/studium/pn_rsl_080901.pdf (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10a042f70>: Fai...
+
+URL        `http://rmod.lille.inria.fr/'
+Name       `RMod group'
+Parent URL http://scg.unibe.ch/research/snf19, line 66, col 5
+Real URL   http://rmod.lille.inria.fr/
+Check time 60.145 seconds
+Result     Error: ConnectTimeout: HTTPSConnectionPool(host='webredirect.inria.fr', port=8443): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x109a7c5e0>, 'Connection to webredirect.in...
+
+URL        `http://schneenews.ch/'
+Name       `Skiing'
+Parent URL http://scg.unibe.ch/wiki/aroundandaboutbern, line 64, col 4
+Real URL   http://schneenews.ch/
+Check time 0.026 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='schneenews.ch', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109c4c460>: Failed to establish a new connection: [Errno 8] n...
+
+URL        `http://lists.gforge.inria.fr/mailman/listinfo/pharo-project'
+Name       `Pharo'
+Parent URL http://scg.unibe.ch/research/bifrost, line 79, col 47
+Real URL   http://lists.gforge.inria.fr/mailman/listinfo/pharo-project
+Check time 60.031 seconds
+Result     Error: ConnectTimeout: HTTPConnectionPool(host='lists.gforge.inria.fr', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x109df4790>, 'Connection to lists.gforge.inri...
+
+URL        `http://www.espace.ch/eskino/'
+Name       `eBund'
+Parent URL http://scg.unibe.ch/wiki/aroundandaboutbern, line 97, col 4
+Real URL   http://www.espace.ch/eskino/
+Check time 0.059 seconds
+Size       236B
+Result     Error: ConnectionError: HTTPConnectionPool(host='www.tamedia.cheskino', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109e3d0a0>: Failed to establish a new connection: [Err...
+
+URL        `http://kino.bluewin.ch/kinoprogramm/process.php?city=Bern'
+Name       `Bluewin'
+Parent URL http://scg.unibe.ch/wiki/aroundandaboutbern, line 100, col 4
+Real URL   http://kino.bluewin.ch/kinoprogramm/process.php?city=Bern
+Check time 0.020 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='kino.bluewin.ch', port=80): Max retries exceeded with url: /kinoprogramm/process.php?city=Bern (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109c4aa60>: Failed to est...
+
+URL        `http://decomp.ulb.ac.be/frdricpluquet/researchactivities/objecthistory/'
+Name       `Object History Website'
+Parent URL http://scg.unibe.ch/research/bytesurgeon, line 53, col 41
+Real URL   http://decomp.ulb.ac.be/frdricpluquet/researchactivities/objecthistory/
+Check time 63.000 seconds
+Result     Error: ConnectTimeout: HTTPConnectionPool(host='decomp.ulb.ac.be', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x109dd7bb0>, 'Connection to decomp.ulb.ac.be timed...
+
+URL        `http://www.iam.unibe.ch/~scg/'
+Name       `SCG'
+Parent URL http://scg.unibe.ch/wiki/alumni, line 46, col 71
+Real URL   https://home.inf.unibe.ch//~scg/
+Check time 0.582 seconds
+Size       283B
+Info       Redirected to `http://home.inf.unibe.ch/~scg/'.
+           Redirected to `https://home.inf.unibe.ch//~scg/'.
+Result     Error: 403 Forbidden
+
+URL        `https://pbunge.crimson.ch/'
+Name       `Philipp Bunge'
+Parent URL http://scg.unibe.ch/wiki/alumni, line 56, col 5
+Real URL   https://pbunge.crimson.ch/
+Check time 0.161 seconds
+Result     Error: SSLError: HTTPSConnectionPool(host='pbunge.crimson.ch', port=443): Max retries exceeded with url: / (Caused by SSLError(CertificateError("hostname 'pbunge.crimson.ch' doesn't match either of '*.storage.googleapis.com', '*.googleapis.com', '...
+
+URL        `http://book.pharo-project.org'
+Name       `Pharo collaboractive book'
+Parent URL http://scg.unibe.ch/research/Pharogenesis, line 72, col 9
+Real URL   http://book.pharo-project.org
+Check time 60.008 seconds
+Result     Error: ConnectTimeout: HTTPConnectionPool(host='book.pharo-project.org', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x109c4c820>, 'Connection to book.pharo-proje...
+
+URL        `http://gee.cs.oswego.edu/dl/concurrency-interest/index.html'
+Name       `java.util.concurrent Interest Site'
+Parent URL http://scg.unibe.ch/teaching/cp, line 212, col 5
+Real URL   http://gee.cs.oswego.edu/dl/concurrency-interest/index.html
+Check time 119.024 seconds
+Result     Error: ConnectTimeout: HTTPConnectionPool(host='gee.cs.oswego.edu', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x109a30fa0>, 'Connection to gee.cs.oswego.edu tim...
+
+URL        `https://www.iam.unibe.ch/scg/svn_repos/Students/erni/master/ch.unibe.softwaremap'
+Name       `https://www.iam.unibe.ch/scg/svn_repos/Students/erni/master/ch.unibe.softwaremap'
+Parent URL http://scg.unibe.ch/wiki/devcodemap, line 50, col 5
+Real URL   https://www.iam.unibe.ch/scg/svn_repos/Students/erni/master/ch.unibe.softwaremap
+Check time 1.478 seconds
+Size       279B
+Result     Error: 404 Not Found
+
+URL        `https://www.iam.unibe.ch/scg/svn_repos/Students/erni/master/ch.unibe.softwaremap.feature'
+Name       `https://www.iam.unibe.ch/scg/svn_repos/Students/erni/master/ch.unibe.softwaremap.feature'
+Parent URL http://scg.unibe.ch/wiki/devcodemap, line 51, col 5
+Real URL   https://www.iam.unibe.ch/scg/svn_repos/Students/erni/master/ch.unibe.softwaremap.feature
+Check time 1.480 seconds
+Size       279B
+Result     Error: 404 Not Found
+
+URL        `https://www.iam.unibe.ch/scg/svn_repos/Students/erni/master/ch.unibe.softwaremap.update'
+Name       `https://www.iam.unibe.ch/scg/svn_repos/Students/erni/master/ch.unibe.softwaremap.update'
+Parent URL http://scg.unibe.ch/wiki/devcodemap, line 52, col 5
+Real URL   https://www.iam.unibe.ch/scg/svn_repos/Students/erni/master/ch.unibe.softwaremap.update
+Check time 1.506 seconds
+Size       279B
+Result     Error: 404 Not Found
+
+URL        `https://www.iam.unibe.ch/scg/svn_repos/Students/erni/master/meander'
+Name       `https://www.iam.unibe.ch/scg/svn_repos/Students/erni/master/meander'
+Parent URL http://scg.unibe.ch/wiki/devcodemap, line 53, col 5
+Real URL   https://www.iam.unibe.ch/scg/svn_repos/Students/erni/master/meander
+Check time 1.299 seconds
+Size       279B
+Result     Error: 404 Not Found
+
+URL        `https://www.iam.unibe.ch/scg/svn_repos/Students/erni/master/MeanderCaseStudies'
+Name       `https://www.iam.unibe.ch/scg/svn_repos/Students/erni/master/MeanderCaseStudies'
+Parent URL http://scg.unibe.ch/wiki/devcodemap, line 54, col 5
+Real URL   https://www.iam.unibe.ch/scg/svn_repos/Students/erni/master/MeanderCaseStudies
+Check time 1.308 seconds
+Size       279B
+Result     Error: 404 Not Found
+
+URL        `http://splashcon.org/2013/'
+Name       `SPLASH'
+Parent URL http://scg.unibe.ch/wiki/oomps-2013, line 61, col 15
+Real URL   http://splashcon.org/2013/
+Check time 1.932 seconds
+Size       82B
+Result     Error: 500 Internal Server Error
+
+URL        `http://bigfoot.cs.upt.ro/~radum/'
+Name       `Radu Marinescu'
+Parent URL http://scg.unibe.ch/staff/andreichis, line 48, col 287
+Real URL   http://bigfoot.cs.upt.ro/~radum/
+Check time 0.094 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='bigfoot.cs.upt.ro', port=80): Max retries exceeded with url: /~radum/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10a0c7a30>: Failed to establish a new connection: ...
+
+URL        `http://www.intooitus.com'
+Name       `intooitus'
+Parent URL http://scg.unibe.ch/staff/andreichis, line 48, col 430
+Real URL   http://www.intooitus.com
+Check time 0.111 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='www.intooitus.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109d384c0>: Failed to establish a new connection: [Errno ...
+
+URL        `http://www.juraj-kubelka.cz/'
+Name       `Juraj Kubelka'
+Parent URL http://scg.unibe.ch/staff/andreichis, line 72, col 376
+Real URL   http://www.juraj-kubelka.cz/
+Check time 0.255 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='www.juraj-kubelka.cz', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109ff6fa0>: Failed to establish a new connection: [Err...
+
+URL        `http://www.intooitus.com/products/infusion'
+Name       `infusion'
+Parent URL http://scg.unibe.ch/staff/andreichis, line 48, col 526
+Real URL   http://www.intooitus.com/products/infusion
+Check time 0.276 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='www.intooitus.com', port=80): Max retries exceeded with url: /products/infusion (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109a4e640>: Failed to establish a new co...
+
+URL        `http://www.icsme.uni-bremen.de/'
+Name       `ICSME 2015'
+Parent URL http://scg.unibe.ch/staff/andreichis, line 119, col 5
+Real URL   http://www.icsme.uni-bremen.de/
+Check time 0.005 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='www.icsme.uni-bremen.de', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109c84580>: Failed to establish a new connection: [...
+
+URL        `http://sc2013.ec-spride.de/call-for-papers/'
+Name       `SC 2013'
+Parent URL http://scg.unibe.ch/staff/andreichis, line 127, col 5
+Real URL   http://sc2013.ec-spride.de/call-for-papers/
+Check time 0.076 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='sc2013.ec-spride.de', port=80): Max retries exceeded with url: /call-for-papers/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109e72130>: Failed to establish a new c...
+
+URL        `http://choose.s-i.ch/events/forum2012'
+Name       `CHOOSE Forum 2012'
+Parent URL http://scg.unibe.ch/staff/mircea, line 159, col 9
+Real URL   http://choose.s-i.ch/events/forum2012
+Check time 0.005 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='choose.s-i.ch', port=80): Max retries exceeded with url: /events/forum2012 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109e95a90>: Failed to establish a new connect...
+
+URL        `http://choose.s-i.ch/events/forum2013'
+Name       `CHOOSE Forum 2013'
+Parent URL http://scg.unibe.ch/staff/mircea, line 162, col 9
+Real URL   http://choose.s-i.ch/events/forum2013
+Check time 0.407 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='choose.s-i.ch', port=80): Max retries exceeded with url: /events/forum2013 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109785bb0>: Failed to establish a new connect...
+
+URL        `http://www.csg.is.titech.ac.jp/~chiba/javassist'
+Name       `http://www.csg.is.titech.ac.jp/~chiba/javassist'
+Parent URL http://scg.unibe.ch/wiki/alumni/lea, line 50, col 4
+Real URL   http://www.csg.is.titech.ac.jp/~chiba/javassist
+Check time 0.004 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='www.csg.is.titech.ac.jp', port=80): Max retries exceeded with url: /~chiba/javassist (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10a070760>: Failed to establish a n...
+
+URL        `http://www.iam.unibe.ch/~akuhn/s/2006-IGE-Bytecode-Manipulation.pdf'
+Name       `http://www.iam.unibe.ch/~akuhn/s/2006-IGE-Bytecode-Manipulation.pdf'
+Parent URL http://scg.unibe.ch/wiki/alumni/lea, line 56, col 4
+Real URL   https://home.inf.unibe.ch//~akuhn/s/2006-IGE-Bytecode-Manipulation.pdf
+Check time 0.171 seconds
+Size       280B
+Info       Redirected to
+           `http://home.inf.unibe.ch/~akuhn/s/2006-IGE-Bytecode-Manipulation.pdf'.
+           Redirected to
+           `https://home.inf.unibe.ch//~akuhn/s/2006-IGE-Bytecode-Manipulation.pdf'.
+Result     Error: 404 Not Found
+
+URL        `http://www.bernmobil.ch/english/index.php'
+Name       `bus 11'
+Parent URL http://scg.unibe.ch/contact/maps, line 56, col 30
+Real URL   https://www.bernmobil.ch/english/index.php
+Check time 0.194 seconds
+Size       110.06KB
+Info       Redirected to
+           `https://www.bernmobil.ch/english/index.php'.
+Result     Error: 404 Page Not Found
+
+URL        `http://www.droethlisberger.ch'
+Name       `http://www.droethlisberger.ch'
+Parent URL http://scg.unibe.ch/staff/davidroethlisberger, line 47, col 50
+Real URL   http://www.droethlisberger.ch
+Check time 0.006 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='www.droethlisberger.ch', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1098a7d00>: Failed to establish a new connection: [E...
+
+URL        `http://rmod.lille.inria.fr/pbe2/'
+Name       `Deep into Pharo'
+Parent URL http://scg.unibe.ch/research/helvetia/petitparser, line 51, col 48
+Real URL   http://rmod.lille.inria.fr/pbe2/
+Check time 113.258 seconds
+Result     Error: ConnectTimeout: HTTPSConnectionPool(host='webredirect.inria.fr', port=8443): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x109b817c0>, 'Connection to webredirect.in...
+
+URL        `http://saner.soccerlab.polymtl.ca/doku.php?id=en:start'
+Name       `SANER 2015'
+Parent URL http://scg.unibe.ch/staff/Milojkovic, line 71, col 5
+Real URL   http://saner.soccerlab.polymtl.ca/doku.php?id=en:start
+Check time 0.544 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='saner.soccerlab.polymtl.ca', port=80): Max retries exceeded with url: /doku.php?id=en:start (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109c51c10>: Failed to establ...
+
+URL        `http://decomp.ulb.ac.be/frdricpluquet/researchactivities/histoory/'
+Name       `HistOOry Website'
+Parent URL http://scg.unibe.ch/research/reflectivity, line 75, col 59
+Real URL   http://decomp.ulb.ac.be/frdricpluquet/researchactivities/histoory/
+Check time 104.866 seconds
+Result     Error: ConnectTimeout: HTTPConnectionPool(host='decomp.ulb.ac.be', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x109c4ad00>, 'Connection to decomp.ulb.ac.be timed...
+
+URL        `http://www.sw-eng.ibone.ch/team/greevy'
+Name       `Orla Greevy'
+Parent URL http://scg.unibe.ch/wiki/alumni, line 69, col 5
+Real URL   http://www.sw-eng.ibone.ch/team/greevy
+Check time 60.008 seconds
+Result     Error: ConnectTimeout: HTTPConnectionPool(host='www.sw-eng.ibone.ch', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x109b474c0>, 'Connection to www.sw-eng.ibone.ch...
+
+URL        `http://saner.soccerlab.polymtl.ca/doku.php?id=en:era_track'
+Name       `SANER 2015 ERA Track'
+Parent URL http://scg.unibe.ch/staff/oscar/past, line 121, col 26
+Real URL   http://saner.soccerlab.polymtl.ca/doku.php?id=en:era_track
+Check time 0.003 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='saner.soccerlab.polymtl.ca', port=80): Max retries exceeded with url: /doku.php?id=en:era_track (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109a47c10>: Failed to es...
+
+URL        `http://sc2013.ec-spride.de/'
+Name       `SC 2013'
+Parent URL http://scg.unibe.ch/staff/oscar/past, line 156, col 26
+Real URL   http://sc2013.ec-spride.de/
+Check time 0.008 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='sc2013.ec-spride.de', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1097b94c0>: Failed to establish a new connection: [Errn...
+
+URL        `http://sattose.org/sattose2013'
+Name       `SATToSE 2013'
+Parent URL http://scg.unibe.ch/staff/oscar/past, line 144, col 29
+Real URL   http://sattose.org/sattose2013
+Check time 0.356 seconds
+Result     Error: 404 Not Found
+
+URL        `http://models2012.info/'
+Name       `Models 2012'
+Parent URL http://scg.unibe.ch/staff/oscar/past, line 181, col 77
+Real URL   http://models2012.info/
+Check time 0.005 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='models2012.info', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109e12310>: Failed to establish a new connection: [Errno 8]...
+
+URL        `http://selab.fbk.eu/icsm2012/'
+Name       `ICSM 2012'
+Parent URL http://scg.unibe.ch/staff/oscar/past, line 190, col 26
+Real URL   http://selab.fbk.eu/icsm2012/
+Check time 0.006 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='selab.fbk.eu', port=80): Max retries exceeded with url: /icsm2012/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109e12b80>: Failed to establish a new connection: [Er...
+
+URL        `http://iwre.cdacmumbai.in/'
+Name       `IWRE 2012'
+Parent URL http://scg.unibe.ch/staff/oscar/past, line 211, col 32
+Real URL   http://iwre.cdacmumbai.in/
+Check time 0.078 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='iwre.cdacmumbai.in', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109c32eb0>: Failed to establish a new connection: [Errno...
+
+URL        `http://splashcon.org/2011/cfp/100'
+Name       `OOPSLA 2011'
+Parent URL http://scg.unibe.ch/staff/oscar/past, line 218, col 49
+Real URL   http://splashcon.org/2011/cfp/100
+Check time 0.282 seconds
+Size       82B
+Result     Error: 500 Internal Server Error
+
+URL        `http://splashcon.org/2011/'
+Name       `SPLASH/OOPSLA'
+Parent URL http://scg.unibe.ch/staff/oscar/past, line 221, col 192
+Real URL   http://splashcon.org/2011/
+Check time 0.261 seconds
+Size       82B
+Result     Error: 500 Internal Server Error
+
+URL        `http://www.cm.is.ritsumei.ac.jp/c5-12/index.php/Home'
+Name       `C5'
+Parent URL http://scg.unibe.ch/staff/oscar/past, line 214, col 26
+Real URL   http://www.cm.is.ritsumei.ac.jp/c5-12/index.php/Home
+Check time 0.752 seconds
+Size       622B
+Result     Error: 500 Internal Server Error
+
+URL        `http://web.soccerlab.polymtl.ca/wcre2010/'
+Name       `WCRE 2010'
+Parent URL http://scg.unibe.ch/staff/oscar/past, line 252, col 125
+Real URL   http://web.soccerlab.polymtl.ca/wcre2010/
+Check time 0.006 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='web.soccerlab.polymtl.ca', port=80): Max retries exceeded with url: /wcre2010/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1097b9280>: Failed to establish a new con...
+
+URL        `http://seaa2010.liacs.nl/'
+Name       `SEAA-EDISON 2010'
+Parent URL http://scg.unibe.ch/staff/oscar/past, line 264, col 26
+Real URL   http://seaa2010.liacs.nl/
+Check time 0.006 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='seaa2010.liacs.nl', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109e77b20>: Failed to establish a new connection: [Errno ...
+
+URL        `http://www.cm.is.ritsumei.ac.jp/c5-11/'
+Name       `C5'
+Parent URL http://scg.unibe.ch/staff/oscar/past, line 245, col 26
+Real URL   http://www.cm.is.ritsumei.ac.jp/c5-11/
+Check time 0.575 seconds
+Size       622B
+Result     Error: 500 Internal Server Error
+
+URL        `http://2013.icse-conferences.org/index.html'
+Name       `ICSE 2013 - NIER Track'
+Parent URL http://scg.unibe.ch/staff/andreichis, line 125, col 5
+Real URL   http://2013.icse-conferences.org/index.html
+Check time 60.108 seconds
+Result     Error: ReadTimeout: HTTPConnectionPool(host='2013.icse-conferences.org', port=80): Read timed out. (read timeout=60)
+
+URL        `http://moose.unibe.ch/events/famoosr2009'
+Name       `FAMOOSr 2009'
+Parent URL http://scg.unibe.ch/staff/oscar/past, line 289, col 26
+Real URL   http://moose.unibe.ch/events/famoosr2009
+Check time 0.021 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='moose.unibe.ch', port=80): Max retries exceeded with url: /events/famoosr2009 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109c9ba90>: Failed to establish a new conn...
+
+URL        `http://web.soccerlab.polymtl.ca/wcre2009/'
+Name       `WCRE 2009'
+Parent URL http://scg.unibe.ch/staff/oscar/past, line 289, col 161
+Real URL   http://web.soccerlab.polymtl.ca/wcre2009/
+Check time 0.002 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='web.soccerlab.polymtl.ca', port=80): Max retries exceeded with url: /wcre2009/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109bf0850>: Failed to establish a new con...
+
+URL        `http://www.hope.cs.rice.edu/twiki/bin/view/GPCE09/WebHome'
+Name       `GPCE'
+Parent URL http://scg.unibe.ch/staff/oscar/past, line 292, col 267
+Real URL   http://www.hope.cs.rice.edu/twiki/bin/view/GPCE09/WebHome
+Check time 0.016 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='www.hope.cs.rice.edu', port=80): Max retries exceeded with url: /twiki/bin/view/GPCE09/WebHome (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109a577f0>: Failed to est...
+
+URL        `https://www.zeeguu.unibe.ch'
+Name       `Zeeguu'
+Parent URL http://scg.unibe.ch/staff/mircea, line 117, col 38
+Real URL   https://www.zeeguu.unibe.ch
+Check time 60.028 seconds
+Result     Error: ConnectTimeout: HTTPSConnectionPool(host='www.zeeguu.unibe.ch', port=443): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x10a011ca0>, 'Connection to www.zeeguu.unibe...
+
+URL        `http://web.me.com/katja_niko/Web-Site/Welcome.html'
+Name       `Home page of my girlfriend and me'
+Parent URL http://scg.unibe.ch/staff/Schwarz, line 63, col 5
+Real URL   http://web.me.com/katja_niko/Web-Site/Welcome.html
+Check time 60.007 seconds
+Result     Error: ConnectTimeout: HTTPConnectionPool(host='web.me.com', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x109e5e820>, 'Connection to web.me.com timed out. (conne...
+
+URL        `http://smallwiki.unibe.ch/suite2009/'
+Name       `SUITE 2009'
+Parent URL http://scg.unibe.ch/staff/oscar/past, line 313, col 26
+Real URL   http://smallwiki.unibe.ch/suite2009/
+Check time 0.041 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='smallwiki.unibe.ch', port=80): Max retries exceeded with url: /suite2009/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10a0af220>: Failed to establish a new connecti...
+
+URL        `http://www.comp.lancs.ac.uk/~bencomo/MRT/'
+Name       `Models@run.time'
+Parent URL http://scg.unibe.ch/staff/oscar/past, line 318, col 27
+Real URL   http://www.comp.lancs.ac.uk/~bencomo/MRT/
+Check time 0.006 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='www.comp.lancs.ac.uk', port=80): Max retries exceeded with url: /~bencomo/MRT/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1097bed90>: Failed to establish a new con...
+
+URL        `http://moose.unibe.ch/events/famoosr2008'
+Name       `FAMOOSr 2008'
+Parent URL http://scg.unibe.ch/staff/oscar/past, line 319, col 27
+Real URL   http://moose.unibe.ch/events/famoosr2008
+Check time 0.002 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='moose.unibe.ch', port=80): Max retries exceeded with url: /events/famoosr2008 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10a0afb50>: Failed to establish a new conn...
+
+URL        `http://smallwiki.unibe.ch/wasdett2008/'
+Name       `WASDeTT 2008'
+Parent URL http://scg.unibe.ch/staff/oscar/past, line 323, col 27
+Real URL   http://smallwiki.unibe.ch/wasdett2008/
+Check time 0.004 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='smallwiki.unibe.ch', port=80): Max retries exceeded with url: /wasdett2008/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1097beb20>: Failed to establish a new connec...
+
+URL        `http://www.choose.s-i.ch/'
+Name       `CHOOSE'
+Parent URL http://scg.unibe.ch/staff/oscar/past, line 330, col 18
+Real URL   http://www.choose.s-i.ch/
+Check time 0.005 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='www.choose.s-i.ch', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10a08faf0>: Failed to establish a new connection: [Errno ...
+
+URL        `http://www.choose.s-i.ch/Events/forum2007.html'
+Name       `CHOOSE Forum 2007'
+Parent URL http://scg.unibe.ch/staff/oscar/past, line 331, col 31
+Real URL   http://www.choose.s-i.ch/Events/forum2007.html
+Check time 0.146 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='www.choose.s-i.ch', port=80): Max retries exceeded with url: /Events/forum2007.html (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10a121ac0>: Failed to establish a ne...
+
+URL        `http://dyla2007.unibe.ch/'
+Name       `Dyla07'
+Parent URL http://scg.unibe.ch/staff/oscar/past, line 333, col 27
+Real URL   http://dyla2007.unibe.ch/
+Check time 0.022 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='dyla2007.unibe.ch', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109d7f700>: Failed to establish a new connection: [Errno ...
+
+URL        `http://smallwiki.unibe.ch/moose/famoosr2007'
+Name       `FAMOOSr Workshop'
+Parent URL http://scg.unibe.ch/staff/oscar/past, line 335, col 27
+Real URL   http://smallwiki.unibe.ch/moose/famoosr2007
+Check time 0.004 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='smallwiki.unibe.ch', port=80): Max retries exceeded with url: /moose/famoosr2007 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10a0af2b0>: Failed to establish a new c...
+
+URL        `http://aswec07.cs.latrobe.edu.au/'
+Name       `ASWEC 2007'
+Parent URL http://scg.unibe.ch/staff/oscar/past, line 337, col 33
+Real URL   http://aswec07.cs.latrobe.edu.au/
+Check time 0.006 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='aswec07.cs.latrobe.edu.au', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109d8b250>: Failed to establish a new connection:...
+
+URL        `http://aswec07.cs.latrobe.edu.au/tutorials.html'
+Name       `ASWEC 2007'
+Parent URL http://scg.unibe.ch/staff/oscar/past, line 338, col 34
+Real URL   http://aswec07.cs.latrobe.edu.au/tutorials.html
+Check time 0.177 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='aswec07.cs.latrobe.edu.au', port=80): Max retries exceeded with url: /tutorials.html (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109d8b340>: Failed to establish a n...
+
+URL        `http://www.sanm.id.au/event_2007_03_23.html'
+Name       `Swinburne University and SANM'
+Parent URL http://scg.unibe.ch/staff/oscar/past, line 340, col 31
+Real URL   http://www.sanm.id.au/event_2007_03_23.html
+Check time 0.029 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='www.sanm.id.au', port=80): Max retries exceeded with url: /event_2007_03_23.html (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10a121a00>: Failed to establish a new c...
+
+URL        `http://www.eurotics.org/euroTICS2006.html'
+Name       `euroTICS 2006'
+Parent URL http://scg.unibe.ch/staff/oscar/past, line 346, col 29
+Real URL   http://www.eurotics.org/euroTICS2006.html
+Check time 0.006 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='www.eurotics.org', port=80): Max retries exceeded with url: /euroTICS2006.html (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109bf01c0>: Failed to establish a new con...
+
+URL        `http://w3.umh.ac.be/evol/meetings/evol2006.html'
+Name       `EVOL 2006'
+Parent URL http://scg.unibe.ch/staff/oscar/past, line 352, col 27
+Real URL   http://w3.umh.ac.be/evol/meetings/evol2006.html
+Check time 0.006 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='w3.umh.ac.be', port=80): Max retries exceeded with url: /evol/meetings/evol2006.html (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10a0c7a90>: Failed to establish a n...
+
+URL        `http://toolseurope2011.lcc.uma.es/'
+Name       `TOOLS 2011'
+Parent URL http://scg.unibe.ch/staff/oscar/past, line 230, col 33
+Real URL   http://toolseurope2011.lcc.uma.es/
+Check time 60.007 seconds
+Result     Error: ConnectTimeout: HTTPConnectionPool(host='toolseurope2011.lcc.uma.es', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x109794fd0>, 'Connection to toolseurope2...
+
+URL        `http://malaga2010.lcc.uma.es/'
+Name       `TOOLS 2010'
+Parent URL http://scg.unibe.ch/staff/oscar/past, line 267, col 26
+Real URL   http://malaga2010.lcc.uma.es/
+Check time 60.004 seconds
+Result     Error: ConnectTimeout: HTTPConnectionPool(host='malaga2010.lcc.uma.es', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x109780d30>, 'Connection to malaga2010.lcc.um...
+
+URL        `http://icsm2010.upt.ro/'
+Name       `ICSM 2010'
+Parent URL http://scg.unibe.ch/staff/oscar/past, line 258, col 26
+Real URL   http://icsm2010.upt.ro/
+Check time 60.045 seconds
+Result     Error: ReadTimeout: HTTPConnectionPool(host='icsm2010.upt.ro', port=80): Read timed out. (read timeout=60)
+
+URL        `http://esecfse05.unl.pt/'
+Name       `ESEC/FSE'05'
+Parent URL http://scg.unibe.ch/staff/oscar/past, line 363, col 33
+Real URL   http://esecfse05.unl.pt/
+Check time 0.007 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='esecfse05.unl.pt', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109bca670>: Failed to establish a new connection: [Errno 8...
+
+URL        `http://smallwiki.unibe.ch/WOOR'
+Name       `6th International Workshop on Object-Oriented Reengineering (WOOR)'
+Parent URL http://scg.unibe.ch/staff/oscar/past, line 366, col 122
+Real URL   http://smallwiki.unibe.ch/WOOR
+Check time 0.002 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='smallwiki.unibe.ch', port=80): Max retries exceeded with url: /WOOR (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10a08a0d0>: Failed to establish a new connection: [E...
+
+URL        `http://idm.imag.fr/idm05/'
+Name       `IDM 2005'
+Parent URL http://scg.unibe.ch/staff/oscar/past, line 367, col 27
+Real URL   http://idm.imag.fr/idm05/
+Check time 0.004 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='idm.imag.fr', port=80): Max retries exceeded with url: /idm05/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109bca820>: Failed to establish a new connection: [Errno ...
+
+URL        `http://w3.umh.ac.be/evol/meetings/evol2005.html'
+Name       `ChaSE'
+Parent URL http://scg.unibe.ch/staff/oscar/past, line 369, col 25
+Real URL   http://w3.umh.ac.be/evol/meetings/evol2005.html
+Check time 0.002 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='w3.umh.ac.be', port=80): Max retries exceeded with url: /evol/meetings/evol2005.html (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109dff1f0>: Failed to establish a n...
+
+URL        `http://www.choose.s-i.ch/Events/forum2005.html'
+Name       `CHOOSE Forum 2005'
+Parent URL http://scg.unibe.ch/staff/oscar/past, line 370, col 29
+Real URL   http://www.choose.s-i.ch/Events/forum2005.html
+Check time 0.002 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='www.choose.s-i.ch', port=80): Max retries exceeded with url: /Events/forum2005.html (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10a08ffd0>: Failed to establish a ne...
+
+URL        `http://ecoop2010.uni-mb.si/'
+Name       `ECOOP 2010'
+Parent URL http://scg.unibe.ch/staff/oscar/past, line 270, col 130
+Real URL   http://ecoop2010.uni-mb.si/
+Check time 60.006 seconds
+Result     Error: ConnectTimeout: HTTPConnectionPool(host='ecoop2010.uni-mb.si', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x109e68a90>, 'Connection to ecoop2010.uni-mb.si...
+
+URL        `http://lmo2005.unibe.ch'
+Name       `LMO 2005'
+Parent URL http://scg.unibe.ch/staff/oscar/past, line 372, col 22
+Real URL   http://lmo2005.unibe.ch
+Check time 0.023 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='lmo2005.unibe.ch', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1098f60a0>: Failed to establish a new connection: [Errno 8...
+
+URL        `http://www.lots.ch/'
+Name       `LOTS 2005'
+Parent URL http://scg.unibe.ch/staff/oscar/past, line 373, col 22
+Real URL   http://www.lots.ch/
+Check time 0.080 seconds
+Result     Error: 500 Internal Server Error
+
+URL        `http://iwpse04.wakayama-u.ac.jp/'
+Name       `IWPSE 2004'
+Parent URL http://scg.unibe.ch/staff/oscar/past, line 381, col 27
+Real URL   http://iwpse04.wakayama-u.ac.jp/
+Check time 0.004 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='iwpse04.wakayama-u.ac.jp', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109fd0160>: Failed to establish a new connection: ...
+
+URL        `http://www.rcost.unisannio.it/wetsom2010/Home.html'
+Name       `WETSoM 2010'
+Parent URL http://scg.unibe.ch/staff/oscar/past, line 276, col 26
+Real URL   http://www.rcost.unisannio.it/wetsom2010/Home.html
+Check time 60.003 seconds
+Result     Error: ConnectTimeout: HTTPConnectionPool(host='www.rcost.unisannio.it', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x10a121550>, 'Connection to www.rcost.unisan...
+
+URL        `http://www.umlconference.org/'
+Name       `UML 2004'
+Parent URL http://scg.unibe.ch/staff/oscar/past, line 380, col 33
+Real URL   http://www.umlconference.org/
+Check time 0.042 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='www.umlconference.org', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10a0b52b0>: Failed to establish a new connection: [Er...
+
+URL        `http://www.ifi.unizh.ch/si-se/sise2004/'
+Name       `SI-SE 2004'
+Parent URL http://scg.unibe.ch/staff/oscar/past, line 384, col 169
+Real URL   http://www.ifi.unizh.ch/si-se/sise2004/
+Check time 0.010 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='www.ifi.unizh.ch', port=80): Max retries exceeded with url: /si-se/sise2004/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109e9ea60>: Failed to establish a new conne...
+
+URL        `http://www.ecoop.tu-darmstadt.de/'
+Name       `ECOOP 2003'
+Parent URL http://scg.unibe.ch/staff/oscar/past, line 394, col 27
+Real URL   http://www.ecoop.tu-darmstadt.de/
+Check time 0.008 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='www.ecoop.tu-darmstadt.de', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10a1210a0>: Failed to establish a new connection:...
+
+URL        `http://www.ifi.unizh.ch/sise/'
+Name       `SI-SE 2003'
+Parent URL http://scg.unibe.ch/staff/oscar/past, line 399, col 25
+Real URL   http://www.ifi.unizh.ch/sise/
+Check time 0.189 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='www.ifi.unizh.ch', port=80): Max retries exceeded with url: /sise/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109d7f7f0>: Failed to establish a new connection: [Er...
+
+URL        `http://fmco.liacs.nl/fmco02.html'
+Name       `FMCO 2002'
+Parent URL http://scg.unibe.ch/staff/oscar/past, line 405, col 33
+Real URL   http://fmco.liacs.nl/fmco02.html
+Check time 0.005 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='fmco.liacs.nl', port=80): Max retries exceeded with url: /fmco02.html (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109cf2310>: Failed to establish a new connection: ...
+
+URL        `http://oopsla.acm.org/'
+Name       `OOPSLA 2002'
+Parent URL http://scg.unibe.ch/staff/oscar/past, line 406, col 27
+Real URL   http://oopsla.acm.org/
+Check time 0.004 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='oopsla.acm.org', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109e0b250>: Failed to establish a new connection: [Errno 8] ...
+
+URL        `http://edoc.dstc.edu.au/'
+Name       `EDOC 2002'
+Parent URL http://scg.unibe.ch/staff/oscar/past, line 409, col 27
+Real URL   http://edoc.dstc.edu.au/
+Check time 0.026 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='edoc.dstc.edu.au', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109c84280>: Failed to establish a new connection: [Errno 8...
+
+URL        `http://swt.cs.tu-berlin.de/cd02/'
+Name       `CD 2002'
+Parent URL http://scg.unibe.ch/staff/oscar/past, line 410, col 27
+Real URL   http://swt.cs.tu-berlin.de/cd02/
+Check time 0.058 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='swt.cs.tu-berlin.de', port=80): Max retries exceeded with url: /cd02/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109cd8fa0>: Failed to establish a new connection: ...
+
+URL        `http://sunshine.cs.uni-dortmund.de/~knoop/PLDI2002/pldi2002_main.html'
+Name       `PLDI'
+Parent URL http://scg.unibe.ch/staff/oscar/past, line 410, col 204
+Real URL   http://sunshine.cs.uni-dortmund.de/~knoop/PLDI2002/pldi2002_main.html
+Check time 0.004 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='sunshine.cs.uni-dortmund.de', port=80): Max retries exceeded with url: /~knoop/PLDI2002/pldi2002_main.html (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1097be400>: F...
+
+URL        `http://trese.cs.utwente.nl/aosd2002.htm'
+Name       `AOSD'
+Parent URL http://scg.unibe.ch/staff/oscar/past, line 412, col 149
+Real URL   http://trese.cs.utwente.nl/aosd2002.htm
+Check time 0.030 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='trese.cs.utwente.nl', port=80): Max retries exceeded with url: /aosd2002.htm (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1098442e0>: Failed to establish a new conne...
+
+URL        `http://gcse2001.cs.rug.nl/'
+Name       `GCSE 2001'
+Parent URL http://scg.unibe.ch/staff/oscar/past, line 419, col 33
+Real URL   http://gcse2001.cs.rug.nl/
+Check time 0.006 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='gcse2001.cs.rug.nl', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10a0a2970>: Failed to establish a new connection: [Errno...
+
+URL        `http://edoc.doc.ic.ac.uk/'
+Name       `EDOC 2001'
+Parent URL http://scg.unibe.ch/staff/oscar/past, line 421, col 27
+Real URL   http://edoc.doc.ic.ac.uk/
+Check time 0.006 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='edoc.doc.ic.ac.uk', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109d72eb0>: Failed to establish a new connection: [Errno ...
+
+URL        `http://www.csr.uvic.ca/icse2001/'
+Name       `ICSE 2001'
+Parent URL http://scg.unibe.ch/staff/oscar/past, line 423, col 53
+Real URL   http://www.csr.uvic.ca/icse2001/
+Check time 0.163 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='www.csr.uvic.ca', port=80): Max retries exceeded with url: /icse2001/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1097a6ca0>: Failed to establish a new connection: ...
+
+URL        `http://ecoop2000.unice.fr/Program/Technical/Workshops/w22.html'
+Name       `ECOOP 2000 workshop: Pervasive Component Systems'
+Parent URL http://scg.unibe.ch/staff/oscar/past, line 430, col 27
+Real URL   http://ecoop2000.unice.fr/Program/Technical/Workshops/w22.html
+Check time 0.005 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='ecoop2000.unice.fr', port=80): Max retries exceeded with url: /Program/Technical/Workshops/w22.html (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109e12910>: Failed t...
+
+URL        `http://qose.cs.utwente.nl/sact2000/'
+Name       `Software Architectures and Component Technology'
+Parent URL http://scg.unibe.ch/staff/oscar/past, line 433, col 22
+Real URL   http://qose.cs.utwente.nl/sact2000/
+Check time 0.031 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='qose.cs.utwente.nl', port=80): Max retries exceeded with url: /sact2000/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10a0c7b80>: Failed to establish a new connectio...
+
+URL        `http://www.iam.unibe.ch/~scg/AgentTechnology/'
+Name       `Agent Technology Spring School'
+Parent URL http://scg.unibe.ch/staff/oscar/past, line 432, col 27
+Real URL   https://home.inf.unibe.ch//~scg/AgentTechnology/
+Check time 0.160 seconds
+Size       283B
+Info       Redirected to
+           `http://home.inf.unibe.ch/~scg/AgentTechnology/'.
+           Redirected to
+           `https://home.inf.unibe.ch//~scg/AgentTechnology/'.
+Result     Error: 403 Forbidden
+
+URL        `http://csce.uark.edu/~aapon/wpdrts2001/'
+Name       `WPDRTS 2001'
+Parent URL http://scg.unibe.ch/staff/oscar/past, line 425, col 27
+Real URL   http://csce.uark.edu/~aapon/wpdrts2001/
+Check time 0.856 seconds
+Size       611B
+Result     Error: 500 Internal Server Error
+
+URL        `http://www.eesi.tue.nl/english/coll-architecture.html'
+Name       `EESI System Architecture Colloquia'
+Parent URL http://scg.unibe.ch/staff/oscar/past, line 438, col 33
+Real URL   http://www.eesi.tue.nl/english/coll-architecture.html
+Check time 0.378 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='www.eesi.tue.nl', port=80): Max retries exceeded with url: /english/coll-architecture.html (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10a0af550>: Failed to establi...
+
+URL        `http://scgresources.unibe.ch/~scg/Literature/Books/GOF.zip'
+Name       `(zipped)'
+Parent URL http://scg.unibe.ch/teaching/p2/P2-Reading, line 49, col 110
+Real URL   http://scgresources.unibe.ch/Literature/Books/GOF.zip
+Check time 0.058 seconds
+Size       256B
+Info       Redirected to
+           `http://scgresources.unibe.ch/Literature/Books/GOF.zip'.
+Result     Error: 403 Forbidden
+
+URL        `http://scgresources.unibe.ch/Literature/Books/Beck97aDraftSmalltalkBestPracticePatterns.pdf'
+Name       `Smalltalk Best Practice Patterns'
+Parent URL http://scg.unibe.ch/teaching/p2/P2-Reading, line 68, col 5
+Real URL   http://scgresources.unibe.ch/Literature/Books/Beck97aDraftSmalltalkBestPracticePatterns.pdf
+Check time 0.037 seconds
+Size       282B
+Result     Error: 403 Forbidden
+
+URL        `http://cseng.aw.com/book/0,3828,0201824701,00.html'
+Name       `C++ Primer'
+Parent URL http://scg.unibe.ch/teaching/p2/P2-Reading, line 94, col 4
+Real URL   http://cseng.aw.com/book/0,3828,0201824701,00.html
+Check time 0.046 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='cseng.aw.com', port=80): Max retries exceeded with url: /book/0,3828,0201824701,00.html (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109c4c5b0>: Failed to establish ...
+
+URL        `http://cseng.aw.com/book/0,,0201924889,00.html'
+Name       `EffectiveC++'
+Parent URL http://scg.unibe.ch/teaching/p2/P2-Reading, line 97, col 4
+Real URL   http://cseng.aw.com/book/0,,0201924889,00.html
+Check time 0.176 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='cseng.aw.com', port=80): Max retries exceeded with url: /book/0,,0201924889,00.html (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109a3ae80>: Failed to establish a ne...
+
+URL        `http://scgresources.unibe.ch/Literature/Books/Gold83aBluebook.pdf'
+Name       `The Blue Book'
+Parent URL http://scg.unibe.ch/teaching/cc/resources, line 48, col 18
+Real URL   http://scgresources.unibe.ch/Literature/Books/Gold83aBluebook.pdf
+Check time 0.034 seconds
+Size       263B
+Result     Error: 403 Forbidden
+
+URL        `http://scgresources.unibe.ch/Literature/Books/Postscript/Adob85a-PostscriptTutorialCookbook-BlueBook.pdf'
+Name       `PostScript Tutorial and Cookbook'
+Parent URL http://scg.unibe.ch/teaching/pl/resources, line 56, col 4
+Real URL   http://scgresources.unibe.ch/Literature/Books/Postscript/Adob85a-PostscriptTutorialCookbook-BlueBook.pdf
+Check time 0.040 seconds
+Size       284B
+Result     Error: 403 Forbidden
+
+URL        `http://scgresources.unibe.ch/Literature/Books/Postscript/Adob90a-PostScriptLanguageReference.pdf'
+Name       `PostScript Language Reference'
+Parent URL http://scg.unibe.ch/teaching/pl/resources, line 59, col 4
+Real URL   http://scgresources.unibe.ch/Literature/Books/Postscript/Adob90a-PostScriptLanguageReference.pdf
+Check time 0.273 seconds
+Size       283B
+Result     Error: 403 Forbidden
+
+URL        `http://scgresources.unibe.ch/Literature/Books/Postscript/Adob88a-PostScriptLanguageDesign-GreenBook.pdf'
+Name       `PostScript Language Design'
+Parent URL http://scg.unibe.ch/teaching/pl/resources, line 62, col 4
+Real URL   http://scgresources.unibe.ch/Literature/Books/Postscript/Adob88a-PostScriptLanguageDesign-GreenBook.pdf
+Check time 0.484 seconds
+Size       287B
+Result     Error: 403 Forbidden
+
+URL        `http://scgresources.unibe.ch/~scg/Literature/PL/Huda89a-p359-hudak.pdf'
+Name       `Conception, Evolution, and Application of Functional Programming Languages'
+Parent URL http://scg.unibe.ch/teaching/pl/resources, line 74, col 24
+Real URL   http://scgresources.unibe.ch/Literature/PL/Huda89a-p359-hudak.pdf
+Check time 0.056 seconds
+Size       265B
+Info       Redirected to
+           `http://scgresources.unibe.ch/Literature/PL/Huda89a-p359-hudak.pdf'.
+Result     Error: 403 Forbidden
+
+URL        `http://scgresources.unibe.ch/~scg/Literature/PL/Lieb86a-Prototypes.pdf'
+Name       `Using Prototypical Objects to Implement Shared Behavior in Object Oriented Systems'
+Parent URL http://scg.unibe.ch/teaching/pl/resources, line 106, col 29
+Real URL   http://scgresources.unibe.ch/Literature/PL/Lieb86a-Prototypes.pdf
+Check time 0.048 seconds
+Size       263B
+Info       Redirected to
+           `http://scgresources.unibe.ch/Literature/PL/Lieb86a-Prototypes.pdf'.
+Result     Error: 403 Forbidden
+
+URL        `http://scgresources.unibe.ch/~scg/Literature/VisualProgramming/'
+Name       `Selected papers'
+Parent URL http://scg.unibe.ch/teaching/pl/resources, line 165, col 4
+Real URL   http://scgresources.unibe.ch/Literature/VisualProgramming/
+Check time 0.053 seconds
+Size       258B
+Info       Redirected to
+           `http://scgresources.unibe.ch/Literature/VisualProgramming/'.
+Result     Error: 403 Forbidden
+
+URL        `http://2013.icse-conferences.org/content/new-ideas-and-emerging-results-nier'
+Name       `ICSE NIER 2013'
+Parent URL http://scg.unibe.ch/staff/oscar/past, line 165, col 26
+Real URL   http://2013.icse-conferences.org/content/new-ideas-and-emerging-results-nier
+Check time 84.726 seconds
+Result     Error: ReadTimeout: HTTPConnectionPool(host='2013.icse-conferences.org', port=80): Read timed out. (read timeout=60)
+
+URL        `http://crashworks.org/if_programming_languages_were_vehicles/'
+Name       `If programming languages were vehicles'
+Parent URL http://scg.unibe.ch/teaching/pl/resources, line 219, col 4
+Real URL   http://crashworks.org/if_programming_languages_were_vehicles/
+Check time 0.006 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='crashworks.org', port=80): Max retries exceeded with url: /if_programming_languages_were_vehicles/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109b47d60>: Failed to...
+
+URL        `http://www.esec-fse-2009.ewi.tudelft.nl/'
+Name       `ESEC/FSE 2009'
+Parent URL http://scg.unibe.ch/staff/oscar/past, line 298, col 165
+Real URL   http://www.esec-fse-2009.ewi.tudelft.nl/
+Check time 60.007 seconds
+Result     Error: ConnectTimeout: HTTPConnectionPool(host='www.esec-fse-2009.ewi.tudelft.nl', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x109794d00>, 'Connection to www.es...
+
+URL        `https://ci.inria.fr/pharo-contribution/job/EnterprisePharoBook/lastSuccessfulBuild/artifact/book-result/STON/STON.html'
+Name       `STON format'
+Parent URL http://scg.unibe.ch/wiki/projects/mastersbachelorsprojects/ReqIF-parser-and-workflow-editor, line 63, col 48
+Real URL   https://ci.inria.fr/pharo-contribution/job/EnterprisePharoBook/lastSuccessfulBuild/artifact/book-result/STON/STON.html
+Check time 0.270 seconds
+Size       299B
+Result     Error: 503 Service Unavailable
+
+URL        `http://mp.binaervarianz.de/'
+Name       `Michael Pradel'
+Parent URL http://scg.unibe.ch/wiki/softwarecompositionseminar/pastseminars, line 916, col 12
+Real URL   http://mp.binaervarianz.de/
+Check time 0.006 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='mp.binaervarianz.de', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10a08f070>: Failed to establish a new connection: [Errn...
+
+URL        `http://moose.unibe.ch/tools/metanool'
+Name       `Metanool'
+Parent URL http://scg.unibe.ch/wiki/softwarecompositionseminar/pastseminars, line 1024, col 39
+Real URL   http://moose.unibe.ch/tools/metanool
+Check time 0.003 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='moose.unibe.ch', port=80): Max retries exceeded with url: /tools/metanool (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109780b50>: Failed to establish a new connecti...
+
+URL        `http://moose.unibe.ch/tools/moosefinder'
+Name       `Moose Finder'
+Parent URL http://scg.unibe.ch/wiki/softwarecompositionseminar/pastseminars, line 1042, col 76
+Real URL   http://moose.unibe.ch/tools/moosefinder
+Check time 0.003 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='moose.unibe.ch', port=80): Max retries exceeded with url: /tools/moosefinder (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109cd72b0>: Failed to establish a new conne...
+
+URL        `http://moose.unibe.ch/tools/moosli'
+Name       `Analyzing Lisp Systems'
+Parent URL http://scg.unibe.ch/wiki/softwarecompositionseminar/pastseminars, line 1044, col 35
+Real URL   http://moose.unibe.ch/tools/moosli
+Check time 0.506 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='moose.unibe.ch', port=80): Max retries exceeded with url: /tools/moosli (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10a0a3f70>: Failed to establish a new connection...
+
+URL        `http://moose.unibe.ch/tools/basil'
+Name       `Basil: A Flash Output Framework for Smalltalk'
+Parent URL http://scg.unibe.ch/wiki/softwarecompositionseminar/pastseminars, line 1046, col 34
+Real URL   http://moose.unibe.ch/tools/basil
+Check time 0.546 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='moose.unibe.ch', port=80): Max retries exceeded with url: /tools/basil (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109c00970>: Failed to establish a new connection:...
+
+URL        `http://moose.unibe.ch/tools/eyesee'
+Name       `EyeSee'
+Parent URL http://scg.unibe.ch/wiki/softwarecompositionseminar/pastseminars, line 1054, col 81
+Real URL   http://moose.unibe.ch/tools/eyesee
+Check time 0.726 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='moose.unibe.ch', port=80): Max retries exceeded with url: /tools/eyesee (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109be3100>: Failed to establish a new connection...
+
+URL        `http://moose.unibe.ch/tools/jwiretap'
+Name       `Java Profiler for Moose'
+Parent URL http://scg.unibe.ch/wiki/softwarecompositionseminar/pastseminars, line 1063, col 34
+Real URL   http://moose.unibe.ch/tools/jwiretap
+Check time 0.630 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='moose.unibe.ch', port=80): Max retries exceeded with url: /tools/jwiretap (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10a0a3070>: Failed to establish a new connecti...
+
+URL        `http://cm.bell-labs.com/cm/cs/who/bwk/'
+Name       `Brian Kernighan'
+Parent URL http://scg.unibe.ch/teaching/p2/P2-Reading, line 73, col 77
+Real URL   http://cm.bell-labs.com/cm/cs/who/bwk/
+Check time 26.256 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='cm.bell-labs.com', port=80): Max retries exceeded with url: /cm/cs/who/bwk/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109783c10>: Failed to establish a new connec...
+
+URL        `http://moose.unibe.ch/tools/mondrian'
+Name       `The nice visualization engine wihtout a final name'
+Parent URL http://scg.unibe.ch/wiki/softwarecompositionseminar/pastseminars, line 1079, col 34
+Real URL   http://moose.unibe.ch/tools/mondrian
+Check time 0.584 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='moose.unibe.ch', port=80): Max retries exceeded with url: /tools/mondrian (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109bfc2b0>: Failed to establish a new connecti...
+
+URL        `http://moose.unibe.ch/tools/chronia'
+Name       `How Developers Drive Software Evolution'
+Parent URL http://scg.unibe.ch/wiki/softwarecompositionseminar/pastseminars, line 1081, col 39
+Real URL   http://moose.unibe.ch/tools/chronia
+Check time 0.710 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='moose.unibe.ch', port=80): Max retries exceeded with url: /tools/chronia (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109c7a2e0>: Failed to establish a new connectio...
+
+URL        `http://www.inf.unisi.ch/faculty/lanza/codecrawler.html'
+Name       `CodeCrawler'
+Parent URL http://scg.unibe.ch/wiki/softwarecompositionseminar/pastseminars, line 1147, col 114
+Real URL   http://www.inf.unisi.ch/faculty/lanza/codecrawler.html
+Check time 0.372 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='www.inf.unisi.ch', port=80): Max retries exceeded with url: /faculty/lanza/codecrawler.html (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10a0a3f10>: Failed to establ...
+
+URL        `http://www.iam.unibe.ch/~schlpbch/mastersThesis.html'
+Name       `here.'
+Parent URL http://scg.unibe.ch/wiki/softwarecompositionseminar/pastseminars, line 1135, col 151
+Real URL   https://home.inf.unibe.ch//~schlpbch/mastersThesis.html
+Check time 0.546 seconds
+Size       280B
+Info       Redirected to
+           `http://home.inf.unibe.ch/~schlpbch/mastersThesis.html'.
+           Redirected to
+           `https://home.inf.unibe.ch//~schlpbch/mastersThesis.html'.
+Result     Error: 404 Not Found
+
+URL        `http://www.iam.unibe.ch/~demeyer/'
+Name       `http://www.iam.unibe.ch/~demeyer/'
+Parent URL http://scg.unibe.ch/wiki/softwarecompositionseminar/pastseminars, line 1159, col 41
+Real URL   https://home.inf.unibe.ch//~demeyer/
+Check time 0.556 seconds
+Size       280B
+Info       Redirected to `http://home.inf.unibe.ch/~demeyer/'.
+           Redirected to `https://home.inf.unibe.ch//~demeyer/'.
+Result     Error: 404 Not Found
+
+URL        `http://www.iam.unibe.ch/~demeyer'
+Name       `http://www.iam.unibe.ch/~demeyer'
+Parent URL http://scg.unibe.ch/wiki/softwarecompositionseminar/pastseminars, line 1162, col 148
+Real URL   https://home.inf.unibe.ch//~demeyer
+Check time 0.931 seconds
+Size       280B
+Info       Redirected to `http://home.inf.unibe.ch/~demeyer'.
+           Redirected to `https://home.inf.unibe.ch//~demeyer'.
+Result     Error: 404 Not Found
+
+URL        `https://oracle.github.io/oracle-db-mle/releases/0.2.7/'
+Name       `https://oracle.github.io/oracle-db-mle/releases/0.2.7/'
+Parent URL http://scg.unibe.ch/wiki/projects/mastersbachelorsprojects/JavaScript-in-the-relational-database, line 48, col 1
+Real URL   https://oracle.github.io/oracle-db-mle/releases/0.2.7/
+Check time 0.102 seconds
+Size       5KB
+Result     Error: 404 Not Found
+
+URL        `https://www.graalvm.org/docs/examples/mle-oracle/'
+Name       `https://www.graalvm.org/docs/examples/mle-oracle/'
+Parent URL http://scg.unibe.ch/wiki/projects/mastersbachelorsprojects/JavaScript-in-the-relational-database, line 49, col 1
+Real URL   https://www.graalvm.org/docs/examples/mle-oracle/
+Check time 0.144 seconds
+Size       5KB
+Result     Error: 404 Not Found
+
+URL        `https://infocon.org/cons/Hack.lu/2009/Presentations/moxie-marlinspike-some_tricks_for_defeating_ssl_in_practice.pdf'
+Name       `Presentation: More Tricks For Defeating SSL In Practice'
+Parent URL http://scg.unibe.ch/wiki/projects/mastersbachelorsprojects/https-downgrade, line 80, col 5
+Real URL   https://infocon.org/cons/Hack.lu/2009/Presentations/moxie-marlinspike-some_tricks_for_defeating_ssl_in_practice.pdf
+Check time 0.725 seconds
+Result     Error: SSLError: HTTPSConnectionPool(host='infocon.org', port=443): Max retries exceeded with url: /cons/Hack.lu/2009/Presentations/moxie-marlinspike-some_tricks_for_defeating_ssl_in_practice.pdf (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_...
+
+URL        `https://www.jstor.org/stable/pdf/40398409.pdf'
+Name       `PDF'
+Parent URL http://scg.unibe.ch/wiki/projects/mastersbachelorsprojects/android-password-policies, line 89, col 67
+Real URL   https://www.jstor.org/stable/pdf/40398409.pdf
+Check time 0.634 seconds
+Size       3KB
+Result     Error: 403 Forbidden
+
+URL        `http://decomp.ulb.ac.be:8082/events/dls05/'
+Name       `DLS05'
+Parent URL http://scg.unibe.ch/staff/oscar/past, line 359, col 27
+Real URL   http://decomp.ulb.ac.be:8082/events/dls05/
+Check time 60.008 seconds
+Result     Error: ConnectTimeout: HTTPConnectionPool(host='decomp.ulb.ac.be', port=8082): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x109e434c0>, 'Connection to decomp.ulb.ac.be tim...
+
+URL        `http://www.iam.unibe.ch/~akuhn/strip.js'
+Parent URL http://scg.unibe.ch/wiki/alumni/adriankuhn, line 46, col 1
+Real URL   https://home.inf.unibe.ch//~akuhn/strip.js
+Check time 0.515 seconds
+Size       280B
+Info       Redirected to
+           `http://home.inf.unibe.ch/~akuhn/strip.js'.
+           Redirected to
+           `https://home.inf.unibe.ch//~akuhn/strip.js'.
+Result     Error: 404 Not Found
+
+URL        `http://dgurtner.crimson.ch/media/img/email.jpg'
+Name       `email'
+Parent URL http://scg.unibe.ch/wiki/alumni/DavidGurtner, line 47, col 30
+Real URL   http://dgurtner.crimson.ch/media/img/email.jpg
+Check time 0.144 seconds
+Size       296B
+Result     Error: 404 Not Found
+
+URL        `http://blog.3plus4.org/2007/08/30/message-chains/'
+Name       `Vassili Bykov'
+Parent URL http://scg.unibe.ch/research/helvetia/examples, line 165, col 50
+Real URL   https://blog.3plus4.org/2007/08/30/message-chains/
+Check time 4.228 seconds
+Info       Redirected to
+           `https://blog.3plus4.org/2007/08/30/message-chains/'.
+Result     Error: 500 Internal Server Error
+
+URL        `http://www.rcost.unisannio.it/iwpse2005/index.htm'
+Name       `IWPSE '05'
+Parent URL http://scg.unibe.ch/staff/oscar/past, line 364, col 27
+Real URL   http://www.rcost.unisannio.it/iwpse2005/index.htm
+Check time 60.440 seconds
+Result     Error: ConnectTimeout: HTTPConnectionPool(host='www.rcost.unisannio.it', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x1097944c0>, 'Connection to www.rcost.unisan...
+
+URL        `http://toolsee.vub.ac.be/'
+Name       `TOOLSEE 2001'
+Parent URL http://scg.unibe.ch/staff/oscar/past, line 418, col 27
+Real URL   http://toolsee.vub.ac.be/
+Check time 60.007 seconds
+Result     Error: ConnectTimeout: HTTPConnectionPool(host='toolsee.vub.ac.be', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x109c324c0>, 'Connection to toolsee.vub.ac.be tim...
+
+URL        `http://2013.icse-conferences.org/'
+Name       `ICSE 2013'
+Parent URL http://scg.unibe.ch/staff/oscar/past, line 168, col 103
+Real URL   http://2013.icse-conferences.org/
+Check time 144.790 seconds
+Result     Error: ReadTimeout: HTTPConnectionPool(host='2013.icse-conferences.org', port=80): Read timed out. (read timeout=60)
+
+URL        `http://www.esec-fse-2009.ewi.tudelft.nl/node/20'
+Name       `ESEC/FSE 2009 Doctoral Symposium'
+Parent URL http://scg.unibe.ch/staff/oscar/past, line 301, col 30
+Real URL   http://www.esec-fse-2009.ewi.tudelft.nl/node/20
+Check time 117.329 seconds
+Result     Error: ConnectTimeout: HTTPConnectionPool(host='www.esec-fse-2009.ewi.tudelft.nl', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x109babcd0>, 'Connection to www.es...
+
+URL        `http://dossen.univ-brest.fr/apl/index.php/Accueil'
+Name       `Alain Plantec'
+Parent URL http://scg.unibe.ch/wiki/softwarecompositionseminar/pastseminars, line 714, col 13
+Real URL   http://dossen.univ-brest.fr/apl/index.php/Accueil
+Check time 60.005 seconds
+Result     Error: ConnectTimeout: HTTPConnectionPool(host='dossen.univ-brest.fr', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x109fcdbe0>, 'Connection to dossen.univ-brest....
+
+URL        `http://scgwiki.iam.unibe.ch:8080/SCG/501'
+Name       `Environment Variables'
+Parent URL http://scg.unibe.ch/wiki/howtos/howtoinstallamacfromscratch, line 93, col 90
+Real URL   http://scgwiki.iam.unibe.ch:8080/SCG/501
+Check time 0.920 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='scgwiki.iam.unibe.ch', port=8080): Max retries exceeded with url: /SCG/501 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109d1ceb0>: Failed to establish a new connect...
+
+URL        `https://www.iam.unibe.ch/scg/svn_repos/oscar/MacScripts/tsync'
+Name       `tsync'
+Parent URL http://scg.unibe.ch/wiki/howtos/howtosetupbackuponamac, line 84, col 5
+Real URL   https://www.iam.unibe.ch/scg/svn_repos/oscar/MacScripts/tsync
+Check time 0.120 seconds
+Size       464B
+Result     Error: 401 Unauthorized
+
+URL        `https://www.iam.unibe.ch/scg/svn_repos/oscar/MacScripts/BACKUPscripts/iPod/iPodSync.command'
+Name       `iPodSync'
+Parent URL http://scg.unibe.ch/wiki/howtos/howtosetupbackuponamac, line 85, col 5
+Real URL   https://www.iam.unibe.ch/scg/svn_repos/oscar/MacScripts/BACKUPscripts/iPod/iPodSync.command
+Check time 0.568 seconds
+Size       464B
+Result     Error: 401 Unauthorized
+
+URL        `https://www.iam.unibe.ch/scg/svn_repos/oscar/MacScripts/BACKUPscripts/iPod/BACKUP2iPod.command'
+Name       `BACKUP'
+Parent URL http://scg.unibe.ch/wiki/howtos/howtosetupbackuponamac, line 86, col 5
+Real URL   https://www.iam.unibe.ch/scg/svn_repos/oscar/MacScripts/BACKUPscripts/iPod/BACKUP2iPod.command
+Check time 0.872 seconds
+Size       464B
+Result     Error: 401 Unauthorized
+
+URL        `https://www.iam.unibe.ch/scg/svn_repos/oscar/MacScripts/BACKUPscripts/iPod/UPDATEfromiPod.command'
+Name       `UPDATE'
+Parent URL http://scg.unibe.ch/wiki/howtos/howtosetupbackuponamac, line 86, col 125
+Real URL   https://www.iam.unibe.ch/scg/svn_repos/oscar/MacScripts/BACKUPscripts/iPod/UPDATEfromiPod.command
+Check time 1.295 seconds
+Size       464B
+Result     Error: 401 Unauthorized
+
+URL        `https://www.iam.unibe.ch/scg/svn_repos/oscar/MacScripts/bu'
+Name       `bu'
+Parent URL http://scg.unibe.ch/wiki/howtos/howtosetupbackuponamac, line 87, col 5
+Real URL   https://www.iam.unibe.ch/scg/svn_repos/oscar/MacScripts/bu
+Check time 1.220 seconds
+Size       464B
+Result     Error: 401 Unauthorized
+
+URL        `http://www.iam.unibe.ch/institut/sysadmin/wlan'
+Name       `http://www.iam.unibe.ch/institut/sysadmin/wlan'
+Parent URL http://scg.unibe.ch/wiki/howtos/howtosetupwirelesslan, line 47, col 4
+Real URL   http://www.iam.unibe.ch/institut/sysadmin/wlan
+Check time 0.632 seconds
+Size       278B
+Result     Error: 404 Not Found
+
+URL        `http://pages.cpsc.ucalgary.ca/~smithco/latex/'
+Name       `http://pages.cpsc.ucalgary.ca/~smithco/latex/'
+Parent URL http://scg.unibe.ch/wiki/howtos/howtomakeyourcamerareadypdfpassthroughthepdfcheck, line 128, col 5
+Real URL   http://pages.cpsc.ucalgary.ca/~smithco/latex/
+Check time 0.967 seconds
+Size       311B
+Result     Error: 404 Not Found
+
+URL        `http://electron.mit.edu/~gsteele/pdf/'
+Name       `http://electron.mit.edu/~gsteele/pdf/'
+Parent URL http://scg.unibe.ch/wiki/howtos/howtomakeyourcamerareadypdfpassthroughthepdfcheck, line 129, col 5
+Real URL   http://electron.mit.edu/~gsteele/pdf/
+Check time 1.040 seconds
+Size       24.11KB
+Result     Error: 404 Not Found
+
+URL        `http://www.iam.unibe.ch/ical'
+Name       `http://www.iam.unibe.ch/ical'
+Parent URL http://scg.unibe.ch/wiki/howtos/howtosubscribetoandpublishwebcalendars, line 63, col 35
+Real URL   http://www.iam.unibe.ch/ical
+Check time 0.035 seconds
+Size       278B
+Result     Error: 404 Not Found
+
+URL        `http://www.codingmonkeys.de/mbo/'
+Name       `http://www.codingmonkeys.de/mbo/'
+Parent URL http://scg.unibe.ch/wiki/howtos/howtousesubversion, line 47, col 56
+Real URL   https://www.codingmonkeys.de/mbo/
+Check time 0.456 seconds
+Size       2KB
+Info       Redirected to `https://www.codingmonkeys.de/mbo/'.
+Result     Error: 404 Not Found
+
+URL        `https://www.iam.unibe.ch/scg/svn_repos/MyPath'
+Name       `https://www.iam.unibe.ch/scg/svn_repos/MyPath'
+Parent URL http://scg.unibe.ch/wiki/howtos/howtousesubversion, line 71, col 12
+Real URL   https://www.iam.unibe.ch/scg/svn_repos/MyPath
+Check time 0.336 seconds
+Size       464B
+Result     Error: 401 Unauthorized
+
+URL        `http://msdn40.e-academy.com/unibe_gesamter'
+Name       `http://msdn40.e-academy.com/unibe_gesamter'
+Parent URL http://scg.unibe.ch/wiki/howtos/howtoinstallparallelsandwindowsonmac, line 56, col 12
+Real URL   http://msdn40.e-academy.com/unibe_gesamter
+Check time 0.445 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='msdn40.e-academy.com', port=80): Max retries exceeded with url: /unibe_gesamter (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109befb50>: Failed to establish a new co...
+
+URL        `http://media.arstechnica.com/journals/apple.media/chickenofthevnc.jpg'
+Parent URL http://scg.unibe.ch/wiki/howtos/howtousechickenofthevnc, line 47, col 1
+Real URL   http://cdn.arstechnica.net/journals/apple.media/chickenofthevnc.jpg
+Check time 2.131 seconds
+Size       154B
+Info       Redirected to
+           `https://media.arstechnica.com:443/journals/apple.media/chickenofthevnc.jpg'.
+           Redirected to
+           `http://arstechnica.com/journals/apple.media/chickenofthevnc.jpg'.
+           Redirected to
+           `https://arstechnica.com:443/journals/apple.media/chickenofthevnc.jpg'.
+           Redirected to
+           `http://cdn.arstechnica.net/journals/apple.media/chickenofthevnc.jpg'.
+Result     Error: 404 Not Found
+
+URL        `https://www.iam.unibe.ch/scg/svn_repos/scg/SystemAdministration/SCGSoftwareInventory.xls'
+Name       `https://www.iam.unibe.ch/scg/svn_repos/scg/SystemAdministration/SCGSoftwareInventory.xls'
+Parent URL http://scg.unibe.ch/wiki/howtos/howtoinstallparallelsandwindowsonmac, line 54, col 30
+Real URL   https://www.iam.unibe.ch/scg/svn_repos/scg/SystemAdministration/SCGSoftwareInventory.xls
+Check time 0.727 seconds
+Size       464B
+Result     Error: 401 Unauthorized
+
+URL        `http://msdn40.e-academy.com/ifiuam_bern/'
+Name       `http://msdn40.e-academy.com/ifiuam_bern/'
+Parent URL http://scg.unibe.ch/wiki/howtos/howtoinstallparallelsandwindowsonmac, line 56, col 117
+Real URL   http://msdn40.e-academy.com/ifiuam_bern/
+Check time 0.399 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='msdn40.e-academy.com', port=80): Max retries exceeded with url: /ifiuam_bern/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109cbefa0>: Failed to establish a new conn...
+
+URL        `http://authors.elsevier.com/latex/elsart.cls'
+Name       `http://authors.elsevier.com/latex/elsart.cls'
+Parent URL http://scg.unibe.ch/wiki/howtos/howtousesubversion, line 117, col 201
+Real URL   https://authors.elsevier.com/latex/elsart.cls
+Check time 0.942 seconds
+Info       Redirected to
+           `https://authors.elsevier.com/latex/elsart.cls'.
+Result     Error: 404 Not Found
+
+URL        `http://choose.s-i.ch/board'
+Name       `CHOOSE Treasurer'
+Parent URL http://scg.unibe.ch/wiki/howtos/howtoclaimyourexpensesfromchoosewhenyougetbackfromtheconference, line 47, col 259
+Real URL   http://choose.s-i.ch/board
+Check time 0.006 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='choose.s-i.ch', port=80): Max retries exceeded with url: /board (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109950880>: Failed to establish a new connection: [Errno...
+
+URL        `https://www.iam.unibe.ch/mailman/listinfo'
+Name       `https://www.iam.unibe.ch/mailman/listinfo'
+Parent URL http://scg.unibe.ch/wiki/howtos/howtobeanassistantforalecture, line 86, col 63
+Real URL   https://www.iam.unibe.ch/mailman/listinfo
+Check time 0.942 seconds
+Size       279B
+Result     Error: 404 Not Found
+
+URL        `http://www.iam.unibe.ch/publikationen/techreports/richtlinien'
+Name       `http://www.iam.unibe.ch/publikationen/techreports/richtlinien'
+Parent URL http://scg.unibe.ch/wiki/howtos/howtogetanumberforatechnicalreport, line 47, col 1
+Real URL   http://www.iam.unibe.ch/publikationen/techreports/richtlinien
+Check time 0.176 seconds
+Size       278B
+Result     Error: 404 Not Found
+
+URL        `http://www.unibe.ch/university/services/university_library/research/e_books/index_eng.html'
+Name       `http://www.unibe.ch/university/services/university_library/research/e_books/index_eng.html'
+Parent URL http://scg.unibe.ch/wiki/howtos/howtoborrowabook, line 52, col 62
+Real URL   https://www.unibe.ch/university/services/university_library/research/e_books/index_eng.html
+Check time 0.360 seconds
+Size       7KB
+Info       Redirected to
+           `https://www.unibe.ch/university/services/university_library/research/e_books/index_eng.html'.
+Result     Error: 404 Not Found
+
+URL        `http://www.philnat.unibe.ch/lenya/philnat/live/studienbetrieb/formulare.html'
+Name       `http://www.philnat.unibe.ch/lenya/philnat/live/studienbetrieb/formulare.html'
+Parent URL http://scg.unibe.ch/wiki/howtos/howtobeanassistantforalecture, line 127, col 44
+Real URL   https://www.philnat.unibe.ch/lenya/philnat/live/studienbetrieb/formulare.html
+Check time 1.124 seconds
+Size       7KB
+Info       Redirected to
+           `https://www.philnat.unibe.ch/lenya/philnat/live/studienbetrieb/formulare.html'.
+Result     Error: 404 Not Found
+
+URL        `http://www.philnat.unibe.ch/content/studium/phd___doktorate/index_ger.html'
+Name       `http://www.philnat.unibe.ch/content/studium/phd___doktorate/index_ger.html'
+Parent URL http://scg.unibe.ch/wiki/howtos/howtoregisterasaphdstudentdoktorand, line 49, col 1
+Real URL   https://www.philnat.unibe.ch/content/studium/phd___doktorate/index_ger.html
+Check time 0.379 seconds
+Size       7KB
+Info       Redirected to
+           `https://www.philnat.unibe.ch/content/studium/phd___doktorate/index_ger.html'.
+Result     Error: 404 Not Found
+
+URL        `http://www.zib.unibe.ch/content/internationals/bewerbung/doktorat/index_eng.html'
+Name       `http://www.zib.unibe.ch/content/internationals/bewerbung/doktorat/index_eng.html'
+Parent URL http://scg.unibe.ch/wiki/howtos/howtoregisterasaphdstudentdoktorand, line 47, col 1
+Real URL   https://www.unibe.ch/universitaet/organisation/leitung_und_zentralbereich/vizerektorat_lehre/zulassung_immatrikulation_und_beratung/content/internationals/bewerbung/doktorat/index_eng.html
+Check time 1.585 seconds
+Size       7KB
+Info       Redirected to
+           `https://www.unibe.ch/universitaet/organisation/leitung_und_zentralbereich/vizerektorat_lehre/zulassung_immatrikulation_und_beratung/content/internationals/bewerbung/doktorat/index_eng.html'.
+Result     Error: 404 Not Found
+
+URL        `http://pi.informatik.uni-siegen.de/stt/dissertationen/'
+Name       `Softwaretechnik Dissertation list'
+Parent URL http://scg.unibe.ch/wiki/howtos/howtoapplyforyourphddefense, line 81, col 280
+Real URL   http://pi.informatik.uni-siegen.de/stt/dissertationen/
+Check time 0.031 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='pi.informatik.uni-siegen.de', port=80): Max retries exceeded with url: /stt/dissertationen/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109cbe670>: Failed to establ...
+
+URL        `http://www.metaprog.com/Toothpick'
+Name       `http://www.metaprog.com/Toothpick'
+Parent URL http://scg.unibe.ch/wiki/ssug/smalltalkpartythe28thofoctober2006, line 133, col 59
+Real URL   http://www.metaprog.com/Toothpick
+Check time 0.038 seconds
+Size       708B
+Result     Error: 404 Not Found
+
+URL        `http://llk.media.mit.edu/projects/scratch/'
+Name       `http://llk.media.mit.edu/projects/scratch/'
+Parent URL http://scg.unibe.ch/wiki/ssug/smalltalkpartythe28thofoctober2006, line 163, col 109
+Real URL   https://www.media.mit.edu/groups/lifelong-kindergarten/overview/projects/scratch/
+Check time 1.175 seconds
+Size       78.38KB
+Info       Redirected to
+           `https://www.media.mit.edu/groups/lifelong-kindergarten/overview/projects/scratch/'.
+Result     Error: 404 Not Found
+
+URL        `http://pinocchio.unibe.ch/hikomsys/'
+Name       `HIKOMSYS'
+Parent URL http://scg.unibe.ch/wiki/projects/HIK-MSY, line 46, col 309
+Real URL   http://pinocchio.unibe.ch/hikomsys/
+Check time 0.023 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='pinocchio.unibe.ch', port=80): Max retries exceeded with url: /hikomsys/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109e544f0>: Failed to establish a new connectio...
+
+URL        `http://www.iam.unibe.ch/~reichhar/'
+Name       `http://www.iam.unibe.ch/~reichhar/'
+Parent URL http://scg.unibe.ch/wiki/alumni/stefanreichhart, line 109, col 18
+Real URL   https://home.inf.unibe.ch//~reichhar/
+Check time 0.340 seconds
+Size       280B
+Info       Redirected to `http://home.inf.unibe.ch/~reichhar/'.
+           Redirected to `https://home.inf.unibe.ch//~reichhar/'.
+Result     Error: 404 Not Found
+
+URL        `http://www.iam.unibe.ch/~greevy'
+Name       `http://www.iam.unibe.ch/~greevy'
+Parent URL http://scg.unibe.ch/wiki/alumni/orlagreevy, line 46, col 22
+Real URL   https://home.inf.unibe.ch//~greevy
+Check time 0.494 seconds
+Size       280B
+Info       Redirected to `http://home.inf.unibe.ch/~greevy'.
+           Redirected to `https://home.inf.unibe.ch//~greevy'.
+Result     Error: 404 Not Found
+
+URL        `http://publibfp.boulder.ibm.com/epubs/pdf/ibm3lr80.pdf'
+Name       `http://publibfp.boulder.ibm.com/epubs/pdf/ibm3lr80.pdf'
+Parent URL http://scg.unibe.ch/wiki/alumni/erikaeschlimann, line 91, col 1
+Real URL   http://publibfp.boulder.ibm.com/epubs/pdf/ibm3lr80.pdf
+Check time 5.305 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='publibfp.boulder.ibm.com', port=80): Max retries exceeded with url: /epubs/pdf/ibm3lr80.pdf (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10a0b5220>: Failed to establ...
+
+URL        `https://www.ohloh.net/accounts/fgysin'
+Name       `at Ohloh.com'
+Parent URL http://scg.unibe.ch/wiki/alumni/floriangysin, line 50, col 4
+Real URL   https://www.ohloh.net/accounts/fgysin
+Check time 0.161 seconds
+Result     Error: SSLError: HTTPSConnectionPool(host='www.ohloh.net', port=443): Max retries exceeded with url: /accounts/fgysin (Caused by SSLError(SSLError(1, '[SSL: TLSV1_UNRECOGNIZED_NAME] tlsv1 unrecognized name (_ssl.c:1125)')))
+
+URL        `http://216.228.1.34/pdfexpress/log.asp'
+Name       `http://216.228.1.34/pdfexpress/log.asp'
+Parent URL http://scg.unibe.ch/wiki/howtos/howtomakeyourcamerareadypdfpassthroughthepdfcheck, line 47, col 60
+Real URL   http://216.228.1.34/pdfexpress/log.asp
+Check time 20.283 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='216.228.1.34', port=80): Max retries exceeded with url: /pdfexpress/log.asp (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10a066d30>: Failed to establish a new connec...
+
+URL        `http://www.awae.ch'
+Name       `http://www.awae.ch'
+Parent URL http://scg.unibe.ch/wiki/alumni/AndreasWaelchli, line 46, col 467
+Real URL   http://www.awae.ch
+Check time 0.412 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='www.awae.ch', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10979ca90>: Failed to establish a new connection: [Errno 8] nod...
+
+URL        `https://www.zeeguu.unibe.ch/'
+Name       `Zeeguu'
+Parent URL http://scg.unibe.ch/wiki/alumni/LinusSchwab, line 49, col 1
+Real URL   https://www.zeeguu.unibe.ch/
+Check time 60.033 seconds
+Result     Error: ConnectTimeout: HTTPSConnectionPool(host='www.zeeguu.unibe.ch', port=443): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x109886400>, 'Connection to www.zeeguu.unibe...
+
+URL        `https://github.com/broggi/DL4J-Bugprediction'
+Name       `GitHub (DL4J-Bugprediction)'
+Parent URL http://scg.unibe.ch/wiki/alumni/SebastienBroggi, line 50, col 73
+Real URL   https://github.com/broggi/DL4J-Bugprediction
+Check time 1.386 seconds
+Result     Error: 404 Not Found
+
+URL        `https://swisssalary.ch/images/default-source/team/buehlmann.jpg'
+Parent URL http://scg.unibe.ch/wiki/alumni/NoahBuehlmann, line 52, col 12
+Real URL   https://swisssalary.ch/404?aspxerrorpath=/images/default-source/team/buehlmann.jpg
+Check time 0.822 seconds
+Size       38.39KB
+Info       Redirected to
+           `https://swisssalary.ch/404?aspxerrorpath=/images/default-source/team/buehlmann.jpg'.
+Result     Error: 404 Not Found
+
+URL        `https://consonus-vokalensemble.com/vier-elemente-fruehling-2020/'
+Name       `https://consonus-vokalensemble.com/vier-elemente-fruehling-2020/'
+Parent URL http://scg.unibe.ch/wiki/alumni/NoahBuehlmann, line 55, col 211
+Real URL   https://consonus-vokalensemble.ch/vier-elemente-fruehling-2020/
+Check time 0.738 seconds
+Info       Redirected to
+           `http://consonus-vokalensemble.ch/vier-elemente-fruehling-2020/'.
+           Redirected to
+           `https://consonus-vokalensemble.ch/vier-elemente-fruehling-2020/'.
+Result     Error: 404 Not Found
+
+URL        `https://www.oracle.com/technetwork/database/multilingual-engine/overview/index.html'
+Name       `https://www.oracle.com/technetwork/database/multilingual-engine/overview/index.html'
+Parent URL http://scg.unibe.ch/wiki/alumni/JulianWeyermann, line 50, col 13
+Real URL   https://www.oracle.com/technetwork/database/multilingual-engine/overview/index.html
+Check time 0.373 seconds
+Size       5KB
+Result     Error: 404 Not Found
+
+URL        `http://wasdett2.wikispaces.com/'
+Name       `2nd WASDETT'
+Parent URL http://scg.unibe.ch/wiki/events/wasdett2008, line 49, col 17
+Real URL   http://wasdett2.wikispaces.com/
+Check time 0.054 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='wasdett2.wikispaces.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109b97820>: Failed to establish a new connection: [...
+
+URL        `http://www.elsevier.com/wps/find/authorsview.authors/elsart'
+Name       `style guidelines for Elsevier journal papers'
+Parent URL http://scg.unibe.ch/wiki/events/wasdett2008, line 128, col 185
+Real URL   http://www.elsevier.com/wps/find/authorsview.authors/elsart
+Check time 0.165 seconds
+Result     Error: 410 Gone
+
+URL        `http://holgerkienle.wikispaces.com'
+Name       `http://holgerkienle.wikispaces.com'
+Parent URL http://scg.unibe.ch/wiki/events/wasdett2008, line 145, col 47
+Real URL   http://holgerkienle.wikispaces.com
+Check time 0.036 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='holgerkienle.wikispaces.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109981640>: Failed to establish a new connectio...
+
+URL        `http://homepages.ulb.ac.be/~rowuyts'
+Name       `http://homepages.ulb.ac.be/~rowuyts'
+Parent URL http://scg.unibe.ch/wiki/events/wasdett2008, line 146, col 30
+Real URL   http://homepages.ulb.ac.be/~rowuyts
+Check time 0.130 seconds
+Size       281B
+Result     Error: 404 Not Found
+
+URL        `http://prog.vub.ac.be/~akellens'
+Name       `http://prog.vub.ac.be/~akellens'
+Parent URL http://scg.unibe.ch/wiki/events/wasdett2008, line 155, col 61
+Real URL   http://prog.vub.ac.be/~akellens
+Check time 0.084 seconds
+Size       277B
+Result     Error: 403 Forbidden
+
+URL        `http://www.inf.unisi.ch/faculty/lanza'
+Name       `http://www.inf.unisi.ch/faculty/lanza'
+Parent URL http://scg.unibe.ch/wiki/events/wasdett2008, line 159, col 60
+Real URL   http://www.inf.unisi.ch/faculty/lanza
+Check time 0.006 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='www.inf.unisi.ch', port=80): Max retries exceeded with url: /faculty/lanza (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109bec430>: Failed to establish a new connect...
+
+URL        `http://www.cs.utt.ro/~radum'
+Name       `http://www.cs.utt.ro/~radum'
+Parent URL http://scg.unibe.ch/wiki/events/wasdett2008, line 160, col 62
+Real URL   http://www.cs.utt.ro/~radum/
+Check time 0.209 seconds
+Size       708B
+Info       Redirected to `http://www.cs.utt.ro/~radum/'.
+Result     Error: 404 Not Found
+
+URL        `http://www.cs.uni-bonn.de/~gk/gk'
+Name       `http://www.cs.uni-bonn.de/~gk/gk'
+Parent URL http://scg.unibe.ch/wiki/events/wasdett2008, line 157, col 60
+Real URL   https://www.cs.uni-bonn.de/~gk/gk
+Check time 0.780 seconds
+Info       Redirected to `https://www.cs.uni-bonn.de/~gk/gk'.
+Result     Error: 404 Not Found
+
+URL        `http://www.refactory.com/people/john.html'
+Name       `http://www.refactory.com/people/john.html'
+Parent URL http://scg.unibe.ch/wiki/events/wasdett2008, line 150, col 38
+Real URL   https://refactory.com/people/john.html
+Check time 1.500 seconds
+Info       Redirected to
+           `https://refactory.com/people/john.html'.
+Result     Error: 404 Not Found
+
+URL        `http://pages.cpsc.ucalgary.ca/~zimmerth'
+Name       `http://pages.cpsc.ucalgary.ca/~zimmerth'
+Parent URL http://scg.unibe.ch/wiki/events/wasdett2008, line 169, col 56
+Real URL   http://pages.cpsc.ucalgary.ca/~zimmerth
+Check time 0.948 seconds
+Size       305B
+Result     Error: 404 Not Found
+
+URL        `http://www.st.ewi.tudelft.nl/~zaidman'
+Name       `http://www.st.ewi.tudelft.nl/~zaidman'
+Parent URL http://scg.unibe.ch/wiki/events/wasdett2008, line 167, col 72
+Real URL   https://www.tudelft.nl/en/eemcs/the-faculty/departments/software-technology/~zaidman
+Check time 1.230 seconds
+Info       Redirected to
+           `https://www.tudelft.nl/en/eemcs/the-faculty/departments/software-technology/~zaidman'.
+Result     Error: 404 Not Found
+
+URL        `http://codingdojo.org/cgi-bin/wiki.pl?RandoriKata'
+Name       `http://codingdojo.org/cgi-bin/wiki.pl?RandoriKata'
+Parent URL http://scg.unibe.ch/wiki/events/omnibrowserdojo, line 48, col 124
+Real URL   https://codingdojo.org/cgi-bin/wiki.pl?RandoriKata
+Check time 1.376 seconds
+Info       Redirected to
+           `https://codingdojo.org/cgi-bin/wiki.pl?RandoriKata'.
+Result     Error: 404 Not Found
+
+URL        `https://codespeak.net/viewvc/pypy/dist/pypy/lang/smalltalk'
+Name       `https://codespeak.net/viewvc/pypy/dist/pypy/lang/smalltalk'
+Parent URL http://scg.unibe.ch/wiki/events/pypysprint, line 86, col 5
+Real URL   https://codespeak.net/viewvc/pypy/dist/pypy/lang/smalltalk
+Check time 0.569 seconds
+Result     Error: 404 Not Found
+
+URL        `http://www.comp.mq.edu.au/~asloane'
+Name       `http://www.comp.mq.edu.au/~asloane'
+Parent URL http://scg.unibe.ch/wiki/events/wasdett2008, line 163, col 56
+Real URL   http://web.science.mq.edu.au/~asloane
+Check time 3.098 seconds
+Size       1KB
+Info       Redirected to `http://web.science.mq.edu.au/~asloane'.
+Result     Error: 403 Forbidden
+
+URL        `http://codespeak.net/pypy/extradoc/sprintinfo/bern2007/announce.html'
+Name       `http://codespeak.net/pypy/extradoc/sprintinfo/bern2007/announce.html'
+Parent URL http://scg.unibe.ch/wiki/events/pypysprint, line 87, col 5
+Real URL   https://codespeak.net/pypy/extradoc/sprintinfo/bern2007/announce.html
+Check time 0.590 seconds
+Info       Redirected to
+           `https://codespeak.net/pypy/extradoc/sprintinfo/bern2007/announce.html'.
+Result     Error: 404 Not Found
+
+URL        `http://seal.ifi.unizh.ch/gall/'
+Name       `http://seal.ifi.unizh.ch/gall/'
+Parent URL http://scg.unibe.ch/wiki/events/woor2007, line 169, col 1
+Real URL   http://seal.ifi.unizh.ch/gall/
+Check time 0.006 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='seal.ifi.unizh.ch', port=80): Max retries exceeded with url: /gall/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109908fa0>: Failed to establish a new connection: [E...
+
+URL        `http://codingdojo.org/cgi-bin/wiki.pl'
+Name       `http://codingdojo.org/cgi-bin/wiki.pl'
+Parent URL http://scg.unibe.ch/wiki/events/omnibrowserdojo, line 60, col 5
+Real URL   https://codingdojo.org/cgi-bin/wiki.pl
+Check time 2.032 seconds
+Info       Redirected to
+           `https://codingdojo.org/cgi-bin/wiki.pl'.
+Result     Error: 404 Not Found
+
+URL        `http://www.iam.unibe.ch/cgi-bin/getpage.py?finding.html&e'
+Name       `http://www.iam.unibe.ch/cgi-bin/getpage.py?finding.html&e'
+Parent URL http://scg.unibe.ch/wiki/events/traitbasedlanguageinternationalworkshop, line 75, col 20
+Real URL   http://www.iam.unibe.ch/cgi-bin/getpage.py?finding.html&e
+Check time 0.059 seconds
+Size       278B
+Result     Error: 404 Not Found
+
+URL        `http://www.cs.uoregon.edu/events/icse2009/calls/format/?n=DR'
+Name       `IEEE Proceedings Format Guide'
+Parent URL http://scg.unibe.ch/wiki/events/suite2009, line 66, col 5
+Real URL   http://www.cs.uoregon.edu/events/icse2009/calls/format/?n=DR
+Check time 0.409 seconds
+Result     Error: 403 Forbidden
+
+URL        `http://smallwiki.unibe.ch/woor/questionnaire/'
+Name       `http://smallwiki.unibe.ch/woor/questionnaire/'
+Parent URL http://scg.unibe.ch/wiki/events/woor2006, line 137, col 53
+Real URL   http://smallwiki.unibe.ch/woor/questionnaire/
+Check time 0.536 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='smallwiki.unibe.ch', port=80): Max retries exceeded with url: /woor/questionnaire/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109e45040>: Failed to establish a new...
+
+URL        `http://research/helvetia'
+Name       `http'
+Parent URL http://scg.unibe.ch/wiki/events/sattose2009, line 59, col 626
+Real URL   http://research/helvetia
+Check time 0.027 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='research', port=80): Max retries exceeded with url: /helvetia (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109b61490>: Failed to establish a new connection: [Errno 8...
+
+URL        `http://www.simondenier.eu'
+Name       `Simon Denier'
+Parent URL http://scg.unibe.ch/wiki/events/dyla2010, line 138, col 5
+Real URL   http://www.simondenier.eu
+Check time 0.019 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='www.simondenier.eu', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109ad86d0>: Failed to establish a new connection: [Errno...
+
+URL        `http://www.stg.tu-darmstadt.de/staff/tom_dinkelaker/index.en.jsp'
+Name       `Tom Dinkelaker'
+Parent URL http://scg.unibe.ch/wiki/events/dyla2010, line 144, col 5
+Real URL   https://www.stg.tu-darmstadt.de/staff/tom_dinkelaker/index.en.jsp
+Check time 0.183 seconds
+Info       Redirected to
+           `https://www.stg.tu-darmstadt.de/staff/tom_dinkelaker/index.en.jsp'.
+Result     Error: 404 404
+
+URL        `https://www.easychair.org/login.cgi?conf=dyla10'
+Name       `https://www.easychair.org/login.cgi?conf=dyla10'
+Parent URL http://scg.unibe.ch/wiki/events/dyla2010, line 117, col 23
+Real URL   https://www.easychair.org/login.cgi?conf=dyla10
+Check time 0.352 seconds
+Result     Error: 404 Not Found
+
+URL        `http://swag.uwaterloo.ca/~ahindle/'
+Name       `Abram Hindle'
+Parent URL http://scg.unibe.ch/wiki/events/dyla2010, line 148, col 5
+Real URL   https://swag.uwaterloo.ca/~ahindle/
+Check time 0.175 seconds
+Size       5KB
+Info       Redirected to `https://swag.uwaterloo.ca/~ahindle/'.
+Result     Error: 404 Not Found
+
+URL        `http://choose.s-i.ch'
+Name       `choose'
+Parent URL http://scg.unibe.ch/wiki/events/dyla2010, line 172, col 1
+Real URL   http://choose.s-i.ch
+Check time 0.003 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='choose.s-i.ch', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109cf4040>: Failed to establish a new connection: [Errno 8] n...
+
+URL        `http://www.lifia.info.unlp.edu.ar/en/gabriela.htm'
+Name       `Gabriela Ar?valo'
+Parent URL http://scg.unibe.ch/wiki/events/dyla2011, line 122, col 5
+Real URL   https://lifia.info.unlp.edu.ar/en/gabriela.htm
+Check time 1.042 seconds
+Info       Redirected to
+           `https://www.lifia.info.unlp.edu.ar/en/gabriela.htm'.
+           Redirected to
+           `https://lifia.info.unlp.edu.ar/en/gabriela.htm'.
+Result     Error: 404 Not Found
+
+URL        `http://www.stg.tu-darmstadt.de/staff/tom_dinkelaker/'
+Name       `Tom Dinkelaker'
+Parent URL http://scg.unibe.ch/wiki/events/dyla2011, line 128, col 5
+Real URL   https://www.stg.tu-darmstadt.de/staff/tom_dinkelaker/
+Check time 0.177 seconds
+Info       Redirected to
+           `https://www.stg.tu-darmstadt.de/staff/tom_dinkelaker/'.
+Result     Error: 404 404
+
+URL        `http://stups.cs.uni-duesseldorf.de/profile.php?id=222'
+Name       `David Schneider'
+Parent URL http://scg.unibe.ch/wiki/events/dyla2011, line 135, col 5
+Real URL   http://stups.cs.uni-duesseldorf.de/profile.php?id=222
+Check time 0.006 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='stups.cs.uni-duesseldorf.de', port=80): Max retries exceeded with url: /profile.php?id=222 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109ec4520>: Failed to establi...
+
+URL        `https://www.cs.ubc.ca/people/adrian-kuhn'
+Name       `Adrian Kuhn'
+Parent URL http://scg.unibe.ch/wiki/events/dyla2012, line 128, col 5
+Real URL   https://www.cs.ubc.ca/people/adrian-kuhn
+Check time 0.962 seconds
+Result     Error: 403 Forbidden
+
+URL        `http://www.kreuzbern.ch/en/hotel.html'
+Name       `http://www.kreuzbern.ch/en/hotel.html'
+Parent URL http://scg.unibe.ch/wiki/events/pharoconf-mooseday-2013, line 241, col 19
+Real URL   https://kreuzbern.ch/en/hotel.html
+Check time 1.680 seconds
+Info       Redirected to `https://kreuzbern.ch/en/hotel.html'.
+Result     Error: 404 Not Found
+
+URL        `http://www.hotelmetropole.ch/EN/'
+Name       `http://www.hotelmetropole.ch/EN/'
+Parent URL http://scg.unibe.ch/wiki/events/pharoconf-mooseday-2013, line 242, col 23
+Real URL   https://hotelmetropole.ch/EN/
+Check time 3.229 seconds
+Info       Redirected to `https://hotelmetropole.ch/EN/'.
+Result     Error: 404 Not Found
+
+URL        `http://homepage.mac.com/martinott/'
+Name       `http://homepage.mac.com/martinott/'
+Parent URL http://scg.unibe.ch/wiki/howtos/howtoinstallamacfromscratch, line 146, col 13
+Real URL   http://homepage.mac.com/martinott/
+Check time 60.004 seconds
+Result     Error: ConnectTimeout: HTTPConnectionPool(host='homepage.mac.com', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x109e3d550>, 'Connection to homepage.mac.com timed...
+
+URL        `http://www.lego.com/en-us/mindstorms/gettingstarted/historypage/'
+Name       `http://www.lego.com/en-us/mindstorms/gettingstarted/historypage/'
+Parent URL http://scg.unibe.ch/wiki/projects/mastersbachelorsprojects/polite-for-ev3, line 71, col 31
+Real URL   https://www.lego.com/en-us/mindstorms/gettingstarted/historypage
+Check time 0.551 seconds
+Info       Redirected to
+           `https://www.lego.com/en-us/mindstorms/gettingstarted/historypage/'.
+           Redirected to
+           `https://www.lego.com/en-us/mindstorms/gettingstarted/historypage'.
+Result     Error: 404 Not Found
+
+URL        `http://goo.gl/38zIu6'
+Name       `http://goo.gl/38zIu6'
+Parent URL http://scg.unibe.ch/wiki/projects/mastersbachelorsprojects/polite-for-ev3, line 72, col 38
+Real URL   https://goo.gl/38zIu6
+Check time 0.557 seconds
+Size       0B
+Info       Redirected to `https://goo.gl/38zIu6'.
+Result     Error: ConnectionError: HTTPConnectionPool(host='m1.archiveorange.com', port=80): Max retries exceeded with url: /m/att/G9xQk/ArchiveOrange_Gtaa2JxXq7N7mGro9o1uEcVjwtEa.png (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object a...
+
+URL        `http://www.terrapapers.com/wp-content/uploads/2013/04/Block-Party-Lego-robotics-competition-4.jpg'
+Name       `http://www.terrapapers.com/wp-content/uploads/2013/04/Block-Party-Lego-robotics-competition-4.jpg'
+Parent URL http://scg.unibe.ch/wiki/projects/mastersbachelorsprojects/polite-for-ev3, line 46, col 5
+Real URL   https://terrapapers.com/wp-content/uploads/2013/04/Block-Party-Lego-robotics-competition-4.jpg
+Check time 2.844 seconds
+Info       Redirected to
+           `https://www.terrapapers.com/wp-content/uploads/2013/04/Block-Party-Lego-robotics-competition-4.jpg'.
+           Redirected to
+           `https://terrapapers.com/wp-content/uploads/2013/04/Block-Party-Lego-robotics-competition-4.jpg'.
+Result     Error: 404 Not Found
+
+URL        `http://subclipse.tigris.org/install.html'
+Name       `http://subclipse.tigris.org/install.html'
+Parent URL http://scg.unibe.ch/wiki/howtos/howtouseeclipse, line 48, col 54
+Real URL   http://subclipse.tigris.org/install.html
+Check time 60.006 seconds
+Result     Error: ConnectTimeout: HTTPConnectionPool(host='subclipse.tigris.org', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x109be3430>, 'Connection to subclipse.tigris.o...
+
+URL        `http://www.vub.ac.be%20'
+Name       `http://www.vub.ac.be'
+Parent URL http://scg.unibe.ch/staff/toonverwaest/cv, line 56, col 1
+Real URL   http://www.vub.ac.be%20
+Check time 0.007 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='www.vub.ac.be%20', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10a031760>: Failed to establish a new connection: [Errno 8...
+
+URL        `http://developer.apple.com/documentation/UserExperience/Conceptual/OSXHIGuidelines/index.html'
+Name       `http://developer.apple.com/documentation/UserExperience/Conceptual/OSXHIGuidelines/index.html'
+Parent URL http://scg.unibe.ch/staff/davidroethlisberger/towardsabetteride, line 297, col 16
+Real URL   https://developer.apple.com/documentation/UserExperience/Conceptual/OSXHIGuidelines/index.html
+Check time 1.222 seconds
+Info       Redirected to
+           `https://docs.developer.apple.com/documentation/UserExperience/Conceptual/OSXHIGuidelines/index.html'.
+           Redirected to
+           `https://developer.apple.com/documentation/UserExperience/Conceptual/OSXHIGuidelines/index.html'.
+Result     Error: 404 Not Found
+
+URL        `http://www.iam.unibe.ch/~verwaest/schemetalk/schemetalk-object-inspector.png'
+Parent URL http://scg.unibe.ch/research/schemetalk, line 48, col 9
+Real URL   https://home.inf.unibe.ch//~verwaest/schemetalk/schemetalk-object-inspector.png
+Check time 0.186 seconds
+Size       280B
+Info       Redirected to
+           `http://home.inf.unibe.ch/~verwaest/schemetalk/schemetalk-object-inspector.png'.
+           Redirected to
+           `https://home.inf.unibe.ch//~verwaest/schemetalk/schemetalk-object-inspector.png'.
+Result     Error: 404 Not Found
+
+URL        `http://www.iam.unibe.ch/~verwaest/schemetalk/schemetalk-0.3-4.1.3.plt'
+Name       `http://www.iam.unibe.ch/~verwaest/schemetalk/schemetalk-0.3-4.1.3.plt'
+Parent URL http://scg.unibe.ch/research/schemetalk, line 61, col 9
+Real URL   https://home.inf.unibe.ch//~verwaest/schemetalk/schemetalk-0.3-4.1.3.plt
+Check time 0.171 seconds
+Size       280B
+Info       Redirected to
+           `http://home.inf.unibe.ch/~verwaest/schemetalk/schemetalk-0.3-4.1.3.plt'.
+           Redirected to
+           `https://home.inf.unibe.ch//~verwaest/schemetalk/schemetalk-0.3-4.1.3.plt'.
+Result     Error: 404 Not Found
+
+URL        `http://www.iam.unibe.ch/~verwaest/schemetalk/schemetalk-0.3-sources.zip'
+Name       `http://www.iam.unibe.ch/~verwaest/schemetalk/schemetalk-0.3-sources.zip'
+Parent URL http://scg.unibe.ch/research/schemetalk, line 62, col 9
+Real URL   https://home.inf.unibe.ch//~verwaest/schemetalk/schemetalk-0.3-sources.zip
+Check time 0.279 seconds
+Size       280B
+Info       Redirected to
+           `http://home.inf.unibe.ch/~verwaest/schemetalk/schemetalk-0.3-sources.zip'.
+           Redirected to
+           `https://home.inf.unibe.ch//~verwaest/schemetalk/schemetalk-0.3-sources.zip'.
+Result     Error: 404 Not Found
+
+URL        `http://www.iam.unibe.ch/~verwaest/schemetalk/schemetalk-0.3-sources.tar.bz2'
+Name       `http://www.iam.unibe.ch/~verwaest/schemetalk/schemetalk-0.3-sources.tar.bz2'
+Parent URL http://scg.unibe.ch/research/schemetalk, line 63, col 9
+Real URL   https://home.inf.unibe.ch//~verwaest/schemetalk/schemetalk-0.3-sources.tar.bz2
+Check time 0.260 seconds
+Size       280B
+Info       Redirected to
+           `http://home.inf.unibe.ch/~verwaest/schemetalk/schemetalk-0.3-sources.tar.bz2'.
+           Redirected to
+           `https://home.inf.unibe.ch//~verwaest/schemetalk/schemetalk-0.3-sources.tar.bz2'.
+Result     Error: 404 Not Found
+
+URL        `http://choose.s-i.ch/Events/forum2008'
+Name       `CHOOSE Forum 2008'
+Parent URL http://scg.unibe.ch/staff/fabrizioperin/Activities, line 48, col 24
+Real URL   http://choose.s-i.ch/Events/forum2008
+Check time 0.003 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='choose.s-i.ch', port=80): Max retries exceeded with url: /Events/forum2008 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10979c6a0>: Failed to establish a new connect...
+
+URL        `http://dl.dropbox.com/u/321703/clones.dump'
+Name       `snapshot of all data from clones from Squeaksource for Postgresql 8.4.'
+Parent URL http://scg.unibe.ch/research/hot-clones, line 46, col 17
+Real URL   https://dl.dropbox.com/u/321703/clones.dump
+Check time 0.389 seconds
+Info       Redirected to
+           `https://dl.dropbox.com/u/321703/clones.dump'.
+Result     Error: 404 Not Found
+
+URL        `http://s12.postimg.org/f4mvut5tp/unit_Test_Fun.png'
+Name       `http://s12.postimg.org/f4mvut5tp/unit_Test_Fun.png'
+Parent URL http://scg.unibe.ch/wiki/projects/mastersbachelorsprojects/obsolete/unitTestIntegration, line 54, col 4
+Real URL   http://s12.postimg.org/f4mvut5tp/unit_Test_Fun.png
+Check time 0.005 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='s12.postimg.org', port=80): Max retries exceeded with url: /f4mvut5tp/unit_Test_Fun.png (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10a10c940>: Failed to establish ...
+
+URL        `http://www.acm.uiuc.edu/signet/JHSI/cr.html'
+Name       `http://www.acm.uiuc.edu/signet/JHSI/cr.html'
+Parent URL http://scg.unibe.ch/wiki/howtos/howtogetanumberforatechnicalreport, line 56, col 51
+Real URL   http://www.acm.uiuc.edu/signet/JHSI/cr.html
+Check time 60.007 seconds
+Result     Error: ConnectTimeout: HTTPConnectionPool(host='www.acm.uiuc.edu', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x109e9ee80>, 'Connection to www.acm.uiuc.edu timed...
+
+URL        `http://zn.stfx.eu/zn'
+Name       `Zinc'
+Parent URL http://scg.unibe.ch/wiki/projects/mastersbachelorsprojects/fogbugz-spotter-integration, line 50, col 42
+Real URL   http://zn.stfx.eu/zn/%2F/%2F/%2F/%2F/%2F/%2F/%2F/%2F/%2F/%2F
+Check time 0.418 seconds
+Size       58B
+Info       Redirected to `http://zn.stfx.eu/zn/%2F'.
+           Redirected to `http://zn.stfx.eu/zn/%2F/%2F'.
+           Redirected to `http://zn.stfx.eu/zn/%2F/%2F/%2F'.
+           Redirected to `http://zn.stfx.eu/zn/%2F/%2F/%2F/%2F'.
+           Redirected to
+           `http://zn.stfx.eu/zn/%2F/%2F/%2F/%2F/%2F'.
+           Redirected to
+           `http://zn.stfx.eu/zn/%2F/%2F/%2F/%2F/%2F/%2F'.
+           Redirected to
+           `http://zn.stfx.eu/zn/%2F/%2F/%2F/%2F/%2F/%2F/%2F'.
+           Redirected to
+           `http://zn.stfx.eu/zn/%2F/%2F/%2F/%2F/%2F/%2F/%2F/%2F'.
+           Redirected to
+           `http://zn.stfx.eu/zn/%2F/%2F/%2F/%2F/%2F/%2F/%2F/%2F/%2F'.
+           Redirected to
+           `http://zn.stfx.eu/zn/%2F/%2F/%2F/%2F/%2F/%2F/%2F/%2F/%2F/%2F'.
+Result     Error: TooManyRedirects: Exceeded 10 redirects.
+
+URL        `http://www.iam.unibe.ch/~akuhn/img/hapax.png'
+Parent URL http://scg.unibe.ch/wiki/alumni/adriankuhn/hapax, line 46, col 4
+Real URL   https://home.inf.unibe.ch//~akuhn/img/hapax.png
+Check time 0.184 seconds
+Size       280B
+Info       Redirected to
+           `http://home.inf.unibe.ch/~akuhn/img/hapax.png'.
+           Redirected to
+           `https://home.inf.unibe.ch//~akuhn/img/hapax.png'.
+Result     Error: 404 Not Found
+
+URL        `http://www.moosetechnology.org%20'
+Name       `Moose'
+Parent URL http://scg.unibe.ch/wiki/projects/mastersbachelorsprojects/obsolete/ImprovingGTInspector, line 48, col 132
+Real URL   http://www.moosetechnology.org%20
+Check time 0.005 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='www.moosetechnology.org%20', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109e45d00>: Failed to establish a new connection...
+
+URL        `http://www.iam.unibe.ch/~scg/Archive/Drafts/Kuhn06bSemanticClustering.pdf'
+Name       `download PDF'
+Parent URL http://scg.unibe.ch/wiki/alumni/adriankuhn/hapax, line 63, col 317
+Real URL   https://home.inf.unibe.ch//~scg/Archive/Drafts/Kuhn06bSemanticClustering.pdf
+Check time 0.577 seconds
+Size       283B
+Info       Redirected to
+           `http://home.inf.unibe.ch/~scg/Archive/Drafts/Kuhn06bSemanticClustering.pdf'.
+           Redirected to
+           `https://home.inf.unibe.ch//~scg/Archive/Drafts/Kuhn06bSemanticClustering.pdf'.
+Result     Error: 403 Forbidden
+
+URL        `http://www.iam.unibe.ch/~denker/temp/NewCompiler.zip'
+Name       `http://www.iam.unibe.ch/~denker/temp/NewCompiler.zip'
+Parent URL http://scg.unibe.ch/research/changeboxes/installation, line 54, col 58
+Real URL   https://home.inf.unibe.ch//~denker/temp/NewCompiler.zip
+Check time 0.176 seconds
+Size       280B
+Info       Redirected to
+           `http://home.inf.unibe.ch/~denker/temp/NewCompiler.zip'.
+           Redirected to
+           `https://home.inf.unibe.ch//~denker/temp/NewCompiler.zip'.
+Result     Error: 404 Not Found
+
+URL        `http://www.sonarsource.org'
+Name       `http://www.sonarsource.org'
+Parent URL http://scg.unibe.ch/research/arch-constr/study/tools, line 51, col 12
+Real URL   http://www.sonarsource.org
+Check time 0.007 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='www.sonarsource.org', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10a0b79d0>: Failed to establish a new connection: [Errn...
+
+URL        `http://www.itko.com/solutions/index.jsp'
+Name       `http://www.itko.com/solutions/index.jsp'
+Parent URL http://scg.unibe.ch/research/arch-constr/study/tools, line 62, col 11
+Real URL   http://www.itko.com/solutions/index.jsp
+Check time 0.028 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='www.itko.com', port=80): Max retries exceeded with url: /solutions/index.jsp (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109c5fca0>: Failed to establish a new conne...
+
+URL        `http://www.dclsuite.org/'
+Name       `http://www.dclsuite.org/'
+Parent URL http://scg.unibe.ch/research/arch-constr/study/tools, line 67, col 15
+Real URL   http://www.dclsuite.org/
+Check time 0.006 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='www.dclsuite.org', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10a0a0490>: Failed to establish a new connection: [Errno 8...
+
+URL        `http://www.ua.ac.be/anne.keller'
+Name       `http://www.ua.ac.be/anne.keller'
+Parent URL http://scg.unibe.ch/wiki/events/wasdett2008, line 156, col 52
+Real URL   http://www.ua.ac.be/anne.keller
+Check time 60.090 seconds
+Result     Error: ConnectTimeout: HTTPConnectionPool(host='www.ua.ac.be', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x1098a7e50>, 'Connection to www.ua.ac.be timed out. (c...
+
+URL        `http://www.lore.ua.ac.be/Events/WOOR07/'
+Name       `http://www.lore.ua.ac.be/Events/WOOR07/'
+Parent URL http://scg.unibe.ch/wiki/events/woor2007, line 58, col 48
+Real URL   http://www.lore.ua.ac.be/Events/WOOR07/
+Check time 60.007 seconds
+Result     Error: ConnectTimeout: HTTPConnectionPool(host='www.lore.ua.ac.be', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x109c2df40>, 'Connection to www.lore.ua.ac.be tim...
+
+URL        `http://moose.unibe.ch/events/famoosr2007'
+Name       `Famoosr 2007'
+Parent URL http://scg.unibe.ch/wiki/alumni/adriankuhn/activities, line 82, col 21
+Real URL   http://moose.unibe.ch/events/famoosr2007
+Check time 0.026 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='moose.unibe.ch', port=80): Max retries exceeded with url: /events/famoosr2007 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109e77be0>: Failed to establish a new conn...
+
+URL        `http://www.iam.unibe.ch/~akuhn/s'
+Name       `slides folder'
+Parent URL http://scg.unibe.ch/wiki/alumni/adriankuhn/activities, line 103, col 49
+Real URL   https://home.inf.unibe.ch//~akuhn/s
+Check time 0.177 seconds
+Size       280B
+Info       Redirected to `http://home.inf.unibe.ch/~akuhn/s'.
+           Redirected to `https://home.inf.unibe.ch//~akuhn/s'.
+Result     Error: 404 Not Found
+
+URL        `http://moose.unibe.ch/association'
+Name       `Moose Association'
+Parent URL http://scg.unibe.ch/wiki/alumni/adriankuhn/activities, line 117, col 21
+Real URL   http://moose.unibe.ch/association
+Check time 0.004 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='moose.unibe.ch', port=80): Max retries exceeded with url: /association (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109886ee0>: Failed to establish a new connection:...
+
+URL        `http://www.iam.unibe.ch/~akuhn/img/adriankuhn.jpg'
+Name       `Adrian Kuhn at ECOOP 2007 in Berlin.'
+Parent URL http://scg.unibe.ch/wiki/alumni/adriankuhn/about, line 46, col 4
+Real URL   https://home.inf.unibe.ch//~akuhn/img/adriankuhn.jpg
+Check time 0.130 seconds
+Size       280B
+Info       Redirected to
+           `http://home.inf.unibe.ch/~akuhn/img/adriankuhn.jpg'.
+           Redirected to
+           `https://home.inf.unibe.ch//~akuhn/img/adriankuhn.jpg'.
+Result     Error: 404 Not Found
+
+URL        `http://rmod.lille.inria.fr/pier'
+Name       `http1'
+Parent URL http://scg.unibe.ch/wiki/events/sattose2009, line 71, col 738
+Real URL   http://rmod.lille.inria.fr/pier
+Check time 60.150 seconds
+Result     Error: ConnectTimeout: HTTPSConnectionPool(host='webredirect.inria.fr', port=8443): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x109947ac0>, 'Connection to webredirect.in...
+
+URL        `http://www.inf.unisi.ch/phd/robbes/papers/ASE2008-completion.pdf'
+Name       `paper'
+Parent URL http://scg.unibe.ch/wiki/faq/pharo/howToUseOCompletion, line 51, col 20
+Real URL   http://www.inf.unisi.ch/phd/robbes/papers/ASE2008-completion.pdf
+Check time 0.005 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='www.inf.unisi.ch', port=80): Max retries exceeded with url: /phd/robbes/papers/ASE2008-completion.pdf (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109eb9400>: Failed...
+
+URL        `http://jonas.nitro.dk/git/quick-reference.html'
+Name       `The Git Quick Reference'
+Parent URL http://scg.unibe.ch/wiki/faq/git/Where-can-I-learn-about-git, line 60, col 4
+Real URL   http://jonas.nitro.dk/git/quick-reference.html
+Check time 0.122 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='jonas.nitro.dk', port=80): Max retries exceeded with url: /git/quick-reference.html (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10a10c970>: Failed to establish a ne...
+
+URL        `http://user.cs.tu-berlin.de/~stephan/'
+Name       `Stephan Herrmann'
+Parent URL http://scg.unibe.ch/wiki/events/dyla2010, line 147, col 5
+Real URL   http://user.cs.tu-berlin.de/~stephan/
+Check time 60.006 seconds
+Result     Error: ConnectTimeout: HTTPConnectionPool(host='user.cs.tu-berlin.de', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x109fcd7c0>, 'Connection to user.cs.tu-berlin....
+
+URL        `http://www.iam.unibe.ch/~denker/misc/backupWithRsync.txt'
+Name       `http://www.iam.unibe.ch/~denker/misc/backupWithRsync.txt'
+Parent URL http://scg.unibe.ch/wiki/howtos/howtosetupbackuponamac/howtobackupuserfiles, line 48, col 154
+Real URL   https://home.inf.unibe.ch//~denker/misc/backupWithRsync.txt
+Check time 0.204 seconds
+Size       280B
+Info       Redirected to
+           `http://home.inf.unibe.ch/~denker/misc/backupWithRsync.txt'.
+           Redirected to
+           `https://home.inf.unibe.ch//~denker/misc/backupWithRsync.txt'.
+Result     Error: 404 Not Found
+
+URL        `http://scgresources.unibe.ch/~scg/Literature'
+Name       `http://scgresources.unibe.ch/~scg/Literature'
+Parent URL http://scg.unibe.ch/wiki/scgjoblist/hardware/setupofmacamis, line 83, col 5
+Real URL   http://scgresources.unibe.ch/Literature
+Check time 0.066 seconds
+Size       243B
+Info       Redirected to
+           `http://scgresources.unibe.ch/Literature'.
+Result     Error: 403 Forbidden
+
+URL        `http://st-www.cs.uiuc.edu/users/brant/Applications/WrapperApplications.html'
+Name       `http://st-www.cs.uiuc.edu/users/brant/Applications/WrapperApplications.html'
+Parent URL http://scg.unibe.ch/wiki/alumni/stefanreichhart/codecoverage, line 260, col 5
+Real URL   http://st-www.cs.uiuc.edu/users/brant/Applications/WrapperApplications.html
+Check time 0.122 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='st-www.cs.uiuc.edu', port=80): Max retries exceeded with url: /users/brant/Applications/WrapperApplications.html (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1099277...
+
+URL        `http://www.squeaksource.com/OBPackageBrowser'
+Name       `http://www.squeaksource.com/OBPackageBrowser'
+Parent URL http://scg.unibe.ch/wiki/alumni/stefanreichhart/packageinfotweak, line 49, col 15
+Real URL   http://www.squeaksource.com/OBPackageBrowser
+Check time 0.194 seconds
+Result     Error: 404 Not Found
+
+URL        `http://smallwiki.unibe.ch/'
+Name       `http://smallwiki.unibe.ch/'
+Parent URL http://scg.unibe.ch/wiki/alumni/stefanreichhart/squeakgraveyard, line 265, col 28
+Real URL   http://smallwiki.unibe.ch/
+Check time 0.112 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='smallwiki.unibe.ch', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109da60d0>: Failed to establish a new connection: [Errno...
+
+URL        `http://mc.lukas-renggli.ch/sm/'
+Name       `http://mc.lukas-renggli.ch/sm/'
+Parent URL http://scg.unibe.ch/wiki/alumni/stefanreichhart/esug2006campsmalltalk, line 49, col 23
+Real URL   http://mc.lukas-renggli.ch/sm/
+Check time 0.259 seconds
+Size       196B
+Result     Error: 404 Not Found
+
+URL        `http://www.refactory.com/Software/MethodWrappers/CoverageTool.html'
+Name       `http://www.refactory.com/Software/MethodWrappers/CoverageTool.html'
+Parent URL http://scg.unibe.ch/wiki/alumni/stefanreichhart/codecoverage, line 259, col 5
+Real URL   https://refactory.com/Software/MethodWrappers/CoverageTool.html
+Check time 1.278 seconds
+Info       Redirected to
+           `https://refactory.com/Software/MethodWrappers/CoverageTool.html'.
+Result     Error: 404 Not Found
+
+URL        `http://www.jcoverage.com/'
+Name       `http://www.jcoverage.com/'
+Parent URL http://scg.unibe.ch/wiki/alumni/stefanreichhart/codecoverage, line 268, col 5
+Real URL   https://www.linkedin.com/in/pmorgan
+Check time 1.292 seconds
+Size       1KB
+Info       Redirected to `https://www.linkedin.com/in/pmorgan'.
+Result     Error: 999 Request denied
+
+URL        `https://smallwiki.unibe.ch/'
+Name       `https://smallwiki.unibe.ch/'
+Parent URL http://scg.unibe.ch/wiki/alumni/stefanreichhart/squeakgraveyard, line 265, col 124
+Real URL   https://smallwiki.unibe.ch/
+Check time 0.429 seconds
+Result     Error: ConnectionError: HTTPSConnectionPool(host='smallwiki.unibe.ch', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x109b81760>: Failed to establish a new connection: [Er...
+
+URL        `http://bugs.impara.de/view.php?id=5124'
+Name       `http://bugs.impara.de/view.php?id=5124'
+Parent URL http://scg.unibe.ch/wiki/alumni/stefanreichhart/squeakgraveyard, line 294, col 5
+Real URL   http://bugs.impara.de/view.php?id=5124
+Check time 0.404 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='bugs.impara.de', port=80): Max retries exceeded with url: /view.php?id=5124 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109868430>: Failed to establish a new connec...
+
+URL        `http://localhost:8080/seaside/config'
+Name       `http://localhost:8080/seaside/config'
+Parent URL http://scg.unibe.ch/wiki/alumni/orlagreevy/seasidenotes, line 58, col 66
+Real URL   http://localhost:8080/seaside/config
+Check time 0.284 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /seaside/config (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1096eb940>: Failed to establish a new connection:...
+
+URL        `http://homepages.cwi.nl/~markvdb/SCP-EST/'
+Name       `http://homepages.cwi.nl/~markvdb/SCP-EST/'
+Parent URL http://scg.unibe.ch/wiki/events/wasdett2008/estspecialissue, line 51, col 23
+Real URL   https://homepages.cwi.nl/~markvdb/SCP-EST/
+Check time 0.425 seconds
+Size       196B
+Info       Redirected to
+           `https://homepages.cwi.nl/~markvdb/SCP-EST/'.
+Result     Error: 404 Not Found
+
+URL        `http://www.elsevier.com/wps/find/journaldescription.cws_home/505623/description#description'
+Name       `Elsevier Science of Computer Programming'
+Parent URL http://scg.unibe.ch/wiki/events/wasdett2008/estspecialissue, line 47, col 9
+Real URL   http://www.elsevier.com/wps/find/journaldescription.cws_home/505623/description#description
+Check time 0.936 seconds
+Result     Error: 410 Gone
+
+URL        `http://spo.inf.unisi.ch/'
+Name       `Small Project Observatory'
+Parent URL http://scg.unibe.ch/wiki/events/wasdett2008/tools, line 55, col 38
+Real URL   http://spo.inf.unisi.ch/
+Check time 0.005 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='spo.inf.unisi.ch', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10a0c16a0>: Failed to establish a new connection: [Errno 8...
+
+URL        `http://www.inf.unisi.ch/phd/wettel/codecity.html'
+Name       `CodeCity'
+Parent URL http://scg.unibe.ch/wiki/events/wasdett2008/tools, line 61, col 38
+Real URL   http://www.inf.unisi.ch/phd/wettel/codecity.html
+Check time 0.004 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='www.inf.unisi.ch', port=80): Max retries exceeded with url: /phd/wettel/codecity.html (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1099826d0>: Failed to establish a ...
+
+URL        `http://pages.cpsc.ucalgary.ca/~rtholmes/'
+Name       `Reid Holmes'
+Parent URL http://scg.unibe.ch/wiki/events/suite2009/callforpapers, line 174, col 5
+Real URL   http://pages.cpsc.ucalgary.ca/~rtholmes/
+Check time 0.689 seconds
+Size       306B
+Result     Error: 404 Not Found
+
+URL        `http://blog.krugle.com/?page_id=10'
+Name       `Ken Krugler'
+Parent URL http://scg.unibe.ch/wiki/events/suite2009/callforpapers, line 178, col 5
+Real URL   http://blog.krugle.com/?page_id=10
+Check time 0.007 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='blog.krugle.com', port=80): Max retries exceeded with url: /?page_id=10 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109c00460>: Failed to establish a new connection...
+
+URL        `http://www.ics.uci.edu/~sbajrach'
+Name       `Sushil Bajracharya'
+Parent URL http://scg.unibe.ch/wiki/events/suite2009/callforpapers, line 150, col 4
+Real URL   https://www.ics.uci.edu/~sbajrach
+Check time 1.591 seconds
+Info       Redirected to `https://www.ics.uci.edu/~sbajrach'.
+Result     Error: 404 Not Found
+
+URL        `http://www.kid.rcast.u-tokyo.ac.jp/~kumiyo/'
+Name       `Kumiyo Nakakoji'
+Parent URL http://scg.unibe.ch/wiki/events/suite2009/callforpapers, line 181, col 5
+Real URL   http://www.kid.rcast.u-tokyo.ac.jp/~kumiyo/
+Check time 0.006 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='www.kid.rcast.u-tokyo.ac.jp', port=80): Max retries exceeded with url: /~kumiyo/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109bef880>: Failed to establish a new c...
+
+URL        `http://www.cs.wayne.edu/~amarcus/'
+Name       `Andrian Marcus'
+Parent URL http://scg.unibe.ch/wiki/events/suite2009/callforpapers, line 180, col 5
+Real URL   http://www.cs.wayne.edu/~amarcus/
+Check time 0.356 seconds
+Size       207B
+Result     Error: 404 Not Found
+
+URL        `http://www.inf.unisi.ch/phd/robbes/'
+Name       `Romain Robbes'
+Parent URL http://scg.unibe.ch/wiki/events/suite2009/callforpapers, line 184, col 5
+Real URL   http://www.inf.unisi.ch/phd/robbes/
+Check time 0.006 seconds
+Result     Error: ConnectionError: HTTPConnectionPool(host='www.inf.unisi.ch', port=80): Max retries exceeded with url: /phd/robbes/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10a0a3e20>: Failed to establish a new connectio...
+
+URL        `http://www.ics.uci.edu/~ses/'
+Name       `Susan Sim'
+Parent URL http://scg.unibe.ch/wiki/events/suite2009/callforpapers, line 185, col 5
+Real URL   https://www.ics.uci.edu/~ses/
+Check time 1.193 seconds
+Info       Redirected to `https://www.ics.uci.edu/~ses/'.
+Result     Error: 404 Not Found
+
+URL        `http://www4.ncsu.edu/~sthumma/'
+Name       `Suresh Thummalapenta'
+Parent URL http://scg.unibe.ch/wiki/events/suite2009/callforpapers, line 187, col 5
+Real URL   http://www4.ncsu.edu/~sthumma/
+Check time 0.769 seconds
+Size       2KB
+Result     Error: 410 Gone
+
+URL        `http://sel.ist.osaka-u.ac.jp/~kamiya/'
+Name       `Toshihiro Kamiya'
+Parent URL http://scg.unibe.ch/wiki/events/suite2009/callforpapers, line 176, col 5
+Real URL   https://sel.ist.osaka-u.ac.jp/people/kamiya/
+Check time 2.255 seconds
+Size       196B
+Info       Redirected to
+           `https://sel.ist.osaka-u.ac.jp/~kamiya/'.
+           Redirected to
+           `https://sel.ist.osaka-u.ac.jp/people/kamiya/'.
+Result     Error: 404 Not Found
+
+URL        `http://www.nr.no/~einarwh/'
+Name       `Einar H?st'
+Parent URL http://scg.unibe.ch/wiki/events/suite2009/callforpapers, line 175, col 5
+Real URL   http://nr.no/~einarwh/
+Check time 2.639 seconds
+Info       Redirected to `http://nr.no/~einarwh/'.
+Result     Error: 404 Not Found
+
+URL        `http://www.sra.co.jp/people/ye'
+Name       `Yunwen Ye'
+Parent URL http://scg.unibe.ch/wiki/events/suite2010/committee, line 50, col 5
+Real URL   https://www.sra.co.jp/404.aspx
+Check time 2.375 seconds
+Size       8KB
+Info       Redirected to `https://www.sra.co.jp/people/ye'.
+           Redirected to `https://www.sra.co.jp/404.aspx'.
+Result     Error: 404 Page Not Found
+
+URL        `http://www.iam.unibe.ch/~scg/Archive/Projects/Erni08a.pdf'
+Name       `"JAG ? a Prototype for Collective Behavior in Java,"'
+Parent URL http://scg.unibe.ch/wiki/alumni/adriankuhn/swarmbehavior, line 71, col 16
+Real URL   https://home.inf.unibe.ch//~scg/Archive/Projects/Erni08a.pdf
+Check time 0.180 seconds
+Size       283B
+Info       Redirected to
+           `http://home.inf.unibe.ch/~scg/Archive/Projects/Erni08a.pdf'.
+           Redirected to
+           `https://home.inf.unibe.ch//~scg/Archive/Projects/Erni08a.pdf'.
+Result     Error: 403 Forbidden
+
+URL        `http://www.iam.unibe.ch/~scg/Archive/Papers/Kuhn07bCollectiveBehavior.pdf'
+Name       `"Collective Behavior,"'
+Parent URL http://scg.unibe.ch/wiki/alumni/adriankuhn/swarmbehavior, line 74, col 17
+Real URL   https://home.inf.unibe.ch//~scg/Archive/Papers/Kuhn07bCollectiveBehavior.pdf
+Check time 0.315 seconds
+Size       283B
+Info       Redirected to
+           `http://home.inf.unibe.ch/~scg/Archive/Papers/Kuhn07bCollectiveBehavior.pdf'.
+           Redirected to
+           `https://home.inf.unibe.ch//~scg/Archive/Papers/Kuhn07bCollectiveBehavior.pdf'.
+Result     Error: 403 Forbidden
+
+URL        `https://www.iam.unibe.ch/scg/svn_repos/erni/dist/jag.zip'
+Name       `@erni/dist/jag.zip'
+Parent URL http://scg.unibe.ch/wiki/alumni/adriankuhn/swarmbehavior, line 81, col 15
+Real URL   https://www.iam.unibe.ch/scg/svn_repos/erni/dist/jag.zip
+Check time 0.300 seconds
+Size       464B
+Result     Error: 401 Unauthorized
+
+URL        `http://www.iam.unibe.ch/~akuhn/img/chronia.png'
+Parent URL http://scg.unibe.ch/wiki/alumni/adriankuhn/chronia, line 46, col 4
+Real URL   https://home.inf.unibe.ch//~akuhn/img/chronia.png
+Check time 0.862 seconds
+Size       280B
+Info       Redirected to
+           `http://home.inf.unibe.ch/~akuhn/img/chronia.png'.
+           Redirected to
+           `https://home.inf.unibe.ch//~akuhn/img/chronia.png'.
+Result     Error: 404 Not Found
+
+URL        `http://www.iam.unibe.ch/~scg/Archive/Papers/Girb05cOwnershipMap.pdf'
+Name       `download PDF'
+Parent URL http://scg.unibe.ch/wiki/alumni/adriankuhn/chronia, line 58, col 378
+Real URL   https://home.inf.unibe.ch//~scg/Archive/Papers/Girb05cOwnershipMap.pdf
+Check time 0.759 seconds
+Size       283B
+Info       Redirected to
+           `http://home.inf.unibe.ch/~scg/Archive/Papers/Girb05cOwnershipMap.pdf'.
+           Redirected to
+           `https://home.inf.unibe.ch//~scg/Archive/Papers/Girb05cOwnershipMap.pdf'.
+Result     Error: 403 Forbidden
+
+URL        `http://www.iam.unibe.ch/~scg/Archive/Diploma/Seeb06a.pdf'
+Name       `download PDF'
+Parent URL http://scg.unibe.ch/wiki/alumni/adriankuhn/chronia, line 61, col 216
+Real URL   https://home.inf.unibe.ch//~scg/Archive/Diploma/Seeb06a.pdf
+Check time 1.030 seconds
+Size       283B
+Info       Redirected to
+           `http://home.inf.unibe.ch/~scg/Archive/Diploma/Seeb06a.pdf'.
+           Redirected to
+           `https://home.inf.unibe.ch//~scg/Archive/Diploma/Seeb06a.pdf'.
+Result     Error: 403 Forbidden
+
+URL        `http://wiki.netbeans.org/wiki/view/Java_DevelopersGuide'
+Name       `http://wiki.netbeans.org/wiki/view/Java_DevelopersGuide'
+Parent URL http://scg.unibe.ch/wiki/alumni/adriankuhn/javacompiler, line 64, col 5
+Real URL   https://netbeans.apache.org/wiki/wiki/view/Java_DevelopersGuide.asciidoc
+Check time 0.563 seconds
+Size       3KB
+Info       Redirected to
+           `https://netbeans.apache.org/wiki/wiki/view/Java_DevelopersGuide.asciidoc'.
+Result     Error: 404 Not Found
+
+URL        `http://www.oracle.com/technology/pub/articles/marx-jse6.html'
+Name       `http://www.oracle.com/technology/pub/articles/marx-jse6.html'
+Parent URL http://scg.unibe.ch/wiki/alumni/adriankuhn/javacompiler, line 73, col 5
+Real URL   https://www.oracle.com/technology/pub/articles/marx-jse6.html
+Check time 0.493 seconds
+Size       2KB
+Info       Redirected to
+           `https://www.oracle.com/technology/pub/articles/marx-jse6.html'.
+Result     Error: 404 Not Found
+
+URL        `http://www.javabeat.net/javabeat/java6/articles/2007/06/java-6-0-new-features-part-2'
+Name       `http://www.javabeat.net/javabeat/java6/articles/2007/06/java-6-0-new-features-part-2'
+Parent URL http://scg.unibe.ch/wiki/alumni/adriankuhn/javacompiler, line 76, col 5
+Real URL   https://javabeat.net/javabeat/java6/articles/2007/06/java-6-0-new-features-part-2
+Check time 1.707 seconds
+Info       Redirected to
+           `https://www.javabeat.net/javabeat/java6/articles/2007/06/java-6-0-new-features-part-2'.
+           Redirected to
+           `https://javabeat.net/javabeat/java6/articles/2007/06/java-6-0-new-features-part-2'.
+Result     Error: 404 Not Found
+
+URL        `http://docs-pdf.sun.com/802-2109/802-2109.pdf'
+Name       `http://docs-pdf.sun.com/802-2109/802-2109.pdf'
+Parent URL http://scg.unibe.ch/staff/davidroethlisberger/towardsabetteride, line 294, col 20
+Real URL   http://docs-pdf.sun.com/802-2109/802-2109.pdf
+Check time 60.008 seconds
+Result     Error: ConnectTimeout: HTTPConnectionPool(host='docs-pdf.sun.com', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x109790ee0>, 'Connection to docs-pdf.sun.com timed...
+
+URL        `http://smalltalk.org'
+Name       `Smalltalk'
+Parent URL http://scg.unibe.ch/research/schemetalk, line 46, col 27
+Real URL   http://smalltalk.org
+Check time 60.008 seconds
+Result     Error: ConnectTimeout: HTTPConnectionPool(host='smalltalk.org', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x109e68220>, 'Connection to smalltalk.org timed out. ...
+
+URL        `http://www.fc-md.umd.edu/save/'
+Name       `http://www.fc-md.umd.edu/save/'
+Parent URL http://scg.unibe.ch/research/arch-constr/study/tools, line 71, col 11
+Real URL   http://www.fc-md.umd.edu/save/
+Check time 60.004 seconds
+Result     Error: ConnectTimeout: HTTPConnectionPool(host='www.fc-md.umd.edu', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x10a0a0a60>, 'Connection to www.fc-md.umd.edu tim...
+
+URL        `http://rmod.lille.inria.fr/web/pier/team/Arnaud'
+Name       `Jean-Baptiste Arnaud'
+Parent URL http://scg.unibe.ch/wiki/events/dyla2011, line 123, col 5
+Real URL   http://rmod.lille.inria.fr/web/pier/team/Arnaud
+Check time 110.812 seconds
+Result     Error: ConnectTimeout: HTTPSConnectionPool(host='webredirect.inria.fr', port=8443): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x109ab3370>, 'Connection to webredirect.in...
+
+URL        `http://www.ahristov.com/tutorial/java-compiler.html'
+Name       `http://www.ahristov.com/tutorial/java-compiler.html'
+Parent URL http://scg.unibe.ch/wiki/alumni/adriankuhn/javacompiler, line 59, col 5
+Real URL   http://www.ahristov.com/tutorial/java-compiler.html
+Check time 46.243 seconds
+Result     Error: 522 
+
+Statistics:
+Downloaded: 3.47MB.
+Content types: 32 image, 1848 text, 0 video, 0 audio, 127 application, 35 mail and 1225 other.
+URL lengths: min=15, max=1079, avg=58.
+
+That's it. 3267 links in 4281 URLs checked. 0 warnings found. 315 errors found.
+Stopped checking at 2022-07-24 11:38:41+002 (9 minutes, 22 seconds)

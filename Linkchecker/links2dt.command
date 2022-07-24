@@ -5,7 +5,7 @@
 D=`dirname "$0"`
 cd "$D"
 
-prefix='broken-external-links-2022-07-24-b'
+prefix='broken-external-links-2022-07-24-c'
 
 # --------------------------------------------------------------------------------
 main () {
