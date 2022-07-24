@@ -3,7 +3,7 @@ Title: How to use subversion
 ---
 #How to use subversion
 <b>Q How do I install a subversion client?
-</b>A You can grab an installer for Mac OSX from here: [http://www.codingmonkeys.de/mbo/](http://www.codingmonkeys.de/mbo/) (see download links on the right panel)
+</b>A You can grab an installer for Mac OSX from here: http://www.codingmonkeys.de/mbo/ (see download links on the right panel)
 
 <b>Q How do I authenticate myself to svn?
 </b>A You should add a user and password for yourself using htpasswd to the password file (in ~scg/.subversion/).  Please read the README-FIRST.txt that is on asterix in the .subversion directory. 
@@ -98,7 +98,7 @@ In the Terminal, execute
 ```
 
 <b> Q I get strange errors with an elsart.cls moved over from CVS. What's the problem? </b>
-elseart.cls uses a feature of CVS that sets the version info inside the file. When moving to subversion, this string  is left empty, which will confuse Latex completely. Solution: Get a new file from [http://authors.elsevier.com/latex/elsart.cls](http://authors.elsevier.com/latex/elsart.cls) or look closely at the beginning and fix your copy.
+elseart.cls uses a feature of CVS that sets the version info inside the file. When moving to subversion, this string  is left empty, which will confuse Latex completely. Solution: Get a new file from http://authors.elsevier.com/latex/elsart.cls or look closely at the beginning and fix your copy.
 
 <b> Q pdfs and pictures are added as text files. What can I do? </b>
 edit ~/.subversion/config, at the end of the file:

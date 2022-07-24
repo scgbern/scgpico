@@ -5,7 +5,7 @@ Title: CV
 <h3>Education</h3>
 <ul>
 	<li>2007-Now: <em>PhD studies</em>
-<a href="http://www.iam.unibe.ch/~scg">Software Composition Group</a> at the <a href="http://www.unibe.ch">University of Bern</a></li>
+<a href="http://scg.unibe.ch">Software Composition Group</a> at the <a href="http://www.unibe.ch">University of Bern</a></li>
 	<li>2006-2007: <em>EMOOSE</em>
 European Master in Object-, Component-, and Aspect-Oriented Software Engineering Technologies, taught in English, Five months at Ecole de Mines de Nantes, France Six months at Universidad Nacional de La Plata, Argentina
 <a href="http://www.emn.fr/emoose ">http://www.emn.fr/emoose </a></li>

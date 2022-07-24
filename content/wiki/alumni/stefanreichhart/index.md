@@ -55,4 +55,4 @@ Title: Stefan Reichhart
 
 -  Mail: stefan underscore reichhart at students dot unibe dot ch
 -  Personal Webpage: [http://reichhart.freezope.org](http://reichhart.freezope.org)
--  IAM Webpage: [http://www.iam.unibe.ch/~reichhar/](http://www.iam.unibe.ch/~reichhar/)
+-  IAM Webpage: http://www.iam.unibe.ch/~reichhar/

@@ -612,7 +612,7 @@ Normally, the seminar takes place on Mondays at 14.00 in the afternoon in our se
 - 13 November: Serge Demeyer &mdash; (http://www.iam.unibe.ch/~demeyer/). "Object-Oriented Reengineering &mdash; The FAMOOS Experience". 
 - 29 November: Thomas Hofmann &mdash; Open Spaces 
 - 27 October: [Sander Tichelaar](%assets_url%/files/d2/fwlcmo5x2id8gh4wvl9jvw517ki6zh/Sander%20Tichelaar) &mdash; Language Independent Refactorings 
-- 20 October: Serge Demeyer &mdash; Why Unified is not Universal. UML Shortcomings for Coping with Round-trip Engineering, (UML'99 Presentation) [http://www.iam.unibe.ch/~demeyer](http://www.iam.unibe.ch/~demeyer) 
+- 20 October: Serge Demeyer &mdash; Why Unified is not Universal. UML Shortcomings for Coping with Round-trip Engineering, (UML'99 Presentation) http://www.iam.unibe.ch/~demeyer 
 - 1 October: Michele Lanza &mdash; A Hybrid Reverse Engineering Approach Combining Metrics and Program Visualization (WCRE'99 Presentation) 
 - 1 October: Stephane Ducasse &mdash; Patterns for Reverse Engineering (WCRE'99 Presentation) 
 - 1 September: Matthias Rieger &mdash; Language Independent Approach for Detecting Duplicated Code, (Presentation ICSM'99) 

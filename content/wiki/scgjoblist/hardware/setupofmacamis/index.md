@@ -33,4 +33,4 @@ Title: Setup of macamis
 
 -  scgresources is an alias for macamis. The resources (Papers, Software) are on a 500GB disk mounted under /Volumes/ServerHD. This disk is exported as Volume "scgresources".
 -  scgresources are mirrored daily to /Users/scg/NoBackup/SCGResources
--  [http://scgresources.unibe.ch/~scg/Literature](http://scgresources.unibe.ch/~scg/Literature) configured to be accessible from university IPs only. (link to /Volumes/ServerHD/Literature, holds scg Paper library \+ course material)
+-  http://scgresources.unibe.ch/~scg/Literature configured to be accessible from university IPs only. (link to /Volumes/ServerHD/Literature, holds scg Paper library \+ course material)

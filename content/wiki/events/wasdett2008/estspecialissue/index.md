@@ -10,5 +10,5 @@ The guest editors of the special issue will be Mark van den Brand and Kim Mens, 
 
 Previous Special Issue
 
-- Call for Systems: [http://homepages.cwi.nl/~markvdb/SCP-EST/](http://homepages.cwi.nl/~markvdb/SCP-EST/)
+- Call for Systems: http://homepages.cwi.nl/~markvdb/SCP-EST/
 - Accepted papers: [http://www.sciencedirect.com/science/journal/01676423](http://www.sciencedirect.com/science/journal/01676423)

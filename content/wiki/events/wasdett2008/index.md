@@ -138,30 +138,30 @@ NB: Submission timezone is APIA, ie out there in the Pacific at UTC-11.
 - Mark van den Brand, Eindhoven University of Technology, [http://www.win.tue.nl/~mvdbrand](http://www.win.tue.nl/~mvdbrand)
 - Adrian Kuhn, University of Berne, [Adrian Kuhn](%base_url%/wiki/alumni/adriankuhn)
 - Holger M. Kienle, University of Victoria, [http://holgerkienle.wikispaces.com](http://holgerkienle.wikispaces.com)
-- Roel Wuyts, IMEC Leuven, [http://homepages.ulb.ac.be/~rowuyts](http://homepages.ulb.ac.be/~rowuyts)
+- Roel Wuyts, IMEC Leuven, http://homepages.ulb.ac.be/~rowuyts
 
 ##Program Committee
 
--  John Brant, The Refactory, Inc., [http://www.refactory.com/people/john.html](http://www.refactory.com/people/john.html) 
+-  John Brant, The Refactory, Inc., http://www.refactory.com/people/john.html 
 -  Dr. Vassili Bykov, Cadence (USA), [http://www.cincomsmalltalk.com/userblogs/vbykov/](http://www.cincomsmalltalk.com/userblogs/vbykov/)
 -  Dr. Pascal Costanza, Vrije Universiteit Brussel (Belgium), [http://p-cos.net](http://p-cos.net)
 -  Dr. Yann-Ga&euml;l Gu&eacute;h&eacute;neuc, University of Montreal (Canada), [http://www.yann-gael.gueheneuc.net](http://www.yann-gael.gueheneuc.net)
 -  Dr. Robert Hirschfeld, Hasso-Plattner-Institut Potsdam (Germany), [http://www.hirschfeld.org](http://www.hirschfeld.org)
--  Dr. Andy Kellens, Vrije Universiteit Brussel (Belgium), [http://prog.vub.ac.be/~akellens](http://prog.vub.ac.be/~akellens) 
+-  Dr. Andy Kellens, Vrije Universiteit Brussel (Belgium), http://prog.vub.ac.be/~akellens 
 -  Anne Keller, Universiteit Antwerpen (Belgium), [http://www.ua.ac.be/anne.keller](http://www.ua.ac.be/anne.keller)
--  Dr. G&uuml;nter Kniesel, University of Bonn (Germany), [http://www.cs.uni-bonn.de/~gk/gk](http://www.cs.uni-bonn.de/~gk/gk)
+-  Dr. G&uuml;nter Kniesel, University of Bonn (Germany), http://www.cs.uni-bonn.de/~gk/gk
 -  Dr. Jens Krinke, Fernuniversit&auml;t Hagen (Germany), [http://www.fernuni-hagen.de/ST/krinke](http://www.fernuni-hagen.de/ST/krinke). 
 -  Dr. Michele Lanza, University of Lugano (Switzerland), [http://www.inf.unisi.ch/faculty/lanza](http://www.inf.unisi.ch/faculty/lanza)
--  Dr. Radu Marinescu, University from Timisoara (Rumania), [http://www.cs.utt.ro/~radum](http://www.cs.utt.ro/~radum)
+-  Dr. Radu Marinescu, University from Timisoara (Rumania), http://www.cs.utt.ro/~radum
 -  Dr. Oscar Nierstrasz, University of Berne (Switzerland), [Oscar Nierstrasz](%base_url%/staff/oscar) 
 -  Dr. Martin Pinzger, University of Zurich (Switzerland), [http://seal.ifi.uzh.ch/pinzger](http://seal.ifi.uzh.ch/pinzger)
--  Dr. Tony Sloane, Macquarie University (Australia), [http://www.comp.mq.edu.au/~asloane](http://www.comp.mq.edu.au/~asloane)
+-  Dr. Tony Sloane, Macquarie University (Australia), http://www.comp.mq.edu.au/~asloane
 -  Dr. Diomidis Spinellis, Athens University (Greece) [http://www.dmst.aueb.gr/dds/index.en.html](http://www.dmst.aueb.gr/dds/index.en.html)
 -  Dr. Jurgen Vinju, Centrum voor Wiskunde en Informatica (The Netherlands), [http://homepages.cwi.nl/~jurgenv](http://homepages.cwi.nl/~jurgenv) 
 -  Allen Wirfs-Brock (USA), [http://c2.com/cgi/wiki?AllenWirfsBrock](http://c2.com/cgi/wiki?AllenWirfsBrock)
--  Dr. Andy Zaidman, Technische Universiteit Delft (The Netherlands), [http://www.st.ewi.tudelft.nl/~zaidman](http://www.st.ewi.tudelft.nl/~zaidman)
+-  Dr. Andy Zaidman, Technische Universiteit Delft (The Netherlands), http://www.st.ewi.tudelft.nl/~zaidman
 -  Dr. Olivier Zendra, INRIA / LORIA (France), [http://www.loria.fr/~zendra](http://www.loria.fr/~zendra)
--  Dr. Tom Zimmerman, University of Calgary (Canada), [http://pages.cpsc.ucalgary.ca/~zimmerth](http://pages.cpsc.ucalgary.ca/~zimmerth)
+-  Dr. Tom Zimmerman, University of Calgary (Canada), http://pages.cpsc.ucalgary.ca/~zimmerth
 
 ##Download
 

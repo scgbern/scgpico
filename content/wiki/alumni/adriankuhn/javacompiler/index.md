@@ -28,7 +28,7 @@ See also
 
 
 -  [http://groups.csail.mit.edu/pag/jsr308/current/checkers-manual.html#htoc47](http://groups.csail.mit.edu/pag/jsr308/current/checkers-manual.html#htoc47)
--  [http://wiki.netbeans.org/wiki/view/Java_DevelopersGuide](http://wiki.netbeans.org/wiki/view/Java_DevelopersGuide)
+-  http://wiki.netbeans.org/wiki/view/Java_DevelopersGuide
 
 Find more resources here
 
@@ -38,10 +38,10 @@ Find more resources here
 -  [http://blogs.sun.com/sundararajan/entry/javac_tree_api_-_check](http://blogs.sun.com/sundararajan/entry/javac_tree_api_-_check)
 -  [http://java.sun.com/javase/6/docs/jdk/api/javac/tree/index.html](http://java.sun.com/javase/6/docs/jdk/api/javac/tree/index.html)
 -  [http://blogs.sun.com/darcy/category/Annotation+Processing](http://blogs.sun.com/darcy/category/Annotation+Processing)
--  [http://www.oracle.com/technology/pub/articles/marx-jse6.html](http://www.oracle.com/technology/pub/articles/marx-jse6.html)
+-  http://www.oracle.com/technology/pub/articles/marx-jse6.html
 -  [http://java.sun.com/javase/6/docs/api/javax/annotation/processing/AbstractProcessor.html](http://java.sun.com/javase/6/docs/api/javax/annotation/processing/AbstractProcessor.html)
 -  [http://blogs.sun.com/darcy/resource/J1_2006-BOF-0606.pdf](http://blogs.sun.com/darcy/resource/J1_2006-BOF-0606.pdf)
--  [http://www.javabeat.net/javabeat/java6/articles/2007/06/java-6-0-new-features-part-2](http://www.javabeat.net/javabeat/java6/articles/2007/06/java-6-0-new-features-part-2)
+-  http://www.javabeat.net/javabeat/java6/articles/2007/06/java-6-0-new-features-part-2
 
 Source code of Javac
 

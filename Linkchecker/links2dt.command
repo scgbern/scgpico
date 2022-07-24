@@ -36,7 +36,7 @@ links2dt () {
 	error="$1"
 	log="$2"
 	out="$3"
-	rgrep "$error" $log \
+	./rgrep "$error" $log \
 	| fgrep 'URL ' \
 	| perl -p \
 		-e 's/^Real URL.*//;' \

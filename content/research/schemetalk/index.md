@@ -25,9 +25,9 @@ In order to show its close relation to real Smalltalk code, SchemeTalk implement
 SchemeTalk is available at:
 
 
--  PLT [http://www.iam.unibe.ch/~verwaest/schemetalk/schemetalk-0.3-4.1.3.plt](http://www.iam.unibe.ch/~verwaest/schemetalk/schemetalk-0.3-4.1.3.plt)
--  ZIP [http://www.iam.unibe.ch/~verwaest/schemetalk/schemetalk-0.3-sources.zip](http://www.iam.unibe.ch/~verwaest/schemetalk/schemetalk-0.3-sources.zip)
--  TAR [http://www.iam.unibe.ch/~verwaest/schemetalk/schemetalk-0.3-sources.tar.bz2](http://www.iam.unibe.ch/~verwaest/schemetalk/schemetalk-0.3-sources.tar.bz2)
+-  PLT http://www.iam.unibe.ch/~verwaest/schemetalk/schemetalk-0.3-4.1.3.plt
+-  ZIP http://www.iam.unibe.ch/~verwaest/schemetalk/schemetalk-0.3-sources.zip
+-  TAR http://www.iam.unibe.ch/~verwaest/schemetalk/schemetalk-0.3-sources.tar.bz2
 -  SVN [https://www.iam.unibe.ch/scg/svn_repos/Sources/SchemeTalk/](https://www.iam.unibe.ch/scg/svn_repos/Sources/SchemeTalk/)
 
 ##Documentation

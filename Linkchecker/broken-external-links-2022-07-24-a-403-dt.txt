@@ -1,6 +1,5 @@
 PATH	BROKEN
-research/recast	http://www.iam.unibe.ch/~scg/Research/CodeCrawler/index.html
-research/recast	http://www.iam.unibe.ch/~scg/Research/Moose/index.html
+
 teaching/ese	http://scgresources.unibe.ch/Literature/Books/Somm11a-Sommerville-Software-Engineering-9th-edn-2011.pdf
 teaching/ese	http://scgresources.unibe.ch/~scg/Literature/Books/Rumb99aUMLreference.pdf
 teaching/cc	http://scgresources.unibe.ch/Literature/Compilers/Appe02a-ch5-semantic_analysis.pdf
@@ -10,7 +9,6 @@ teaching/cp	http://scgresources.unibe.ch/Literature/Books/ConcurrentProgrammingI
 teaching/cp	http://scgresources.unibe.ch/~scg/Literature/CP/Andr83aSurvey.pdf
 teaching/cp	http://scgresources.unibe.ch/~scg/Literature/CP/Pete77aSurvey.pdf
 teaching/cp	http://scgresources.unibe.ch/~scg/Literature/CP/Carr89aSurvey.pdf
-staff/toonverwaest/cv	http://www.iam.unibe.ch/~scg
 teaching/p2/P2-Reading	http://scgresources.unibe.ch/~scg/Literature/Books/GOF.zip
 teaching/p2/P2-Reading	http://scgresources.unibe.ch/Literature/Books/Beck97aDraftSmalltalkBestPracticePatterns.pdf
 teaching/cc/resources	http://scgresources.unibe.ch/Literature/Books/Gold83aBluebook.pdf
@@ -20,8 +18,14 @@ teaching/pl/resources	http://scgresources.unibe.ch/Literature/Books/Postscript/A
 teaching/pl/resources	http://scgresources.unibe.ch/~scg/Literature/PL/Huda89a-p359-hudak.pdf
 teaching/pl/resources	http://scgresources.unibe.ch/~scg/Literature/PL/Lieb86a-Prototypes.pdf
 teaching/pl/resources	http://scgresources.unibe.ch/~scg/Literature/VisualProgramming/
+
 wiki/events/wasdett2008	http://prog.vub.ac.be/~akellens
-wiki/events/omnibrowserdojo	http://www.iam.unibe.ch/~scg/Archive/Papers/Berg07cOmnibrowser.pdf
 wiki/events/wasdett2008	http://www.comp.mq.edu.au/~asloane
 wiki/events/woor2007	http://prog.vub.ac.be/moves/
 wiki/scgjoblist/hardware/setupofmacamis	http://scgresources.unibe.ch/~scg/Literature
+
+staff/toonverwaest/cv	http://www.iam.unibe.ch/~scg
+
+research/recast	http://www.iam.unibe.ch/~scg/Research/CodeCrawler/index.html
+research/recast	http://www.iam.unibe.ch/~scg/Research/Moose/index.html
+wiki/events/omnibrowserdojo	http://www.iam.unibe.ch/~scg/Archive/Papers/Berg07cOmnibrowser.pdf

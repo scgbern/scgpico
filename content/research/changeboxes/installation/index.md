@@ -11,7 +11,7 @@ ChangeBoxes are tested and developed with Squeak 3.9. You need an image that is 
 -  Run the SUnit Tests in ChangeBoxes-Tests in order to assert that everything went well
 
 ## Fresh & Experimental Installation
-(A precompiled image with NewCompiler is available at [http://www.iam.unibe.ch/~denker/temp/NewCompiler.zip](http://www.iam.unibe.ch/~denker/temp/NewCompiler.zip))
+(A precompiled image with NewCompiler is available at http://www.iam.unibe.ch/~denker/temp/NewCompiler.zip)
 
 -  Get the latest version of Squeak 3.9 at [http://ftp.squeak.org/3.9](http://ftp.squeak.org/3.9)
 -  Get the latest version of AST at [http://www.squeaksource.com/AST.html](http://www.squeaksource.com/AST.html)

@@ -111,7 +111,7 @@ The upper limit for the number of participants is 25 and the participants will b
 
 #Sponsoring
 
-This event is partly sponsored by the Interuniversity Attraction Poles Programme - Belgian State &mdash; Belgian Science Policy, via the MoVES research project (\*Modelling, Verification and Evolution of Software>http://prog.vub.ac.be/moves/\*) with grant number P6/39.
+This event is partly sponsored by the Interuniversity Attraction Poles Programme - Belgian State &mdash; Belgian Science Policy, via the MoVES research project Modelling, Verification and Evolution of Software with grant number P6/39.
 
 Another sponsor is the Fonds de la Recherche Fondamentale Collective via the "Research Center on Structural Software Improvement", a research project between four Belgian universities, with grant number 2.4.519.05. 
 

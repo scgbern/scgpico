@@ -1,0 +1,44 @@
+#! /usr/bin/perl -s
+#
+# rgrep --- extract records matching a pattern from files
+#
+# $Id$
+#
+# Select records that contain a string.
+# Each record is separated by a blank line.
+#
+# Author: Oscar Nierstrasz (Revised: 11/10/88)
+# Rewritten in perl (27/6/93)
+# - added -i option 24/10/93
+# this variant suggested by Tom Christiansen <tchrist@cs.Colorado.EDU>
+# is fastest!
+# added Boolean AND capability (invoked using the -a command line switch)
+# C. Fang 03/30/96 fangchin@leland.stanford.edu
+# I think I have kept the original script's compatness and elegance :)
+
+$u = "Usage: rgrep [-i -a] <pattern> [<file> ...]\n" ;
+
+($pattern,@files) = @ARGV ;
+defined($pattern) || die($u) ;
+@ARGV = @files ;
+
+# set blank line to be record separator:
+$/ = "" ;
+
+if ($i) { $i = "i"; }
+
+# patterns with alternatives are slow to evaluate,
+# so construct a logical alternative instead:
+
+foreach $p (split(/\|/,$pattern)) {
+    if ($a) {
+        $mpat .= "/$p/o$i && ";
+    } else {
+        $mpat .= "/$p/o$i && (print, next);\n";
+    }
+}
+
+if ($a) { $mpat .= " print; "; }
+eval "while(<>) { $mpat }";
+__END__
+
