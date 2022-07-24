@@ -14,24 +14,24 @@ Title: Chronia
 Get Chronia and analyze your own CVS history! 
 
 
--  Chronia image for VisualWorks 
--  CHRONIA.EXE for Windows
+-  [Chronia image for VisualWorks](http://www.iam.unibe.ch/~akuhn/chronia/chronia-image.zip) 
+-  [CHRONIA.EXE for Windows](http://www.iam.unibe.ch/~akuhn/chronia/chronia-exe.zip)
 
 ## References
 
 
--  Tudor G&icirc;rba, Adrian Kuhn, Mauricio Seeberger and St&eacute;phane Ducasse, <b>"How Developers Drive Software Evolution,"</b> Proceedings of International Workshop on Principles of Software Evolution (IWPSE 2005), IEEE Computer Society Press, September 2005, pp. 113&mdash;122. ([view Bibtex](http://www.iam.unibe.ch/~scg/cgi-bin/scgbib.cgi/raw=yes?Girb05c), download PDF)
+-  Tudor G&icirc;rba, Adrian Kuhn, Mauricio Seeberger and St&eacute;phane Ducasse, <b>"How Developers Drive Software Evolution,"</b> Proceedings of International Workshop on Principles of Software Evolution (IWPSE 2005), IEEE Computer Society Press, September 2005, pp. 113&mdash;122. ([view Bibtex](http://www.iam.unibe.ch/~scg/cgi-bin/scgbib.cgi/raw=yes?Girb05c), [download PDF](http://www.iam.unibe.ch/~scg/Archive/Papers/Girb05cOwnershipMap.pdf))
 
 
--  Mauricio Seeberger, <b>"How Developers Drive Software Evolution,"</b> Masters thesis, University of Bern, January 2006. ([view Bibtex](http://www.iam.unibe.ch/~scg/cgi-bin/scgbib.cgi/raw=yes?Seeb06a), download PDF)
+-  Mauricio Seeberger, <b>"How Developers Drive Software Evolution,"</b> Masters thesis, University of Bern, January 2006. ([view Bibtex](http://www.iam.unibe.ch/~scg/cgi-bin/scgbib.cgi/raw=yes?Seeb06a), [download PDF](http://www.iam.unibe.ch/~scg/Archive/Diploma/Seeb06a.pdf))
 
 ## Slides
 
 
--  2005-IWPSE-OwnershipMap.pdf
+-  [2005-IWPSE-OwnershipMap.pdf](http://www.iam.unibe.ch/~akuhn/Documents/Slides/2005-IWPSE-OwnershipMap.pdf)
 
 ## More Links
 
 
--  http://moose.unibe.ch/tools/chronia (Chronia'a entry on the Moose page)
+-  [http://moose.unibe.ch/tools/chronia](http://moose.unibe.ch/tools/chronia) (Chronia'a entry on the Moose page)
 -  [Dendrogram Seriation](%base_url%/wiki/alumni/adriankuhn/dendrogramseriation), used to order the file axis.

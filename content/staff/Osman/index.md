@@ -5,7 +5,7 @@ Title: Haidar Osman
 **This is my old page when I was a PhD student, Please refer to my linked in page for more up-to-date info on where I am, what I am doing, and how to contact me.**
 [https://www.linkedin.com/in/haidarosman/](https://www.linkedin.com/in/haidarosman/)
 
-I was a PhD student at the Institute of Computer Science (INF) of the [University of Bern](http://www.unibe.ch/).
+I was a PhD student at the Institute of Computer Science [(INF)](http://www.inf.unibe.ch/en/) of the [University of Bern](http://www.unibe.ch/).
 I finished my PhD in December 2017. During my PhD, I've conducted research on bug prediction, localization, and automatic fixing.
 
 #Research Interests

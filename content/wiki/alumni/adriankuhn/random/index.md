@@ -9,7 +9,7 @@ Title: Random Notes
 -  [Java Compiler](%base_url%/wiki/alumni/adriankuhn/javacompiler), beyond JSR 269
 -  [SCG Library](%base_url%/wiki/scglibrary), all your books are belong to me [Niko](%base_url%/staff/Schwarz)!
 -  [Bridge the Gap between Analysis and IDE](http://c2.com/w4/epride/wiki.cgi?BridgeTheGapBetweenAnalysisAndIde)
--  Finger gateway &ndash; ye olde blog, the unix way of live
+-  [Finger gateway](http://www.iam.unibe.ch/cgi-bin/finger/finger?akuhn) &ndash; ye olde blog, the unix way of live
 
 Some moose fun
 

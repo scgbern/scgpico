@@ -7,4 +7,4 @@ Using Javascript and being able to execute it directly in the Database using Gra
 Further goals are allowing the PDFs style to be defined using a JSON file and finally writing a small NodeJS application which allows customizing the PDF which uses the functionality just discussed. 
 
 Project idea: [/wiki/projects/mastersbachelorsprojects/JavaScript-in-the-relational-database](/wiki/projects/mastersbachelorsprojects/JavaScript-in-the-relational-database) | 
-Oracle MLE: https://www.oracle.com/technetwork/database/multilingual-engine/overview/index.html
+Oracle MLE: [https://www.oracle.com/technetwork/database/multilingual-engine/overview/index.html](https://www.oracle.com/technetwork/database/multilingual-engine/overview/index.html)

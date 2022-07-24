@@ -4,10 +4,10 @@ Title: Documentation
 #Documentation
 #UML
 
--  Full Class Diagram (13.9.06)
--  Core Class Diagram (13.9.06)
--  Method Creation Sequence Diagram (13.9.06)
--  Method Lookup Sequence Diagram (13.9.06)
+-  [Full Class Diagram](http://www.codez.ch/filez/cbx.uml.pdf) (13.9.06)
+-  [Core Class Diagram](http://www.codez.ch/filez/cbx-core.uml.pdf) (13.9.06)
+-  [Method Creation Sequence Diagram](http://www.codez.ch/filez/cbx-methodcreation.sequence.pdf) (13.9.06)
+-  [Method Lookup Sequence Diagram](http://www.codez.ch/filez/cbx-methodlookup.sequence.pdf) (13.9.06)
 
 #Features accomplished so far:
 ##Core

@@ -91,7 +91,7 @@ For example, the inspector below shows a code editor in the context of an RGMeth
 ![http://humane-assessment.com/pierfiles/42/dta6vionxbzzk3avdpwhq9nnywir8m/previewing-code-during-development.png](http://humane-assessment.com/pierfiles/42/dta6vionxbzzk3avdpwhq9nnywir8m/previewing-code-during-development.png)
 
 #GTInspector
-The GTInspector implements the ideas behind the Moldable Inspector as part of the GToolkit project. It is available in the latest Moose image which can be downloaded from [the Moose website](http://www.moosetechnology.org). It is also integrate in [Pharo](http://pharo.org).
+The GTInspector implements the ideas behind the Moldable Inspector as part of the [GToolkit](http://gt.moosetechnology.org/) project. It is available in the latest Moose image which can be downloaded from [the Moose website](http://www.moosetechnology.org). It is also integrate in [Pharo](http://pharo.org).
 
 #Usage scenarios
 

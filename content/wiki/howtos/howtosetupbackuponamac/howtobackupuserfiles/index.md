@@ -6,7 +6,7 @@ There are many solutions.
 
 ## rsync
 
-rsync syncs two directories. Works incrementally. With the right magic options, it seems to sync everything needed. Lukas did a script, md hacked it: http://www.iam.unibe.ch/~denker/misc/backupWithRsync.txt
+rsync syncs two directories. Works incrementally. With the right magic options, it seems to sync everything needed. Lukas did a script, md hacked it: [http://www.iam.unibe.ch/~denker/misc/backupWithRsync.txt](http://www.iam.unibe.ch/~denker/misc/backupWithRsync.txt)
 
 To restore my backup, I proceeded as follows
 

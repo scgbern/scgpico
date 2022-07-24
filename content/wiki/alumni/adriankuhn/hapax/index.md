@@ -23,7 +23,7 @@ The original Hapax is written in Visualworks Smalltalk. Recently, Romain an me s
 ## References
 
 
--  Adrian Kuhn, St&eacute;phane Ducasse and Tudor G&icirc;rba, <b>"Semantic Clustering: Identifying Topics in Source Code,"</b> Information and Software Technology (IST), vol. 49, no. 3, March 2007, pp. 230&mdash;243. ([view Bibtex](http://www.iam.unibe.ch/~scg/cgi-bin/scgbib.cgi/raw=yes?query=Kuhn07a), download PDF)
+-  Adrian Kuhn, St&eacute;phane Ducasse and Tudor G&icirc;rba, <b>"Semantic Clustering: Identifying Topics in Source Code,"</b> Information and Software Technology (IST), vol. 49, no. 3, March 2007, pp. 230&mdash;243. ([view Bibtex](http://www.iam.unibe.ch/~scg/cgi-bin/scgbib.cgi/raw=yes?query=Kuhn07a), [download PDF](http://www.iam.unibe.ch/~scg/Archive/Drafts/Kuhn06bSemanticClustering.pdf))
 
 
 -  This journal paper is an extension of an WCRE paper and my Master's thesis.
@@ -31,5 +31,5 @@ The original Hapax is written in Visualworks Smalltalk. Recently, Romain an me s
 ## Slides
 
 
--  2006-StuTS-LinguisticSoftwareAnalysis.pdf (best)
--  2005-WCRE-SemanticClustering.pdf
+-  [2006-StuTS-LinguisticSoftwareAnalysis.pdf](http://www.iam.unibe.ch/~akuhn/Documents/Slides/2006-StuTS-LinguisticSoftwareAnalysis.pdf) (best)
+-  [2005-WCRE-SemanticClustering.pdf](http://www.iam.unibe.ch/~akuhn/Documents/Slides/2005-WCRE-SemanticClustering.pdf)

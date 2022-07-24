@@ -4,7 +4,7 @@ This course was last taught by me in the Fall of 2020. The course materials have
 
 -  [Podcasts](https://tube.switch.ch/channels/45e44e12)
 -  [Previous Exam](%assets_url%/download/lectures/sma-exercises/ExamDecember2018.pdf)
--  JMCS (FS 2018)
+-  [JMCS](http://mcs.unibnf.ch/program/courses-timetable/courses/software-modeling-and-analysis-0) (FS 2018)
 -  [Annotated PDF Slides](%assets_url%/download/lectures/sma/)
 -  [Iceberg github repo of Smalltalk lecture examples](https://github.com/onierstrasz/sma-examples)
 -  [Roassal tutorial](%assets_url%/download/lectures/sma-exercises/Assignment-06-Tutorial.pdf)

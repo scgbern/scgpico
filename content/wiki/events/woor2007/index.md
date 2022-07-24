@@ -17,7 +17,7 @@ It will take place on July 30, 2007 in Berlin, Germany.
 -  [Must Tool Building Remain a Craft](%assets_url%/files/1e/qw62vwl047elcz4aw94b3i2n4zukiy/Must%20Tool%20Building%20Remain%20a%20Craft) by Holger M. Kienle
 -  [A Meta-model Approach to Inconsistency Management](%assets_url%/files/c6/srqmsrph01zxoainc5g9vjet4ymtat/A%20Meta-model%20Approach%20to%20Inconsistency%20Management) by Anne Keller and Serge Demeyer
 
-All position papers are also available from http://www.lore.ua.ac.be/Events/WOOR07/
+All position papers are also available from [http://www.lore.ua.ac.be/Events/WOOR07/](http://www.lore.ua.ac.be/Events/WOOR07/)
 
 #Organization
 
@@ -144,7 +144,7 @@ Prof. Kim Mens is one of the originators of the 'reuse contract' technique and o
 Roel Wuyts
 IMEC, Belgium (Belgium)
 Université Libre de Bruxelles (Belgium)
-http://decomp.ulb.ac.be/roelwuyts/
+[http://decomp.ulb.ac.be/roelwuyts/](http://decomp.ulb.ac.be/roelwuyts/)
 Prof. Roel Wuyts is Senior Software Engineer at the IMEC Research Centre and former professor of the Université Libre de Bruxelles. His research interests include software evolution and code restructuring, for which he (co-)developed various tools and techniques such as the SOUL language.
 
 Harald Gall

@@ -9,7 +9,7 @@ The Smalltalks series of conferences ([FAST](http://www.fast.org.ar)) is a livel
 Past editions of Smalltalks have included many high-quality presentations from industry and research.
 These contributions have shown interesting applications of Smalltalk, advances in the Smalltalk language, didactic uses of Smalltalk and so on.
 
-Similar to last year, Smalltalks 2012 will include a dedicated research track.
+Similar to last year, [Smalltalks 2012](http://www.fast.org.ar/smalltalks2012) will include a dedicated research track.
 We welcome submissions to this research track presenting original scientific contributions to, or using, Smalltalk in general.
 
 ##Submissions

@@ -6,10 +6,10 @@ Title: Around and About Bern
 
 -  [City of Bern](http://www.bern.ch/)
 -  [BernMobil](http://www.bernmobil.ch/) (public transport)
--  SBB (swiss trains)
+-  [SBB](http://www.sbb.ch/en/index.htm) (swiss trains)
 -  [Weather](http://www.intellicast.com/Local/IntlLocalStd.asp?loc=lszb&seg=LocalWeather&prodgrp=Forecast&product=Forecast&prodnav=none)
--  Pollen report
--  Skiing
+-  [Pollen report](http://pollen.bulletin.ch/dt/city/bern.html)
+-  [Skiing](http://schneenews.ch/)
 #Phone Books
 
 -  [White Pages](http://www.whitepages.ch/)
@@ -25,6 +25,6 @@ Title: Around and About Bern
 -  [Kitag](http://www.kitag.com/) (chain)
 -  [Quinnie](http://www.quinnie.ch/) (chain)
 -  [Lichtspiel](http://www.lichtspiel.ch/) (repertory)
--  eBund (list)
--  Bluewin (list)
+-  [eBund](http://www.espace.ch/eskino/) (list)
+-  [Bluewin](http://kino.bluewin.ch/kinoprogramm/process.php?city=Bern) (list)
 -  [kino.search.ch](http://kino.search.ch/) (search)

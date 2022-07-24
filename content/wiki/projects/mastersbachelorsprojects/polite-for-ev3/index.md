@@ -2,7 +2,7 @@
 Title: Polite for EV3
 ---
 #Polite for EV3
-!http://www.terrapapers.com/wp-content/uploads/2013/04/Block-Party-Lego-robotics-competition-4.jpg
+![http://www.terrapapers.com/wp-content/uploads/2013/04/Block-Party-Lego-robotics-competition-4.jpg](http://www.terrapapers.com/wp-content/uploads/2013/04/Block-Party-Lego-robotics-competition-4.jpg)
 
 #Context
 The LEGO Mindstorms was initially developed as a collaboration project between the swiss scientist Seymour Papert, and the LEGO company as a software and hardware platform which would **allow children to get accustomed with computational thinking**. The third generation Mindstorms kit, the EV3, contains a powerful hardware layer running Linux.
@@ -42,5 +42,5 @@ However, you would have to design the API in such a way that it makes sense to y
 #Further Reading
 
 -  Brief overview of Polite - [/research/Polite](/research/Polite)
--  Overview of Mindstorms -  http://www.lego.com/en-us/mindstorms/gettingstarted/historypage/
--  Smalltalk syntax on a postcard - http://goo.gl/38zIu6
+-  Overview of Mindstorms -  [http://www.lego.com/en-us/mindstorms/gettingstarted/historypage/](http://www.lego.com/en-us/mindstorms/gettingstarted/historypage/)
+-  Smalltalk syntax on a postcard - [http://goo.gl/38zIu6](http://goo.gl/38zIu6)

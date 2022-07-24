@@ -11,7 +11,7 @@ Grammars for programming languages are traditionally specified statically. They 
 #Getting Started
 
 Although PetitParser was born as part of the Helvetia infrastructure, it can be used independently. An introduction to PetitParser can be found in the following blog posts: [Writing Parsers with PetitParser](http://www.lukas-renggli.ch/blog/petitparser-1) and [Composite Grammars with PetitParser](http://www.lukas-renggli.ch/blog/petitparser-2).
-There is a dedicated chapter on PetitParser in Deep into Pharo, and there is a chapter on using PetitParser with Moose in the Moose Book.
+There is a dedicated chapter on PetitParser in [Deep into Pharo](http://rmod.lille.inria.fr/pbe2/), and there is a chapter on using PetitParser with Moose in the [Moose Book](http://www.themoosebook.org/book/internals/petit-parser).
 
 ##Pharo Smalltalk
 
@@ -74,7 +74,7 @@ This requires [Cincom VisualWorks 7.7](http://www.cincomsmalltalk.com/main/produ
 
 ##Visual Smalltalk Enterprise
 
-There is a port of PetitParser to VSE by Leandro Caniglia.
+There is a [port](http://vse-wiki.apis.de/index.cgi/Source%20code%20for%20VS-Smalltalk) of PetitParser to VSE by Leandro Caniglia.
 
 ##Java
 
@@ -87,11 +87,11 @@ There is also a version of [PetitParser for Dart](https://github.com/renggli/Pet
 
 ##Smalltalk/X
 
-There is also a version of PetitParser for Smalltalk/X.
+There is also a version of [PetitParser for Smalltalk/X](https://bitbucket.org/janvrany/stx-goodies-petitparser/overview).
 
 #Contact
 
-Please report bugs or ask questions in the Pharo or Moose mailing-lists.
+Please report bugs or ask questions in the [Pharo](http://lists.gforge.inria.fr/mailman/listinfo/pharo-project) or [Moose](http://www.moosetechnology.org/about/contact) mailing-lists.
 
 #License
 

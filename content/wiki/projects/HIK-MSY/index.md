@@ -2,7 +2,7 @@
 Title: HIKOMSYS
 ---
 #HIKOMSYS
-<span style="color: green;">**New team member needed!** We are looking for a bachelor or masters student, who is motivated by raising developer awareness of the importance of software analysis in a playful manner. Your **goal** would be to **add new fun levels to** HIKOMSYS. To prepare these levels you will have to first design the corresponding static analysis. You will have the **full support of the team** for all the phases of your project. 
+<span style="color: green;">**New team member needed!** We are looking for a bachelor or masters student, who is motivated by raising developer awareness of the importance of software analysis in a playful manner. Your **goal** would be to **add new fun levels to** [HIKOMSYS](http://pinocchio.unibe.ch/hikomsys/). To prepare these levels you will have to first design the corresponding static analysis. You will have the **full support of the team** for all the phases of your project. 
 
 **Goal**
 

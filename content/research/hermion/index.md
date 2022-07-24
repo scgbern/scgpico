@@ -14,7 +14,7 @@ For O*B-Enhancements* we provide this ready-to-use image: [OB-Enhancements.zip](
 
 How to install or update OB-Enhancements manually: 
 
-- Start with a recent  squeak-dev image from Damien Cassou
+- Start with a recent  [squeak-dev](http://squeak.ofset.org/squeak-dev) image from Damien Cassou
 - Load latest versions of the following packages from Colin Putney's Monticello repository at http://source.wiresong.ca/ob/ :
 
 

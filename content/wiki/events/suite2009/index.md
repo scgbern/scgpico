@@ -32,7 +32,7 @@ Vancouver, Canada, <b>May 16, 2009</b>.
 
 -  [SUITE 2009 Website](%base_url%/wiki/events/suite2009)
 -  [Workshop's Easychair Submission Page](http://www.easychair.org/conferences/?c=.113876;conf=suite09)
--  IEEE Proceedings Format Guide
+-  [IEEE Proceedings Format Guide](http://www.cs.uoregon.edu/events/icse2009/calls/format/?n=DR)
 -  [ICSE Workshops](http://www.cs.uoregon.edu/events/icse2009/workshops/#Search)
 
 

@@ -21,7 +21,7 @@ git clone git://scg.unibe.ch/scgbib
 **NB:** The Anleitung should be included as an appendix to the thesis (be sure it is labeled "Anleitung ...").
 
 
--  Add the student to scg-students and scg-fun
+-  Add the student to [scg-students](https://www.iam.unibe.ch/mailman/listinfo/scg-students) and [scg-fun](https://www.iam.unibe.ch/mailman/listinfo/scg-fun)
 -  Create an account in the pool if he/she plans to work there
 -  Apply for key and badge for the student pool if needed. Ask Bettina about that.
 

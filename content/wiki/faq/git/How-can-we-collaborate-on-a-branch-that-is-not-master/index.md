@@ -51,7 +51,7 @@ It does check out the branch, but now if you change things, git won't know on wh
 
 ```
 
-To avoid the warning and the attached problems, use a tracking branch. A tracking branch is local branch that is aware of its server counterpart. For example, master is a tracking branch. It knows that its corresponding remote branch is origin/master. So, just type this:
+To avoid the warning and the attached problems, use a [tracking branch](http://book.git-scm.com/4_tracking_branches.html). A tracking branch is local branch that is aware of its server counterpart. For example, master is a tracking branch. It knows that its corresponding remote branch is origin/master. So, just type this:
 
 ```
  git branch &mdash;track try origin/try

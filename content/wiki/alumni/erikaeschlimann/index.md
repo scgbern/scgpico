@@ -56,7 +56,7 @@ SqueakSource:
 PL/I-Version:	V3R9
 
 IBM Language reference:	
-http://publibfp.boulder.ibm.com/epubs/pdf/ibm3lr80.pdf
+[http://publibfp.boulder.ibm.com/epubs/pdf/ibm3lr80.pdf](http://publibfp.boulder.ibm.com/epubs/pdf/ibm3lr80.pdf)
 
 IBM PL/I Bookshelf:
 [http://www-01.ibm.com/software/awdtools/pli/plizos/library/](http://www-01.ibm.com/software/awdtools/pli/plizos/library/)

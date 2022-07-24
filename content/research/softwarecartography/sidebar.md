@@ -11,7 +11,7 @@
 ---
 # Videos
 
--  Adrian's MIT CSAIL Talk
+-  [Adrian's MIT CSAIL Talk](http://www.csail.mit.edu/videoarchive/talks/hci/kuhn)
 
 ---
 # People

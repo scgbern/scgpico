@@ -33,7 +33,7 @@ The intermediate report covers the period from Oct. 1, 2006 through Sept. 30, 20
 Significant results have been achieved in the following four areas:
 
 
-- *Changeboxes* &mdash; we implemented a prototype of changeboxes to encapsulate and express changes to complex software systems.
+- *Changeboxes* &mdash; we implemented a [prototype of changeboxes](http://smallwiki.unibe.ch/changeboxes/) to encapsulate and express changes to complex software systems.
 - *Scoped Reflection* &mdash; we implemented [a reflection framework](%base_url%/research/reflectivity) that supports a flexible and controlled instrumentation of a software system at runtime. Using our framework, we built flexible dynamic analysis tools and a pluggable type system for a dynamically typed language.
 - *Object Flow Analysis* &mdash; we developed a novel object-centric dynamic analysis technique that tracks how objects are passed around a system at runtime. This type of information provides a new perspective of what how object-oriented systems behave at runtime. We have applied this analysis technique to detect runtime dependencies between software features and to support debugging activities.
 - *Evolution Analysis* &mdash; we defined analysis techniques and extensions to our reverse engineering platform to model the developers and investigate their role in the life-cycle of a software system. We also implemented extensions to a development environment to integrate reverse engineering results directly in the environment where the developer works on a system's source code.

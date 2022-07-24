@@ -2,7 +2,7 @@
 Title: SchemeTalk
 ---
 #SchemeTalk
-<b>SchemeTalk</b> is a Smalltalk like OO system as an extension to and written/bootstrapped in Scheme.
+<b>SchemeTalk</b> is a [Smalltalk](http://smalltalk.org) like OO system as an extension to and written/bootstrapped in Scheme.
 
 <br><br>
 <center><img src="http://www.iam.unibe.ch/~verwaest/schemetalk/schemetalk-object-inspector.png" style="width: 40em"><br>
@@ -25,18 +25,18 @@ In order to show its close relation to real Smalltalk code, SchemeTalk implement
 SchemeTalk is available at:
 
 
--  PLT http://www.iam.unibe.ch/~verwaest/schemetalk/schemetalk-0.3-4.1.3.plt
--  ZIP http://www.iam.unibe.ch/~verwaest/schemetalk/schemetalk-0.3-sources.zip
--  TAR http://www.iam.unibe.ch/~verwaest/schemetalk/schemetalk-0.3-sources.tar.bz2
+-  PLT [http://www.iam.unibe.ch/~verwaest/schemetalk/schemetalk-0.3-4.1.3.plt](http://www.iam.unibe.ch/~verwaest/schemetalk/schemetalk-0.3-4.1.3.plt)
+-  ZIP [http://www.iam.unibe.ch/~verwaest/schemetalk/schemetalk-0.3-sources.zip](http://www.iam.unibe.ch/~verwaest/schemetalk/schemetalk-0.3-sources.zip)
+-  TAR [http://www.iam.unibe.ch/~verwaest/schemetalk/schemetalk-0.3-sources.tar.bz2](http://www.iam.unibe.ch/~verwaest/schemetalk/schemetalk-0.3-sources.tar.bz2)
 -  SVN [https://www.iam.unibe.ch/scg/svn_repos/Sources/SchemeTalk/](https://www.iam.unibe.ch/scg/svn_repos/Sources/SchemeTalk/)
 
 ##Documentation
 SchemeTalk is being documented piece by piece on my blog:
 
--  Installing and Getting Started
--  First-class Slots
--  First-class Methods
--  Actors
+-  [Installing and Getting Started](http://www.iam.unibe.ch/~verwaest/blog/?p=5)
+-  [First-class Slots](http://www.iam.unibe.ch/~verwaest/blog/?p=6)
+-  [First-class Methods](http://www.iam.unibe.ch/~verwaest/blog/?p=7)
+-  [Actors](http://www.iam.unibe.ch/~verwaest/blog/?p=17)
 
 ##Updates
 

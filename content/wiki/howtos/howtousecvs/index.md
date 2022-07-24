@@ -21,4 +21,4 @@ In combination with a pipe cantrip, you may even bind the list into a scroll
     ssh scg@asterix.unibe.ch "ls cvs" > modules.txt
 ```
 
-For more insight into the arcane art of CVS, please refer to the Vast Dungeons of Abandoned Swiki. 
+For more insight into the arcane art of CVS, please refer to the [Vast Dungeons of Abandoned Swiki](http://scgwiki.iam.unibe.ch:8080/SCG/501). 

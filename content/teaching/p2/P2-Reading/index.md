@@ -30,7 +30,7 @@ Title: P2 Reading Material
 
 #C
 
--  [C Tutorial](http://www.lysator.liu.se/c/bwk-tutor.html) (by Brian Kernighan)
+-  [C Tutorial](http://www.lysator.liu.se/c/bwk-tutor.html) (by [Brian Kernighan](http://cm.bell-labs.com/cm/cs/who/bwk/))
 -  [Programming in C](http://www.lysator.liu.se/c/) (resources)
 -  [C FAQ](http://www.eskimo.com/~scs/C-faq/top.html)
 -  [C Standard Header Register](http://www.fh-fulda.de/~klingebiel/c-stdlib/headreg.htm)
@@ -43,6 +43,6 @@ Title: P2 Reading Material
 
 -  [Bjarne Stroustrup's home page](http://www.stroustrup.com/)
 -  [C\+\+ FAQ Lite](http://www.parashift.com/c++-faq-lite/)
--  C\+\+ Primer (book)
--  EffectiveC\+\+ (book)
+-  [C\+\+ Primer](http://cseng.aw.com/book/0,3828,0201824701,00.html) (book)
+-  [EffectiveC\+\+](http://cseng.aw.com/book/0,,0201924889,00.html) (book)
 -  [STL Resources](http://www.cs.rpi.edu/~musser/stl-book/)

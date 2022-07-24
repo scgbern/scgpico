@@ -57,7 +57,7 @@ I will maybe post some more detailed information about what we did during the we
 
 
 -  [http://morepypy.blogspot.com/](http://morepypy.blogspot.com/) (RSS newsfeed)
--  https://codespeak.net/viewvc/pypy/dist/pypy/lang/smalltalk
--  http://codespeak.net/pypy/extradoc/sprintinfo/bern2007/announce.html
+-  [https://codespeak.net/viewvc/pypy/dist/pypy/lang/smalltalk](https://codespeak.net/viewvc/pypy/dist/pypy/lang/smalltalk)
+-  [http://codespeak.net/pypy/extradoc/sprintinfo/bern2007/announce.html](http://codespeak.net/pypy/extradoc/sprintinfo/bern2007/announce.html)
 -  [http://www.squeak.org/](http://www.squeak.org/) 
 -  [http://squeakvm.org/](http://squeakvm.org/) 

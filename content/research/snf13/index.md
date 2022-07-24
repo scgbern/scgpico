@@ -9,7 +9,7 @@ Funding has been requested for a continuation project, [Agile Software Analysis]
 |---|---|
 |**Funding:**|650,000.&#8212; SFr.
 |**Period:**|Jan 1, 2013 - Dec. 30, 2015
-|**Collaborating teams:**|REVEAL research group, University of Lugano, Switzerland<br/>RMod group, INRIA, Lille, France<br/> [Loose Research Group](http://loose.upt.ro/), Politehnica University of Timisoara, Romania
+|**Collaborating teams:**|[REVEAL research group](http://www.inf.unisi.ch/faculty/lanza/), University of Lugano, Switzerland<br/>[RMod group](http://rmod.lille.inria.fr/), INRIA, Lille, France<br/> [Loose Research Group](http://loose.upt.ro/), Politehnica University of Timisoara, Romania
 |**Keywords**|*Software evolution; Reflection; Meta-modeling; Context-oriented programming; Clone detection; Software architecture; Reverse engineering*
 
 #Summary

@@ -13,4 +13,4 @@ When you return the book to its place, please remove the tag.
 
 #Ebooks
 
-The central repository where you can search for ebooks is http://www.unibe.ch/university/services/university_library/research/e_books/index_eng.html 
+The central repository where you can search for ebooks is [http://www.unibe.ch/university/services/university_library/research/e_books/index_eng.html](http://www.unibe.ch/university/services/university_library/research/e_books/index_eng.html) 

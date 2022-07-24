@@ -13,7 +13,7 @@ Title: Directions to INF
 #How to get to INF by bus from the train station
 
 
-- At the main station take bus 11 direction `P\+R Neufeld' 
+- At the main station take [bus 11](http://www.bernmobil.ch/english/index.php) direction `P\+R Neufeld' 
 - Get out at bus stop "Henkerbrünnli" (that's the 2nd stop from the station) 
 - When you get out of the bus, you will see a renovated yellow brick building to your right. Cross the two streets, and *voila,* you are there. 
 

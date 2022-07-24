@@ -12,7 +12,7 @@ The software infrastructure is managed by SWITCH, contact the university support
 
 #Automated recording of a series
 
-From HS18 on the podcast series can be ordered to be recurrent and automatically recorded using this form.
+From HS18 on the podcast series can be ordered to be recurrent and automatically recorded using [this form](https://www.unibe.ch/studium/werkzeuge_und_arbeitshilfen/fuer_dozierende/video/podcast/index_ger.html#pane855753).
 The recording for each lecture is then scheduled and records and uploads the lecture automatically in a specified time window.
 Once the registration is done by the podcast support, you can then see your series in [https://cast.switch.ch](https://cast.switch.ch).
 Do not forget to use the microphone during the lecture though, and post-processing is still needed, see below.

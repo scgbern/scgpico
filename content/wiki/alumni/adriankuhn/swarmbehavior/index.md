@@ -38,15 +38,15 @@ NB, useful for both static and dynamic languages.
 -  Adrian Kuhn, David Erni, Marcus Denker, "Empowering Collections with Swarm Behavior," to be submitted to somewhere sometimes, (mail us to get a copy).
 
 
--  David Erni, "JAG &ndash; a Prototype for Collective Behavior in Java," Technical Report, University of Bern, August 2008, Bachelor's thesis.
--  Adrian Kuhn, "Collective Behavior," Proceedings of 3rd ECOOP Workshop on Dynamic Languages and Applications (DYLA 2007), August 2007.
+-  David Erni, ["JAG &ndash; a Prototype for Collective Behavior in Java,"](http://www.iam.unibe.ch/~scg/Archive/Projects/Erni08a.pdf) Technical Report, University of Bern, August 2008, Bachelor's thesis.
+-  Adrian Kuhn, ["Collective Behavior,"](http://www.iam.unibe.ch/~scg/Archive/Papers/Kuhn07bCollectiveBehavior.pdf) Proceedings of 3rd ECOOP Workshop on Dynamic Languages and Applications (DYLA 2007), August 2007.
 
 # Downloads
 
 
 -  For Ruby, see [Swarm Behavior in Ruby](%base_url%/wiki/alumni/adriankuhn/swarmbehavior/ruby), just a quick hack...
 -  For Smalltalk, [http://www.squeaksource.com/CollectiveBehavior.html](http://www.squeaksource.com/CollectiveBehavior.html)
--  For Java, @erni/dist/jag.zip (tutorial see appendix of David's thesis)
+-  For Java, [@erni/dist/jag.zip](https://www.iam.unibe.ch/scg/svn_repos/erni/dist/jag.zip) (tutorial see appendix of [David's thesis](http://www.iam.unibe.ch/~scg/Archive/Projects/Erni08a.pdf))
 
 # People
 

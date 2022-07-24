@@ -9,7 +9,7 @@ The project is a continuation of [Agile Software Assessment](%base_url%/research
 |---|---|
 |**Funding:**|708'852 SFr.
 |**Period:**|Jan 1, 2016 - Dec. 30, 2018
-|**Collaborating teams:**|RMod group, INRIA, Lille, France<br/>REVEAL research group, University of Lugano, Switzerland<br/>[PLEIAD lab](http://pleiad.dcc.uchile.cl), University of Chile, Santiago, Chile<br/>[Dr. Mircea Lungu](https://rug.academia.edu/MirceaLungu), University of Groningen, The Netherland<br/>[Dr. Tudor Girba](http://www.tudorgirba.com), [feenk GmbH](http://feenk.com), Bern, Switzerland
+|**Collaborating teams:**|[RMod group](http://rmod.lille.inria.fr/), INRIA, Lille, France<br/>[REVEAL research group](http://www.inf.unisi.ch/faculty/lanza/), University of Lugano, Switzerland<br/>[PLEIAD lab](http://pleiad.dcc.uchile.cl), University of Chile, Santiago, Chile<br/>[Dr. Mircea Lungu](https://rug.academia.edu/MirceaLungu), University of Groningen, The Netherland<br/>[Dr. Tudor Girba](http://www.tudorgirba.com), [feenk GmbH](http://feenk.com), Bern, Switzerland
 |**Keywords**|*Software evolution; Meta-modeling; Clone detection; Software architecture*
 
 #Summary

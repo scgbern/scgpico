@@ -16,7 +16,7 @@ Outline
 
 #Links
 
--  Zeeguu
+-  [Zeeguu](https://www.zeeguu.unibe.ch/)
 
 #Contact
 For more details about this and related projects contact [Mircea F. Lungu](%base_url%/staff/mircea)

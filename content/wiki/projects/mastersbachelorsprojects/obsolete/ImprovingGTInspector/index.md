@@ -6,7 +6,7 @@ Title: Improving the GTInspector
 
 Inspecting the state of objects is a common task in software development. There are numerous ways in which this can be done. The simples way is to just print a textual representation in the console. Even if it is a fast and easy approach it has limitations when displaying complex objects. If further provides no way to interact with the represented objects.
 
-A better approach is to use an inspector, a dedicated tool for displaying object state. Such a tool is the GTInspector from the Moose platform. Among its many features it allows objects to have multiple graphical representations, as not all objects are create equal. It further provides a simple mechanism for creating new types of views for objects. A detailed description of the inspector can be found at the following links: [1], [2], [3], [4].
+A better approach is to use an inspector, a dedicated tool for displaying object state. Such a tool is the [GTInspector](http://www.humane-assessment.com/blog/glamorous-inspector-for-smalltalk/%20) from the [Moose](http://www.moosetechnology.org%20) platform. Among its many features it allows objects to have multiple graphical representations, as not all objects are create equal. It further provides a simple mechanism for creating new types of views for objects. A detailed description of the inspector can be found at the following links: [1], [2], [3], [4].
 
 # Problem
 
@@ -21,7 +21,7 @@ The goal of this project is to improve the graphical widget used by the GTInspec
 
 # Benefits/Requirements/Challenges
 
-This project will give you the chance to learn about constructing graphical user interfaces and inspectors. The project will be done in [Pharo](http://www.pharo-project.org/%20), an open-source Smalltalk-inspired environment. You will see a language quite different from Java and C#. The GTInspector is written in Glamour an engine for scripting browsers. The work will also require some development in Morphic, the default framework for constructing user interfaces from Pharo. 
+This project will give you the chance to learn about constructing graphical user interfaces and inspectors. The project will be done in [Pharo](http://www.pharo-project.org/%20), an open-source Smalltalk-inspired environment. You will see a language quite different from Java and C#. The GTInspector is written in [Glamour](http://www.moosetechnology.org/tools/glamour%20) an engine for scripting browsers. The work will also require some development in Morphic, the default framework for constructing user interfaces from Pharo. 
 
 You should apply for this project if you have good programming skills in any object-oriented language. Knowing anything about Pharo, inspectors or user interfaces is not required.
 

@@ -8,8 +8,8 @@
 #Blog posts
 
 
--  To Clone or not to Clone
--  5 Minute Guide to JExample
+-  [To Clone or not to Clone](http://www.iam.unibe.ch/~akuhn/blog/2009/to-clone-or-not-to-clone/)
+-  [5 Minute Guide to JExample](http://www.iam.unibe.ch/~akuhn/blog/2008/jexample-quickstart/)
 
 #Related
 
@@ -29,7 +29,7 @@
 
 -  [Adrian Kuhn](%base_url%/wiki/alumni/adriankuhn)
 -  [Lea H&auml;nsenberger](http://twitter.com/lea_h)
--  Bart von Rompaey
--  Markus Gaelli
+-  [Bart von Rompaey](http://www.win.ua.ac.be/~bvromp/)
+-  [Markus Gaelli](http://www.iam.unibe.ch/~gaelli/)
 
 Follow [@jexample](http://twitter.com/jexample)

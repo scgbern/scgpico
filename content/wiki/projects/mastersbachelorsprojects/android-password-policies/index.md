@@ -49,7 +49,7 @@ Your task will consist of:<br>
 
 #References
 [1] Morris and Thompson, Password security: A case history, 1979 ([PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.128.1635&rep=rep1&type=pdf))<br>
-[2] Zviran and Haga, Password security: an empirical study, 1999 (PDF)<br>
+[2] Zviran and Haga, Password security: an empirical study, 1999 ([PDF](https://www.jstor.org/stable/pdf/40398409.pdf))<br>
 [3] Inglesant and Sasse, The true cost of unusable password policies: password use in the wild, 2010 ([PDF](http://discovery.ucl.ac.uk/102754/1/Sasse_Inglesant_CHIfinalfinal.pdf))
 <br><br>
 

@@ -42,7 +42,7 @@ A second problem is that specialization of object-oriented software is difficult
 
  
 
-A framework defines the common interfaces and functionality for a set of applications, but leaves open the implementation details of these classes. It is more than just a library because it defines not only reusable functionality but reusable collaborations. Problems in the specialization of an object-oriented framework in order to build specific systems not only lie in the specialization, using inheritance, of specific classes. A developer who specializes or adapts a framework must also understand the way classes cooperate, and the role of each individual class. This is the reason why there is an increasing interest in so-called "black-box" frameworks [27]: Frameworks where the building of specialized systems is less dependent on the use of inheritance, and more on object-composition. Individual applications are built as compositions of parameterized objects. Many design-patterns [15] (see also further on in this section) therefore describe design elements that allow for the use of object-composition for building systems. Design patterns, while helping to document object collaborations in frameworks, do not address the problem of how to adapt and evolve frameworks.
+A framework defines the common interfaces and functionality for a set of applications, but leaves open the implementation details of these classes. It is more than just a library because it defines not only reusable functionality but reusable collaborations. Problems in the specialization of an object-oriented framework in order to build specific systems not only lie in the specialization, using inheritance, of specific classes. A developer who specializes or adapts a framework must also understand the way classes cooperate, and the role of each individual class. This is the reason why there is an increasing interest in so-called "black-box" frameworks [27]: Frameworks where the building of specialized systems is less dependent on the use of inheritance, and more on object-composition. Individual applications are built as compositions of parameterized objects. Many [design-patterns](http://st-www.cs.uiuc.edu/users/patterns/patterns.html) [15] (see also further on in this section) therefore describe design elements that allow for the use of object-composition for building systems. Design patterns, while helping to document object collaborations in frameworks, do not address the problem of how to adapt and evolve frameworks.
 
  
 
@@ -54,11 +54,11 @@ That open systems are hard to build using "traditional" object-oriented language
 
  
 
-Coordination languages are languages for coordinating multi-agent systems; that is, a coordination language can be thought of as a scripting language for components that are software agents. Several of these languages, such as Linda [7], support the specification of coordination through a communication medium known as a tuple space, or more generally, a computational model defined in terms of re-write rules, as in Gamma [5] and LO [4].
+Coordination languages are languages for coordinating multi-agent systems; that is, a coordination language can be thought of as a scripting language for components that are software agents. Several of these languages, such as [Linda](http://www.cs.yale.edu/HTML/YALE/CS/Linda/linda.html) [7], support the specification of coordination through a communication medium known as a tuple space, or more generally, a computational model defined in terms of re-write rules, as in Gamma [5] and LO [4].
 
  
 
-An aspect lacking in these languages is the explicit representation of system architecture. Darwin [33] is a "configuration language" for distributed systems that makes architecture explicit by specifying the connections between software agents. Representing this information explicitly is the key to making open systems flexible, since system evolution is a question of reconfiguring components and their interconnections.
+An aspect lacking in these languages is the explicit representation of system architecture. [Darwin](http://www-dse.doc.ic.ac.uk/~regis/regis.html) [33] is a "configuration language" for distributed systems that makes architecture explicit by specifying the connections between software agents. Representing this information explicitly is the key to making open systems flexible, since system evolution is a question of reconfiguring components and their interconnections.
 
  
 
@@ -78,7 +78,7 @@ Software abstractions can be specified by mapping them to a formal computational
 
  
 
-Milner's pi calculus [37] is a process calculus that seems especially suited to capturing the semantics of open systems components in general, and concurrent objects in particular. Communication, concurrency, dynamic instantiation and mobility are expressed in terms of a small set of operators and a simple and elegant operational semantics. The pi calculus has proved rich enough to model conventional object-oriented language features [48] as well as concurrent objects [39]. PICT [40] is an experimental programming language that combines functional, object-oriented and concurrent programming features by translation to a core language based on the pi calculus. In Switzerland, Dami has developed lN, an extension of the l calculus for modeling object-oriented language features [11].
+Milner's [pi calculus](http://www.cwi.nl/~arie/picalc.html) [37] is a process calculus that seems especially suited to capturing the semantics of open systems components in general, and concurrent objects in particular. Communication, concurrency, dynamic instantiation and mobility are expressed in terms of a small set of operators and a simple and elegant operational semantics. The pi calculus has proved rich enough to model conventional object-oriented language features [48] as well as concurrent objects [39]. [PICT](http://www.cs.indiana.edu/hyplan/pierce/pierce/ftp/pict/Html/Pict.html) [40] is an experimental programming language that combines functional, object-oriented and concurrent programming features by translation to a core language based on the pi calculus. In Switzerland, Dami has developed [lN](http://cuiwww.unige.ch/OSG/Hop/hop.html), an extension of the l calculus for modeling object-oriented language features [11].
 
  
 

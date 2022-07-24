@@ -14,7 +14,7 @@ self assert: VII = III + IV.
 
 #Grammar Definition
 
-This language is used to specify grammars for [PEG parsers](http://en.wikipedia.org/wiki/Parsing_expression_grammar) using an [EBNF](http://en.wikipedia.org/wiki/Extended_Backus-Naur_Form) like syntax. The possibility to use EBNF productions within the code of the host language raises the conciseness of grammars definitions considerably.
+This language is used to specify grammars for [PEG parsers](http://en.wikipedia.org/wiki/Parsing_expression_grammar) using an [EBNF](http://en.wikipedia.org/wiki/Extended_Backus&mdash;Naur_Form) like syntax. The possibility to use EBNF productions within the code of the host language raises the conciseness of grammars definitions considerably.
 
 ```
 digit = "0" | "1" | ... | "9" ;
@@ -121,7 +121,7 @@ A [tuple space](http://en.wikipedia.org/wiki/Tuple_space) is a form of a shared 
 
 #Mondrian
 
-Mondrian is a graph based visualization framework that provides a declarative Smalltalk API for users to specify new visualizations and compose existing ones. This language extension makes it possible to define new shapes using a CSS like syntax:
+[Mondrian](http://moose.unibe.ch/tools/mondrian) is a graph based visualization framework that provides a declarative Smalltalk API for users to specify new visualizations and compose existing ones. This language extension makes it possible to define new shapes using a CSS like syntax:
 
 ```
  shape {
@@ -214,7 +214,7 @@ However, with keyword messages parentheses are required:
     inject: 0 into: [ :sum :each | sum + each ]
 ```
 
-A pipe or chain operator :> as proposed by Vassili Bykov makes the result of the preceding expression the receiver of the following message send. So that the above expression can be rewritten without parentheses:
+A pipe or chain operator :> as proposed by [Vassili Bykov](http://blog.3plus4.org/2007/08/30/message-chains/) makes the result of the preceding expression the receiver of the following message send. So that the above expression can be rewritten without parentheses:
 
 ```
 (1 to: 10)

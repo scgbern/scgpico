@@ -14,7 +14,7 @@ What do you have to do when supervising a master thesis:
 - Agree with your student (and Oscar) about the thesis topic.
 - Only start supervising a master thesis once you have the signed Master Thesis form from the JMCS secretariat.
 - Complete at the end of the master thesis the second page of the Master Thesis form electronically and sign it. You then have to submit the form by email and hand in a printed version of the form to the JMCS secretariat.
-A written evaluation is also required. The form is available from the PhilNat web site.
+A written evaluation is also required. The form is available from the [PhilNat web site](http://www.philnat.unibe.ch/content/studium/masterabschluss/index_ger.html).
 
 When you are writing your master thesis:
 

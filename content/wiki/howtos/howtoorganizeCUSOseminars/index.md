@@ -30,8 +30,8 @@ Just keep in mind that the upper limit for a one-day seminar is 5000CHF. CC: Whe
 -  You can either organise the lunch in the mensa or Coop restaurant for everybody, or let everyone decide where to eat and bring the receipt. The later is easier and more desirable. If you want to organise the lunch at a Coop restaurant, book enough tables in the restaurant in advance.
 -  If the speaker does not have an Eduroam account, you have to ask the secretary for a WiFi access.
 -  You have to buy coffee (2 cups per person per day), biscuits, water, juice (optional), fruits (apple and banana), coffee cups, water cups, sugar, creme, and the little plastic sticks to mix the coffee and the sugar. The costs of these things are called operational costs. You can put it in your own reimbursement form.
--  Print the list of attendees. The CUSO coordinator will send it to you a week before the event. If not, make it yourself. You can see the list of participants at: http://informatique.cuso.ch/fr/activities/
--  Print reimbursement forms for the participants. Forms can be downloaded at: http://www.cuso.ch/programmes-doctoraux/administration/formulaires/
+-  Print the list of attendees. The CUSO coordinator will send it to you a week before the event. If not, make it yourself. You can see the list of participants at: [http://informatique.cuso.ch/fr/activities/](http://informatique.cuso.ch/fr/activities/)
+-  Print reimbursement forms for the participants. Forms can be downloaded at: [http://www.cuso.ch/programmes-doctoraux/administration/formulaires/](http://www.cuso.ch/programmes-doctoraux/administration/formulaires/)
 ###During the event:
 
 -  Make the participants sign the attendance form. You should have one attendance form per day.
@@ -49,4 +49,4 @@ Just keep in mind that the upper limit for a one-day seminar is 5000CHF. CC: Whe
 -  When you decide on the date and time, check the train schedule from the cities of CUSO universities. In our experience, the best time of the day to start an event is 9:15 in the morning.
 -  Send an email to the participants 10 days before the even to remind them.
 -  If you need to print/copy course materials, you can use the copier in the building in Neubrückstrasse 10 in the second floor. If you need to print/copy/bind a large amount of materials, you can go to the copy office of the university at Sidlerstrasse 5, UG, A92.
--  More information can be found here: http://informatique.cuso.ch/fr/faq/
+-  More information can be found here: [http://informatique.cuso.ch/fr/faq/](http://informatique.cuso.ch/fr/faq/)

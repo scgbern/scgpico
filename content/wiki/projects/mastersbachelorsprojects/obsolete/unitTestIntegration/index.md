@@ -13,7 +13,7 @@ Also, adding a new method will automatically generate a failing test method, hin
 
 Using some "crazy photoshop skillz" we created a picture of what the unit test friendly Pharo smalltalk browser could look like:
 
-!http://s12.postimg.org/f4mvut5tp/unit_Test_Fun.png
+![http://s12.postimg.org/f4mvut5tp/unit_Test_Fun.png](http://s12.postimg.org/f4mvut5tp/unit_Test_Fun.png)
 
 Contact person:
 [Boris Spasojević](%base_url%/staff/Boris-Spasojevic)

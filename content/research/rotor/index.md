@@ -60,7 +60,7 @@ Traits has been developed and fully integrated in Smalltalk. Since the first pub
 - K. Fisher and J. Reppy of the University of Chicago are developing a statically typed system [FR03]
 - The group of P. Cointe started to work on traits in the context of Java and aspect-oriented programming.
 - A.P. Black of the Oregon State University received an Eclipse grant to introduce traits in a limited subset of Java.
-- The developers of the  VisualWorks Smalltalk are very interested in incorporating traits into VisualWorks. They plan to build a working traits prototype that should in 2004.
+- The developers of the  [VisualWorks](http://www.cincom.com/scripts/smalltalk.dll/) Smalltalk are very interested in incorporating traits into VisualWorks. They plan to build a working traits prototype that should in 2004.
 ##Experience 
 The traits model has been successfully implemented in the open-source Squeak environment. We are currently reimplementing it and plan to bootstrap the complete system, i.e., have the first object-oriented language and libraries fully implemented using traits. 
 

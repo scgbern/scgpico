@@ -87,7 +87,7 @@ And any topic relevant in applying and/or supporting dynamic languages: Smalltal
 - [Alexandre Bergel](http://bergel.eu), Pleiad Lab, University of Chile, Santiago, Chile
 - [Damien Cassou](http://damiencassou.seasidehosting.st/), Arles research group at INRIA, France
 - [Jorge Ressia](http://www.jorgeressia.com/), University of Bern, Switzerland
-- Serge Stinckwich, UMMISCO, IRD/Université Pierre et Marie Curie/Vietnam National University, Vietnam
+- [Serge Stinckwich](http://www.doesnotunderstand.org/wikka.php/), UMMISCO, IRD/Université Pierre et Marie Curie/Vietnam National University, Vietnam
 
 #Program committee
 
@@ -95,7 +95,7 @@ And any topic relevant in applying and/or supporting dynamic languages: Smalltal
 - Organizers
 - [Carl Friedrich Bolz](http://cfbolz.de/), Heinrich-Heine-Universität Düsseldorf, Germany
 - [Camillo Bruni](https://twitter.com/#!/camillobruni), RMoD, INRIA, France
-- Adrian Kuhn, UBC, Canada
+- [Adrian Kuhn](https://www.cs.ubc.ca/people/adrian-kuhn), UBC, Canada
 - [Olivier Michel](http://www.lacl.fr/~michel/doku.php?id=start), UPEC, France
 - [Lukas Renggli](http://www.lukas-renggli.ch/), Google, Switzerland
 - [Juan Pablo Sandoval Alcocer](http://www.dcc.uchile.cl/~jsandova/), University of Chile, Chile

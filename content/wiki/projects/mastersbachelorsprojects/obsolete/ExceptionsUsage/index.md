@@ -16,7 +16,7 @@ The goal of this project is to analyse the usage of custom exceptions within Jav
 
 # Benefits/Requirements/Challenges
 
-The project will be done using Moose and Pangea. Moose is an extensive platform for software and data analysis; Pangea adds on top of Moose a repository providing a common and easy-to-setup dataset for empirical studies. Moose and Pangea are written in [Pharo](http://www.pharo-project.org/%20), an open-source Smalltalk-inspired environment.
+The project will be done using [Moose](http://www.moosetechnology.org%20) and [Pangea](http://www.moosetechnology.org/docs/pangea%20). Moose is an extensive platform for software and data analysis; Pangea adds on top of Moose a repository providing a common and easy-to-setup dataset for empirical studies. Moose and Pangea are written in [Pharo](http://www.pharo-project.org/%20), an open-source Smalltalk-inspired environment.
 
 This project will give you the chance to learn more about exceptions and see how Moose can be used to analyse software systems. You will also get to work with Pharo, a language quite different from Java and C#.
 

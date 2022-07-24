@@ -8,7 +8,7 @@ These metrics get aggregated over several system runs.
 
 ![Senseo Overview](%assets_url%/files/6a/oqck8eo1wzi0sqko2s27d2ux1kt2oy/senseo.png)
 
-Senseo uses Major, a tool for Aspect weaving in the standard Java Class Library, to gather dynamic information. Gathering dynamic information with Senseo is as easy as executing a Java application within Eclipse. Moreover, Senseo provides means to manage the gathered information and to store dynamic information from an execution. Furthermore, Senseo continuously updates visualizations and enrichments with the gathered information.
+Senseo uses [Major](http://www.inf.usi.ch/projects/ferrari/MAJOR.html), a tool for Aspect weaving in the standard Java Class Library, to gather dynamic information. Gathering dynamic information with Senseo is as easy as executing a Java application within Eclipse. Moreover, Senseo provides means to manage the gathered information and to store dynamic information from an execution. Furthermore, Senseo continuously updates visualizations and enrichments with the gathered information.
 
 To install and use Senseo please follow the [Users Guide to Senseo](%base_url%/research/senseo/SenseoUsersGuide)
 

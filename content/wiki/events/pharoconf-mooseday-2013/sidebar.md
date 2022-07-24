@@ -9,6 +9,6 @@
 
 [mobiliar](http://mobiliar.ch)
 [netstyle](http://netstyle.ch)
-choose
+[choose](http://choose.s-i.ch)
 [unibe](http://unibe.ch)
 [esug](http://esug.org)

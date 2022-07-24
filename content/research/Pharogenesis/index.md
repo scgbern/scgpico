@@ -2,7 +2,7 @@
 Title: Pharogenesis
 ---
 #Pharogenesis
-In the Smalltalk dialects [Squeak](http://squeak.org) and [Pharo](https://pharo.org) it is difficult to view changes to source code that occurred accross major releases. This poses a problem for development as well as for code analysis: Developers often need to be able to revert code to a previous version and for code analysis there should ideally be a single source of information. We solve the problem by building a [Git](http://git-scm.com) repository with the complete source code history of Pharo.
+In the Smalltalk dialects [Squeak](http://squeak.org) and [Pharo](http://pharo-project.org) it is difficult to view changes to source code that occurred accross major releases. This poses a problem for development as well as for code analysis: Developers often need to be able to revert code to a previous version and for code analysis there should ideally be a single source of information. We solve the problem by building a [Git](http://git-scm.com) repository with the complete source code history of Pharo.
 
 The tool we use to create the Git repository is called Pharogenesis. Pharogenesis uses a Smalltalk implementation of Git called GitFS to build a Git repository from the source code.
 
@@ -39,7 +39,7 @@ git checkout -b origin/pharo
 
 -  the [GitFS](http://www.squeaksource.com/GitFS.html) project on SqueakSource hosts all the code related to the implementation of Git on Filesystem
 -  the [Pharo](http://www.pharo-project.org/home) web page
--  the Pharo collaboractive book
+-  the [Pharo collaboractive book](http://book.pharo-project.org)
 -  the [Git](http://git-scm.com/) web page
 -  [Git for Squeak](http://www.squeaksource.com/Git.html) by Tony Garnock-Jones on SqueakSource
 -  Lukas Renggli's blog posts on Colin Putney's Filesystem library: [post 1](http://www.lukas-renggli.ch/blog/filesystem-1), [post 2](http://www.lukas-renggli.ch/blog/filesystem-2)

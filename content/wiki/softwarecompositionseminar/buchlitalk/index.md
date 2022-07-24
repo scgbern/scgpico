@@ -21,7 +21,7 @@ DSL on your machine.
 
 *Download Link:* ![http://xtext.itemis.com/xtext/language=en/23947/downloads](http://xtext.itemis.com/xtext/language=en/23947/downloads)
 
-During the workshop I will guide you through the Xtext tutorial. It is not forbidden to have a look at it in advance.
+During the workshop I will guide you through the [Xtext tutorial](http://www.eclipse.org/Xtext/documentation/latest/xtext.html#getting-started). It is not forbidden to have a look at it in advance.
 
 If you wish to have another focus or have any other input / idea how /
 what to change, just let me (Frank Buchli) know!

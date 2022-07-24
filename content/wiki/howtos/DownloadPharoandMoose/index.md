@@ -2,7 +2,7 @@
 Title: Download Pharo and Moose from the command line
 ---
 #Download Pharo and Moose from the command line
-Both Pharo and Moose can be downloaded from the command line by using Zero Configuration scripts. Deep into Pharo has a chapter dedicated to explaining these scripts. 
+Both Pharo and Moose can be downloaded from the command line by using Zero Configuration scripts. [Deep into Pharo](http://rmod.lille.inria.fr/pbe2/) has a chapter dedicated to explaining these scripts. 
 
 The code bellow, if added to the file .bash_profile, will create a series of commands that make working with the Zero Configuration scripts much easier.
 

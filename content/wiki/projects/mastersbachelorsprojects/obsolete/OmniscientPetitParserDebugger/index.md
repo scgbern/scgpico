@@ -36,6 +36,6 @@ Available as a master project. (Different parts of the project can be extracted 
 -  [5] [Design and Implementation of a Backward-In-Time Debugger](/archive/papers/Hofe06aUnstuckNode.pdf)
 -  [6] [Debugging backwards in time](http://www.lambdacs.com/debugger/AADEBUG_Mar_03.pdf)
 -  [7] [Practical Object-Oriented Back-in-Time Debugging](http://dl.acm.org/citation.cfm?id=1428542)
--  [8] Scalable Omniscient Debugging
+-  [8] [Scalable Omniscient Debugging](http://pleiad.dcc.uchile.cl/papers/2007/pothierAl-oopsla2007.pdf%20)
 
 Contact: [Andrei Chiş](%base_url%/staff/andreichis)

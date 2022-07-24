@@ -12,5 +12,5 @@
 
 #Links
 
-- Cincom VisualWorks (non-commercial download)
+- [Cincom VisualWorks](http://www.parcplace.com/vwnc/) (non-commercial download)
 - [SSCLI Capstone Workshop 2005](http://research.microsoft.com/workshops/SSCLI2005/) and [Presentation slides](%assets_url%/download/rotor/SSCLI2005TraitsCSharp.pdf)

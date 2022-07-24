@@ -20,4 +20,4 @@ Well... good luck. [There's an essential tutorial by the Informatikdienste as to
 
 Your username and password should be your student account at the university, and not the IAM account. That doesn't mean that the IAM acccount wouldn't work: it will, but only in Bern, or in Niko's case: only in his office. The student account should work across Switzerland. Like I said: good luck!
 
-If things don't work right away, you'll be best served at the Helpdesk of the Informatikdienste.
+[If things don't work right away, you'll be best served at the Helpdesk of the Informatikdienste.](http://www.id.unibe.ch/content/helpdesk/index_ger.html)

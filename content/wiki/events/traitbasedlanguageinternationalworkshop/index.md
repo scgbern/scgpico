@@ -18,7 +18,7 @@ We envision a workshop with limited presentations around the following three axe
 -  [Presentations](%base_url%/wiki/events/traitbasedlanguageinternationalworkshop/presentations)
 -  [Notes](%base_url%/wiki/events/traitbasedlanguageinternationalworkshop/notes)
 -  When: Wednesday 23th starting at 9h30  ??year
--  Where: room 107 http://www.iam.unibe.ch/cgi-bin/getpage.py?finding.html&e
+-  Where: room 107 [http://www.iam.unibe.ch/cgi-bin/getpage.py?finding.html&e](http://www.iam.unibe.ch/cgi-bin/getpage.py?finding.html&e)
 
 The goal of the workshop is to exchange experiences, initiate future collaborations (join articles) and future project collaborations.
 To help us organise the workshop we need from you the following information: Who is coming, when are you coming/leaving, do you need an hotel room, what is the discussion topics you would like to have, can you do a small (10min) presentation of your ideas/experiences

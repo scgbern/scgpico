@@ -6,12 +6,12 @@ Title: PL: Programming Languages
 
 | | |
 |---|---|
-|**Course:**|21048 (Spring Semester 2021)
+|**Course:**|[21048](https://mcs.unibnf.ch/courses/programming-languages/) (Spring Semester 2021)
 |**Lecturer: **|[Oscar Nierstrasz](%base_url%/staff/oscar), [Nataliia Stulova](%base_url%/staff/Nataliia-Stulova)
 |**Staff:**| [Mohammadreza Hazhirpasand](%base_url%/staff/MohammadrezaHazhirpasand), [Joel Niklaus](https://www.digitale-nachhaltigkeit.unibe.ch/about_us/persons/niklaus_joel/index_eng.html)
 |**Lectures: **|Friday 10h15 - 12h00
 |**Exercises: **|Friday 12h00 - 13h00
-| **Place: **|IWI 001, Engehaldestrasse 8
+| **Place: **|IWI 001, [Engehaldestrasse 8](http://www.iam.unibe.ch/institut/lageplan)
 |**Start: **| 2021-02-26
 |**Exam: **| 2021-06-04 (written, 60 minutes)
 

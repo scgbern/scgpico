@@ -66,7 +66,7 @@ Visit [Smalltalkhub](http://smalltalkhub.com/#!/~JanKurs/PetitParser) for more i
 
 
 #Supported Smalltalks
-PetitCompiler supports [Pharo 5](http://smalltalkhub.com/#!/~JanKurs/PetitParser) and Smalltalk/X. 
+PetitCompiler supports [Pharo 5](http://smalltalkhub.com/#!/~JanKurs/PetitParser) and [Smalltalk/X](https://bitbucket.org/janvrany/stx-goodies-petitparser/wiki/Home). 
 
 Do not hesitate to contact us, if you want to port into your own Smallatlk.
 

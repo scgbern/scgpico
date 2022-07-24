@@ -6,11 +6,11 @@ Title: Andrei Chiş
 
 <div style="background-color:#faebcc">This is my old website that I used during my Phd. New website is under construction. You can follow me on twitter for updates: <a href="https://twitter.com/Chis_Andrei">@Chis_Andrei</a> </div>
 
-I am a PhD Candidate at the University of Bern in the Software Composition Group since October 2012. Prior to this, I got a master and a bachelor degree in software engineering from the "Politehnica" University of Timişoara, under the supervision of Radu Marinescu, with theses in the area of software visualisation. During my master I worked at intooitus on integrating the results of my research into infusion, a platform for assessing the quality of software systems. Currently, apart from doing a PhD, I'm an active contributor to [Pharo](http://pharo.org/) and [Moose](http://moosetechnology.org/) and from time to time a [blogger](https://chisvasileandrei.wordpress.com/).
+I am a PhD Candidate at the University of Bern in the Software Composition Group since October 2012. Prior to this, I got a master and a bachelor degree in software engineering from the ["Politehnica" University of Timişoara](http://www.upt.ro/en/), under the supervision of [Radu Marinescu](http://bigfoot.cs.upt.ro/~radum/), with theses in the area of software visualisation. During my master I worked at [intooitus](http://www.intooitus.com) on integrating the results of my research into [infusion](http://www.intooitus.com/products/infusion), a platform for assessing the quality of software systems. Currently, apart from doing a PhD, I'm an active contributor to [Pharo](http://pharo.org/) and [Moose](http://moosetechnology.org/) and from time to time a [blogger](https://chisvasileandrei.wordpress.com/).
 
 #Research Interests
 <div>
-I maintain that integrated development environments (IDEs) have to be moldable, that is, they have to be aware of the application under development and the developer's tasks and enable rapid and effective customization to new applications and development tasks. In my current research I build new solutions that make this vision possible. At the moment, as part of the Glamorous Toolkit team, I am working on:
+I maintain that integrated development environments (IDEs) have to be moldable, that is, they have to be aware of the application under development and the developer's tasks and enable rapid and effective customization to new applications and development tasks. In my current research I build new solutions that make this vision possible. At the moment, as part of the [Glamorous Toolkit](http://gt.moosetechnology.org/) team, I am working on:
 </div>
 
 -  [Moldable Debugger](/research/moldabledebugger): make the creation of domain-specific debuggers an easy and cheap activity;
@@ -34,9 +34,9 @@ Apart from this my research interests lie in the areas of:
 #Awards
 
 - *[SPLASH 2015 Distinguished Demo Award](http://2015.splashcon.org)* for [GTInspector: A Moldable Domain-Aware Object Inspector](http://2015.splashcon.org/event/splash2015-demos-gtinspector-a-moldable-domain-aware-object-inspector) by [Andrei Chiş](%base_url%/staff/andreichis), [Tudor Girba](http://www.tudorgirba.com/), [Oscar Nierstrasz](%base_url%/staff/oscar), [Aliaksei Syrel](%base_url%/wiki/alumni/AliakseiSyrel)
-- *[European Smalltalk User Group 2015 Technology Innovation Award (1st prize)](http://www.esug.org/wiki/pier/Conferences/2015/Innovation-Technology-Awards)* for GT Spotter by Aliaksei Syrel, [Andrei Chiş](%base_url%/staff/andreichis), [Tudor Girba](http://www.tudorgirba.com/), Juraj Kubelka and Stefan Reichhart
+- *[European Smalltalk User Group 2015 Technology Innovation Award (1st prize)](http://www.esug.org/wiki/pier/Conferences/2015/Innovation-Technology-Awards)* for [GT Spotter](http://gt.moosetechnology.org/) by Aliaksei Syrel, [Andrei Chiş](%base_url%/staff/andreichis), [Tudor Girba](http://www.tudorgirba.com/), [Juraj Kubelka](http://www.juraj-kubelka.cz/) and Stefan Reichhart
 - *[Software Language Engineering (SLE) 2014 Best Student Paper Award](http://www.sleconf.org/2014/AcceptedPapers.html)* for [The Moldable Debugger: A Framework for Developing Domain-Specific Debuggers](%assets_url%/scgbib/?query=Chis14b&filter=Year) by [Andrei Chiş](%base_url%/staff/andreichis), [Tudor Girba](http://www.tudorgirba.com/) and [Oscar Nierstrasz](%base_url%/staff/oscar)
-- *[European Smalltalk User Group 2014 Technology Innovation Award (1st prize)](http://www.esug.org/wiki/pier/Conferences/2014/Innovation-Technology-Awards)* for GT Inspector by [Andrei Chiş](%base_url%/staff/andreichis), [Tudor Girba](http://www.tudorgirba.com/) and Aliaksei Syrel
+- *[European Smalltalk User Group 2014 Technology Innovation Award (1st prize)](http://www.esug.org/wiki/pier/Conferences/2014/Innovation-Technology-Awards)* for [GT Inspector](http://gt.moosetechnology.org/) by [Andrei Chiş](%base_url%/staff/andreichis), [Tudor Girba](http://www.tudorgirba.com/) and Aliaksei Syrel
 -  *[IWST 2014 Best Paper Award (3rd prize)](http://www.esug.org/wiki/pier/Conferences/2014/IWST14)* for [The Moldable Inspector: A framework for domain-specific object inspection](%assets_url%/scgbib/?query=Chis14a&filter=Year) by [Andrei Chiş](%base_url%/staff/andreichis), [Tudor Girba](http://www.tudorgirba.com/) and [Oscar Nierstrasz](%base_url%/staff/oscar)
 
 #Talks and tutorials
@@ -69,15 +69,15 @@ I co-reviewed for the following conferences/workshops:
 -  [ICSME 2016](http://icsme2016.github.io/) (International Conference on Software Maintenance and Evolution)
 -  [SANER 2016](http://saner.inf.usi.ch/) (IEEE International Conference on Software Analysis, Evolution, and Reengineering)
 -  [Onward! 2016](http://conf.researchr.org/track/onward2016/onward-2016-papers/) (ACM International Symposium on New Ideas, New Paradigms, and Reflections on Programming and Software)
--  ICSME 2015 (International Conference on Software Maintenance and Evolution)
+-  [ICSME 2015](http://www.icsme.uni-bremen.de/) (International Conference on Software Maintenance and Evolution)
 -  [ICSE 2015](http://2015.icse-conferences.org/) (International Conference on Software Engineering)
 -  [SLE 2014](http://www.sleconf.org/2014/) (International Conference on Software Language Engineering)
 -  [DLS 2014](http://www.dynamic-languages-symposium.org/dls-14/) (Dynamic Languages Symposium)
--  OOPSLA 2013 (Conference on Object-Oriented Programming, Systems, Languages, and Applications)
+-  [OOPSLA 2013](http://splashcon.org/2013/) (Conference on Object-Oriented Programming, Systems, Languages, and Applications)
 -  [CSMR 2013](http://csmr2013.disi.unige.it/) (European Conference on Software Maintenance and Reengineering)
--  ICSE 2013 - NIER Track (International Conference on Software Engineering)
+-  [ICSE 2013 - NIER Track](http://2013.icse-conferences.org/index.html) (International Conference on Software Engineering)
 -  [XP 2013](http://xp2013.org/) (International Conference on Agile Software Development)
--  SC 2013 (International Conference on Software Composition)
+-  [SC 2013](http://sc2013.ec-spride.de/call-for-papers/) (International Conference on Software Composition)
 -  [LIVE 2013](http://liveprogramming.github.io/2013/) (International Workshop on Live Programming)
 -  [WASDeTT-4 2013](http://wasdett.org/2013/) (International Workshop on Academic Software Development Tools and Techniques)
 -  [ICSM 2013](http://icsm2013.tue.nl/) (International Conference on Software Maintenance)

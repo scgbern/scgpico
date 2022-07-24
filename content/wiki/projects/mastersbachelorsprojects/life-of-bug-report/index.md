@@ -47,7 +47,7 @@ Your task will consist of:<br>
 <br>
 
 #References
-[1] National Vulnerability Database<br>
+[1] [National Vulnerability Database](https://nvd.nist.gov/)<br>
 [2] [CVE Mitre](https://cve.mitre.org/)<br>
 [3] [KB Cert](https://www.kb.cert.org/vuls/)<br>
 [4] Zhang, Caragea, and Ou, An empirical study on using the National Vulnerability Database to predict software vulnerabilities, 2011 ([PDF](http://people.cs.ksu.edu/~xou/publications/dexa11.pdf))

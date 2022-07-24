@@ -5,7 +5,7 @@ Title: CC: Compiler Construction
 
 | | |
 |---|---|
-|**Course:**| 21025 Compiler Construction (Spring 2019)
+|**Course:**| [21025 Compiler Construction](http://mcs.unibnf.ch/program/courses-timetable/courses/compiler-construction-2) (Spring 2019)
 |**Lecturer:**|[Prof. Oscar Nierstrasz](%base_url%/oscar), [Dr. Mohammad Ghafari](%base_url%/staff/Mohammad-Ghafari)
 |**Assistants:**|[Manuel Leuenberger](%base_url%/staff/ManuelLeuenberger), [Rathesan (Radi) Iyadurai](%base_url%/wiki/alumni/RadiIyadurai)
 |**Audience:**|Master students in computer science 
@@ -20,7 +20,7 @@ Title: CC: Compiler Construction
 
 ![St George](%assets_url%/files/42/p0a3amfjqbkvygyyz64y4bxp0pkud2/stgeorge.png)
 #Summary
-This course will provide students with an introduction to modern compiler construction. The first two-thirds of the course will cover fundamental topics, and will be based on the text book Modern Compiler Implementation in Java (Second edition), Cambridge University Press, New York, NY, USA, 2002, by Andrew W. Appel, with Jens Palsberg).  The remaining third of the course covers advanced topics of current interest.
+This course will provide students with an introduction to modern compiler construction. The first two-thirds of the course will cover fundamental topics, and will be based on the text book [Modern Compiler Implementation in Java (Second edition)](http://www.cambridge.org/us/catalogue/catalogue.asp?isbn=9780521820608&ss=res), Cambridge University Press, New York, NY, USA, 2002, by Andrew W. Appel, with Jens Palsberg).  The remaining third of the course covers advanced topics of current interest.
 
 #Learning Outcomes
 On successful completion of this course, you will be able to:

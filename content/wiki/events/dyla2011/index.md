@@ -97,20 +97,20 @@ above, this should foster participation from all targeted communities.
 #Program committee
 
 
-- Gabriela Arévalo, University of La Plata, Argentina
-- Jean-Baptiste Arnaud, RMoD Team, INRIA Lille Nord Europe, France
+- [Gabriela Arévalo](http://www.lifia.info.unlp.edu.ar/en/gabriela.htm), University of La Plata, Argentina
+- [Jean-Baptiste Arnaud](http://rmod.lille.inria.fr/web/pier/team/Arnaud), RMoD Team, INRIA Lille Nord Europe, France
 - [Alexandre Bergel](http://www.bergel.eu/), University of Chile 
 - [Carl Friedrich Bolz](http://cfbolz.de/), Heinrich-Heine-Universität
 - [Stéphane Ducasse](http://stephane.ducasse.free.fr/), INRIA Lille Nord Europe
 - [Tom van Cutsem](http://soft.vub.ac.be/~tvcutsem/), Vrije Universiteit Brussel
-- Tom Dinkelaker, Technische Universität Darmstadt
+- [Tom Dinkelaker](http://www.stg.tu-darmstadt.de/staff/tom_dinkelaker/), Technische Universität Darmstadt
 - [Johan Fabry](http://www.dcc.uchile.cl/~jfabry/Welcome.html), University of Chile 
-- Sebastián González, UC Louvain, Belgium
+- [Sebastián González](http://www.info.ucl.ac.be/~sgm/coordinates.html), UC Louvain, Belgium
 - [Roberto Ierusalimschy](http://www.inf.puc-rio.br/~roberto/), Pontifical University in Rio de Janeiro
 - [James Noble](http://homepages.ecs.vuw.ac.nz/~kjx/), Victoria University of Wellington
 - [Lukas Renggli](http://www.lukas-renggli.ch/), Google, Switzerland
 - [Jorge Ressia](http://www.jorgeressia.com/), SCG, University of Bern
-- David Schneider, Heinrich-Heine-Universität, Düsseldorf, Germany
+- [David Schneider](http://stups.cs.uni-duesseldorf.de/profile.php?id=222), Heinrich-Heine-Universität, Düsseldorf, Germany
 
 
 #News feed

@@ -72,7 +72,7 @@ The following SCG publications, theses and demos have received awards:
 
 - *[Faculty Prize](https://www.philnat.unibe.ch/ueber_uns/archiv/fakultaetspreise/index_ger.html)* for [Lukas Renggli](http://www.lukas-renggli.ch/)'s PhD thesis, [Dynamic Language Embedding With Homogeneous Tool Support](%assets_url%/scgbib/?query=Reng10d&filter=Year)
 - *[IAM Alumni prize](https://www.jointalumni.ch/awards/)* for Florian Gysin's Bachelor thesis, [Trust this Code? &mdash; Improving Code Search Results through Human Trustability Factors](%assets_url%/scgbib/?query=Gysi10c&filter=Year)
-- *ACM Student Research Competition (SRC 2010) award* for Florian Gysin's Bachelor work, [Improved social trustability of code search results](%assets_url%/scgbib/?query=Gysi10a&filter=Year)
+- *[ACM Student Research Competition (SRC 2010) award](http://src.acm.org/previouswinners.html)* for Florian Gysin's Bachelor work, [Improved social trustability of code search results](%assets_url%/scgbib/?query=Gysi10a&filter=Year)
 
 ##2009: 
 
@@ -95,5 +95,5 @@ The following SCG publications, theses and demos have received awards:
 ##2003:
 
 - *Ernst Denert-Stiftung Prize for Software Engineering* for [Michele Lanza](http://www.inf.usi.ch/lanza/)'s PhD thesis, [Object-Oriented Reverse Engineering &mdash; Coarse-grained, Fine-grained, and Evolutionary Software Visualization](%assets_url%/scgbib/?query=lanza+phd).
-- *JMLC Best Paper Award* for [Classboxes: A Minimal Module Model Supporting Local Rebinding](%assets_url%/scgbib/?query=berg03a&filter=Year) by [Alexandre Bergel](http://www.bergel.eu/), [St&eacute;phane Ducasse](http://stephane.ducasse.free.fr/) and Roel Wuyts
+- *JMLC Best Paper Award* for [Classboxes: A Minimal Module Model Supporting Local Rebinding](%assets_url%/scgbib/?query=berg03a&filter=Year) by [Alexandre Bergel](http://www.bergel.eu/), [St&eacute;phane Ducasse](http://stephane.ducasse.free.fr/) and [Roel Wuyts](http://decomp.ulb.ac.be/roelwuyts/)
 - *[Faculty Prize](https://www.philnat.unibe.ch/ueber_uns/archiv/fakultaetspreise/index_ger.html)* for [Frank Buchli](http://www.linkedin.com/in/frankbuchli)'s Diploma thesis, [Detecting Software Patterns using Formal Concept Analysis](%assets_url%/scgbib/?query=buch03a&filter=Year)
