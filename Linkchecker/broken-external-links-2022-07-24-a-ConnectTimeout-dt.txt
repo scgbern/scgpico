@@ -1,0 +1,12 @@
+PATH	BROKEN
+staff/Schwarz	http://web.me.com/katja_niko/Web-Site/Welcome.html
+research/snf10	http://rmod.lille.inria.fr/
+research/Pharogenesis	http://lists.gforge.inria.fr/mailman/listinfo/pharo-project
+staff/davidroethlisberger/towardsabetteride	http://docs-pdf.sun.com/802-2109/802-2109.pdf
+wiki/howtos/howtoinstallamacfromscratch	http://homepage.mac.com/martinott/
+wiki/howtos/howtouseeclipse	http://subclipse.tigris.org/install.html
+wiki/howtos/howtogetanumberforatechnicalreport	http://www.acm.uiuc.edu/signet/JHSI/cr.html
+wiki/events/wasdett2008	http://www.ua.ac.be/anne.keller
+wiki/events/woor2007	http://www.lore.ua.ac.be/Events/WOOR07/
+wiki/events/woor2007	http://decomp.ulb.ac.be/roelwuyts/
+research/arch-constr/study/tools	http://www.fc-md.umd.edu/save/

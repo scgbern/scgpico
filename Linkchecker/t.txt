@@ -1,0 +1,757 @@
+URL        `https://bitbucket.org/leonelmerino/visualisations'
+Parent URL http://scg.unibe.ch/staff/merino, line 73, col 1
+Real URL   https://bitbucket.org/leonelmerino/visualisations
+Check time 0.676 seconds
+Result     Error: 404 Not Found
+
+URL        `http://gt.moosetechnology.org/'
+Name       `Glamorous Toolkit'
+Parent URL http://scg.unibe.ch/wiki/alumni/AliakseiSyrel, line 49, col 15
+Real URL   http://gt.moosetechnology.org/
+Check time 0.538 seconds
+Size       5KB
+Result     Error: 404 Not Found
+
+URL        `http://gt.moosetechnology.org/brick/'
+Name       `Brick'
+Parent URL http://scg.unibe.ch/wiki/alumni/AliakseiSyrel, line 48, col 94
+Real URL   http://gt.moosetechnology.org/brick/
+Check time 1.070 seconds
+Size       5KB
+Result     Error: 404 Not Found
+
+URL        `http://gtoolkit.org/brick/'
+Name       `Brick'
+Parent URL http://scg.unibe.ch/wiki/alumni/AliakseiSyrel, line 74, col 4
+Real URL   https://gtoolkit.com/brick/
+Check time 1.263 seconds
+Size       3KB
+Info       Redirected to `https://gtoolkit.com/brick/'.
+Result     Error: 404 Not Found
+
+URL        `http://www.iam.unibe.ch/~akuhn/s/2006-IGE-Bytecode-Manipulation.pdf'
+Name       `http://www.iam.unibe.ch/~akuhn/s/2006-IGE-Bytecode-Manipulation.pdf'
+Parent URL http://scg.unibe.ch/wiki/alumni/lea, line 56, col 4
+Real URL   https://home.inf.unibe.ch//~akuhn/s/2006-IGE-Bytecode-Manipulation.pdf
+Check time 0.237 seconds
+Size       280B
+Info       Redirected to
+           `http://home.inf.unibe.ch/~akuhn/s/2006-IGE-Bytecode-Manipulation.pdf'.
+           Redirected to
+           `https://home.inf.unibe.ch//~akuhn/s/2006-IGE-Bytecode-Manipulation.pdf'.
+Result     Error: 404 Not Found
+
+URL        `https://www.iam.unibe.ch/mailman/listinfo/reflectivity'
+Name       `Mailman web interface'
+Parent URL http://scg.unibe.ch/research/bytesurgeon, line 69, col 79
+Real URL   https://www.iam.unibe.ch/mailman/listinfo/reflectivity
+Check time 0.596 seconds
+Size       279B
+Result     Error: 404 Not Found
+
+URL        `http://vimeo.com/moogaloop.swf?clip_id=13394631&server=vimeo.com&show_title=1&show_byline=1&show_portrait=0&color=&fullscreen=1'
+Parent URL http://scg.unibe.ch/research/Moose-JEE, line 99, col 304
+Real URL   https://vimeo.com/moogaloop.swf?clip_id=13394631&color=&fullscreen=1&server=vimeo.com&show_byline=1&show_portrait=0&show_title=1
+Check time 1.590 seconds
+Info       Redirected to
+           `https://vimeo.com/moogaloop.swf?clip_id=13394631&color=&fullscreen=1&server=vimeo.com&show_byline=1&show_portrait=0&show_title=1'.
+Result     Error: 404 Not Found
+
+URL        `https://www.iam.unibe.ch/scg/svn_repos/Students/erni/master/ch.unibe.softwaremap'
+Name       `https://www.iam.unibe.ch/scg/svn_repos/Students/erni/master/ch.unibe.softwaremap'
+Parent URL http://scg.unibe.ch/wiki/devcodemap, line 50, col 5
+Real URL   https://www.iam.unibe.ch/scg/svn_repos/Students/erni/master/ch.unibe.softwaremap
+Check time 1.980 seconds
+Size       279B
+Result     Error: 404 Not Found
+
+URL        `https://www.iam.unibe.ch/scg/svn_repos/Students/erni/master/ch.unibe.softwaremap.feature'
+Name       `https://www.iam.unibe.ch/scg/svn_repos/Students/erni/master/ch.unibe.softwaremap.feature'
+Parent URL http://scg.unibe.ch/wiki/devcodemap, line 51, col 5
+Real URL   https://www.iam.unibe.ch/scg/svn_repos/Students/erni/master/ch.unibe.softwaremap.feature
+Check time 2.379 seconds
+Size       279B
+Result     Error: 404 Not Found
+
+URL        `https://www.iam.unibe.ch/scg/svn_repos/Students/erni/master/ch.unibe.softwaremap.update'
+Name       `https://www.iam.unibe.ch/scg/svn_repos/Students/erni/master/ch.unibe.softwaremap.update'
+Parent URL http://scg.unibe.ch/wiki/devcodemap, line 52, col 5
+Real URL   https://www.iam.unibe.ch/scg/svn_repos/Students/erni/master/ch.unibe.softwaremap.update
+Check time 2.584 seconds
+Size       279B
+Result     Error: 404 Not Found
+
+URL        `https://www.iam.unibe.ch/scg/svn_repos/Students/erni/master/meander'
+Name       `https://www.iam.unibe.ch/scg/svn_repos/Students/erni/master/meander'
+Parent URL http://scg.unibe.ch/wiki/devcodemap, line 53, col 5
+Real URL   https://www.iam.unibe.ch/scg/svn_repos/Students/erni/master/meander
+Check time 2.539 seconds
+Size       279B
+Result     Error: 404 Not Found
+
+URL        `https://www.iam.unibe.ch/scg/svn_repos/Students/erni/master/MeanderCaseStudies'
+Name       `https://www.iam.unibe.ch/scg/svn_repos/Students/erni/master/MeanderCaseStudies'
+Parent URL http://scg.unibe.ch/wiki/devcodemap, line 54, col 5
+Real URL   https://www.iam.unibe.ch/scg/svn_repos/Students/erni/master/MeanderCaseStudies
+Check time 2.653 seconds
+Size       279B
+Result     Error: 404 Not Found
+
+URL        `http://www.kreuzbern.ch/en/hotel.html'
+Name       `http://www.kreuzbern.ch/en/hotel.html'
+Parent URL http://scg.unibe.ch/wiki/events/pharoconf-mooseday-2013, line 241, col 19
+Real URL   https://kreuzbern.ch/en/hotel.html
+Check time 1.742 seconds
+Info       Redirected to `https://kreuzbern.ch/en/hotel.html'.
+Result     Error: 404 Not Found
+
+URL        `http://www.lego.com/en-us/mindstorms/gettingstarted/historypage/'
+Name       `http://www.lego.com/en-us/mindstorms/gettingstarted/historypage/'
+Parent URL http://scg.unibe.ch/wiki/projects/mastersbachelorsprojects/polite-for-ev3, line 71, col 31
+Real URL   https://www.lego.com/en-us/mindstorms/gettingstarted/historypage
+Check time 0.845 seconds
+Info       Redirected to
+           `https://www.lego.com/en-us/mindstorms/gettingstarted/historypage/'.
+           Redirected to
+           `https://www.lego.com/en-us/mindstorms/gettingstarted/historypage'.
+Result     Error: 404 Not Found
+
+URL        `http://dgurtner.crimson.ch/media/img/email.jpg'
+Name       `email'
+Parent URL http://scg.unibe.ch/wiki/alumni/DavidGurtner, line 47, col 30
+Real URL   http://dgurtner.crimson.ch/media/img/email.jpg
+Check time 0.221 seconds
+Size       296B
+Result     Error: 404 Not Found
+
+URL        `http://www.terrapapers.com/wp-content/uploads/2013/04/Block-Party-Lego-robotics-competition-4.jpg'
+Name       `http://www.terrapapers.com/wp-content/uploads/2013/04/Block-Party-Lego-robotics-competition-4.jpg'
+Parent URL http://scg.unibe.ch/wiki/projects/mastersbachelorsprojects/polite-for-ev3, line 46, col 5
+Real URL   https://terrapapers.com/wp-content/uploads/2013/04/Block-Party-Lego-robotics-competition-4.jpg
+Check time 1.949 seconds
+Info       Redirected to
+           `https://www.terrapapers.com/wp-content/uploads/2013/04/Block-Party-Lego-robotics-competition-4.jpg'.
+           Redirected to
+           `https://terrapapers.com/wp-content/uploads/2013/04/Block-Party-Lego-robotics-competition-4.jpg'.
+Result     Error: 404 Not Found
+
+URL        `http://www.hotelmetropole.ch/EN/'
+Name       `http://www.hotelmetropole.ch/EN/'
+Parent URL http://scg.unibe.ch/wiki/events/pharoconf-mooseday-2013, line 242, col 23
+Real URL   https://hotelmetropole.ch/EN/
+Check time 3.056 seconds
+Info       Redirected to `https://hotelmetropole.ch/EN/'.
+Result     Error: 404 Not Found
+
+URL        `http://www.iam.unibe.ch/~reichhar/'
+Name       `http://www.iam.unibe.ch/~reichhar/'
+Parent URL http://scg.unibe.ch/wiki/alumni/stefanreichhart, line 109, col 18
+Real URL   https://home.inf.unibe.ch//~reichhar/
+Check time 1.949 seconds
+Size       280B
+Info       Redirected to `http://home.inf.unibe.ch/~reichhar/'.
+           Redirected to `https://home.inf.unibe.ch//~reichhar/'.
+Result     Error: 404 Not Found
+
+URL        `http://www.iam.unibe.ch/~akuhn/strip.js'
+Parent URL http://scg.unibe.ch/wiki/alumni/adriankuhn, line 46, col 1
+Real URL   https://home.inf.unibe.ch//~akuhn/strip.js
+Check time 1.935 seconds
+Size       280B
+Info       Redirected to
+           `http://home.inf.unibe.ch/~akuhn/strip.js'.
+           Redirected to
+           `https://home.inf.unibe.ch//~akuhn/strip.js'.
+Result     Error: 404 Not Found
+
+URL        `http://www.iam.unibe.ch/~greevy'
+Name       `http://www.iam.unibe.ch/~greevy'
+Parent URL http://scg.unibe.ch/wiki/alumni/orlagreevy, line 46, col 22
+Real URL   https://home.inf.unibe.ch//~greevy
+Check time 1.237 seconds
+Size       280B
+Info       Redirected to `http://home.inf.unibe.ch/~greevy'.
+           Redirected to `https://home.inf.unibe.ch//~greevy'.
+Result     Error: 404 Not Found
+
+URL        `https://github.com/broggi/DL4J-Bugprediction'
+Name       `GitHub (DL4J-Bugprediction)'
+Parent URL http://scg.unibe.ch/wiki/alumni/SebastienBroggi, line 50, col 73
+Real URL   https://github.com/broggi/DL4J-Bugprediction
+Check time 1.208 seconds
+Result     Error: 404 Not Found
+
+URL        `https://consonus-vokalensemble.com/vier-elemente-fruehling-2020/'
+Name       `https://consonus-vokalensemble.com/vier-elemente-fruehling-2020/'
+Parent URL http://scg.unibe.ch/wiki/alumni/NoahBuehlmann, line 55, col 211
+Real URL   https://consonus-vokalensemble.ch/vier-elemente-fruehling-2020/
+Check time 1.045 seconds
+Info       Redirected to
+           `http://consonus-vokalensemble.ch/vier-elemente-fruehling-2020/'.
+           Redirected to
+           `https://consonus-vokalensemble.ch/vier-elemente-fruehling-2020/'.
+Result     Error: 404 Not Found
+
+URL        `https://www.oracle.com/technetwork/database/multilingual-engine/overview/index.html'
+Name       `https://www.oracle.com/technetwork/database/multilingual-engine/overview/index.html'
+Parent URL http://scg.unibe.ch/wiki/alumni/JulianWeyermann, line 50, col 13
+Real URL   https://www.oracle.com/technetwork/database/multilingual-engine/overview/index.html
+Check time 0.826 seconds
+Size       5KB
+Result     Error: 404 Not Found
+
+URL        `https://swisssalary.ch/images/default-source/team/buehlmann.jpg'
+Parent URL http://scg.unibe.ch/wiki/alumni/NoahBuehlmann, line 52, col 12
+Real URL   https://swisssalary.ch/404?aspxerrorpath=/images/default-source/team/buehlmann.jpg
+Check time 1.207 seconds
+Size       38.39KB
+Info       Redirected to
+           `https://swisssalary.ch/404?aspxerrorpath=/images/default-source/team/buehlmann.jpg'.
+Result     Error: 404 Not Found
+
+URL        `http://www.iam.unibe.ch/~verwaest/schemetalk/schemetalk-object-inspector.png'
+Parent URL http://scg.unibe.ch/research/schemetalk, line 48, col 9
+Real URL   https://home.inf.unibe.ch//~verwaest/schemetalk/schemetalk-object-inspector.png
+Check time 0.698 seconds
+Size       280B
+Info       Redirected to
+           `http://home.inf.unibe.ch/~verwaest/schemetalk/schemetalk-object-inspector.png'.
+           Redirected to
+           `https://home.inf.unibe.ch//~verwaest/schemetalk/schemetalk-object-inspector.png'.
+Result     Error: 404 Not Found
+
+URL        `http://www.iam.unibe.ch/~verwaest/schemetalk/schemetalk-0.3-4.1.3.plt'
+Name       `http://www.iam.unibe.ch/~verwaest/schemetalk/schemetalk-0.3-4.1.3.plt'
+Parent URL http://scg.unibe.ch/research/schemetalk, line 61, col 9
+Real URL   https://home.inf.unibe.ch//~verwaest/schemetalk/schemetalk-0.3-4.1.3.plt
+Check time 1.062 seconds
+Size       280B
+Info       Redirected to
+           `http://home.inf.unibe.ch/~verwaest/schemetalk/schemetalk-0.3-4.1.3.plt'.
+           Redirected to
+           `https://home.inf.unibe.ch//~verwaest/schemetalk/schemetalk-0.3-4.1.3.plt'.
+Result     Error: 404 Not Found
+
+URL        `http://www.iam.unibe.ch/~verwaest/schemetalk/schemetalk-0.3-sources.zip'
+Name       `http://www.iam.unibe.ch/~verwaest/schemetalk/schemetalk-0.3-sources.zip'
+Parent URL http://scg.unibe.ch/research/schemetalk, line 62, col 9
+Real URL   https://home.inf.unibe.ch//~verwaest/schemetalk/schemetalk-0.3-sources.zip
+Check time 0.962 seconds
+Size       280B
+Info       Redirected to
+           `http://home.inf.unibe.ch/~verwaest/schemetalk/schemetalk-0.3-sources.zip'.
+           Redirected to
+           `https://home.inf.unibe.ch//~verwaest/schemetalk/schemetalk-0.3-sources.zip'.
+Result     Error: 404 Not Found
+
+URL        `http://www.iam.unibe.ch/~verwaest/schemetalk/schemetalk-0.3-sources.tar.bz2'
+Name       `http://www.iam.unibe.ch/~verwaest/schemetalk/schemetalk-0.3-sources.tar.bz2'
+Parent URL http://scg.unibe.ch/research/schemetalk, line 63, col 9
+Real URL   https://home.inf.unibe.ch//~verwaest/schemetalk/schemetalk-0.3-sources.tar.bz2
+Check time 1.251 seconds
+Size       280B
+Info       Redirected to
+           `http://home.inf.unibe.ch/~verwaest/schemetalk/schemetalk-0.3-sources.tar.bz2'.
+           Redirected to
+           `https://home.inf.unibe.ch//~verwaest/schemetalk/schemetalk-0.3-sources.tar.bz2'.
+Result     Error: 404 Not Found
+
+URL        `http://developer.apple.com/documentation/UserExperience/Conceptual/OSXHIGuidelines/index.html'
+Name       `http://developer.apple.com/documentation/UserExperience/Conceptual/OSXHIGuidelines/index.html'
+Parent URL http://scg.unibe.ch/staff/davidroethlisberger/towardsabetteride, line 297, col 16
+Real URL   https://developer.apple.com/documentation/UserExperience/Conceptual/OSXHIGuidelines/index.html
+Check time 2.029 seconds
+Info       Redirected to
+           `https://docs.developer.apple.com/documentation/UserExperience/Conceptual/OSXHIGuidelines/index.html'.
+           Redirected to
+           `https://developer.apple.com/documentation/UserExperience/Conceptual/OSXHIGuidelines/index.html'.
+Result     Error: 404 Not Found
+
+URL        `http://dl.dropbox.com/u/321703/clones.dump'
+Name       `snapshot of all data from clones from Squeaksource for Postgresql 8.4.'
+Parent URL http://scg.unibe.ch/research/hot-clones, line 46, col 17
+Real URL   https://dl.dropbox.com/u/321703/clones.dump
+Check time 1.649 seconds
+Info       Redirected to
+           `https://dl.dropbox.com/u/321703/clones.dump'.
+Result     Error: 404 Not Found
+
+URL        `http://www.iam.unibe.ch/~schlpbch/mastersThesis.html'
+Name       `here.'
+Parent URL http://scg.unibe.ch/wiki/softwarecompositionseminar/pastseminars, line 1135, col 151
+Real URL   https://home.inf.unibe.ch//~schlpbch/mastersThesis.html
+Check time 0.207 seconds
+Size       280B
+Info       Redirected to
+           `http://home.inf.unibe.ch/~schlpbch/mastersThesis.html'.
+           Redirected to
+           `https://home.inf.unibe.ch//~schlpbch/mastersThesis.html'.
+Result     Error: 404 Not Found
+
+URL        `http://www.iam.unibe.ch/~demeyer/'
+Name       `http://www.iam.unibe.ch/~demeyer/'
+Parent URL http://scg.unibe.ch/wiki/softwarecompositionseminar/pastseminars, line 1159, col 41
+Real URL   https://home.inf.unibe.ch//~demeyer/
+Check time 0.515 seconds
+Size       280B
+Info       Redirected to `http://home.inf.unibe.ch/~demeyer/'.
+           Redirected to `https://home.inf.unibe.ch//~demeyer/'.
+Result     Error: 404 Not Found
+
+URL        `http://www.iam.unibe.ch/~demeyer'
+Name       `http://www.iam.unibe.ch/~demeyer'
+Parent URL http://scg.unibe.ch/wiki/softwarecompositionseminar/pastseminars, line 1162, col 148
+Real URL   https://home.inf.unibe.ch//~demeyer
+Check time 1.095 seconds
+Size       280B
+Info       Redirected to `http://home.inf.unibe.ch/~demeyer'.
+           Redirected to `https://home.inf.unibe.ch//~demeyer'.
+Result     Error: 404 Not Found
+
+URL        `https://www.graalvm.org/docs/examples/mle-oracle/'
+Name       `https://www.graalvm.org/docs/examples/mle-oracle/'
+Parent URL http://scg.unibe.ch/wiki/projects/mastersbachelorsprojects/JavaScript-in-the-relational-database, line 49, col 1
+Real URL   https://www.graalvm.org/docs/examples/mle-oracle/
+Check time 1.025 seconds
+Size       5KB
+Result     Error: 404 Not Found
+
+URL        `https://oracle.github.io/oracle-db-mle/releases/0.2.7/'
+Name       `https://oracle.github.io/oracle-db-mle/releases/0.2.7/'
+Parent URL http://scg.unibe.ch/wiki/projects/mastersbachelorsprojects/JavaScript-in-the-relational-database, line 48, col 1
+Real URL   https://oracle.github.io/oracle-db-mle/releases/0.2.7/
+Check time 1.070 seconds
+Size       5KB
+Result     Error: 404 Not Found
+
+URL        `http://www.iam.unibe.ch/institut/sysadmin/wlan'
+Name       `http://www.iam.unibe.ch/institut/sysadmin/wlan'
+Parent URL http://scg.unibe.ch/wiki/howtos/howtosetupwirelesslan, line 47, col 4
+Real URL   http://www.iam.unibe.ch/institut/sysadmin/wlan
+Check time 0.158 seconds
+Size       278B
+Result     Error: 404 Not Found
+
+URL        `http://electron.mit.edu/~gsteele/pdf/'
+Name       `http://electron.mit.edu/~gsteele/pdf/'
+Parent URL http://scg.unibe.ch/wiki/howtos/howtomakeyourcamerareadypdfpassthroughthepdfcheck, line 129, col 5
+Real URL   http://electron.mit.edu/~gsteele/pdf/
+Check time 0.871 seconds
+Size       24.11KB
+Result     Error: 404 Not Found
+
+URL        `http://pages.cpsc.ucalgary.ca/~smithco/latex/'
+Name       `http://pages.cpsc.ucalgary.ca/~smithco/latex/'
+Parent URL http://scg.unibe.ch/wiki/howtos/howtomakeyourcamerareadypdfpassthroughthepdfcheck, line 128, col 5
+Real URL   http://pages.cpsc.ucalgary.ca/~smithco/latex/
+Check time 1.084 seconds
+Size       311B
+Result     Error: 404 Not Found
+
+URL        `http://www.iam.unibe.ch/ical'
+Name       `http://www.iam.unibe.ch/ical'
+Parent URL http://scg.unibe.ch/wiki/howtos/howtosubscribetoandpublishwebcalendars, line 63, col 35
+Real URL   http://www.iam.unibe.ch/ical
+Check time 0.052 seconds
+Size       278B
+Result     Error: 404 Not Found
+
+URL        `http://www.codingmonkeys.de/mbo/'
+Name       `http://www.codingmonkeys.de/mbo/'
+Parent URL http://scg.unibe.ch/wiki/howtos/howtousesubversion, line 47, col 56
+Real URL   https://www.codingmonkeys.de/mbo/
+Check time 0.322 seconds
+Size       2KB
+Info       Redirected to `https://www.codingmonkeys.de/mbo/'.
+Result     Error: 404 Not Found
+
+URL        `http://authors.elsevier.com/latex/elsart.cls'
+Name       `http://authors.elsevier.com/latex/elsart.cls'
+Parent URL http://scg.unibe.ch/wiki/howtos/howtousesubversion, line 117, col 201
+Real URL   https://authors.elsevier.com/latex/elsart.cls
+Check time 0.870 seconds
+Info       Redirected to
+           `https://authors.elsevier.com/latex/elsart.cls'.
+Result     Error: 404 Not Found
+
+URL        `http://media.arstechnica.com/journals/apple.media/chickenofthevnc.jpg'
+Parent URL http://scg.unibe.ch/wiki/howtos/howtousechickenofthevnc, line 47, col 1
+Real URL   http://cdn.arstechnica.net/journals/apple.media/chickenofthevnc.jpg
+Check time 2.368 seconds
+Size       154B
+Info       Redirected to
+           `https://media.arstechnica.com:443/journals/apple.media/chickenofthevnc.jpg'.
+           Redirected to
+           `http://arstechnica.com/journals/apple.media/chickenofthevnc.jpg'.
+           Redirected to
+           `https://arstechnica.com:443/journals/apple.media/chickenofthevnc.jpg'.
+           Redirected to
+           `http://cdn.arstechnica.net/journals/apple.media/chickenofthevnc.jpg'.
+Result     Error: 404 Not Found
+
+URL        `http://informatique.cuso.ch/fr/activities/'
+Name       `http://informatique.cuso.ch/fr/activities/'
+Parent URL http://scg.unibe.ch/wiki/howtos/howtoorganizeCUSOseminars, line 88, col 166
+Real URL   https://informatique.cuso.ch/fr/activities/
+Check time 1.561 seconds
+Info       Redirected to
+           `https://informatique.cuso.ch/fr/activities/'.
+Result     Error: 404 Not Found
+
+URL        `http://www.cuso.ch/programmes-doctoraux/administration/formulaires/'
+Name       `http://www.cuso.ch/programmes-doctoraux/administration/formulaires/'
+Parent URL http://scg.unibe.ch/wiki/howtos/howtoorganizeCUSOseminars, line 91, col 80
+Real URL   https://www.cuso.ch/programmes-doctoraux/administration/formulaires/
+Check time 1.464 seconds
+Info       Redirected to
+           `https://www.cuso.ch/programmes-doctoraux/administration/formulaires/'.
+Result     Error: 404 Not Found
+
+URL        `http://informatique.cuso.ch/fr/faq/'
+Name       `http://informatique.cuso.ch/fr/faq/'
+Parent URL http://scg.unibe.ch/wiki/howtos/howtoorganizeCUSOseminars, line 122, col 41
+Real URL   https://informatique.cuso.ch/fr/faq/
+Check time 1.504 seconds
+Info       Redirected to `https://informatique.cuso.ch/fr/faq/'.
+Result     Error: 404 Not Found
+
+URL        `https://www.iam.unibe.ch/mailman/listinfo'
+Name       `https://www.iam.unibe.ch/mailman/listinfo'
+Parent URL http://scg.unibe.ch/wiki/howtos/howtobeanassistantforalecture, line 86, col 63
+Real URL   https://www.iam.unibe.ch/mailman/listinfo
+Check time 0.952 seconds
+Size       279B
+Result     Error: 404 Not Found
+
+URL        `http://www.unibe.ch/university/services/university_library/research/e_books/index_eng.html'
+Name       `http://www.unibe.ch/university/services/university_library/research/e_books/index_eng.html'
+Parent URL http://scg.unibe.ch/wiki/howtos/howtoborrowabook, line 52, col 62
+Real URL   https://www.unibe.ch/university/services/university_library/research/e_books/index_eng.html
+Check time 0.370 seconds
+Size       7KB
+Info       Redirected to
+           `https://www.unibe.ch/university/services/university_library/research/e_books/index_eng.html'.
+Result     Error: 404 Not Found
+
+URL        `http://www.philnat.unibe.ch/lenya/philnat/live/studienbetrieb/formulare.html'
+Name       `http://www.philnat.unibe.ch/lenya/philnat/live/studienbetrieb/formulare.html'
+Parent URL http://scg.unibe.ch/wiki/howtos/howtobeanassistantforalecture, line 127, col 44
+Real URL   https://www.philnat.unibe.ch/lenya/philnat/live/studienbetrieb/formulare.html
+Check time 1.134 seconds
+Size       7KB
+Info       Redirected to
+           `https://www.philnat.unibe.ch/lenya/philnat/live/studienbetrieb/formulare.html'.
+Result     Error: 404 Not Found
+
+URL        `http://www.iam.unibe.ch/publikationen/techreports/richtlinien'
+Name       `http://www.iam.unibe.ch/publikationen/techreports/richtlinien'
+Parent URL http://scg.unibe.ch/wiki/howtos/howtogetanumberforatechnicalreport, line 47, col 1
+Real URL   http://www.iam.unibe.ch/publikationen/techreports/richtlinien
+Check time 0.039 seconds
+Size       278B
+Result     Error: 404 Not Found
+
+URL        `http://www.philnat.unibe.ch/content/studium/phd___doktorate/index_ger.html'
+Name       `http://www.philnat.unibe.ch/content/studium/phd___doktorate/index_ger.html'
+Parent URL http://scg.unibe.ch/wiki/howtos/howtoregisterasaphdstudentdoktorand, line 49, col 1
+Real URL   https://www.philnat.unibe.ch/content/studium/phd___doktorate/index_ger.html
+Check time 0.342 seconds
+Size       7KB
+Info       Redirected to
+           `https://www.philnat.unibe.ch/content/studium/phd___doktorate/index_ger.html'.
+Result     Error: 404 Not Found
+
+URL        `http://www.zib.unibe.ch/content/internationals/bewerbung/doktorat/index_eng.html'
+Name       `http://www.zib.unibe.ch/content/internationals/bewerbung/doktorat/index_eng.html'
+Parent URL http://scg.unibe.ch/wiki/howtos/howtoregisterasaphdstudentdoktorand, line 47, col 1
+Real URL   https://www.unibe.ch/universitaet/organisation/leitung_und_zentralbereich/vizerektorat_lehre/zulassung_immatrikulation_und_beratung/content/internationals/bewerbung/doktorat/index_eng.html
+Check time 1.371 seconds
+Size       7KB
+Info       Redirected to
+           `https://www.unibe.ch/universitaet/organisation/leitung_und_zentralbereich/vizerektorat_lehre/zulassung_immatrikulation_und_beratung/content/internationals/bewerbung/doktorat/index_eng.html'.
+Result     Error: 404 Not Found
+
+URL        `http://www.metaprog.com/Toothpick'
+Name       `http://www.metaprog.com/Toothpick'
+Parent URL http://scg.unibe.ch/wiki/ssug/smalltalkpartythe28thofoctober2006, line 133, col 59
+Real URL   http://www.metaprog.com/Toothpick
+Check time 0.060 seconds
+Size       708B
+Result     Error: 404 Not Found
+
+URL        `http://llk.media.mit.edu/projects/scratch/'
+Name       `http://llk.media.mit.edu/projects/scratch/'
+Parent URL http://scg.unibe.ch/wiki/ssug/smalltalkpartythe28thofoctober2006, line 163, col 109
+Real URL   https://www.media.mit.edu/groups/lifelong-kindergarten/overview/projects/scratch/
+Check time 1.354 seconds
+Size       78.38KB
+Info       Redirected to
+           `https://www.media.mit.edu/groups/lifelong-kindergarten/overview/projects/scratch/'.
+Result     Error: 404 Not Found
+
+URL        `http://homepages.ulb.ac.be/~rowuyts'
+Name       `http://homepages.ulb.ac.be/~rowuyts'
+Parent URL http://scg.unibe.ch/wiki/events/wasdett2008, line 146, col 30
+Real URL   http://homepages.ulb.ac.be/~rowuyts
+Check time 0.333 seconds
+Size       281B
+Result     Error: 404 Not Found
+
+URL        `http://www.refactory.com/people/john.html'
+Name       `http://www.refactory.com/people/john.html'
+Parent URL http://scg.unibe.ch/wiki/events/wasdett2008, line 150, col 38
+Real URL   https://refactory.com/people/john.html
+Check time 1.734 seconds
+Info       Redirected to
+           `https://refactory.com/people/john.html'.
+Result     Error: 404 Not Found
+
+URL        `http://www.cs.utt.ro/~radum'
+Name       `http://www.cs.utt.ro/~radum'
+Parent URL http://scg.unibe.ch/wiki/events/wasdett2008, line 160, col 62
+Real URL   http://www.cs.utt.ro/~radum/
+Check time 0.252 seconds
+Size       708B
+Info       Redirected to `http://www.cs.utt.ro/~radum/'.
+Result     Error: 404 Not Found
+
+URL        `http://www.cs.uni-bonn.de/~gk/gk'
+Name       `http://www.cs.uni-bonn.de/~gk/gk'
+Parent URL http://scg.unibe.ch/wiki/events/wasdett2008, line 157, col 60
+Real URL   https://www.cs.uni-bonn.de/~gk/gk
+Check time 0.797 seconds
+Info       Redirected to `https://www.cs.uni-bonn.de/~gk/gk'.
+Result     Error: 404 Not Found
+
+URL        `http://www.st.ewi.tudelft.nl/~zaidman'
+Name       `http://www.st.ewi.tudelft.nl/~zaidman'
+Parent URL http://scg.unibe.ch/wiki/events/wasdett2008, line 167, col 72
+Real URL   https://www.tudelft.nl/en/eemcs/the-faculty/departments/software-technology/~zaidman
+Check time 0.531 seconds
+Info       Redirected to
+           `https://www.tudelft.nl/en/eemcs/the-faculty/departments/software-technology/~zaidman'.
+Result     Error: 404 Not Found
+
+URL        `http://pages.cpsc.ucalgary.ca/~zimmerth'
+Name       `http://pages.cpsc.ucalgary.ca/~zimmerth'
+Parent URL http://scg.unibe.ch/wiki/events/wasdett2008, line 169, col 56
+Real URL   http://pages.cpsc.ucalgary.ca/~zimmerth
+Check time 0.700 seconds
+Size       305B
+Result     Error: 404 Not Found
+
+URL        `http://www.wiresong.ca/OmniBrowser/'
+Name       `http://www.wiresong.ca/OmniBrowser/'
+Parent URL http://scg.unibe.ch/wiki/events/omnibrowserdojo, line 55, col 5
+Real URL   http://www.wiresong.ca/OmniBrowser/
+Check time 0.685 seconds
+Result     Error: 404 Not Found
+
+URL        `http://codingdojo.org/cgi-bin/wiki.pl?RandoriKata'
+Name       `http://codingdojo.org/cgi-bin/wiki.pl?RandoriKata'
+Parent URL http://scg.unibe.ch/wiki/events/omnibrowserdojo, line 48, col 124
+Real URL   https://codingdojo.org/cgi-bin/wiki.pl?RandoriKata
+Check time 1.100 seconds
+Info       Redirected to
+           `https://codingdojo.org/cgi-bin/wiki.pl?RandoriKata'.
+Result     Error: 404 Not Found
+
+URL        `https://codespeak.net/viewvc/pypy/dist/pypy/lang/smalltalk'
+Name       `https://codespeak.net/viewvc/pypy/dist/pypy/lang/smalltalk'
+Parent URL http://scg.unibe.ch/wiki/events/pypysprint, line 86, col 5
+Real URL   https://codespeak.net/viewvc/pypy/dist/pypy/lang/smalltalk
+Check time 0.201 seconds
+Result     Error: 404 Not Found
+
+URL        `http://codespeak.net/pypy/extradoc/sprintinfo/bern2007/announce.html'
+Name       `http://codespeak.net/pypy/extradoc/sprintinfo/bern2007/announce.html'
+Parent URL http://scg.unibe.ch/wiki/events/pypysprint, line 87, col 5
+Real URL   https://codespeak.net/pypy/extradoc/sprintinfo/bern2007/announce.html
+Check time 0.349 seconds
+Info       Redirected to
+           `https://codespeak.net/pypy/extradoc/sprintinfo/bern2007/announce.html'.
+Result     Error: 404 Not Found
+
+URL        `http://codingdojo.org/cgi-bin/wiki.pl'
+Name       `http://codingdojo.org/cgi-bin/wiki.pl'
+Parent URL http://scg.unibe.ch/wiki/events/omnibrowserdojo, line 60, col 5
+Real URL   https://codingdojo.org/cgi-bin/wiki.pl
+Check time 1.656 seconds
+Info       Redirected to
+           `https://codingdojo.org/cgi-bin/wiki.pl'.
+Result     Error: 404 Not Found
+
+URL        `http://www.iam.unibe.ch/cgi-bin/getpage.py?finding.html&e'
+Name       `http://www.iam.unibe.ch/cgi-bin/getpage.py?finding.html&e'
+Parent URL http://scg.unibe.ch/wiki/events/traitbasedlanguageinternationalworkshop, line 75, col 20
+Real URL   http://www.iam.unibe.ch/cgi-bin/getpage.py?finding.html&e
+Check time 0.042 seconds
+Size       278B
+Result     Error: 404 Not Found
+
+URL        `https://www.easychair.org/login.cgi?conf=dyla10'
+Name       `https://www.easychair.org/login.cgi?conf=dyla10'
+Parent URL http://scg.unibe.ch/wiki/events/dyla2010, line 117, col 23
+Real URL   https://www.easychair.org/login.cgi?conf=dyla10
+Check time 0.385 seconds
+Result     Error: 404 Not Found
+
+URL        `http://www.refactory.com/Software/MethodWrappers/CoverageTool.html'
+Name       `http://www.refactory.com/Software/MethodWrappers/CoverageTool.html'
+Parent URL http://scg.unibe.ch/wiki/alumni/stefanreichhart/codecoverage, line 259, col 5
+Real URL   https://refactory.com/Software/MethodWrappers/CoverageTool.html
+Check time 1.198 seconds
+Info       Redirected to
+           `https://refactory.com/Software/MethodWrappers/CoverageTool.html'.
+Result     Error: 404 Not Found
+
+URL        `http://www.squeaksource.com/OBPackageBrowser'
+Name       `http://www.squeaksource.com/OBPackageBrowser'
+Parent URL http://scg.unibe.ch/wiki/alumni/stefanreichhart/packageinfotweak, line 49, col 15
+Real URL   http://www.squeaksource.com/OBPackageBrowser
+Check time 0.195 seconds
+Result     Error: 404 Not Found
+
+URL        `http://mc.lukas-renggli.ch/sm/'
+Name       `http://mc.lukas-renggli.ch/sm/'
+Parent URL http://scg.unibe.ch/wiki/alumni/stefanreichhart/esug2006campsmalltalk, line 49, col 23
+Real URL   http://mc.lukas-renggli.ch/sm/
+Check time 0.056 seconds
+Size       196B
+Result     Error: 404 Not Found
+
+URL        `http://www.iam.unibe.ch/~akuhn/img/adriankuhn.jpg'
+Name       `Adrian Kuhn at ECOOP 2007 in Berlin.'
+Parent URL http://scg.unibe.ch/wiki/alumni/adriankuhn/about, line 46, col 4
+Real URL   https://home.inf.unibe.ch//~akuhn/img/adriankuhn.jpg
+Check time 0.178 seconds
+Size       280B
+Info       Redirected to
+           `http://home.inf.unibe.ch/~akuhn/img/adriankuhn.jpg'.
+           Redirected to
+           `https://home.inf.unibe.ch//~akuhn/img/adriankuhn.jpg'.
+Result     Error: 404 Not Found
+
+URL        `http://www.iam.unibe.ch/~denker/temp/NewCompiler.zip'
+Name       `http://www.iam.unibe.ch/~denker/temp/NewCompiler.zip'
+Parent URL http://scg.unibe.ch/research/changeboxes/installation, line 54, col 58
+Real URL   https://home.inf.unibe.ch//~denker/temp/NewCompiler.zip
+Check time 0.186 seconds
+Size       280B
+Info       Redirected to
+           `http://home.inf.unibe.ch/~denker/temp/NewCompiler.zip'.
+           Redirected to
+           `https://home.inf.unibe.ch//~denker/temp/NewCompiler.zip'.
+Result     Error: 404 Not Found
+
+URL        `http://www.iam.unibe.ch/~akuhn/img/hapax.png'
+Parent URL http://scg.unibe.ch/wiki/alumni/adriankuhn/hapax, line 46, col 4
+Real URL   https://home.inf.unibe.ch//~akuhn/img/hapax.png
+Check time 0.181 seconds
+Size       280B
+Info       Redirected to
+           `http://home.inf.unibe.ch/~akuhn/img/hapax.png'.
+           Redirected to
+           `https://home.inf.unibe.ch//~akuhn/img/hapax.png'.
+Result     Error: 404 Not Found
+
+URL        `http://www.iam.unibe.ch/~denker/misc/backupWithRsync.txt'
+Name       `http://www.iam.unibe.ch/~denker/misc/backupWithRsync.txt'
+Parent URL http://scg.unibe.ch/wiki/howtos/howtosetupbackuponamac/howtobackupuserfiles, line 48, col 154
+Real URL   https://home.inf.unibe.ch//~denker/misc/backupWithRsync.txt
+Check time 0.207 seconds
+Size       280B
+Info       Redirected to
+           `http://home.inf.unibe.ch/~denker/misc/backupWithRsync.txt'.
+           Redirected to
+           `https://home.inf.unibe.ch//~denker/misc/backupWithRsync.txt'.
+Result     Error: 404 Not Found
+
+URL        `http://homepages.cwi.nl/~markvdb/SCP-EST/'
+Name       `http://homepages.cwi.nl/~markvdb/SCP-EST/'
+Parent URL http://scg.unibe.ch/wiki/events/wasdett2008/estspecialissue, line 51, col 23
+Real URL   https://homepages.cwi.nl/~markvdb/SCP-EST/
+Check time 0.247 seconds
+Size       196B
+Info       Redirected to
+           `https://homepages.cwi.nl/~markvdb/SCP-EST/'.
+Result     Error: 404 Not Found
+
+URL        `http://www.ics.uci.edu/~sbajrach'
+Name       `Sushil Bajracharya'
+Parent URL http://scg.unibe.ch/wiki/events/suite2009/Committee, line 48, col 4
+Real URL   https://www.ics.uci.edu/~sbajrach
+Check time 1.665 seconds
+Info       Redirected to `https://www.ics.uci.edu/~sbajrach'.
+Result     Error: 404 Not Found
+
+URL        `http://www.ics.uci.edu/~ses/'
+Name       `Susan Sim'
+Parent URL http://scg.unibe.ch/wiki/events/suite2009/Committee, line 83, col 5
+Real URL   https://www.ics.uci.edu/~ses/
+Check time 2.312 seconds
+Info       Redirected to `https://www.ics.uci.edu/~ses/'.
+Result     Error: 404 Not Found
+
+URL        `http://www.nr.no/~einarwh/'
+Name       `Einar H?st'
+Parent URL http://scg.unibe.ch/wiki/events/suite2009/Committee, line 73, col 5
+Real URL   http://nr.no/~einarwh/
+Check time 2.923 seconds
+Info       Redirected to `http://nr.no/~einarwh/'.
+Result     Error: 404 Not Found
+
+URL        `http://sel.ist.osaka-u.ac.jp/~kamiya/'
+Name       `Toshihiro Kamiya'
+Parent URL http://scg.unibe.ch/wiki/events/suite2009/Committee, line 74, col 5
+Real URL   https://sel.ist.osaka-u.ac.jp/people/kamiya/
+Check time 3.428 seconds
+Size       196B
+Info       Redirected to
+           `https://sel.ist.osaka-u.ac.jp/~kamiya/'.
+           Redirected to
+           `https://sel.ist.osaka-u.ac.jp/people/kamiya/'.
+Result     Error: 404 Not Found
+
+URL        `http://www.iam.unibe.ch/~akuhn/img/chronia.png'
+Parent URL http://scg.unibe.ch/wiki/alumni/adriankuhn/chronia, line 46, col 4
+Real URL   https://home.inf.unibe.ch//~akuhn/img/chronia.png
+Check time 0.717 seconds
+Size       280B
+Info       Redirected to
+           `http://home.inf.unibe.ch/~akuhn/img/chronia.png'.
+           Redirected to
+           `https://home.inf.unibe.ch//~akuhn/img/chronia.png'.
+Result     Error: 404 Not Found
+
+URL        `http://wiki.netbeans.org/wiki/view/Java_DevelopersGuide'
+Name       `http://wiki.netbeans.org/wiki/view/Java_DevelopersGuide'
+Parent URL http://scg.unibe.ch/wiki/alumni/adriankuhn/javacompiler, line 64, col 5
+Real URL   https://netbeans.apache.org/wiki/wiki/view/Java_DevelopersGuide.asciidoc
+Check time 0.846 seconds
+Size       3KB
+Info       Redirected to
+           `https://netbeans.apache.org/wiki/wiki/view/Java_DevelopersGuide.asciidoc'.
+Result     Error: 404 Not Found
+
+URL        `http://www.oracle.com/technology/pub/articles/marx-jse6.html'
+Name       `http://www.oracle.com/technology/pub/articles/marx-jse6.html'
+Parent URL http://scg.unibe.ch/wiki/alumni/adriankuhn/javacompiler, line 73, col 5
+Real URL   https://www.oracle.com/technology/pub/articles/marx-jse6.html
+Check time 1.136 seconds
+Size       2KB
+Info       Redirected to
+           `https://www.oracle.com/technology/pub/articles/marx-jse6.html'.
+Result     Error: 404 Not Found
+
+URL        `http://www.javabeat.net/javabeat/java6/articles/2007/06/java-6-0-new-features-part-2'
+Name       `http://www.javabeat.net/javabeat/java6/articles/2007/06/java-6-0-new-features-part-2'
+Parent URL http://scg.unibe.ch/wiki/alumni/adriankuhn/javacompiler, line 76, col 5
+Real URL   https://javabeat.net/javabeat/java6/articles/2007/06/java-6-0-new-features-part-2
+Check time 2.139 seconds
+Info       Redirected to
+           `https://www.javabeat.net/javabeat/java6/articles/2007/06/java-6-0-new-features-part-2'.
+           Redirected to
+           `https://javabeat.net/javabeat/java6/articles/2007/06/java-6-0-new-features-part-2'.
+Result     Error: 404 Not Found
+

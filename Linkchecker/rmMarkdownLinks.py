@@ -32,18 +32,27 @@ def main(argv):
   linkFile = processCommandLine(argv)
   file2UrlDict = readAndSplitLinkFile(linkFile)
   # eprint(file2UrlDict)
-  for file, urls in file2UrlDict.items():
-    if not exists(file):
-      eprint(f"Skipping non-existent file {file}")
-      continue
-    contents = getFileContents(file)
-    newContents = contents
-    for url in urls:
-      newContents = replaceLinkByTitle(url, newContents)
-    if mode == 'diff':
-      diff(file, contents, newContents)
-    elif mode == 'modify':
-      modify(file, contents, newContents)
+  for path, urls in file2UrlDict.items():
+    # check both index and sidebar files
+    index = path + "/index.md"
+    fixFile(index, urls)
+    sidebar = path + "/sidebar.md"
+    if exists(sidebar):
+      fixFile(sidebar, urls)
+# --------------------------------------------------
+# Fix the URLs  in the given file
+def fixFile(file, urls):
+  if not exists(file):
+    eprint(f"Skipping non-existent file {file}")
+    return
+  contents = getFileContents(file)
+  newContents = contents
+  for url in urls:
+    newContents = replaceLinkByTitle(url, newContents)
+  if mode == 'diff':
+    diff(file, contents, newContents)
+  elif mode == 'modify':
+    modify(file, contents, newContents)
 # --------------------------------------------------
 # Set the globals mode and linkFile, or report errors
 #
