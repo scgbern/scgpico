@@ -73,7 +73,9 @@ def processCommandLine(argv):
 # Return a dictionary mapping files to lists of urls.
 def readAndSplitLinkFile(file):
   assertFileExists(file)
-  listOfPairs = list(map(lambda l : l.split(), open(file, "r").readlines()))
+  f = open(file, "r")
+  listOfPairs = list(map(lambda l : l.split(), f.readlines()))
+  f.close()
   dict = {}
   for file, url in listOfPairs:
     if file not in dict:
@@ -97,7 +99,10 @@ def replaceLinkByTitle(url, text):
 # --------------------------------------------------
 def getFileContents(file):
     assertFileExists(file)
-    return open(file, "r").read()
+    f = open(file, "r")
+    contents = f.read()
+    f.close()
+    return contents
 # --------------------------------------------------
 def assertFileExists(file):
   if not exists(file):
