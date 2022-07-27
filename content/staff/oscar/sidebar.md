@@ -3,7 +3,7 @@
 
 #Quick links
 
-- [CV](%assets_url%/download/oncv/oncv.pdf)
+- [CV](%assets_url%/download/oscar/oncv.pdf)
 - [Publications](%assets_url%/scgbib/?query=Nierstrasz&filter=Year)
 
 #Events
