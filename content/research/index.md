@@ -87,7 +87,7 @@ The research group ceased its activities at the end of 2021.
 - [SCodeBubbles](%base_url%/wiki/projects/archive/bachelorsprojects/SCodeBubbles) &mdash; exploring CodeBubbles for Smalltalk
 - [Senseo](%base_url%/research/senseo) &mdash; Integrating dynamic metrics in Eclipse
 - [Software Cartography](%base_url%/research/softwarecartography) &mdash; Your roadmap to software!
-- [Softwarenaut](%assets_url%/scgbib/?query=softwarenaut&filter=Year) &mdash; a visual, interactive architecture recovery tool
+- [Softwarenaut](%assets_url%/scgbib/?query=softwarenaut&filter=Year) &mdash; a visual, interactive architecture recovery tool (see the [vimeo screencast](https://vimeo.com/62767181))
 -  [Software Visualization Evaluation](%base_url%/research/softvis-eval)  &mdash; a literature review on the evaluation of software visualization
 -  [Software Visualization Ontology](%base_url%/research/vison)  &mdash; modeling the main concepts of software visualizations
 - [Subjectopia](%base_url%/research/subjectopia) &mdash; A unified subjectivity model
