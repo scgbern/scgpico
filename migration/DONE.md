@@ -1,22 +1,9 @@
 ---
-# TO DO LOG
+# DONE LOG
 
-This file lists pending migration todos, past todos (done) and a brief FAQ.
+This file lists past todos (done) and a brief FAQ.
 
----
-# Migration to do
-
-* Check external links
-
-* Enable and force HTTPS
-	- https://github.com/alejandroliu/ForceHttpsPlugin
-	- PB: needs a certificate
-
-* What to do about softwarenaut website?
-	- Retire it? Export those pages too?
-
----
-## DONE
+For later todos, see the [scg web github project page](https://github.com/users/scgbern/projects/1)
 
 - Cleaned out cruft like system pages and links to news
 
