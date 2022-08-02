@@ -120,7 +120,7 @@ above, this should foster participation from all targeted communities.
 - [Kasper Lund](http://verdich.dk/kasper/), Google, Denmark.
 - [Michael Perscheid](http://www.hpi.uni-potsdam.de/hirschfeld/people/perscheid/), Hasso-Plattner-Institut, Potsdam, Germany
 - Rodolfo Toledo, University of Chile 
-- [Niko Schwarz](/staff/Schwarz), University of Bern, Switzerland 
+- [Niko Schwarz](%base_url%/staff/Schwarz), University of Bern, Switzerland 
 - [Peter Sommerlad](http://ifs.hsr.ch/Team/Partners/Peter_Sommerlad), HSR Rapperswil, Switzerland
 - [Alessandro Warth](http://www.tinlizzie.org/~awarth), Viewpoints Research Institute, USA
 - Vadim Zaytsev, University of Koblenz, Germany.

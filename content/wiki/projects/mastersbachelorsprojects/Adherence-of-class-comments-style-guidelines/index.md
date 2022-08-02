@@ -14,7 +14,7 @@ They also found that Pharo developers follow commenting guidelines while writing
 -  To what extent developer class comments follow these commenting guidelines?
 -  To what extent existing style checkers or linters support checking commenting guidelines?
 
-NB: The project is an extension to the [previous-project](/wiki/projects/mastersbachelorsprojects/How-class-comments-differ-in-common-programming-languages), and the initial four steps mentioned in the previous project are already accomplished. 
+NB: The project is an extension to the [previous-project](%base_url%/wiki/projects/mastersbachelorsprojects/How-class-comments-differ-in-common-programming-languages), and the initial four steps mentioned in the previous project are already accomplished. 
 
 #Steps
 
@@ -26,8 +26,8 @@ NB: The project is an extension to the [previous-project](/wiki/projects/masters
 
 #Further Material
 
--  [Introduction to the topic](/download/softwarecomposition/2020-11-10-Abukar-AdherenceClassCommentsStyleGuidelines.pdf)
--  [Progress](/download/softwarecomposition/2021-05-04-Abukar-AdherenceClassCommentsStyleGuidelines.pdf)
+-  [Introduction to the topic](%base_url%/download/softwarecomposition/2020-11-10-Abukar-AdherenceClassCommentsStyleGuidelines.pdf)
+-  [Progress](%base_url%/download/softwarecomposition/2021-05-04-Abukar-AdherenceClassCommentsStyleGuidelines.pdf)
 
 #Contact
 

@@ -10,7 +10,7 @@ Hermion has two main development directions:
 
 #Download 
 
-For O*B-Enhancements* we provide this ready-to-use image: [OB-Enhancements.zip](/download/hermion/staticOB-dev.zip) 
+For O*B-Enhancements* we provide this ready-to-use image: [OB-Enhancements.zip](%base_url%/download/hermion/staticOB-dev.zip) 
 
 How to install or update OB-Enhancements manually: 
 

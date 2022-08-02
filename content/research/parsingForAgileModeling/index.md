@@ -4,10 +4,10 @@ Title: Parsing For Agile Modeling
 #Parsing For Agile Modeling
 #Dear Reader
 
-On this page, you will find supplementary material for the *Parsing for Agile Modeling* thesis. The thesis can be downloaded [from here](/archive/phd/kurs-phd.pdf).
+On this page, you will find supplementary material for the *Parsing for Agile Modeling* thesis. The thesis can be downloaded [from here](%base_url%/archive/phd/kurs-phd.pdf).
 
 ##Prepared Image
-A Pharo image with pre-loaded packages, tests, benchmarks and validations can be found in  [this archive](/download/jk/parsingForAgileModeling/archive-final.zip).
+A Pharo image with pre-loaded packages, tests, benchmarks and validations can be found in  [this archive](%base_url%/download/jk/parsingForAgileModeling/archive-final.zip).
 
 ###Image Info
 You can run all the PetitParser related tests from the TestRunner tool. The tests have the 'Petit' prefix.

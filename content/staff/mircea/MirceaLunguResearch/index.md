@@ -16,4 +16,4 @@ One of the research prototypes that I have built during my PhD is
 [The Small Project Observatory](%base_url%/research/SPO) a framework for visualizing the structure and evolution an entire software ecosystem. 
 
 ##Architecture Recovery
-My interests are broader than ecosystem analysis and they span information visualization, reverse engineering, programming languages, and programming environments. One of the first software analysis tools I have built was [Softwarenaut](/softwarenaut) is a tool which supports the recovery of the architecture of a given software system in an interactive, exploratory way.
+My interests are broader than ecosystem analysis and they span information visualization, reverse engineering, programming languages, and programming environments. One of the first software analysis tools I have built was [Softwarenaut](%base_url%/softwarenaut) is a tool which supports the recovery of the architecture of a given software system in an interactive, exploratory way.

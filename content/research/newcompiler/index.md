@@ -22,7 +22,7 @@ The NewCompiler is a Smalltalk-to-Bytecode compiler for Squeak.
 -  [ThothCompiler](http://smalltalkthoughts.blogspot.com/2009/09/introducing-thothcompiler.html) &mdash; Enabling the Parser of the NewCompiler to be used in an up-to-date (10/2009) Pharo image.
 -  [Helvetia](%base_url%/research/helvetia) &mdash; Context Specific Languages with Homogeneous Tool Integration
 
-Ready to run image (Version 290): [NewCompiler.zip](/download/newcompiler/NewCompiler.zip) 
+Ready to run image (Version 290): [NewCompiler.zip](%base_url%/download/newcompiler/NewCompiler.zip) 
 
 To install the code in an existing image (Pharo 0.1, #10244): 
 

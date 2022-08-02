@@ -35,9 +35,9 @@ The project can be extended to a thesis project.
 
 ##Further Material
 
--  [Introduction to the topic](/download/softwarecomposition/2021-03-30-Dooley-StyleCheckerSupport.pdf)
--  [Results](/download/softwarecomposition/2021-06-29-Dooley-StyleCheckerSupport.pdf)
--  [Thesis](/archive/projects/Dool21a.pdf) 
+-  [Introduction to the topic](%base_url%/download/softwarecomposition/2021-03-30-Dooley-StyleCheckerSupport.pdf)
+-  [Results](%base_url%/download/softwarecomposition/2021-06-29-Dooley-StyleCheckerSupport.pdf)
+-  [Thesis](%base_url%/archive/projects/Dool21a.pdf) 
 
 #Contact
 [Pooja Rani](%base_url%/staff/Pooja-Rani)

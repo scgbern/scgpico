@@ -1,8 +1,8 @@
 #Download
 
 
--  [JAR file](/download/jexample/jexample-4.5-391.jar), requires JUnit 4
--  [Eclipse update-site](/download/jexample)
+-  [JAR file](%base_url%/download/jexample/jexample-4.5-391.jar), requires JUnit 4
+-  [Eclipse update-site](%base_url%/download/jexample)
 -  [Sourceforge project](http://sourceforge.net/projects/jexample/)
 
 #Blog posts

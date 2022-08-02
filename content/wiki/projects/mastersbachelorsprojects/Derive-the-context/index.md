@@ -27,7 +27,7 @@ This project will shed light on extracting contextual information of a question,
 
 #further Material
 
--  [Identify developer information needs](/download/softwarecomposition/2019-02-12-Richner-DeveloperNeeds.pdf)
+-  [Identify developer information needs](%base_url%/download/softwarecomposition/2019-02-12-Richner-DeveloperNeeds.pdf)
 -  Thesis>/archive/projects/Rich19a.pdf\*
 
 #Contact

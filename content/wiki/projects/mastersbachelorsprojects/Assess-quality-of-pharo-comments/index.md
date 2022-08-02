@@ -19,7 +19,7 @@ Identify the different metrics suitable for evaluating the complexity of Pharo c
 -  Evaluate the results.
 
 #Further Reference Material
-[Assess Pharo and Python class comments](/download/softwarecomposition/2020-12-08-Ludovic-AssessCommentsQuality.pdf) (seminar)
+[Assess Pharo and Python class comments](%base_url%/download/softwarecomposition/2020-12-08-Ludovic-AssessCommentsQuality.pdf) (seminar)
 
 #Contact
 [Pooja Rani](%base_url%/staff/Pooja-Rani)

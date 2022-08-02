@@ -1,6 +1,6 @@
 #Download
-Ready to run image (Version 290): [NewCompiler.zip](/download/newcompiler/NewCompiler.zip)
+Ready to run image (Version 290): [NewCompiler.zip](%base_url%/download/newcompiler/NewCompiler.zip)
 <br>
-New Closures: [NewCompiler.zip](/download/newcompiler/NewCompilerInProgress.zip)
+New Closures: [NewCompiler.zip](%base_url%/download/newcompiler/NewCompilerInProgress.zip)
 <br>
-CodA with Multiples Mops: [CodAWithMultipleMops.zip](/download/newcompiler/CodAWithMultipleMops.zip)
+CodA with Multiples Mops: [CodAWithMultipleMops.zip](%base_url%/download/newcompiler/CodAWithMultipleMops.zip)

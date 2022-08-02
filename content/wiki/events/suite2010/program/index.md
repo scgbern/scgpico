@@ -8,7 +8,7 @@ Suite is a full day workshop.
 
 
 -  Introduction round
--  5 min presentation in groups of three with joint discussion session. Please prepare a 5 minute "lightening talk" presentation of your submission. For the fill list of accepted papers, please refer to the [List of all Abstracts](%base_url%/wiki/events/suite2010/papers) or [Download all Preprints](/download/suite/suite2010-preprints.zip).
+-  5 min presentation in groups of three with joint discussion session. Please prepare a 5 minute "lightening talk" presentation of your submission. For the fill list of accepted papers, please refer to the [List of all Abstracts](%base_url%/wiki/events/suite2010/papers) or [Download all Preprints](%base_url%/download/suite/suite2010-preprints.zip).
 
 
 -  Session #1, **Web-based Search**

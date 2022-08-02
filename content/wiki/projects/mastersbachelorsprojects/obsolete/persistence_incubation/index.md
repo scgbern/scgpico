@@ -11,16 +11,16 @@ We will start the analysis with the following key message
 **The  modern software is too complex for the complete analysis. Take it as a "black box" and extract only the results from this "black box**"
 </div>
 
-![/files/48/kc10uxgi8y5por3cp7jfj6dogc6lff/blackbox.png](/files/48/kc10uxgi8y5por3cp7jfj6dogc6lff/blackbox.png)
+![/files/48/kc10uxgi8y5por3cp7jfj6dogc6lff/blackbox.png](%base_url%/files/48/kc10uxgi8y5por3cp7jfj6dogc6lff/blackbox.png)
 
 **Example of EXPLAIN in PostgreSQL**
-![/files/2f/0m7gzq14yvwbptcdvk25li43k4e8ss/sql.png](/files/2f/0m7gzq14yvwbptcdvk25li43k4e8ss/sql.png)
-![/files/a9/yfccfgfc0uyb4mugybd2vtbh31gcdh/plan.png](/files/a9/yfccfgfc0uyb4mugybd2vtbh31gcdh/plan.png)
+![/files/2f/0m7gzq14yvwbptcdvk25li43k4e8ss/sql.png](%base_url%/files/2f/0m7gzq14yvwbptcdvk25li43k4e8ss/sql.png)
+![/files/a9/yfccfgfc0uyb4mugybd2vtbh31gcdh/plan.png](%base_url%/files/a9/yfccfgfc0uyb4mugybd2vtbh31gcdh/plan.png)
 
 #Motivation
 When looking at a typical enterprise software layering, the following four layers are often given as an example
 
-![/files/55/6mbfhgj55kqoppr3m3ugt86ukzg4h6/incubator_layering.png](/files/55/6mbfhgj55kqoppr3m3ugt86ukzg4h6/incubator_layering.png)
+![/files/55/6mbfhgj55kqoppr3m3ugt86ukzg4h6/incubator_layering.png](%base_url%/files/55/6mbfhgj55kqoppr3m3ugt86ukzg4h6/incubator_layering.png)
 
 This overview does not mention the transition from persistence layer to the underlying data in the database. Lets take a look at a simple example using Criteria API.
 
@@ -41,7 +41,7 @@ public UserEntity findById(Long id) {
 ```
 
 This method will trigger the following execution steps
-![/files/ac/p80jtzotbw7rsdhvtgw9k71lmws7wv/incubator_transition.png](/files/ac/p80jtzotbw7rsdhvtgw9k71lmws7wv/incubator_transition.png)
+![/files/ac/p80jtzotbw7rsdhvtgw9k71lmws7wv/incubator_transition.png](%base_url%/files/ac/p80jtzotbw7rsdhvtgw9k71lmws7wv/incubator_transition.png)
 
 The question often raised in terms of software quality analysis, e.g. in the case of performance problems, is: **"How expensive is this method"?**
 
@@ -130,7 +130,7 @@ For our analysis we define the following options:
 -  [Oracle](https://en.wikipedia.org/wiki/Oracle_Database)
 -  [PostgreSQL](https://en.wikipedia.org/wiki/PostgreSQL)
 
-![/files/21/0sxat1d9m2yhabcgkb1kafd0nj2344/sandbox.png](/files/21/0sxat1d9m2yhabcgkb1kafd0nj2344/sandbox.png)
+![/files/21/0sxat1d9m2yhabcgkb1kafd0nj2344/sandbox.png](%base_url%/files/21/0sxat1d9m2yhabcgkb1kafd0nj2344/sandbox.png)
 
 #Scope
 Construction of sandbox can be done together with a supervisor of the project. The level of student's involvement in the process of sandbox definition can vary from 0% to 100%

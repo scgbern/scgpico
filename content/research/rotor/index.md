@@ -39,7 +39,7 @@ Oscar Nierstrasz is a Professor of Computer Science at the Institute of Computer
 Roel Wuyts is a professor at the Universit&eacute; Libre de Bruxelles. His current research topics revolve around four axes: Declarative Meta-Programming, particular to express software architectures; Language Symbiosis, specifically between languages of different paradigms; Components and Composition; and Development Environments with emphasis on program understanding and static analysis of source code.
 
 ##Stefan Reichhart
-Stefan Reichhart is a master student at the Institute of Computer Science (IAM) of the University of Bern, having minors in Mathematics and Business Administrations. He has developed the [first prototype of traits in C#](/download/rotor/CSharpTDemo.zip). The results of his work were [presented](/download/rotor/SSCLI2005TraitsCSharp.pdf) at the [SSCLI Capstone Workshop 2005](http://research.microsoft.com/workshops/SSCLI2005/) at Microsoft Research.
+Stefan Reichhart is a master student at the Institute of Computer Science (IAM) of the University of Bern, having minors in Mathematics and Business Administrations. He has developed the [first prototype of traits in C#](%base_url%/download/rotor/CSharpTDemo.zip). The results of his work were [presented](%base_url%/download/rotor/SSCLI2005TraitsCSharp.pdf) at the [SSCLI Capstone Workshop 2005](http://research.microsoft.com/workshops/SSCLI2005/) at Microsoft Research.
 
 #Project Description
 ##Background

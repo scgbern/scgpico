@@ -14,7 +14,7 @@ The following legacy URLs should either be maintained as they are, or should be 
 
 -  [/download/oorp](%assets_url%/download/oorp)
 -  [http://www.iam.unibe.ch/~scg/Src/Doc/htgrep.html](http://www.iam.unibe.ch/~scg/Src/Doc/htgrep.html)
--  [/download/petitpetri](%assets_url%/download/petitpetri) redirect to [/download/petitpetri](/download/petitpetri)
+-  [/download/petitpetri](%assets_url%/download/petitpetri) redirect to [/download/petitpetri](%base_url%/download/petitpetri)
 
 
 ---

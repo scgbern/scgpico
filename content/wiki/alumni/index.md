@@ -59,7 +59,7 @@ You may also want to add youself to the scg alumni mailing list and join the [Jo
 -  Matthias Rieger
 -  Nathanael Schärli
 -  Jean-Guy Schneider
--  [Dennis Schenk](/wiki/alumni/dennisschenk)
+-  [Dennis Schenk](%base_url%/wiki/alumni/dennisschenk)
 -  [Niko Schwarz](%base_url%/staff/Schwarz)
 -  Daniel Schweizer
 -  [Lukas Steiger](https://www.xing.com/profile/Lukas_Steiger)

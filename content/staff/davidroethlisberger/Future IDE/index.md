@@ -15,8 +15,8 @@ This work is available for Squeak Smalltalk. <br>
 We conducted a controlled empirical experiment to valdiate this work.
 
 Publications: <br>
-[Research Paper](/archive/papers/Roet07eFeatureBrowser.pdf) (International Conference on Dynamic Languages 2007) <br>
-[Tool Demo Paper](/archive/papers/Roet07cFeatureBrowserVissoft.pdf) (VISSOFT 2007)
+[Research Paper](%base_url%/archive/papers/Roet07eFeatureBrowser.pdf) (International Conference on Dynamic Languages 2007) <br>
+[Tool Demo Paper](%base_url%/archive/papers/Roet07cFeatureBrowserVissoft.pdf) (VISSOFT 2007)
 
 ***Hermion***
 
@@ -26,8 +26,8 @@ This work is available for Squeak Smalltalk and parts of it also for Eclipse in 
 This work has been validated by gathering qualitative developer feedback.
 
 Publications: <br>
-[Research Paper](/archive/papers/Roet08bDynamicInfoIDE.pdf) (ICPC 2008) <br>
-[Tool Demo Paper](/archive/reports/Roet08dHermion.pdf) (ESUG 2008)
+[Research Paper](%base_url%/archive/papers/Roet08bDynamicInfoIDE.pdf) (ICPC 2008) <br>
+[Tool Demo Paper](%base_url%/archive/reports/Roet08dHermion.pdf) (ESUG 2008)
 
 
 ***Dynamic Collaborations***
@@ -35,7 +35,7 @@ Publications: <br>
 This work visualizes dynamic collaborations between various source artifacts, for instance how packages, classes, or methods communicate to each other. Each source artifact is visualized as a node in an interactive graph, the collaboration to other nodes is shown as an edge. Selecting such an edge shows details about this particular collaboration, for instance for the communication between two packages we present all classes communicating to classes of the other package. For each communicating class, we can navigate to the concrete methods establishing this communication. This dynamic collaboration visualization thus enables developers to detect and investigate dynamic collaboration between source artifacts, also communication not visible or explicit in the static software structure. 
 
 Publication: <br>
-[Research Paper](/archive/papers/Roet08eDynamicDependenciesIDE.pdf) (WCRE 2008)
+[Research Paper](%base_url%/archive/papers/Roet08eDynamicDependenciesIDE.pdf) (WCRE 2008)
 
 
 ***HeatMaps***

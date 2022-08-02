@@ -22,5 +22,5 @@ Please send to the mailing list the topics you want to see addressed. The idea i
 
 #Spacetime
 
--  **Where**: [SCG Seminar Room](/contact)
+-  **Where**: [SCG Seminar Room](%base_url%/contact)
 -  **When**: Tuesday, March 04, '14

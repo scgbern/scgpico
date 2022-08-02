@@ -26,4 +26,4 @@ To this end, we propose four related research tracks: (i) Meta-Tooling will enab
 -  *Architectural Monitoring*. The architecture of a software system consists of the design constraints that guarantee non-functional properties, such as ease of evolution, good run-time performance, and rapid build times. Unfortunately architecture is rarely explicit in code, hence it must be recovered and tracked, sometimes at great cost in developer time. We propose to carry out empirical studies to identify and classify architectural constraints that arise in practice in software systems and let these studies influence the way in which we design mechanisms for the specification of constraints. We propose to develop techniques to monitor architectural evolution and integrate monitoring into the development process and environment; this promises to improve system stability, quality, and robustness.
 
 
-For more information, please consult the [Research Plan](/download/projectreports/snf13-part2.pdf) of the project [pdf].
+For more information, please consult the [Research Plan](%base_url%/download/projectreports/snf13-part2.pdf) of the project [pdf].

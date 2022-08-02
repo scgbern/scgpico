@@ -21,7 +21,7 @@ To get started you can either use a ready-made one-click image (suggested), or t
 
 ##One-Click Image
 
--  Download the [Bifröst](/download/Bifrost/bifrost-OneClick.app.zip) distribution.
+-  Download the [Bifröst](%base_url%/download/Bifrost/bifrost-OneClick.app.zip) distribution.
 -  Launch the executable of your platform:
 	-  Mac: bifrost-OneClick.app
 	-  Linux: bifrost-OneClick.app/bifrost-OneClick.sh
@@ -41,10 +41,10 @@ Gofer new
 
 ##Tools using Bifröst
 
--  [Chameleon](/research/bifrost/chameleon)
--  [Subjectopia](/research/subjectopia)
--  [Talents](/research/bifrost/talents)
--  [MetaSpy](/research/bifrost/metaspy)
+-  [Chameleon](%base_url%/research/bifrost/chameleon)
+-  [Subjectopia](%base_url%/research/subjectopia)
+-  [Talents](%base_url%/research/bifrost/talents)
+-  [MetaSpy](%base_url%/research/bifrost/metaspy)
 
 #Contact
 

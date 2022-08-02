@@ -33,4 +33,4 @@ Gofer new
 
 #Tool paper accepted at VISSOFT 2015 
 
-*"Explora: A Visualisation Tool for Metric Analysis of Software Corpora" * [preprint](/archive/papers/Meri15b.pdf)
+*"Explora: A Visualisation Tool for Metric Analysis of Software Corpora" * [preprint](%base_url%/archive/papers/Meri15b.pdf)

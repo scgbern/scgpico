@@ -6,4 +6,4 @@ Title: SCG Library
 
 <h2>[http://www.librarything.com/catalog/scg](http://www.librarything.com/catalog/scg)</h2>
 
-Please refer to the [Library Guide](/download/admin/library.pdf) for more information.
+Please refer to the [Library Guide](%base_url%/download/admin/library.pdf) for more information.

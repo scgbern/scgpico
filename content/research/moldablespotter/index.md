@@ -108,7 +108,7 @@ Class>>spotterMethodsFor: aStep
 ```
 
 The histogram below shows the the size distribution (in LOC) for 106 custom extensions.
-![/download/moldablespotter/Spotter_Distribution.png](/download/moldablespotter/Spotter_Distribution.png)
+![/download/moldablespotter/Spotter_Distribution.png](%base_url%/download/moldablespotter/Spotter_Distribution.png)
 
 
 

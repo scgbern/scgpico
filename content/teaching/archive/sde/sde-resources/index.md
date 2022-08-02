@@ -44,14 +44,14 @@ Reading materials
 
 #Project 2014: Hot spot analysis
 
--  [Pangea](/research/pangea)
+-  [Pangea](%base_url%/research/pangea)
 -  [Javassist tutorial](http://www.csg.ci.i.u-tokyo.ac.jp/~chiba/javassist/tutorial/tutorial.html)
 -  Reading Materials: [CHA algorithm](http://www.cs.ucla.edu/~palsberg/tba/papers/dean-grove-chambers-ecoop95.pdf) 
 -  Some other paper: [Static algorithms](http://www.cs.ucla.edu/~palsberg/paper/oopsla00.pdf)
 
 #Software Ecosystems
 
--  Reading Materials: [Ecosystems-Articles.zip](%assets_url%/files/c4/wefom79o99e5e4u7s5d1jkommn1tl0/Ecosystems-Articles.zip) (or [/scgbib?query=sde-ecosystems](/scgbib?query=sde-ecosystems))
+-  Reading Materials: [Ecosystems-Articles.zip](%assets_url%/files/c4/wefom79o99e5e4u7s5d1jkommn1tl0/Ecosystems-Articles.zip) (or [/scgbib?query=sde-ecosystems](%base_url%/scgbib?query=sde-ecosystems))
 
 #Related courses
 

@@ -32,6 +32,6 @@ The Bender VM packagage contains the following:
 
 ---
 #Download
-[Bender VM Package](/download/bender/final_bender_package.tar.gz) (16GB !)
+[Bender VM Package](%base_url%/download/bender/final_bender_package.tar.gz) (16GB !)
 
-[Bender VM Readme](/download/bender/README.txt)
+[Bender VM Readme](%base_url%/download/bender/README.txt)

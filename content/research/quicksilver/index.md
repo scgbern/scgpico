@@ -4,7 +4,7 @@ Title: Quicksilver
 #Quicksilver
 Quicksilver is a tool for interactive exploration of large data sets with the help of hierarchical graphs. 
 
-The following is an image generated with Quicksilver: it represents knowledge flow in StackOverflow in the first 5 years of its existence. For more details see the [paper](/scgbib?query=Sche13a) published at SSE'13.
+The following is an image generated with Quicksilver: it represents knowledge flow in StackOverflow in the first 5 years of its existence. For more details see the [paper](%base_url%/scgbib?query=Sche13a) published at SSE'13.
 
 ![Knowledge-flow-in-so](%assets_url%/files/8e/jwotis46cr3wak88t406nu5lnvssvb/image.jpg)
 
@@ -50,7 +50,7 @@ At the core of Quicksilver we use hierarchical graphs to conquer the complexity 
 
 You can look at the [documentation of the hierarchical graph algorithms here](%base_url%/research/quicksilver/HierarchicalGraph).
 
-At [PharoConf  & MooseDay 2013](/wiki/events/pharoconf-mooseday-2013) in Bern, a [small presentation about hierarchical graphs and Quicksilver](http://www.youtube.com/watch?v=pOxKVVoCH3A) was given.
+At [PharoConf  & MooseDay 2013](%base_url%/wiki/events/pharoconf-mooseday-2013) in Bern, a [small presentation about hierarchical graphs and Quicksilver](http://www.youtube.com/watch?v=pOxKVVoCH3A) was given.
 
 ##Visualization
 
@@ -68,4 +68,4 @@ Check out the [documentation for the TreeMaplayout here](%base_url%/research/qui
 
 #Publications
 
--  [*Geo-locating the Knowledge Transfer in StackOverflow*](/archive/papers/Sche13a-GeolocatingStackOverflow.pdf) by Dennis Schenk and Mircea Lungu
+-  [*Geo-locating the Knowledge Transfer in StackOverflow*](%base_url%/archive/papers/Sche13a-GeolocatingStackOverflow.pdf) by Dennis Schenk and Mircea Lungu

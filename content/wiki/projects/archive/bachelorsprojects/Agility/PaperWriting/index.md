@@ -3,7 +3,7 @@ Title: Paper Writing
 ---
 #Paper Writing
 ##Structure of the paper
-The structure of the paper could be similar to [this paper](/wiki/projects/bachelorsprojects/Agility/interestingpaper2)
+The structure of the paper could be similar to [this paper](%base_url%/wiki/projects/bachelorsprojects/Agility/interestingpaper2)
 
 ##Searching for a conference: 
 

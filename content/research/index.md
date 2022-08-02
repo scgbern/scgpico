@@ -24,10 +24,10 @@ The research group ceased its activities at the end of 2021.
 - Release network ([ESF](http://www.esf.org/)) &mdash; July 2002 - Sept. 2005
 - [Tools and Techniques for Decomposing and Composing Software ](%base_url%/research/snf02) ([SNSF](http://p3.snf.ch/Project-67855)) &mdash; Oct. 2002-Sept. 2004
 - [Meta-models and Tools for Evolution Towards Component Systems](%base_url%/research/snf00) ([SNSF](http://p3.snf.ch/Project-61655)) &mdash; Oct. 2000 - Sept. 2002
-- [Pervasive Component Systems](/archive/pecos) (PECOS) &mdash; Oct. 2000 - Sept. 2002
+- [Pervasive Component Systems](%base_url%/archive/pecos) (PECOS) &mdash; Oct. 2000 - Sept. 2002
 - [ A Framework Approach to Composing Heterogeneous Applications](%base_url%/research/snf98) ([SNSF](http://p3.snf.ch/Project-53711)) &mdash; Oct. 1998 - Sept. 2000
 - [Coordina](%base_url%/research/coordina) (Coordination models and languages) &mdash; Aug. 1997 - Aug. 2000
-- [FAMOOS](/archive/famoos) &mdash; Sept. 1996 - Dec. 1999.
+- [FAMOOS](%base_url%/archive/famoos) &mdash; Sept. 1996 - Dec. 1999.
 -  [Infrastructure for Software Component Frameworks](%base_url%/research/snf96) ([SNSF](http://p3.snf.ch/Project-46947)) &mdash; Oct. 1996 - Sept. 1998
 - [Composing Active Objects](%base_url%/research/snf94) ([SNSF](http://p3.snf.ch/Project-40610)) &mdash; Oct. 1994 - Sept. 1996
 
@@ -55,9 +55,9 @@ The research group ceased its activities at the end of 2021.
 	- [Delegation Proxies](%base_url%/research/DelegationProxies) &mdash; Building blocks to implement active variability
 
 - [DoodleDebug](%base_url%/wiki/projects/DoodleDebug) &mdash; simply visualizing Java objects
-- [EATI](/research/eati) &mdash; Ecosystem Aware Type Inference prototype implementation for Pharo smalltalk
+- [EATI](%base_url%/research/eati) &mdash; Ecosystem Aware Type Inference prototype implementation for Pharo smalltalk
 -  [Explora](%base_url%/research/explora) &mdash; a visualisation tool for the analysis of multiple metrics of software corpora
-- [Freq](/research/Freq) &mdash; An augmentation of method seeking tools for faster method seeking
+- [Freq](%base_url%/research/Freq) &mdash; An augmentation of method seeking tools for faster method seeking
 - [Helvetia](%base_url%/research/helvetia) &mdash; Context specific language integration
 	- [Language Boxes](%base_url%/research/helvetia/languageboxes) &mdash; Bending Syntax and Semantics of the Host Language
 	- [PetitParser](%base_url%/research/helvetia/petitparser) &mdash; Practical Dynamic Grammars for Dynamic Languages
@@ -76,7 +76,7 @@ The research group ceased its activities at the end of 2021.
 	- [Moose JEE](%base_url%/research/Moose-JEE) &mdash; A [Moose](http://moose.unibe.ch) extension for Java Enterprise Applications
 
 - [Object Flow](%base_url%/research/objectflow) &mdash; Tracking the flow of objects at runtime
-- [Pangea](/research/pangea) &mdash; infrastructure for statically analysing software corpora. 
+- [Pangea](%base_url%/research/pangea) &mdash; infrastructure for statically analysing software corpora. 
 -  [PerfVis](%base_url%/research/perfvis) &mdash; Visualization in Immersive Augmented Reality for Software Performance 
 -  [PetitParser Compiler](%base_url%/research/petitcompiler) &mdash; a framework for faster [PetitParser](%base_url%/research/helvetia/petitparser)
 - [Pharogenesis](%base_url%/research/Pharogenesis) &mdash; Building the version history in Pharo and Squeak

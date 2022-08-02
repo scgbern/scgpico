@@ -20,7 +20,7 @@ A limited version of the tag-iconic cloud-based visualization is shown below. Fo
 
 - Download [Pharo 4 VM](http://files.pharo.org/get-files/40/) for your OS.
 - Download the [image](%assets_url%/files/2d/4weyo12zu9jivt5n1sfgsxxt26ayrl/pharo.zip) that contains MetaVis.
-- Download the [data set](/download/merino/MetaVis/questions.csv).
+- Download the [data set](%base_url%/download/merino/MetaVis/questions.csv).
 - Copy the CSV file in the same folder of the image. 
 - Open the image using the Pharo VM.
 

@@ -16,9 +16,9 @@ Prior to this, I had worked around 8 years in various companies as an informatio
 
 <h1>Project Proposals</h1>
 
--  [Abusing HTML5 permissions on browsers](/wiki/projects/mastersbachelorsprojects/Abusing-HTML5-permissions-on-browsers)
--  [Building profile for developers using web scraping](/wiki/projects/mastersbachelorsprojects/Building-profile-for-developers-using-web-scraping)
--  [Analyzing cryptographic questions on online sources](/wiki/projects/mastersbachelorsprojects/Analyzing-cryptographic-questions-on-online-sources)
+-  [Abusing HTML5 permissions on browsers](%base_url%/wiki/projects/mastersbachelorsprojects/Abusing-HTML5-permissions-on-browsers)
+-  [Building profile for developers using web scraping](%base_url%/wiki/projects/mastersbachelorsprojects/Building-profile-for-developers-using-web-scraping)
+-  [Analyzing cryptographic questions on online sources](%base_url%/wiki/projects/mastersbachelorsprojects/Analyzing-cryptographic-questions-on-online-sources)
 
 
 

@@ -12,12 +12,12 @@ Normally, the seminar takes place on Mondays at 14.00 in the afternoon in our se
 ##2020
 
 -  Dec 22
-	-  Sergiy Goloviatinski &mdash; [Source code vocabularies](/wiki/projects/mastersbachelorsprojects/vocabularies-of-ast-nodes)
+	-  Sergiy Goloviatinski &mdash; [Source code vocabularies](%base_url%/wiki/projects/mastersbachelorsprojects/vocabularies-of-ast-nodes)
 	-  Alex Nyffenegger &mdash; [sslstrip, and the issues we encountered](%assets_url%/download/softwarecomposition/2020-12-22-Nyffenegger-sslsniff.pdf) (seminar)
 
 -  Dec 15 &mdash; Ivan Ginovski &mdash; [SCG Pier migration](%assets_url%/download/softwarecomposition/2020-12-15-Ginovski-SCGPierMigration.pdf) (seminar)
 -  Dec 8 &mdash; Ludovic Herbelin &mdash; [Automatically assessing quality of class comments](%assets_url%/download/softwarecomposition/2020-12-08-Ludovic-AssessCommentsQuality.pdf) (seminar)
--  Dec 1 &mdash; Jan Dietrich &mdash; [Survey of glue code in BDD tools](/wiki/projects/mastersbachelorsprojects/survey-of-glue-code-in-bdd-tools)
+-  Dec 1 &mdash; Jan Dietrich &mdash; [Survey of glue code in BDD tools](%base_url%/wiki/projects/mastersbachelorsprojects/survey-of-glue-code-in-bdd-tools)
 -  Nov 24 &mdash; [Nataliia Stulova](%base_url%/staff/Nataliia-Stulova) &mdash; [Identifying clones in comments](%assets_url%/download/softwarecomposition/2020-11-24-Stulova-CommentClones.pdf)
 -  Nov 17 &mdash; Lino Hess &mdash;[Generate Pharo class comments automatically](%assets_url%/download/softwarecomposition/2020-11-17-Hess-GeneratePharoClassComments.pdf)
 -  Nov 10 &mdash; Suada Abukar &mdash; [Adherence of class comments to the style guidelines](%assets_url%/download/softwarecomposition/2020-11-10-Abukar-AdherenceClassCommentsStyleGuidelines.pdf)
@@ -270,7 +270,7 @@ Normally, the seminar takes place on Mondays at 14.00 in the afternoon in our se
 -  Nov 17 - [Kenneth Radunz](%base_url%/wiki/alumni/KennethRadunz)  &mdash; [DSL Auto-completion](%base_url%/wiki/projects/DSL-autocompletion)
 -  Oct 27 - [Olivier Flückiger](%base_url%/staff/oli)  &mdash; [rjit: a JIT compiler for R with an LLVM backend](http://o1o.ch/assets/scg-seminar-oct-2015.pdf) (Guest)
 -  Oct 20 - [Andrei Chiş](%base_url%/staff/andreichis)  and [Aliaksei Syrel](%base_url%/wiki/alumni/AliakseiSyrel) &mdash; Introduction to Pharo
--  Oct 6 - Oskar Truffer &mdash; [Continuous Integration with Architectural Invariants](/download/softwarecomposition/2015-10-06-OskarTruffer-Dicto.pdf) (MSc)
+-  Oct 6 - Oskar Truffer &mdash; [Continuous Integration with Architectural Invariants](%base_url%/download/softwarecomposition/2015-10-06-OskarTruffer-Dicto.pdf) (MSc)
 -  Sep 29 - [Milan Kubicek](%base_url%/wiki/alumni/MilanKubicek) &mdash; [Parsing F# with PetitParser](%assets_url%/download/softwarecomposition/2015-09-29-Kubicek-ParsingFSharp.pdf) (Bachelors)
 -  Sep 22 - [Prof. Shriram Krishnamurti](http://www.cs.brown.edu/~sk/) &mdash; [Tierless Programming and Reasoning for Software-Defined Networks](%base_url%/wiki/softwarecompositionseminar/TierlessProgramming)
 -  Sep 15 - Introduction to [SC seminar projects (HS 2015)](%base_url%/wiki/projects/mastersbachelorsprojects)
@@ -326,7 +326,7 @@ Normally, the seminar takes place on Mondays at 14.00 in the afternoon in our se
 -  Jul 15 - Jan Kurs - Parsing Contexts
 -  Jul 08 - Joel Guggisberg  - Token Classification
 -  Jul 01 
-	-  Cedric Reichenbach: [DoodleDebug](/wiki/projects/DoodleDebug), clustered (MTh). 
+	-  Cedric Reichenbach: [DoodleDebug](%base_url%/wiki/projects/DoodleDebug), clustered (MTh). 
 	- Aliya Ibragimova: [CiteWise: The Citation Search Engine](%base_url%/wiki/projects/archive/citationSearchEngine) 
 
 -  Jun 03 - Cédric Reginster - Frequently used methods for Java
@@ -339,7 +339,7 @@ Normally, the seminar takes place on Mondays at 14.00 in the afternoon in our se
 -  Apr 8 - [Oscar Nierstrasz](%base_url%/staff/oscar): M3 for Moose
 -  Apr 1 - [Mircea F. Lungu](%base_url%/staff/mircea): "Sampling N-EU SE Research"
 -  Mar 18 - Stephan Adelsberger (U Vienna): ["Towards Object Migration in Dynamic Software Product Lines"](http://nm.wu-wien.ac.at/research/publications/b1012.pdf)
--  Mar 11 - Cedric Reichenbach: Morphing [DoodleDebug](/wiki/projects/DoodleDebug) into a cluster (outlook on MTh)
+-  Mar 11 - Cedric Reichenbach: Morphing [DoodleDebug](%base_url%/wiki/projects/DoodleDebug) into a cluster (outlook on MTh)
 -  Mar 4 - [Moose Dojo](%base_url%/wiki/events/Moose-event-march-4)
 -  Feb 11 - Simon Vogt: Clone detection that scales
 -  Jan 7 - Aaron Karper: Parse trees of regular expressions with minimal performance impact
@@ -357,7 +357,7 @@ Normally, the seminar takes place on Mondays at 14.00 in the afternoon in our se
 	- Nina Mujkanovic: Dynamic Metaobjects in Java using JRebel. 
 	- Simon Marti: An Architecture for Ubiquitous Second Language Aquisition
 
--  July 2. - [Andrea Caracciolo](%base_url%/staff/Caracciolo): [Experimentation in Software engineering](/download/AC/Experimentation%20in%20SE%20(book).pdf)
+-  July 2. - [Andrea Caracciolo](%base_url%/staff/Caracciolo): [Experimentation in Software engineering](%base_url%/download/AC/Experimentation%20in%20SE%20(book).pdf)
 -  June 4 - Michael Morelli: Detecting Polymorphism
 -  May 28 - Stefan Nüesch: Cost of Volatile
 -  May 21 - [Bledar Aga](%base_url%/wiki/alumni/bledaraga): Static Dependency Cycle Removal, Phokham Nonava: Keyword Analysis
@@ -420,7 +420,7 @@ Normally, the seminar takes place on Mondays at 14.00 in the afternoon in our se
 -  Nov 16, Raffael Krebs &mdash; Extensible Eclipse plug-in to analyze Java enterprise applications
 -  Nov 9: [Camillo Bruni](%base_url%/wiki/alumni/camillobruni) &mdash; [Pinocchio](%base_url%/research/pinocchio) VM
 -  Oct 19: [Adrian Kuhn](%base_url%/wiki/alumni/adriankuhn) &mdash; "My summer at Microsoft"
--  Sep 27: [Jorge Ressia](http://www.jorgeressia.com/) &mdash; ["Modeling Features at Runtime"](/scgbib?query=Denk10a&display=abstract)
+-  Sep 27: [Jorge Ressia](http://www.jorgeressia.com/) &mdash; ["Modeling Features at Runtime"](%base_url%/scgbib?query=Denk10a&display=abstract)
 -  July 26: [Andrea Quadri](%base_url%/wiki/alumni/quadri) &mdash; Reflection through operational decomposition
 -  July 5: [Daniel Langone](%base_url%/wiki/alumni/daniellangone) &mdash; Modelling Subjectivity
 -  June 21: Michal Musial &mdash; Task Manager in the IDE
@@ -442,7 +442,7 @@ Normally, the seminar takes place on Mondays at 14.00 in the afternoon in our se
 -  September 7: [Niko Schwarz](%base_url%/staff/Schwarz) &mdash; Mathematica: the cool parts
 -  August 17: [Adrian Kuhn](%base_url%/wiki/alumni/adriankuhn) &mdash; "State-of-the-art in Source Code Search."  
 -  July 13: Anja Guzzi &mdash; Supporting Collaboration Awareness in Multi-developer Projects
--  June 8: Marcel Härry &mdash; [Senseo](/research/senseo) &mdash; Augmenting Static Source Views in IDEs with Dynamic Metrics
+-  June 8: Marcel Härry &mdash; [Senseo](%base_url%/research/senseo) &mdash; Augmenting Static Source Views in IDEs with Dynamic Metrics
 -  May 25: [Oscar Nierstrasz](%base_url%/staff/oscar) &mdash; "Citezen-Pier: scgbib queries inside Pier"
 -  May 11: [Adrian Kuhn](%base_url%/wiki/alumni/adriankuhn) &mdash; "SquareBuilder and Turtlez, two little languages in P2's Ludo game."
 -  May 4: Dominique Matter &mdash; ["Who knows about that bug?"](%base_url%/wiki/projects/archive/develect)

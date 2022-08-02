@@ -15,35 +15,35 @@ Currently I am working on gathering and identifying developers information needs
 
 #Project Proposals
 
--  [Identify various kinds of information from class comments automatically](/wiki/projects/mastersbachelorsprojects/Identify-information-types-from-class-comments-automatically)
--  [How do code documentation efforts spread over class hierarchy?](/wiki/projects/mastersbachelorsprojects/How-code-documentation-efforts-spread-over-hierarchy?)
--  [Identify the comment issues pointed out in the code review phase](/wiki/projects/mastersbachelorsprojects/Identify-comments-related-issues-in-code-review)
--  [Identification of the class responsibility information from the Pharo class comments](/wiki/projects/mastersbachelorsprojects/Identification-of-the-class-responsibilty-information-from-the-Pharo-class-comment)
--  [Searching code examples in IDE using natural language queries](/wiki/projects/mastersbachelorsprojects/Searching-code-examples-in-IDE)
--  [Derive the contextual information from developer's questions](/wiki/projects/mastersbachelorsprojects/Derive-the-context)
+-  [Identify various kinds of information from class comments automatically](%base_url%/wiki/projects/mastersbachelorsprojects/Identify-information-types-from-class-comments-automatically)
+-  [How do code documentation efforts spread over class hierarchy?](%base_url%/wiki/projects/mastersbachelorsprojects/How-code-documentation-efforts-spread-over-hierarchy?)
+-  [Identify the comment issues pointed out in the code review phase](%base_url%/wiki/projects/mastersbachelorsprojects/Identify-comments-related-issues-in-code-review)
+-  [Identification of the class responsibility information from the Pharo class comments](%base_url%/wiki/projects/mastersbachelorsprojects/Identification-of-the-class-responsibilty-information-from-the-Pharo-class-comment)
+-  [Searching code examples in IDE using natural language queries](%base_url%/wiki/projects/mastersbachelorsprojects/Searching-code-examples-in-IDE)
+-  [Derive the contextual information from developer's questions](%base_url%/wiki/projects/mastersbachelorsprojects/Derive-the-context)
 -  Individual projects available on request.
 
 #Finished Thesis projects
 
-- [Survey of commenting conventions covered by style guidelines and the tools](/wiki/projects/mastersbachelorsprojects/Commenting-conventions-in-style-guidelines-style-checkers)
--  [Adherence of class comments to the commenting style guidelines](/wiki/projects/mastersbachelorsprojects/Adherence-of-class-comments-style-guidelines)
--  [ Generate Pharo class comments automatically](/wiki/projects/mastersbachelorsprojects/Automatically-generate-Pharo-class-comments)
--  [Software Developers' Information Needs](/archive/projects/Rich19a.pdf)
--  [Analysis of Developer Information Needs on Collaborative Platforms](/archive/masters/Birr20a.pdf)
+- [Survey of commenting conventions covered by style guidelines and the tools](%base_url%/wiki/projects/mastersbachelorsprojects/Commenting-conventions-in-style-guidelines-style-checkers)
+-  [Adherence of class comments to the commenting style guidelines](%base_url%/wiki/projects/mastersbachelorsprojects/Adherence-of-class-comments-style-guidelines)
+-  [ Generate Pharo class comments automatically](%base_url%/wiki/projects/mastersbachelorsprojects/Automatically-generate-Pharo-class-comments)
+-  [Software Developers' Information Needs](%base_url%/archive/projects/Rich19a.pdf)
+-  [Analysis of Developer Information Needs on Collaborative Platforms](%base_url%/archive/masters/Birr20a.pdf)
 
 #Past Proposals
 
--  Msc: [Investigating developer's questions using web scraping](/wiki/projects/mastersbachelorsprojects/Investigating-developer___s-questions-using-web-scraping)
--  Bsc: [Analyzing the inconsistency between comments and source code in Pharo](/wiki/projects/mastersbachelorsprojects/Analyzing-the-inconsistency-between-comments-and-source-code-in-Pharo)
--  Seminar: [Plugin for Moose to Analyse Natural Language Questions](/wiki/projects/archive/Moose-plugin-for-nlp)
--  Seminar: [How do the class comments differ in common programming languages?](/wiki/projects/mastersbachelorsprojects/How-class-comments-differ-in-common-programming-languages?)
--  Seminar: [Assessing comments quality automatically  in Pharo](/wiki/projects/mastersbachelorsprojects/Assess-quality-of-pharo-comments)
+-  Msc: [Investigating developer's questions using web scraping](%base_url%/wiki/projects/mastersbachelorsprojects/Investigating-developer___s-questions-using-web-scraping)
+-  Bsc: [Analyzing the inconsistency between comments and source code in Pharo](%base_url%/wiki/projects/mastersbachelorsprojects/Analyzing-the-inconsistency-between-comments-and-source-code-in-Pharo)
+-  Seminar: [Plugin for Moose to Analyse Natural Language Questions](%base_url%/wiki/projects/archive/Moose-plugin-for-nlp)
+-  Seminar: [How do the class comments differ in common programming languages?](%base_url%/wiki/projects/mastersbachelorsprojects/How-class-comments-differ-in-common-programming-languages?)
+-  Seminar: [Assessing comments quality automatically  in Pharo](%base_url%/wiki/projects/mastersbachelorsprojects/Assess-quality-of-pharo-comments)
 
 
 #Teaching Activities
 
--  [P2: Programming 2 &mdash; Object-Oriented Design](/teaching/p2)
--  [SMA: Software Modeling and Analysis](/teaching/sma)
+-  [P2: Programming 2 &mdash; Object-Oriented Design](%base_url%/teaching/p2)
+-  [SMA: Software Modeling and Analysis](%base_url%/teaching/sma)
 
 <h1> Contact Details</h1>
 <dl><dt> Email: <strong>pooja.rani |at| inf.unibe.ch</strong></dt><dt> Telephone: \+41 31 511 7639</dt><dt> Address: University of Bern, Software Composition Group,<br /> Room 106, Schützenmattstrasse 14, CH-3012 Bern</dt><dt> Webpage: <a title="/staff/Pooja-Rani" class="external" href="/staff/Pooja-Rani">/staff/Pooja-Rani</a></dt></dl>

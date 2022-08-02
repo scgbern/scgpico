@@ -2,7 +2,7 @@
 Title: Implementing a Citation Search Engine in JavaScript
 ---
 #Implementing a Citation Search Engine in JavaScript
-The SCG web site includes a citation search engine called [scgbib](/scgbib) implemented on the server side.
+The SCG web site includes a citation search engine called [scgbib](%base_url%/scgbib) implemented on the server side.
 In the current implementation, users enter a simple text query, and the search engine displays all matching bibliography entries formatted as HTML.
 
 The current database is a 5MB text file in [bibtex](https://en.wikipedia.org/wiki/BibTeX) format.

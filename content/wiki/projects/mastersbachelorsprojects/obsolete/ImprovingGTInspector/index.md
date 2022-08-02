@@ -34,7 +34,7 @@ Available as a bachelor/seminar project. (Can be extended to a master project.)
 -  [2] [The moldable GTInspector deconstructed](http://www.humane-assessment.com/blog/the-moldable-gtinspector-deconstructed/)
 -  [3] [Extending the variables shown in GTInspector](http://www.humane-assessment.com/blog/extending-variables-shown-in-gtinspector/) 
 -  [4] [Dissecting the GTInspector](http://www.humane-assessment.com/blog/dissecting-the-gtinspector/)
--  [5] [Scripting Browsers with Glamour](/archive/masters/Bung09a.pdf)
+-  [5] [Scripting Browsers with Glamour](%base_url%/archive/masters/Bung09a.pdf)
 
 
 Contact: [Andrei Chiş](%base_url%/staff/andreichis)

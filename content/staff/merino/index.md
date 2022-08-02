@@ -144,7 +144,7 @@ My main research interests are in the areas of software visualization, program c
 - [Create](%base_url%/staff/merino/create-accessors) accessors automatically
 - [Random](%base_url%/staff/merino/RTRandomLayout) layout for Roassal
 - Winter school [poster](%assets_url%/files/91/9yaz5j7vo0dn9zizpl1l1fp970j2r9/poster-merino-2.pdf)
-- Planning a trip to the University of Chile (DCC)?. Some tips [ here ](/staff/merino/Chile)
+- Planning a trip to the University of Chile (DCC)?. Some tips [ here ](%base_url%/staff/merino/Chile)
 - [Community](%base_url%/staff/merino/Community)
 
 <div style="background-color: #eeeeee">

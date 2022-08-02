@@ -34,7 +34,7 @@ PEG in Smalltalk, by [Lukas Renggli](http://www.lukas-renggli.ch)
 
 PEG in Python, by Sandro De Zanet
 
--  [/](/)
+-  [/](%base_url%/)
 
 ## PEGs elsewhere
 

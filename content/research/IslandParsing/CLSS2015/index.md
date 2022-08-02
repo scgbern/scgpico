@@ -12,7 +12,7 @@ At this web page we provide following:
 -  The source code for re-running the case study 
 -  The source code for re-running the performance measurements
 
-You can download an archive with all the data you need [from here](/download/jk/clss2015/data.zip). 
+You can download an archive with all the data you need [from here](%base_url%/download/jk/clss2015/data.zip). 
 
 
 The archive is organized as follows:

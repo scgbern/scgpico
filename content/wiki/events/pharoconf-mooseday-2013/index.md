@@ -75,7 +75,7 @@ For organizational purposes, please just register online:
 ##Venue
 The conference will be held at:
 
-University of Berne, <br/> Engehaldestr 8 <br/> Room 001 ([see directions](/contact/maps))
+University of Berne, <br/> Engehaldestr 8 <br/> Room 001 ([see directions](%base_url%/contact/maps))
 
 
 ##Hotels

@@ -62,7 +62,7 @@ Dependent tests not only improve defect localization, they also run faster and r
 If, however, one of the dependencies fails, test T and all its dependents are skipped.
 This helps you to pin-point failures to their very cause.
 
-JExample is open source and available [for download](/download/jexample).
+JExample is open source and available [for download](%base_url%/download/jexample).
 
 
 ---

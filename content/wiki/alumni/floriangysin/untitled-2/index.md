@@ -17,7 +17,7 @@ Paper, 10 pages<br>
 **BA Thesis**<br>
 Thesis, 60 pages<br>
 >> 31.01.2010<br>
-[/publications](/publications)<br><br><br>
+[/publications](%base_url%/publications)<br><br><br>
 
 
 **CHOOSE Sponsorship**<br>

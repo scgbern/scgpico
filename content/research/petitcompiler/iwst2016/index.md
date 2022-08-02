@@ -10,7 +10,7 @@ At this web page we provide:
 -  A Moose image with pre-loaded Petit Compiler 
 -  A source code for validation and benchmarks.
 
-You can download an archive with all the data you need [from here](/download/jk/iwst2016/data.zip). 
+You can download an archive with all the data you need [from here](%base_url%/download/jk/iwst2016/data.zip). 
 
 The archive is organized as follows:
 
@@ -30,4 +30,4 @@ The **image** file can be opened with the Pharo virtual machine that can be down
 
 Once you open the image, you can evaluate the code in pre-prepared playgrounds to replicate either evaluation, benchmarks, or our Smalltalk case study.
 
-The latest version of petit compiler can be found [here](/research/petitcompiler).
+The latest version of petit compiler can be found [here](%base_url%/research/petitcompiler).

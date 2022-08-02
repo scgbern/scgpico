@@ -30,7 +30,7 @@ Software systems both are eternal, and are not eternal. On the one hand, the bit
 | | | |
 |---|---|---|
 |**Week**|**Date**|**Lesson**
-| 1| 18-Sep-08| Introduction ([handouts](/download/evo/01-introduction.key.pdf))
+| 1| 18-Sep-08| Introduction ([handouts](%base_url%/download/evo/01-introduction.key.pdf))
 | 2| 25-Sep-08| Reverse Engineering (<a /download/evo/02-reverseengineering.key.pdf">handouts</a>)
 | 3| 02-Oct-08| Lab &mdash; Understanding legacy software
 | 4| 09-Oct-08| Presentation of Results (all groups)

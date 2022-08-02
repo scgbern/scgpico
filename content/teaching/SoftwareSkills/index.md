@@ -28,7 +28,7 @@ Students should register in the student administration system of their home univ
 #Locations
 
 
--  Lectures on weeks 1-5 are held in Bern, [Schützenmattstrasse 14](/contact/maps?_s=YB3O_hbhFkep2tbN&_k=t4PDv_ra&_n&18), Room 107. Remote participation is possible over zoom (meetings link is available on the course [moodle page](https://moodle.unine.ch/course/view.php?id=6845))
+-  Lectures on weeks 1-5 are held in Bern, [Schützenmattstrasse 14](%base_url%/contact/maps?_s=YB3O_hbhFkep2tbN&_k=t4PDv_ra&_n&18), Room 107. Remote participation is possible over zoom (meetings link is available on the course [moodle page](https://moodle.unine.ch/course/view.php?id=6845))
 -  Lectures on weeks 6-9 are held in Neuchatel, UniMail Building, [Rue Emile-Argand 11](https://goo.gl/maps/53kT1mWwyEDcY3Ch9), Room B-316. These lectures will be also live-streamed via web-ex (link to be provided at a later time)
 -  Lectures on weeks 10-13 and the exam are held in Fribourg, [Boulevard de Pérolles 90](https://goo.gl/maps/KfvqLjn3awewFnT96), Room B130.
 

@@ -3,7 +3,7 @@
 # Generic script to search for pages with funny characters or particular incantations
 
 # SEARCH='value:redirect'
-SEARCH=' --'
+SEARCH='](/'
 
 CONTENT=/Users/oscar/Documents/Projects/scgpico/content
 cd ${CONTENT}

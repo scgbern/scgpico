@@ -34,6 +34,6 @@
 
 ---
 #[CommunityExplorer](%base_url%/research/CommunityExplorer)
-[![/download/merino/CommunityExplorer/collaboration-iwst-2016.html](/download/merino/CommunityExplorer/collaboration-iwst-2016.html)](%base_url%/research/CommunityExplorer)
+[![/download/merino/CommunityExplorer/collaboration-iwst-2016.html](%base_url%/download/merino/CommunityExplorer/collaboration-iwst-2016.html)](%base_url%/research/CommunityExplorer)
 
 ---

@@ -6,18 +6,18 @@ Here you can download my Bachelor thesis about tool support for Scrum and the do
 
 ##Download the thesis
 
--  [Thesis](/wiki/students/mkurpicz/ToolsupportforScrum/thesiswithabstract)
+-  [Thesis](%base_url%/wiki/students/mkurpicz/ToolsupportforScrum/thesiswithabstract)
 
 ##Additional materials
 
 
--  [Management Summary](/wiki/students/mkurpicz/ToolsupportforScrum/managementsummary)
+-  [Management Summary](%base_url%/wiki/students/mkurpicz/ToolsupportforScrum/managementsummary)
 
 
--  [Appendix A: Interview Script](/wiki/students/mkurpicz/ToolsupportforScrum/interview)
+-  [Appendix A: Interview Script](%base_url%/wiki/students/mkurpicz/ToolsupportforScrum/interview)
 
 
--  [Appendix B: Survey](/wiki/students/mkurpicz/ToolsupportforScrum/surveyquestions)
+-  [Appendix B: Survey](%base_url%/wiki/students/mkurpicz/ToolsupportforScrum/surveyquestions)
 
 
--  [Appendix C: Survey results](/wiki/students/mkurpicz/ToolsupportforScrum/surveyresults)
+-  [Appendix C: Survey results](%base_url%/wiki/students/mkurpicz/ToolsupportforScrum/surveyresults)

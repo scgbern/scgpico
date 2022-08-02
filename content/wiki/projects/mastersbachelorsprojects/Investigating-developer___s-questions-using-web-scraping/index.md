@@ -26,7 +26,7 @@ For example, the word “debugging” exists in 387,432 questions, but only abou
 
 #Further Material
 
--  [Mining developers' questions](/download/softwarecomposition/2019-01-08-Mathias-Investigating_developers_questions_using_web%20scraping.pdf)
+-  [Mining developers' questions](%base_url%/download/softwarecomposition/2019-01-08-Mathias-Investigating_developers_questions_using_web%20scraping.pdf)
 
 <br><p><br></p>
 #Contact 

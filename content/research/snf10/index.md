@@ -32,7 +32,7 @@ In this project we propose to study novel techniques to keep software systems sy
 
 -  *Polyglot systems modeling and analyses:* Novel analyses are needed to help software architects assess the impact of changes (coarse-grained and long-term adaptations). These analyses need to account for sub-systems built with diverse technologies and programming languages. We propose to analyze these “polyglot” systems focusing on the technologies involved. To detect hidden architectural dependencies between diverse sub-systems we need to develop a new meta-model that captures and connects the idiosyncrasies of each involved technology. We then plan to research novel metrics-based visualizations to support analyses such as the detection of architectural patterns.
 
-For more information, please consult the [Research Plan](/download/projectreports/snf10-part2.pdf) of the project [pdf].
+For more information, please consult the [Research Plan](%base_url%/download/projectreports/snf10-part2.pdf) of the project [pdf].
 
 
 ---

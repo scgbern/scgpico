@@ -2,7 +2,7 @@
 
 ---
 # Eclipse Plug-In
-[/download/codemap](/download/codemap)<br/>Requires Eclipse 3.5 and Java 6.
+[/download/codemap](%base_url%/download/codemap)<br/>Requires Eclipse 3.5 and Java 6.
 
 ---
 # Source code

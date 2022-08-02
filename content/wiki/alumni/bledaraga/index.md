@@ -2,7 +2,7 @@
 Title: Bledar Aga
 ---
 #Bledar Aga
-![/download/AC/Bledar/Prot2-1.png](/download/AC/Bledar/Prot2-1.png)
+![/download/AC/Bledar/Prot2-1.png](%base_url%/download/AC/Bledar/Prot2-1.png)
 
 #Master project
 Breaking dependency cycles   
@@ -15,11 +15,11 @@ The wrong connection between software components may cause problems in software 
 Cyclic dependencies compromise the modularity of the system, increase the development time and prevent proper reuse. 
 The aim of this project is to implement a tool that proposes solutions for breaking these dependencies between packages.
 #Related work
-The goal of this work is to extend the tool [Softwarenaut](/softwarenaut) which graphically illustrates the dependencies, but not the cyclic dependencies. Our solution enables the user to select a cycle and propose the best refactoring method for breaking it. The operation can be repeated until the user has solve all cycles or he/she decided to stop. All the selected actions of refactoring are registered in a log file so the changes are not made directly to the source code. The user has the possibility to export the log file so the changes on the source code can be done later (example by another tool, Eclipse) when he is sure of them. 
+The goal of this work is to extend the tool [Softwarenaut](%base_url%/softwarenaut) which graphically illustrates the dependencies, but not the cyclic dependencies. Our solution enables the user to select a cycle and propose the best refactoring method for breaking it. The operation can be repeated until the user has solve all cycles or he/she decided to stop. All the selected actions of refactoring are registered in a log file so the changes are not made directly to the source code. The user has the possibility to export the log file so the changes on the source code can be done later (example by another tool, Eclipse) when he is sure of them. 
 We have different techniques for the refactoring: Move the class, move the method, the use of the dependency inversion principle, the use of pattern dependency injection and the combination of dependency injection with dependency inversion. The best proposed method of refactoring is given by calculating the expected profit for all possible alternatives.
 
 #Additional information: 
- [Project overview  ](/download/AC/Bledar/MasterThesisFirstPresentation.pdf)
+ [Project overview  ](%base_url%/download/AC/Bledar/MasterThesisFirstPresentation.pdf)
 
 #Milestones
 

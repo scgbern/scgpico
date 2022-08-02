@@ -15,7 +15,7 @@ Research Questions
 Challenge #1:
 How to obtain large amounts of source code?
 
--  Look at [Pangea](/pangea/)
+-  Look at [Pangea](%base_url%/pangea/)
 -  Look at online repositories: Ohloh, SqueakSource, ScalaForge, RubyForge
 
 Challenge #2:

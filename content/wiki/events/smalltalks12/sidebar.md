@@ -2,8 +2,14 @@
 
 <div class="prominentButton"><a href="http://mooseday.eventbrite.com">Register for MooseDay<br/><span class="prominentNote">April 4. It's free</a></div>
 
-<br/>
-<br/>
+# Important Dates
+
+
+- Submission: (Extended!) September 24th, 2012
+- Notification: October 8th, 2012
+- Camera Ready Submission: November 2nd, 2012.
+- Conference: November, 2012
+
 
 #Sponsors
 

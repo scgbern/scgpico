@@ -4,11 +4,11 @@ Title: Interviews
 #Interviews
 **Interview Scripts**
 
-[Interview Script v1](/wiki/projects/bachelorsprojects/Agility/interviews/InterviewScriptv1?view=PRDownloadView)
+[Interview Script v1](%base_url%/wiki/projects/bachelorsprojects/Agility/interviews/InterviewScriptv1?view=PRDownloadView)
 
-[Interview Script v2](/wiki/projects/bachelorsprojects/Agility/interviews/InterviewScriptv2?view=PRDownloadView)
+[Interview Script v2](%base_url%/wiki/projects/bachelorsprojects/Agility/interviews/InterviewScriptv2?view=PRDownloadView)
 
-[Interview Script v3](/wiki/projects/bachelorsprojects/Agility/interviews/ScriptInterviewv3?view-PRDownloadView)
+[Interview Script v3](%base_url%/wiki/projects/bachelorsprojects/Agility/interviews/ScriptInterviewv3?view-PRDownloadView)
 
 **Brainstorming for interview questions:**
 

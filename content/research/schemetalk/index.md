@@ -19,7 +19,7 @@ In order to show its close relation to real Smalltalk code, SchemeTalk implement
 
 ##Publications
 
--  Toon Verwaest and Lukas Renggli, "<i>Safe Reflection Through Polymorhpism</i>", ([submission](/archive/papers/Verw09aSafeReflectionThroughPolymorphism.pdf)) is accepted for publication at [Casta '09](http://casta.unibe.ch).
+-  Toon Verwaest and Lukas Renggli, "<i>Safe Reflection Through Polymorhpism</i>", ([submission](%base_url%/archive/papers/Verw09aSafeReflectionThroughPolymorphism.pdf)) is accepted for publication at [Casta '09](http://casta.unibe.ch).
 
 ##Download SchemeTalk
 SchemeTalk is available at:

@@ -8,4 +8,4 @@ The Small Project Observatory is a system that allows the online analysis of sof
 
 #Publications
 
--  Mircea Lungu, Michele Lanza, Tudor Gîrba, and Romain Robbes. The Small Project Observatory: Visualizing Software Ecosystems. In Science of Computer Programming, Elsevier 75(4) p. 264&mdash;275, April 2010. ([PDF](/archive/papers/Lung09aSPO.pdf), [BibTex](/scgbib?query=lung09a&display=bibtex))
+-  Mircea Lungu, Michele Lanza, Tudor Gîrba, and Romain Robbes. The Small Project Observatory: Visualizing Software Ecosystems. In Science of Computer Programming, Elsevier 75(4) p. 264&mdash;275, April 2010. ([PDF](%base_url%/archive/papers/Lung09aSPO.pdf), [BibTex](%base_url%/scgbib?query=lung09a&display=bibtex))

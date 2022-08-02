@@ -23,4 +23,4 @@ Past students
 Lectures
 
 
--  [Programming Fundamentals II](/teaching/p2), lecture, teaching assistant
+-  [Programming Fundamentals II](%base_url%/teaching/p2), lecture, teaching assistant

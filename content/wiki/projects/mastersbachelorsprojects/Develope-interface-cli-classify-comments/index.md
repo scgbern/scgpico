@@ -24,7 +24,7 @@ Your task is to develop a prototype tool (browser extension for a GitHub reposit
 -  Choice for the technology can be further discussed
 
 #References
-[1] [How to identify class comment types? A multi-language approach for class comment classification](/archive/papers/Rani21d.pdf)<br>
+[1] [How to identify class comment types? A multi-language approach for class comment classification](%base_url%/archive/papers/Rani21d.pdf)<br>
 [2] [Building GitHub Apps](https://docs.github.com/en/developers/apps/building-github-apps)<br>
 [3] [Example App](https://github.com/rafaelkallis/ticket-tagger)
 

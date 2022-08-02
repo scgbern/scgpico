@@ -8,7 +8,7 @@ Oscar Nierstrasz is Professor Emeritus of Computer Science at the [Institute of 
 He retired from the University of Bern at the end of 2021, and is currently working at [feenk.com](https://feenk.com/about/).
 He is co-author of over 300 [publications](%assets_url%/scgbib/?query=Nierstrasz&filter=Year) and co-author of the open-source books *[Object-Oriented Reengineering Patterns](%assets_url%/download/oorp/)* and *[Pharo by Example](http://books.pharo.org)*.
 
-[![/download/oorp/pictures/oorp-small.jpg](%assets_url%/download/oorp/pictures/oorp-small.jpg)](/download/oorp)
+[![/download/oorp/pictures/oorp-small.jpg](%assets_url%/download/oorp/pictures/oorp-small.jpg)](%base_url%/download/oorp)
 [![/download/pharobyexample/pbe-small.jpg](%assets_url%/download/pharobyexample/pbe-small.jpg)](http://books.pharo.org)
 
 The Software Composition Group carried out research in diverse aspects of software evolution.

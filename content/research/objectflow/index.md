@@ -20,7 +20,7 @@ Object Flow Analysis is a novel dynamic analysis to effectively track the flow o
  Authors: [Adrian Lienhard](http://www.adrian-lienhard.ch/contact.html) and Julien Fierz<br /> License: The Object Flow VM and the Compass debugger frontend is distributed under the [MIT license](http://www.opensource.org/licenses/mit-license.php)<br /> Copyright 2008, Adrian Lienhard<br /> 
 ##Download
 
-The following download includes a compiled VM for the appropriate platform and a prepared image (based on Squeak 3.9) with the Compass debugger frontend: [ObjectFlowDebugger-1.0.zip](/download/objectflow/ObjectFlowDebugger-1.0.zip) 
+The following download includes a compiled VM for the appropriate platform and a prepared image (based on Squeak 3.9) with the Compass debugger frontend: [ObjectFlowDebugger-1.0.zip](%base_url%/download/objectflow/ObjectFlowDebugger-1.0.zip) 
 
 Currently supported platforms
 
@@ -104,16 +104,16 @@ Modified VM source code is the package VMMaker in repository [www.squeaksource.c
 ##Refereed Articles in International Journals
 
 
--  [Taking an Object-Centric View on Dynamic Information with Object Flow Analysis](/archive/papers/Lien08cObjectFlowAnalysis.pdf)<br /> *Adrian Lienhard, St&eacute;phane Ducasse and Tudor Gîrba*<br /> Journal of Computer Languages, Systems and Structures (COMLAN), Elsevier, vol. 35, no. 1, 2009, pp. 63-79 
+-  [Taking an Object-Centric View on Dynamic Information with Object Flow Analysis](%base_url%/archive/papers/Lien08cObjectFlowAnalysis.pdf)<br /> *Adrian Lienhard, St&eacute;phane Ducasse and Tudor Gîrba*<br /> Journal of Computer Languages, Systems and Structures (COMLAN), Elsevier, vol. 35, no. 1, 2009, pp. 63-79 
 ##Refereed Articles in International Conferences
 
 
-- [Practical Object-Oriented Back-in-Time Debugging](/archive/papers/Lien08bBackInTimeDebugging.pdf)<br /> *Adrian Lienhard, Tudor Gîrba and Oscar Nierstrasz*<br /> 22nd European Conference on Object-Oriented Programming (ECOOP'08), LNCS, Springer, 2008, pp. 592-615, acceptance rate 19%<br /> Recipient of the *ECOOP 2008 Distinguished Paper* award 
--  [Test Blueprints - Exposing Side Effects in Execution Traces to Support Writing Unit Tests](/archive/papers/Lien08a-TestBlueprint.pdf)<br /> *Adrian Lienhard, Tudor Gîrba, Orla Greevy and Oscar Nierstrasz*<br /> 12th European Conference on Software Maintenance and Reengineering (CSMR'08), IEEE Computer Society Press, 2008, pp. 83-92, acceptance rate 28% 
--  [Object Flow Analysis - Taking an Object-Centric View on Dynamic Analysis](/archive/papers/Lien07c-ObjectFlowAnalysis.pdf)<br /> *Adrian Lienhard, St&eacute;phane Ducasse and Tudor Gîrba*<br /> International Conference on Dynamic Languages (ICDL'07), ACM Digital Library, 2007, pp. 121-140 
--  [Tracking Objects to Detect Feature Dependencies](/archive/papers/Lien07aFeatureDependencies.pdf)<br /> *Adrian Lienhard, Orla Greevy and Oscar Nierstrasz*<br /> 15th IEEE International Conference on Program Comprehension (ICPC'07), 2007, pp. 59-68, acceptance rate 33% 
+- [Practical Object-Oriented Back-in-Time Debugging](%base_url%/archive/papers/Lien08bBackInTimeDebugging.pdf)<br /> *Adrian Lienhard, Tudor Gîrba and Oscar Nierstrasz*<br /> 22nd European Conference on Object-Oriented Programming (ECOOP'08), LNCS, Springer, 2008, pp. 592-615, acceptance rate 19%<br /> Recipient of the *ECOOP 2008 Distinguished Paper* award 
+-  [Test Blueprints - Exposing Side Effects in Execution Traces to Support Writing Unit Tests](%base_url%/archive/papers/Lien08a-TestBlueprint.pdf)<br /> *Adrian Lienhard, Tudor Gîrba, Orla Greevy and Oscar Nierstrasz*<br /> 12th European Conference on Software Maintenance and Reengineering (CSMR'08), IEEE Computer Society Press, 2008, pp. 83-92, acceptance rate 28% 
+-  [Object Flow Analysis - Taking an Object-Centric View on Dynamic Analysis](%base_url%/archive/papers/Lien07c-ObjectFlowAnalysis.pdf)<br /> *Adrian Lienhard, St&eacute;phane Ducasse and Tudor Gîrba*<br /> International Conference on Dynamic Languages (ICDL'07), ACM Digital Library, 2007, pp. 121-140 
+-  [Tracking Objects to Detect Feature Dependencies](%base_url%/archive/papers/Lien07aFeatureDependencies.pdf)<br /> *Adrian Lienhard, Orla Greevy and Oscar Nierstrasz*<br /> 15th IEEE International Conference on Program Comprehension (ICPC'07), 2007, pp. 59-68, acceptance rate 33% 
 ##Peer-reviewed Workshop Papers
 
 
--  [Exposing Side Effects in Execution Traces](/archive/papers/Lien07dSideEffectsPCODA.pdf)<br /> *Adrian Lienhard, Tudor Gîrba, Orla Greevy and Oscar Nierstrasz*<br /> 3rd International Workshop on Program Comprehension through Dynamic Analysis (PCODA), 2007, pp. 11-17 
--  [Capturing How Objects Flow At Runtime](/archive/papers/Lien06aCapturingHowObjectsFlowPCODA06.pdf)<br /> *Adrian Lienhard, Stéphane Ducasse, Tudor Gîrba and Oscar Nierstrasz*<br /> International Workshop on Program Comprehension through Dynamic Analysis (PCODA'06), 2006, pp. 39-43 <br /> View [Bibtex](%assets_url%/scgbib/?query=object-flow&filter=Year) of all publications<br /> <div id="lastModified">November 26, 2008; [lienhard](http://www.adrian-lienhard.ch/) [ ![http://www.w3.org/Icons/valid-xhtml10](http://www.w3.org/Icons/valid-xhtml10)](http://validator.w3.org/check?uri=referer) [ ![http://jigsaw.w3.org/css-validator/images/vcss](http://jigsaw.w3.org/css-validator/images/vcss)](http://jigsaw.w3.org/css-validator/check/referer) </div> 
+-  [Exposing Side Effects in Execution Traces](%base_url%/archive/papers/Lien07dSideEffectsPCODA.pdf)<br /> *Adrian Lienhard, Tudor Gîrba, Orla Greevy and Oscar Nierstrasz*<br /> 3rd International Workshop on Program Comprehension through Dynamic Analysis (PCODA), 2007, pp. 11-17 
+-  [Capturing How Objects Flow At Runtime](%base_url%/archive/papers/Lien06aCapturingHowObjectsFlowPCODA06.pdf)<br /> *Adrian Lienhard, Stéphane Ducasse, Tudor Gîrba and Oscar Nierstrasz*<br /> International Workshop on Program Comprehension through Dynamic Analysis (PCODA'06), 2006, pp. 39-43 <br /> View [Bibtex](%assets_url%/scgbib/?query=object-flow&filter=Year) of all publications<br /> <div id="lastModified">November 26, 2008; [lienhard](http://www.adrian-lienhard.ch/) [ ![http://www.w3.org/Icons/valid-xhtml10](http://www.w3.org/Icons/valid-xhtml10)](http://validator.w3.org/check?uri=referer) [ ![http://jigsaw.w3.org/css-validator/images/vcss](http://jigsaw.w3.org/css-validator/images/vcss)](http://jigsaw.w3.org/css-validator/check/referer) </div> 

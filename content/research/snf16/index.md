@@ -31,4 +31,4 @@ Like its predecessor, this project is designed as four related PhD tracks (inclu
 
 In addition to disseminating the results of the research through academic publications, we will continue to release software artifacts (tools, IDE extensions etc.) as part of the Pharo development environment and the Moose analysis platform used by a wide community of academic and industrial partners.
 
-For more information, please consult the [Research Plan](/download/projectreports/snf16-part2.pdf) of the project [pdf].
+For more information, please consult the [Research Plan](%base_url%/download/projectreports/snf16-part2.pdf) of the project [pdf].

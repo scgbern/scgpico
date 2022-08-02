@@ -6,7 +6,7 @@ ChangeBoxes are tested and developed with Squeak 3.9. You need an image that is 
 
 ## Demo Image
 
--  Get a demo image with ChangeBoxes at [/download/changeboxes/ChangeboxesDemo.zip](/download/changeboxes/ChangeboxesDemo.zip) (25. 1. 2007)
+-  Get a demo image with ChangeBoxes at [/download/changeboxes/ChangeboxesDemo.zip](%base_url%/download/changeboxes/ChangeboxesDemo.zip) (25. 1. 2007)
 -  For the latest version, get the ChangeBoxes and then ChangeBox-activation packages at [http://www.squeaksource.com/ChangeBoxes.html](http://www.squeaksource.com/ChangeBoxes.html)
 -  Run the SUnit Tests in ChangeBoxes-Tests in order to assert that everything went well
 

@@ -36,7 +36,7 @@ Consider the case of the abstract syntax tree of a method. If you want to learn 
 
 ![http://humane-assessment.com/pierfiles/32/zdfyce64cv3csgbmdzeoodlkyp76pt/rbnode-on-object-deepcollectas.png](http://humane-assessment.com/pierfiles/32/zdfyce64cv3csgbmdzeoodlkyp76pt/rbnode-on-object-deepcollectas.png)
 
-[PetitParser](/research/helvetia/petitparser) offers another example. Specifically, when building parsers using PetitParser, you want to play with them and investigate their behavior. To this end, PetitParser provides a dedicated browser that enables you to build full parsers in a class. But, when working in a workspace, you cannot benefit from this tool. The inspector offers the same sampler workspace possibility as in the PetitParser browser, only this time it lets you try samples on any parser instances. For example, below you see the result of inspecting the following parser:
+[PetitParser](%base_url%/research/helvetia/petitparser) offers another example. Specifically, when building parsers using PetitParser, you want to play with them and investigate their behavior. To this end, PetitParser provides a dedicated browser that enables you to build full parsers in a class. But, when working in a workspace, you cannot benefit from this tool. The inspector offers the same sampler workspace possibility as in the PetitParser browser, only this time it lets you try samples on any parser instances. For example, below you see the result of inspecting the following parser:
 
 ```
 natural := (#digit asParser plus flatten trim) name: 'natural'.

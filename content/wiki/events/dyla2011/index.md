@@ -51,10 +51,10 @@ And any topic relevant in applying and/or supporting dynamic languages: Smalltal
 
 *Papers:*
 
-- **Executable rules of encoding**, by John Moore. [PDF](/download/dyla/2011/dyla11_submission_1.pdf)
-- **A Static Type Inference for Python, by Eva Maia**, Nelma Moreira and Rogério Reis. [PDF](/download/dyla/2011/dyla11_submission_3.pdf)
-- **DoodleDebug, Beyond textual visualizations of objects**, by Niko Schwarz. [PDF](/download/dyla/2011/dyla11_submission_4.pdf)
-- **Test Coverage With Hapao** by Vanessa Pena and Alexandre Bergel. [PDF](/download/dyla/2011/dyla11_submission_5.pdf)
+- **Executable rules of encoding**, by John Moore. [PDF](%base_url%/download/dyla/2011/dyla11_submission_1.pdf)
+- **A Static Type Inference for Python, by Eva Maia**, Nelma Moreira and Rogério Reis. [PDF](%base_url%/download/dyla/2011/dyla11_submission_3.pdf)
+- **DoodleDebug, Beyond textual visualizations of objects**, by Niko Schwarz. [PDF](%base_url%/download/dyla/2011/dyla11_submission_4.pdf)
+- **Test Coverage With Hapao** by Vanessa Pena and Alexandre Bergel. [PDF](%base_url%/download/dyla/2011/dyla11_submission_5.pdf)
 
 Each paper will be presented for approx 30 minutes.
 

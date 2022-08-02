@@ -35,4 +35,4 @@ The archive is organized as follows:
 ##PetitParser in Moose
 Many concepts introduced in this thesis were integrated into PetitParser used in the [Moose](http://www.moosetechnology.org/) software and data analysis platform.
 
-The latest version of Petit Compiler can be found [here](/research/petitcompiler).
+The latest version of Petit Compiler can be found [here](%base_url%/research/petitcompiler).

@@ -23,7 +23,7 @@ The new debugger should focus on providing a new user-interface that displays re
 
 # Benefits/Requirements/Challenges
 
-This project will give you the chance to learn about HTTP, web servers, web clients and about the construction of debuggers. The project will be done in [Pharo](http://www.pharo-project.org/%20), an open-source Smalltalk-inspired environment. You will see a language quite different from Java and C#. The new debugger will be implemented using the ["Moldable Debugger"](/research/moldabledebugger), a framework for creating domain-specific debuggers.
+This project will give you the chance to learn about HTTP, web servers, web clients and about the construction of debuggers. The project will be done in [Pharo](http://www.pharo-project.org/%20), an open-source Smalltalk-inspired environment. You will see a language quite different from Java and C#. The new debugger will be implemented using the ["Moldable Debugger"](%base_url%/research/moldabledebugger), a framework for creating domain-specific debuggers.
 
 You should apply for this project if you have good programming skills in any object-oriented language and a basic knowledge of HTTP. Knowing anything about Pharo or having advanced HTTP knowledge is not required.
 
@@ -33,7 +33,7 @@ Available as a bachelor or master project.
 
 
 -  [1] [Towards a Moldable Debugger](http://rmod.lille.inria.fr/archives/dyla13/dyla13_4_Towards_a_Moldable_Debugger.pdf)
--  [2] [The "Moldable Debugger" framework](/research/moldabledebugger)
+-  [2] [The "Moldable Debugger" framework](%base_url%/research/moldabledebugger)
 -  [3] [A first look at the Pharo debugger](http://chisvasileandrei.wordpress.com/2013/10/24/a-first-look-at-the-pharo-debugger/)
 -  [4] [Zinc](http://zn.stfx.eu/zn)
 -  [5] [Zinc documentation](http://zn.stfx.eu/zn/zinc-http-components-paper.html%20)

@@ -58,4 +58,4 @@ For further details see:
 - [Final report](%assets_url%/download/projectreports/snf08-final.pdf)
 - [Publications](%assets_url%/scgbib/?query=snf10&filter=Year)
 
-For more information, please consult the [Research Plan](/download/projectreports/snf08-part2.pdf) of the project [pdf].
+For more information, please consult the [Research Plan](%base_url%/download/projectreports/snf08-part2.pdf) of the project [pdf].

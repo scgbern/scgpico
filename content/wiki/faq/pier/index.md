@@ -4,7 +4,7 @@ Title: Pier FAQ
 #Pier FAQ
 #Useful links
 
-- [Pier syntax](/?view=PREditorHelp)
+- [Pier syntax](%base_url%/?view=PREditorHelp)
 - [Pier Documentation](http://www.piercms.com/doc)
 	- [Pier browser shortcuts](http://www.piercms.com/doc/shortcuts)
 

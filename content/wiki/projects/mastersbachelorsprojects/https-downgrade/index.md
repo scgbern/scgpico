@@ -39,7 +39,7 @@ Your task will consist of:<br>
 <br>
 
 #References
-[1] [Web APIs in Android through the Lens of Security](/archive/papers/Gadi20a.pdf)<br>
+[1] [Web APIs in Android through the Lens of Security](%base_url%/archive/papers/Gadi20a.pdf)<br>
 [2] [Presentation: More Tricks For Defeating SSL In Practice](https://infocon.org/cons/Hack.lu/2009/Presentations/moxie-marlinspike-some_tricks_for_defeating_ssl_in_practice.pdf)<br>
 [3] [Paper: Bypassing HTTP Strict Transport Security](https://paper.bobylive.com/Meeting_Papers/BlackHat/Europe-2014/eu-14-Selvi-Bypassing-HTTP-Strict-Transport-Security-wp.pdf)<br>
 <br><br>

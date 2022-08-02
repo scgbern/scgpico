@@ -19,7 +19,7 @@ Surprising as it may seem, many of the early adopters of the object-oriented par
 
  
 
- The course is intended to complement the book, *[Object-Oriented Reengineering Patterns](/download/oorp).* 
+ The course is intended to complement the book, *[Object-Oriented Reengineering Patterns](%base_url%/download/oorp).* 
 
  
 

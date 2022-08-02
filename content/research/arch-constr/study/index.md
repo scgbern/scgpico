@@ -16,9 +16,9 @@ Software architecture is the result of a design effort aimed at ensuring a certa
 	-  [Results](%base_url%/research/arch-constr/study/Constraints): all identified quality attributes with examples
 
 -  Quantitative study - Survey:
-	-  ![Questions](/download/AC/Survey.pdf): Document containing a copy of the pages composing the survey
-	-  ![Results](/download/AC/SurveyResults.xlsx): spreadsheet containing all survey results
-	-  ![Results Summary](/download/AC/SurveyAnalysis.xlsx): spreadsheet containing a complete summary of the survey results
+	-  ![Questions](%base_url%/download/AC/Survey.pdf): Document containing a copy of the pages composing the survey
+	-  ![Results](%base_url%/download/AC/SurveyResults.xlsx): spreadsheet containing all survey results
+	-  ![Results Summary](%base_url%/download/AC/SurveyAnalysis.xlsx): spreadsheet containing a complete summary of the survey results
 	-  [Reported Testing Tools](%base_url%/research/arch-constr/study/tools): link reference for the tools cited in the paper
 
 

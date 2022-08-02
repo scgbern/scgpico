@@ -20,7 +20,7 @@ To get started you can either use a ready-made one-click image (suggested), or t
 
 ##One-Click Image
 
--  Download the [Talents](/download/Bifrost/talents-OneClick.zip) distribution.
+-  Download the [Talents](%base_url%/download/Bifrost/talents-OneClick.zip) distribution.
 -  Launch the executable of your platform:
 	-  Mac: talents-OneClick.app
 	-  Linux: talents-OneClick.app/talents-OneClick.sh

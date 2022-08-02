@@ -67,4 +67,4 @@ Title: HIKOMSYS
 
 **Bibliography**
 
--  [Reflexion Models paper](/scgbib?query=Murp95a&display=abstract)
+-  [Reflexion Models paper](%base_url%/scgbib?query=Murp95a&display=abstract)

@@ -25,7 +25,7 @@ Students will be graded for their talks. Additionally, there will be a written o
 #Deliverables
 
 
-- Presentation and Cheat Sheet (see exemplary [cheat sheet](/download/mm/Resources/cheatSheetReflectivity.pdf) for Reflectivity lecture)
+- Presentation and Cheat Sheet (see exemplary [cheat sheet](%base_url%/download/mm/Resources/cheatSheetReflectivity.pdf) for Reflectivity lecture)
 - Demo and Quick Start
 - Draft exam questions (!)
 
@@ -34,18 +34,18 @@ Students will be graded for their talks. Additionally, there will be a written o
 | | | |
 |---|---|---|
 |** Week **|** Date **|** Lecture/Seminar **
-| 1| 20-Feb-08|[ Lecture: Introduction ](/download/mm/Slides/01Intro.ppt.pdf)
-| 2| 27-Feb-08|[ Lecture: Magritte &mdash; Describe Once, Get Everywhere ](/download/mm/Slides/02Magritte.pdf) ([Magritte Image](/download/mm/Resources/magritte.zip))
-| 3| 05-Mar-08|[Lecture: The Reflectivity &mdash; Sub-Method Structural and Behavioral Reflection](/download/mm/Slides/03Reflectivity.pdf)
-| 4| 12-Mar-08|[ Lecture: FAME &mdash; a meta-modeling framework](/download/mm/Slides/04FAME.pdf)
-| 5| 19-Mar-08| Lecture: Object query languages ([paper about Traversals from Lieberherr](/download/mm/Resources/p370-lieberherr.pdf))
+| 1| 20-Feb-08|[ Lecture: Introduction ](%base_url%/download/mm/Slides/01Intro.ppt.pdf)
+| 2| 27-Feb-08|[ Lecture: Magritte &mdash; Describe Once, Get Everywhere ](%base_url%/download/mm/Slides/02Magritte.pdf) ([Magritte Image](%base_url%/download/mm/Resources/magritte.zip))
+| 3| 05-Mar-08|[Lecture: The Reflectivity &mdash; Sub-Method Structural and Behavioral Reflection](%base_url%/download/mm/Slides/03Reflectivity.pdf)
+| 4| 12-Mar-08|[ Lecture: FAME &mdash; a meta-modeling framework](%base_url%/download/mm/Slides/04FAME.pdf)
+| 5| 19-Mar-08| Lecture: Object query languages ([paper about Traversals from Lieberherr](%base_url%/download/mm/Resources/p370-lieberherr.pdf))
 | | 26-Mar-08|**<font color="#ff0000"> Easter vacation **
 | 6| 02-Apr-08| Break
-| 7| 09-Apr-08| Lecture: <br /> [OmniBrowser &mdash; Meta-modeling Browsers](/download/mm/Slides/06OmniBrowser.pdf) ([OmniBrowser image](/download/mm/Resources/omnibrowser.zip))<br /> [Hermion &mdash; Exploiting Runtime Information in the IDE](/download/mm/Slides/06Hermion.pdf)
-| 8| 16-Apr-08| [Lecture: Presenting is Storytelling](/download/mm/Slides/07Presenting.pdf)
+| 7| 09-Apr-08| Lecture: <br /> [OmniBrowser &mdash; Meta-modeling Browsers](%base_url%/download/mm/Slides/06OmniBrowser.pdf) ([OmniBrowser image](%base_url%/download/mm/Resources/omnibrowser.zip))<br /> [Hermion &mdash; Exploiting Runtime Information in the IDE](%base_url%/download/mm/Slides/06Hermion.pdf)
+| 8| 16-Apr-08| [Lecture: Presenting is Storytelling](%base_url%/download/mm/Slides/07Presenting.pdf)
 | 9| 23-Apr-08| Break
 | 10| 30-Apr-08| Break
 | 11| 07-May-08| Break
-| 12| 14-May-08| Daniel Frey - [DSLs](/download/mm/Slides/08DSL.ppt)
-| 13| 21-May-08| Marcel H&auml;rry - [Transformation Languages](/download/mm/Slides/09TransformationLanguages.pdf) ([CheatSheet](/download/mm/Resources/cheatsheetTransformationLanguages.pdf))
+| 12| 14-May-08| Daniel Frey - [DSLs](%base_url%/download/mm/Slides/08DSL.ppt)
+| 13| 21-May-08| Marcel H&auml;rry - [Transformation Languages](%base_url%/download/mm/Slides/09TransformationLanguages.pdf) ([CheatSheet](%base_url%/download/mm/Resources/cheatsheetTransformationLanguages.pdf))
 | 14| 28-May-08|**<font color="#ff0000"> Exam (oral, 10 - 12 am) **

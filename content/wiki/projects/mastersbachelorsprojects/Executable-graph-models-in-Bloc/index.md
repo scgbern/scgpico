@@ -20,7 +20,7 @@ eg4nodes
 
 The resulting graph can be interpreted as an FSA, so that clicking on any target node that follows the currently highlighted node will cause the FSA to change state:
 
-![/download/oscar/GT/GT-graph4.png](/download/oscar/GT/GT-graph4.png)
+![/download/oscar/GT/GT-graph4.png](%base_url%/download/oscar/GT/GT-graph4.png)
 
 Possible tasks:
 

@@ -12,6 +12,6 @@ We have already the dataset that contains many Java projects. We also have a dat
 The next phase is parse every Java method that contains a null check, specify the object that is checked, then decide its category (from the categories above). This process can be done programmatically, manually, or using a mix of both.
 
 #Results:
-[Tracking Null Checks in Open-Source Java Systems](/scgbib?&query=Tracking+Null+Checks+in+Open-Source+Java+Systems)
+[Tracking Null Checks in Open-Source Java Systems](%base_url%/scgbib?&query=Tracking+Null+Checks+in+Open-Source+Java+Systems)
 #Contact: 
 [Haidar Osman](%base_url%/staff/Osman)

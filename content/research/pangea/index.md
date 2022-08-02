@@ -45,7 +45,7 @@ Pangea runs on a Mac, but should also work on Linux and Windows, as long as bash
 Pangea can consume north of 20GB of space (10G sources and 20G of tools, models, and intermediate representations only for QualitasCorpus).
 
 #Available software corpora
-A list of currently supported software corpora can be found ![here](/pangea/2.0/data/content.txt). 
+A list of currently supported software corpora can be found ![here](%base_url%/pangea/2.0/data/content.txt). 
 
 
 #How to Install

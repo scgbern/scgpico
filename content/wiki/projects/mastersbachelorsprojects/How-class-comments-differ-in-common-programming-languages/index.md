@@ -32,7 +32,7 @@ Our aim is to perform a comparative study, designing tools capable to extract cl
 -  Compare identified information types across different languages.
 
 #Further Material
-[Class comment Analysis](/download/softwarecomposition/2019-11-26-Ivan-classCommentAnalysis.pdf)
+[Class comment Analysis](%base_url%/download/softwarecomposition/2019-11-26-Ivan-classCommentAnalysis.pdf)
 
 #Contact
 [Pooja Rani](%base_url%/staff/Pooja-Rani)

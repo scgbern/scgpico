@@ -31,7 +31,7 @@ In continuation to our previous work, we aim to improve the existing machine-lea
 -  Present your results. 
 
 #Further Material
-[Class comment Analysis](/download/softwarecomposition/2019-11-26-Ivan-classCommentAnalysis.pdf)
+[Class comment Analysis](%base_url%/download/softwarecomposition/2019-11-26-Ivan-classCommentAnalysis.pdf)
 
 #Contact
 [Pooja Rani](%base_url%/staff/Pooja-Rani)

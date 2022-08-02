@@ -9,4 +9,4 @@
 
 #Publications<span style="color:red"> new!
 
-**[A Workbench for Statically Analyzing Multi-Language Software Corpora](%assets_url%/archive/papers/Cara14c.pdf)**. Andrea Caracciolo, Andrei Chis, Boris Spasojevic, and Mircea Lungu. ([details](/scgbib?query=Cara14c))
+**[A Workbench for Statically Analyzing Multi-Language Software Corpora](%assets_url%/archive/papers/Cara14c.pdf)**. Andrea Caracciolo, Andrei Chis, Boris Spasojevic, and Mircea Lungu. ([details](%base_url%/scgbib?query=Cara14c))

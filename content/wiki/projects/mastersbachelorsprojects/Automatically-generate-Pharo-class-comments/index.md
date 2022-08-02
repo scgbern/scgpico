@@ -19,9 +19,9 @@ NB: Search the references in Scg bib
 
 #Further Material
 
--  [Introduction to the topic](/download/softwarecomposition/2020-11-17-Hess-GeneratePharoClassComments.pdf)
--  [Results](/download/softwarecomposition/2021-04-27-Hess-GeneratePharoClassComments.pdf)
--  [Thesis](/archive/projects/Hess21a.pdf)
+-  [Introduction to the topic](%base_url%/download/softwarecomposition/2020-11-17-Hess-GeneratePharoClassComments.pdf)
+-  [Results](%base_url%/download/softwarecomposition/2021-04-27-Hess-GeneratePharoClassComments.pdf)
+-  [Thesis](%base_url%/archive/projects/Hess21a.pdf)
 
 
 #Contact

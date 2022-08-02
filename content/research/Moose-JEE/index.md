@@ -76,4 +76,4 @@ Gofer new
 
 
 - Main Contact: Fabrizio Perin <a href="mailto:perin@iam.unibe.ch">perin@iam.unibe.ch</a>
- [web page](/staff/fabrizioperin)
+ [web page](%base_url%/staff/fabrizioperin)

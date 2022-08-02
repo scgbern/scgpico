@@ -41,6 +41,6 @@ However, you would have to design the API in such a way that it makes sense to y
 
 #Further Reading
 
--  Brief overview of Polite - [/research/Polite](/research/Polite)
+-  Brief overview of Polite - [/research/Polite](%base_url%/research/Polite)
 -  Overview of Mindstorms -  http://www.lego.com/en-us/mindstorms/gettingstarted/historypage/
 -  Smalltalk syntax on a postcard - [http://goo.gl/38zIu6](http://goo.gl/38zIu6)

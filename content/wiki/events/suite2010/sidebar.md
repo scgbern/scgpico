@@ -17,10 +17,10 @@
 # Download
 
 
--  [Suite 2010, PREPRINTS](/download/suite/suite2010-preprints.zip) new!
+-  [Suite 2010, PREPRINTS](%base_url%/download/suite/suite2010-preprints.zip) new!
 -  [Suite-2010-call-for-papers.pdf](http://www.iam.unibe.ch/~scg/download/suite/suite-2010-call-for-papers.pdf)
 -  [Suite-2009-workshop-reader.pdf](http://www.iam.unibe.ch/~scg/download/suite/Suite-2009-workshop-reader.pdf)
--  [Suite2009.bib](/download/suite/suite2009.bib)
+-  [Suite2009.bib](%base_url%/download/suite/suite2009.bib)
 
 # Web 2.0
 

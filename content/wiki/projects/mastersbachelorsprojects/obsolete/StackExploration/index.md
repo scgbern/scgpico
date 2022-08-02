@@ -20,7 +20,7 @@ The goal of this project is do develop a mechanism for exploring and visualising
 
 # Benefits/Requirements/Challenges
 
-This project will give you the chance to learn more about user interfaces and debugging. The project will be done in [Pharo](http://www.pharo-project.org/%20), an open-source Smalltalk-inspired environment. You will see a language quite different from Java and C#. The work will be done in the context of the ["Moldable Debugger"](/research/moldabledebugger)[2][3], a framework for creating domain-specific debuggers. 
+This project will give you the chance to learn more about user interfaces and debugging. The project will be done in [Pharo](http://www.pharo-project.org/%20), an open-source Smalltalk-inspired environment. You will see a language quite different from Java and C#. The work will be done in the context of the ["Moldable Debugger"](%base_url%/research/moldabledebugger)[2][3], a framework for creating domain-specific debuggers. 
 
 You should apply for this project if you have good programming skills in any object-oriented language. Knowing anything about Pharo is not required.
 
@@ -31,7 +31,7 @@ In this form the project is available as a bachelor project. (Can be extended to
 
 -  [1] [Call stack](http://en.wikipedia.org/wiki/Call_stack%20)
 -  [2] [Towards a Moldable Debugger](http://rmod.lille.inria.fr/archives/dyla13/dyla13_4_Towards_a_Moldable_Debugger.pdf)
--  [3] [The "Moldable Debugger" framework](/research/moldabledebugger)
+-  [3] [The "Moldable Debugger" framework](%base_url%/research/moldabledebugger)
 -  [4] [A first look at the Pharo debugger](http://chisvasileandrei.wordpress.com/2013/10/24/a-first-look-at-the-pharo-debugger/)
 
 

@@ -23,7 +23,7 @@ The runtime support should be realized by translating Polite into the normal Sma
 
 ##Further Reading
 
--  Brief overview of Polite - [/research/Polite](/research/Polite)
+-  Brief overview of Polite - [/research/Polite](%base_url%/research/Polite)
 -  Smalltalk syntax on a postcard - [http://goo.gl/38zIu6](http://goo.gl/38zIu6)
 
 Contact: [Mircea F. Lungu](%base_url%/staff/mircea) or [Jan Kurš](%base_url%/staff/kursjan)

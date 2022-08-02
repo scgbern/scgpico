@@ -14,4 +14,4 @@ We have built a first version of dynamic ownership with the following features:
 
 **Publication**
 
-Erwann Wernli, Pascal Maerki, Oscar Nierstrasz. [Ownership, Filters and Crossing Handlers.](/scgbib?query=Wern12c&display=abstract) In Dynamic Language Symposium (DLS), to appear, 2012
+Erwann Wernli, Pascal Maerki, Oscar Nierstrasz. [Ownership, Filters and Crossing Handlers.](%base_url%/scgbib?query=Wern12c&display=abstract) In Dynamic Language Symposium (DLS), to appear, 2012

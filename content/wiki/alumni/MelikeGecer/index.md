@@ -19,10 +19,10 @@ My first presentation is available on SCG's website [3]
 My final presentation is available on SCG's website [4]
 
 
-[1] [/wiki/projects/archive/strings-attached](/wiki/projects/archive/strings-attached)
+[1] [/wiki/projects/archive/strings-attached](%base_url%/wiki/projects/archive/strings-attached)
 
 [2] [https://github.com/melikegecer/MastersProjects/tree/master/Software_Composition_Seminar](https://github.com/melikegecer/MastersProjects/tree/master/Software_Composition_Seminar)
 
-[3] [/download/softwarecomposition/2019-06-25-Gecer-DebuggingSpark.pdf](/download/softwarecomposition/2019-06-25-Gecer-DebuggingSpark.pdf)
+[3] [/download/softwarecomposition/2019-06-25-Gecer-DebuggingSpark.pdf](%base_url%/download/softwarecomposition/2019-06-25-Gecer-DebuggingSpark.pdf)
 
-[4] [/download/softwarecomposition/2019-12-10-MelikeGecer-Debugging%20Spark.pdf](/download/softwarecomposition/2019-12-10-MelikeGecer-Debugging%20Spark.pdf)
+[4] [/download/softwarecomposition/2019-12-10-MelikeGecer-Debugging%20Spark.pdf](%base_url%/download/softwarecomposition/2019-12-10-MelikeGecer-Debugging%20Spark.pdf)

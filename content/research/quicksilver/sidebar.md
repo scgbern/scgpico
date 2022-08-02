@@ -1,4 +1,4 @@
 #Related Tools
 
--  [Softwarenaut](/softwarenaut)
+-  [Softwarenaut](%base_url%/softwarenaut)
 -  Roassal

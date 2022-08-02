@@ -10,4 +10,4 @@ Title: Activities
 ##2009
 
 
--  Participant at the Seminar on Advanced Tools & Techniques for Software Evolution ([SATToSE 2009](/wiki/events/sattose2009)) - Cap Hornu, France (2009.05.10-2009.05.14)
+-  Participant at the Seminar on Advanced Tools & Techniques for Software Evolution ([SATToSE 2009](%base_url%/wiki/events/sattose2009)) - Cap Hornu, France (2009.05.10-2009.05.14)

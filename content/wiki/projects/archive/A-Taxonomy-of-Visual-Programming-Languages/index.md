@@ -7,8 +7,8 @@ Since the 1970s a large variety of different kinds of visual programming languag
 #Some useful links:
 
 
--  [Visual Programming lecture](/download/lectures/pl/PL-12VisualProgramming.pdf) of the [PL: Programming Languages](%base_url%/teaching/pl) MSc course
--  [Selected papers](/scgbib?query=visprog)
+-  [Visual Programming lecture](%base_url%/download/lectures/pl/PL-12VisualProgramming.pdf) of the [PL: Programming Languages](%base_url%/teaching/pl) MSc course
+-  [Selected papers](%base_url%/scgbib?query=visprog)
 -  [Selected paper downloads](http://scgresources.unibe.ch/Literature/VisualProgramming/) (unibe access)
 -  [Wikipedia page on Visual Programming Languages](https://en.wikipedia.org/wiki/Visual_programming_language)
 

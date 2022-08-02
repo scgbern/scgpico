@@ -2,7 +2,7 @@
 Title: Accepted Papers
 ---
 #Accepted Papers
-<big>&rarr; Download all [Suite 2010 PREPRINTS](/download/suite/suite2010-preprints.zip) in one ZIP archive!</big>
+<big>&rarr; Download all [Suite 2010 PREPRINTS](%base_url%/download/suite/suite2010-preprints.zip) in one ZIP archive!</big>
 
 ### Towards Integrating E-Mail Communication in the IDE
 

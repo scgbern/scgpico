@@ -13,7 +13,7 @@ Moreover, Android allows adversaries to decompile apps into source code, and eve
 Generic recommendations and guidelines for web APIs are publicly available, but as we suspect the perceived value for customers is very low since they are invisible to end users. Presumably, the security audits are regularly neglected or wholly abandoned.
 
 #Task
-First, you might want to have [here](/download/pgadient/web-api-evaluation-concept.jpg) a quick look on the conceptual ideal.
+First, you might want to have [here](%base_url%/download/pgadient/web-api-evaluation-concept.jpg) a quick look on the conceptual ideal.
 The goal of this project is to assess the potential risks caused by server-side interfaces that originate from these client-server implementations and to raise the awareness of potential threats.
 The recommended approach is first to rebuild the used data structures (e.g. JSON objects) from source code, before building a data model on top that is capable of correlating variable names and structures with values or value ranges that show a high likelihood.
 Finally, with the help of the data model, we can drive further targeted attacks on a large scale of Android apps' web APIs to determine possible hazards.

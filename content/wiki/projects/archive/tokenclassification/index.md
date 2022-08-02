@@ -17,8 +17,8 @@ beginnings and endings of the basic building blocks of programs.
 
 #Resources
 
-- [Presentation](/files/f1/ntdacrkl0rx5jj0irv6salykyt4q24/SCS-Presentation-Automatic-token-classification.pdf)
-- [Bachelor Thesis](/archive/projects/Gugg15a.pdf)
+- [Presentation](%base_url%/files/f1/ntdacrkl0rx5jj0irv6salykyt4q24/SCS-Presentation-Automatic-token-classification.pdf)
+- [Bachelor Thesis](%base_url%/archive/projects/Gugg15a.pdf)
 - Github Repository: [https://github.com/jogug/AuToCa.git](https://github.com/jogug/AuToCa.git)
 
 
