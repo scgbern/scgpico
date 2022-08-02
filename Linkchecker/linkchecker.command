@@ -6,6 +6,8 @@ D=`dirname "$0"`
 cd "$D"
 log=log.$$.txt
 
+# OTHER=--check-extern
+
 linkchecker http://scg.unibe.ch \
 	--ignore-url=/softwarenaut \
 	--ignore-url=/assets \
@@ -13,7 +15,10 @@ linkchecker http://scg.unibe.ch \
 	--ignore-url=/download \
 	--ignore-url=/files \
 	--ignore-url=/archive \
-		--check-extern \
+	$OTHER \
 	> $log
 
 open $log
+
+
+exit
