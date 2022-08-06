@@ -1,7 +1,8 @@
 ---
 Title: SCG
 ---
-#SCG
+# SCG
+
 ![/download/photos/Reza-PhD-2022-05-11.jpg](%assets_url%/download/photos/Reza-PhD-2022-05-11.jpg)
 
 The Software Composition Group carried out research at the borderline between software engineering and programming languages from 1994 to 2021.
