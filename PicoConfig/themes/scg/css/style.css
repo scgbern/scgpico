@@ -55,6 +55,10 @@ body { display: flex; flex-direction: column; }
 /* very ugly overflow fix, avoid this whenever possible! */
 #main .container { overflow-x: auto; }
 
+.search-button {
+	color: black;
+}
+
 /*** The side navigation menu ***/
 
 .sidebar {
