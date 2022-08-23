@@ -12,7 +12,7 @@ As of January 2022, the research and teaching activities of the SCG have been ta
 
 This web site provides access to the [Research](%base_url%/research), [Publications](%base_url%/publications) and [Teaching](%base_url%/teaching) material produced by the SCG to the end of 2021.
 
-<form action="http://www.google.com/search" method="get">
+<form action="https://www.google.com/search" method="get">
     <input type="hidden" name="q" value="site:scg.unibe.ch">
     <input type="text" name="q" alt="search">
     <input type="submit" value="Search SCG" formtarget="_blank"/>
