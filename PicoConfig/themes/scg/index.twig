@@ -56,14 +56,16 @@
     </div>
 
     <div id="main" role="main">
-        <div class="container">
-            {{ content }}
-        </div>
-	    <div class="sidebar">
-				<div class="container">
-			        {{ current_page.id|replace({'index':'sidebar'})|content }}
-				</div>
-	    </div>
+      <div class="container">
+          {{ content }}
+      </div>
+      {% if current_page.id ends with 'index' %}
+  	    <div class="sidebar">
+  				<div class="container">
+  			        {{ current_page.id|replace({'index':'sidebar'})|content }}
+  				</div>
+  	    </div>
+      {% endif %}
     </div>
 
     <div id="footer">
