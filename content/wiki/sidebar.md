@@ -12,8 +12,5 @@
 - [Events](wiki/events)
 - [SC: Software Composition Seminar](wiki/softwarecompositionseminar)
 - [dev-codemap](wiki/devcodemap)
-- [OOMPS 2013 - OOpsla Mock Pc @ Scg 2013](wiki/oomps-2013)
+- [OOMPS 2013 - OOPSLA Mock PC @ SCG 2013](wiki/oomps-2013)
 
-
-#Search SCG Bibliography
-<form method="GET" action="%assets_url%/scgbib"><input type="text" name="query" size="15" maxlength="800"/><input type="submit" value="scg bib"/></form>
