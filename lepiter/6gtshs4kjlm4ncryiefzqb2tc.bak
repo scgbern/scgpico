@@ -562,6 +562,117 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-02-08T16:36:29.865944+01:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-02-08T16:37:34.012619+01:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "FfXDw5OwDQCueGoXCByVOQ=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "{{gtTodo:label=Create PicoPage and PicoWebsite classes|completed=}}"
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-02-08T16:36:42.699813+01:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-02-08T16:40:40.075111+01:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "ZPmMxJOwDQCu0OTrCByVOQ=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "{{gtTodo:label=Create a dedicate views for the Pages and Website|completed=}}"
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-02-08T16:37:13.20663+01:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-02-08T16:37:13.20663+01:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "Wd9wxpOwDQCvmmTdCByVOQ=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : ""
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
 									"dateAndTimeString" : "2023-02-08T15:54:22.780464+01:00"
 								}
 							},
@@ -610,14 +721,14 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-02-08T16:02:31.836439+01:00"
+									"dateAndTimeString" : "2023-02-08T16:31:12.790395+01:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
 								"uidString" : "BXBwMJOwDQCRcPr0BSDJ3w=="
 							},
-							"code" : "scgpico := FileLocator imageDirectory / 'pharo-local' / 'iceberg' / 'scgbern'\r\t\t/ 'scgpico' / 'content'.\rmfFiles := scgpico allChildrenMatching: '*.md'"
+							"code" : "scgpico := FileLocator imageDirectory / 'pharo-local' / 'iceberg' / 'scgbern'\r\t\t/ 'scgpico' / 'content'.\rmdFiles := scgpico allChildrenMatching: '*.md'.\rpages := mdFiles collect: [ :each | PicoPage forFile: each ]."
 						},
 						{
 							"__type" : "pharoSnippet",
@@ -633,7 +744,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-02-08T15:56:26.014432+01:00"
+									"dateAndTimeString" : "2023-02-08T16:35:06.62418+01:00"
 								}
 							},
 							"editEmail" : {
@@ -644,14 +755,14 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-02-08T16:13:16.985911+01:00"
+									"dateAndTimeString" : "2023-02-08T16:37:54.006166+01:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
-								"uidString" : "U6qTNJOwDQCSOqIrBSDJ3w=="
+								"uidString" : "nF3lvpOwDQCt8qMpCByVOQ=="
 							},
-							"code" : "mdFiles collect: [: each | PicoPage forFile: each ]."
+							"code" : "pages collect: #relativePath ."
 						},
 						{
 							"__type" : "pharoSnippet",
@@ -667,7 +778,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-02-08T16:16:32.922761+01:00"
+									"dateAndTimeString" : "2023-02-08T16:37:54.356883+01:00"
 								}
 							},
 							"editEmail" : {
@@ -678,48 +789,14 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-02-08T16:21:32.854196+01:00"
+									"dateAndTimeString" : "2023-02-08T16:38:25.231739+01:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
-								"uidString" : "iaODfJOwDQCWCaGCBSDJ3w=="
+								"uidString" : "lsbkyJOwDQCv3bxCCByVOQ=="
 							},
-							"code" : "mdFiles first fullName  findString: 'scgpico/content/'"
-						},
-						{
-							"__type" : "pharoSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-02-08T16:20:44.765328+01:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-02-08T16:21:29.977464+01:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "VG2Gi5OwDQCXcUf9BSDJ3w=="
-							},
-							"code" : "mdFiles first fullName copyFrom: 73 + 'scgpico/content/' size to: mdFiles first fullName size "
+							"code" : "scgweb := PicoWebsite new."
 						},
 						{
 							"__type" : "textSnippet",

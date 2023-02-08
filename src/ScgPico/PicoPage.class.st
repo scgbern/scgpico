@@ -29,8 +29,8 @@ PicoPage >> file [
 { #category : #initalization }
 PicoPage >> file: aFileReference [
 	| assoc |
-	self file: aFileReference.
-	assoc := PicoParser parse: (self file) contents.
+	file := aFileReference.
+	assoc := PicoParser parse: self file contents.
 	title := assoc key.
 	body := assoc value
 ]
@@ -42,7 +42,7 @@ PicoPage >> fullPath [
 
 { #category : #accessing }
 PicoPage >> relativePath [
-	self fullPath
+	^ self fullPath
 		copyFrom: (self fullPath findString: self contentPath) + self contentPath size
 		to: self fullPath size
 ]
