@@ -17,5 +17,5 @@ BaselineOfScgPico class >> loadLepiter [
 { #category : #baseline }
 BaselineOfScgPico >> baseline: spec [
 	<baseline>
-	spec for: #common do: [ spec for: #common do: [ spec package: 'ScgPico' ] ]
+	spec for: #common do: [ spec package: 'ScgPico' ]
 ]
