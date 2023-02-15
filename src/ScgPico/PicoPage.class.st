@@ -4,7 +4,8 @@ Class {
 	#instVars : [
 		'file',
 		'title',
-		'body'
+		'body',
+		'path'
 	],
 	#category : #'ScgPico-Model'
 }
@@ -14,6 +15,11 @@ PicoPage class >> forFile: aFileReference [
 	^ self new
 		file: aFileReference
 
+]
+
+{ #category : #accessing }
+PicoPage >> body [
+	^ body
 ]
 
 { #category : #constants }
@@ -41,8 +47,30 @@ PicoPage >> fullPath [
 ]
 
 { #category : #accessing }
+PicoPage >> gtBodyTextFor: aView [
+	<gtView>
+	^ aView textEditor
+		title: 'Text';
+		priority: 30;
+		aptitude: BrGlamorousRegularEditorAptitude;
+		text: [ self body asRopedText ]
+]
+
+{ #category : #accessing }
+PicoPage >> path [
+	path
+		ifNil: [ path := self fullPath
+					copyFrom: (self fullPath findString: self contentPath) + self contentPath size
+					to: self fullPath size ].
+	^ path
+]
+
+{ #category : #accessing }
 PicoPage >> relativePath [
-	^ self fullPath
-		copyFrom: (self fullPath findString: self contentPath) + self contentPath size
-		to: self fullPath size
+	^ self path
+]
+
+{ #category : #accessing }
+PicoPage >> title [
+	^ title
 ]

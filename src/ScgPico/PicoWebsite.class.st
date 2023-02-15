@@ -20,14 +20,17 @@ PicoWebsite >> gtPagesFor: aView [
 				eachIndex asRopedText foreground: Color gray ]
 			width: 45;
 		column: 'Page' 
-			text: [ :page | page relativePath ].
+			text: [ :page | page relativePath ];
+		column: 'Title' 
+			text: [ :page | page title ].
 ]
 
 { #category : #accessing }
 PicoWebsite >> initialize [
 	| mdFiles |
 	mdFiles := self scgpico allChildrenMatching: '*.md'.
-	pages := mdFiles collect: [ :each | PicoPage forFile: each ]
+	pages := (mdFiles collect: [ :each | PicoPage forFile: each ])
+			sorted: [ :a :b | a path < b path ]
 ]
 
 { #category : #accessing }
