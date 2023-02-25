@@ -8,7 +8,7 @@
 
 #Events
 
-- Keynote Speaker for [VISSOFT 2022](https://vissoft.info/2022/)
+- *PC Member* of [SLE 2023](https://www.sleconf.org/2023/) (ACM SIGPLAN International Conference on Software Language Engineering &mdash; Cascais, Portugal, co-loacted with [SPLASH 2023](https://2023.splashcon.org) Oct. 22-27, 2023)
 
 *See also:* [past events](%base_url%/staff/oscar/past)
 

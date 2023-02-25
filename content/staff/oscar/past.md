@@ -4,6 +4,7 @@ Title: Past events
 #Past events
 ##2021
 
+- Keynote Speaker for [VISSOFT 2022](https://vissoft.info/2022/) (10th IEEE Working Conference on Software Visualization &mdash; Limmasol, Cyprus, Oct.2-3, 2022)
 - *PC Member* of [ICSME 2021](https://icsme2021.github.io) (37th International Conference on Software Maintenance and Evolution &mdash; Luxembourg City, Sept. 27 - Oct. 1, 2021)
 ##2020
 
