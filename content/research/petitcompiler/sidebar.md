@@ -5,4 +5,4 @@
 
 #See also
 
-[PaetitParser](%base_url%/research/helvetia/petitparser)
+[PetitParser](%base_url%/research/helvetia/petitparser) page
