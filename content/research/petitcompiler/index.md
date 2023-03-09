@@ -3,13 +3,9 @@ Title: PetitParser Compiler
 ---
 #PetitParser Compiler
 
-![Logo](%assets_url%/download/petitparser/pc-logo-v2.png)
+![Logo](%assets_url%/download/petitparser/pc-logo-v2-small.png)
 
-<br />
 Petit Compiler accepts PetitParser as input and produces a Smalltalk class with an equivalent top-down parser. Combinators of PetitParser  are analyzed and the fastest parsing strategy is choosen for each of them. The compiled parser is significantly faster.
-
-<br />
-<br />
 
 #Performance
 ##Smalltalk
@@ -20,15 +16,12 @@ We compare four different Smalltalk parsers. All of them create an identical AST
 -  **SmaCC** is a parser compiled by SmaCC ([see more](https://github.com/ThierryGoubier/SmaCC)) from a LALR grammar.
 -  **Hand-Written** is a hand-written parser used by Pharo to compile its code.
 
-<div>
-<center>![Smalltalk-speedup](%assets_url%/download/petitparser/performance-smalltalk-speedup.png)</center>
-Speedup compared to PetitParser.
-</div>
-<div>
-![Smalltalk-tpc](%assets_url%/download/petitparser/performance-smalltalk-tpc.png)
-<center>Average time per character for each of the parsers.</center>
-</div>
+![Smalltalk-speedup](%assets_url%/download/petitparser/performance-smalltalk-speedup.png)
 
+Speedup compared to PetitParser.
+
+![Smalltalk-tpc](%assets_url%/download/petitparser/performance-smalltalk-tpc.png)
+Average time per character for each of the parsers.
 
 ##Other Benchmarks
 In general, we measure performance speedup ranging form factor two to ten. In the figure bellow, there is a speedup for the following grammars:
@@ -39,7 +32,7 @@ In general, we measure performance speedup ranging form factor two to ten. In th
 -  **Java** is PetitParser implementation of Java grammar.
 -  **Python** is an island gramar that extracts structure of Python programs while utilizing indentation.
 
-<div>![Speedup](%assets_url%/files/b8/rwxmje9y5a1teein09iyfwb4sb41fg/performance-0.png)</div>
+![Speedup](%assets_url%/download/petitparser/performance-0.png)
 
 
 #Installation
