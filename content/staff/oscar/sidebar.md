@@ -6,8 +6,8 @@
 - [CV](%assets_url%/download/oscar/oncv.pdf)
 - [Publications](%assets_url%/scgbib/?query=Nierstrasz&filter=Year)
 - [Presentation slides](%assets_url%/download/oscar/Slides)
-- [Presentations videos](https://youtube.com/playlist?list=PL0ojCViKdEqunI_qgEyeYDphqgq9fP1IJ) YouTube channel
-- [GT in 7'](https://youtube.com/playlist?list=PLfrs5bwLJOoAaHvQGSLeKpHWmFuZXPUTJ) (YouTube channel)
+- [Presentations videos](https://youtube.com/playlist?list=PL0ojCViKdEqunI_qgEyeYDphqgq9fP1IJ) (YouTube)
+- [GT in 7'](https://youtube.com/playlist?list=PLfrs5bwLJOoAaHvQGSLeKpHWmFuZXPUTJ) (YouTube)
 
 #Events
 
