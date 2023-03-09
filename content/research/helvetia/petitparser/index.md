@@ -2,7 +2,8 @@
 Title: PetitParser
 ---
 #PetitParser
-<div id="logo" style="position: relative; height: 50px">![logo.png](%assets_url%/files/c0/gidr6vlrj4aw5k22a3y9fajle0qui0/petitparser-small.png)</div>
+
+![/download/helvetia/helvetia.png](%base_url%/download/helvetia/petitparser-small.png)
 
 Grammars for programming languages are traditionally specified statically. They are hard to compose and reuse due to ambiguities that inevitably arise. PetitParser combines ideas from scannerless parsing, parser combinators, parsing expression grammars and packrat parsers to model grammars and parsers as objects that can be reconfigured dynamically.
 

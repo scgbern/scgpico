@@ -2,7 +2,8 @@
 Title: PetitParser Compiler
 ---
 #PetitParser Compiler
-<figure style="width: 150px; float: right;">![Logo](%assets_url%/files/ba/756pt73kvee5u2lojwv0jrog8wxd9q/pc-logo-v2.png)</figure>
+
+![Logo](%assets_url%/download/petitparser/pc-logo-v2.png)
 
 <br />
 Petit Compiler accepts PetitParser as input and produces a Smalltalk class with an equivalent top-down parser. Combinators of PetitParser  are analyzed and the fastest parsing strategy is choosen for each of them. The compiled parser is significantly faster.
@@ -20,11 +21,11 @@ We compare four different Smalltalk parsers. All of them create an identical AST
 -  **Hand-Written** is a hand-written parser used by Pharo to compile its code.
 
 <div>
-<center>![Smalltalk-speedup](%assets_url%/files/99/grhp8rrtv1sct6ezrqtzmsicuhf71v/performance-smalltalk-speedup.png)</center>
+<center>![Smalltalk-speedup](%assets_url%/download/petitparser/performance-smalltalk-speedup.png)</center>
 Speedup compared to PetitParser.
 </div>
 <div>
-![Smalltalk-tpc](%assets_url%/files/55/n97jiqzxq7jjt7bpu5v8dw1lllrcez/performance-smalltalk-tpc.png)
+![Smalltalk-tpc](%assets_url%/download/petitparser/performance-smalltalk-tpc.png)
 <center>Average time per character for each of the parsers.</center>
 </div>
 
