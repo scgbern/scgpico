@@ -10,6 +10,7 @@ See the [PetitParser home page](https://petitparser.github.io) to find PP for ot
 - [PP introductory tutorial](https://www.lukas-renggli.ch/blog/petitparser-1)
 - [PP composite grammars tutorial](https://www.lukas-renggli.ch/blog/petitparser-2)
 - [Deep into Pharo](https://books.pharo.org/deep-into-pharo/index.html)
+- [Publications](%base_url%/assets/scgbib/?query=petitparser&filter=Year)
 
 #PetitParser2
 
@@ -17,4 +18,4 @@ PetitParser2 is a reimplementation of PP by [Jan Kurš](%base_url%/staff/kursjan
 
 - [PP2 tutorial](https://kursjan.github.io/petitparser2/petitparser2.html)
 - [PP2 github repo](https://github.com/kursjan/petitparser2)
-
+- [PetitCompiler](%base_url%/research/petitcompiler)
