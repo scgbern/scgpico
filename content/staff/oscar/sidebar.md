@@ -5,6 +5,7 @@
 
 - [CV](%assets_url%/download/oscar/oncv.pdf)
 - [Publications](%assets_url%/scgbib/?query=Nierstrasz&filter=Year)
+- [Talks](%assets_url%/download/oscar/Slides)
 
 #Events
 
