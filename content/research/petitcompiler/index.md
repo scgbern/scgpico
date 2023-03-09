@@ -34,7 +34,6 @@ In general, we measure performance speedup ranging form factor two to ten. In th
 
 ![Speedup](%assets_url%/download/petitparser/performance-0.png)
 
-
 #Installation
 ```
 Gofer new smalltalkhubUser: 'JanKurs' project: 'PetitParser';
