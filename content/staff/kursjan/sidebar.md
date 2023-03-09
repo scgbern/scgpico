@@ -1,2 +1,5 @@
 
-[Jan Kurš on LinkedIn](https://www.linkedin.com/in/jankurs/)
+#Web presence
+
+- [LinkedIn page](https://www.linkedin.com/in/jankurs/)
+- [GitHub page](https://github.com/kursjan)
