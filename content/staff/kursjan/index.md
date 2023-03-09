@@ -4,15 +4,8 @@ Title: Jan Kurš
 #Jan Kurš
 
 I was a PhD candidate at the Software Composition Group, University of Bern since 2012.
-I defended my [PHD](%assets_url%/scgbib/?query=kursjan+phd)
+I defended my [PhD](%assets_url%/scgbib/?query=kursjan+phd)
  in 2018.
-
--  email
--  <a href=mailto:kurs@iam.unibe.ch>kurs@inf.unibe.ch</a>
--  telephone
-- \+41 31 511 7638
--  room number
--  105
 
 ##Research interests and topic
 
@@ -26,10 +19,6 @@ I defended my [PHD](%assets_url%/scgbib/?query=kursjan+phd)
 -  [PEG Error Recovery](%base_url%/wiki/projects/archive/ErrorRecovery)
 -  [Automatic Token Classification](%base_url%/wiki/projects/archive/tokenclassification)
 -  [Parsing Ruby with Bounded Seas](%base_url%/wiki/projects/archive/BoundedSeasRuby)
-
-
-##Seminar, Bachelor's and Master's projects
-Please see [SCG Projects](%base_url%/wiki/projects)
 
 #Publications
 [Author Page](%assets_url%/scgbib/?query=kursjan&filter=Year)
