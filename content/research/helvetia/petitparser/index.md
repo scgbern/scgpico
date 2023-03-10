@@ -54,26 +54,6 @@ There are some differences between the official PetitParser and this port. GNU S
 
 More details can be found in the blog article of [Holger Hans Peter Freyther](http://smalltalk.gnu.org/blog/zecke/petitparser-gnu-smalltalk).
 
-##Cincom Smalltalk
-
-This requires [Cincom VisualWorks 7.7](http://www.cincomsmalltalk.com/main/products/visualworks/) or later:
-
-
--  Choose 'Connect to Repository' from the 'Store' menu.
--  Provide the following information in the dialog that pops up:
-	-  Interface: PostgreSQLEXDIConnection
-	-  Environment: db.iam.unibe.ch:5432_scgStore
-	-  User Name: storeguest (if you have one, put yours)
-	-  Password: storeguest (if you have one, put yours)
-	-  Table Owner: BERN
-
--  Click on 'Save...' and 'Connect'.
--  Choose 'Published Items' from the 'Store' menu.
--  Load the bundle PetitParser.
-
-##Visual Smalltalk Enterprise
-
-There is a [port](http://vse-wiki.apis.de/index.cgi/Source%20code%20for%20VS-Smalltalk) of PetitParser to VSE by Leandro Caniglia.
 
 ##Java
 
@@ -82,15 +62,6 @@ There is a version of [PetitParser for Java](https://github.com/renggli/PetitPar
 ##Dart
 
 There is also a version of [PetitParser for Dart](https://github.com/renggli/PetitParserDart).
-
-
-##Smalltalk/X
-
-There is also a version of PetitParser for Smalltalk/X.
-
-#Contact
-
-Please report bugs or ask questions in the [Pharo](http://lists.gforge.inria.fr/mailman/listinfo/pharo-project) or [Moose](http://www.moosetechnology.org/about/contact) mailing-lists.
 
 #License
 
