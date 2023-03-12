@@ -6,7 +6,7 @@ This page collects several of the most common writing errors that I have noticed
 
 See also: [Get it Write](http://www.getitwriteonline.com/archive/tips.htm)
 
-And see also ``[How to Write Good](http://www.workableweb.com/_pages/tips_how_to_write_good.htm), by Michael O'Donoghue ;-)
+And see also [How to Write Good](http://www.workableweb.com/_pages/tips_how_to_write_good.htm), by Michael O'Donoghue ;-)
 
 - [Never say "allows to" again](%base_url%/wiki/howtos/commonwritingerrors/neverSayAllowsToAgain)
 - [Citations are annotations, not parts of speech](%base_url%/wiki/howtos/commonwritingerrors/citationsAreAnnotations)
