@@ -41,7 +41,7 @@ The research group ceased its activities at the end of 2021.
 	- [Object-Centric Debugging](%base_url%/research/bifrost/OCD) &mdash; Object-centric debugging
 	- [Prisma](%base_url%/research/bifrost/prisma) &mdash; Reflect as you go, dynamic scopes.
 	- [Talents](%base_url%/research/bifrost/talents) &mdash; Dynamically composable units of reuse
-	- [Scoped Talents](%base_url%/research/bifrost/scopedtalents) &mdash;
+		- [Scoped Talents](%base_url%/research/bifrost/scopedtalents)
 
 - [Big Software Data](%base_url%/research/bigsoftwaredata) &mdash; analyzing software at the largest scale
 - [ByteSurgeon](%base_url%/research/bytesurgeon) &mdash; Runtime bytecode transformation for smalltalk
