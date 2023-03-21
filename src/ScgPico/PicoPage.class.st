@@ -34,11 +34,11 @@ PicoPage >> file [
 
 { #category : #initalization }
 PicoPage >> file: aFileReference [
-	| assoc |
+	| dict |
 	file := aFileReference.
-	assoc := PicoParser parse: self file contents.
-	title := assoc key.
-	body := assoc value
+	dict := PicoParser parse: self file contents.
+	title := dict at: #title.
+	body := dict at: #body.
 ]
 
 { #category : #accessing }
@@ -53,7 +53,7 @@ PicoPage >> gtBodyTextFor: aView [
 		title: 'Text';
 		priority: 30;
 		aptitude: BrGlamorousRegularEditorAptitude;
-		text: [ self body asRopedText ]
+		text: [ ((String cr repeat: 2) join: self body) asRopedText ]
 ]
 
 { #category : #accessing }

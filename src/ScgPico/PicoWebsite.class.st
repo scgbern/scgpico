@@ -22,7 +22,7 @@ PicoWebsite >> gtPagesFor: aView [
 		column: 'Page' 
 			text: [ :page | page relativePath ];
 		column: 'Title' 
-			text: [ :page | page title ].
+			text: [ :page | page title value ].
 ]
 
 { #category : #accessing }

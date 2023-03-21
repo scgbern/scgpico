@@ -3,6 +3,10 @@ Extension { #name : #GtHome }
 { #category : #'*ScgPico' }
 GtHome >> getScgPicoSection [
 	<gtHomeSection>
-	^ ScgPicoHomeSection new
-		priority: 10
+	^ GtHomeStartPageSection new 
+		title: 'SCG Pico';
+		description: 'SCG Pico Overview';
+		databaseName: 'SCG Pico';
+		startPageName: 'SCG Pico Overview';
+		priority: 8
 ]
