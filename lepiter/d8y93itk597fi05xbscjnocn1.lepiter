@@ -71,7 +71,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-02-28T17:52:10.925407+01:00"
+									"dateAndTimeString" : "2023-03-21T15:04:52.372681+01:00"
 								}
 							},
 							"uid" : {
@@ -81,7 +81,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "[[Parse the page headers and create the Page and Website classes]]"
+							"string" : "[[Parse page title and nody (first attempt)]]"
 						},
 						{
 							"__type" : "textSnippet",
