@@ -1,13 +1,43 @@
+"
+I am a collection of PicoPage objects.
+"
 Class {
 	#name : #PicoWebsite,
 	#superclass : #Object,
 	#instVars : [
-		'pages'
+		'pages',
+		'lepiterDB'
 	],
 	#category : #'ScgPico-Model'
 }
 
 { #category : #accessing }
+PicoWebsite >> addLepiterDB [
+	<todo: 'Check that it doesn''t exist already'>
+	| dbDir |
+	dbDir := self lepiterDir.
+	dbDir ensureCreateDirectory.
+	LeDatabasesRegistry defaultLogicalDatabase properties
+		addRegisteredDirectory: dbDir.
+	LeDatabasesRegistry defaultLogicalDatabase reload
+]
+
+{ #category : #accessing }
+PicoWebsite >> addLepiterPages [
+	self pages do: [ :each | self lepiterDB addPage: each lePage ]
+]
+
+{ #category : #accessing }
+PicoWebsite >> gtLepiterFor: aView [
+	<gtView>
+	^ aView forward
+		title: 'Lepiter DB';
+		priority: 20;
+		object: [ self lepiterDB ];
+		view: #gtLiveFor:
+]
+
+{ #category : #view }
 PicoWebsite >> gtPagesFor: aView [
 	<gtView>
 	^ aView columnedList
@@ -25,15 +55,43 @@ PicoWebsite >> gtPagesFor: aView [
 			text: [ :page | page title value ].
 ]
 
-{ #category : #accessing }
+{ #category : #initialization }
 PicoWebsite >> initialize [
-	| mdFiles |
-	mdFiles := self scgpico allChildrenMatching: '*.md'.
-	pages := (mdFiles collect: [ :each | PicoPage forFile: each ])
-			sorted: [ :a :b | a path < b path ]
+	self loadPages.
+	self addLepiterDB.
+	self addLepiterPages.
 ]
 
 { #category : #accessing }
+PicoWebsite >> lepiterDB [
+	lepiterDB
+		ifNil: [ lepiterDB := LeDatabasesRegistry defaultLogicalDatabase databases
+					detect: [ :db | db monitor localRoot = self lepiterDir ] ].
+	^ lepiterDB
+]
+
+{ #category : #constant }
+PicoWebsite >> lepiterDir [
+	^ FileLocator imageDirectory / 'picoLepiter'
+]
+
+{ #category : #initialization }
+PicoWebsite >> loadPages [
+	| mdFiles |
+	mdFiles := self scgpico allChildrenMatching: '*.md'.
+	pages := (mdFiles
+			collect: [ :each | 
+				each basenameWithoutExtension = 'sidebar'
+					ifTrue: [ SideBar forFile: each ]
+					ifFalse: [ PicoPage forFile: each ] ]) sorted: [ :a :b | a path < b path ]
+]
+
+{ #category : #accessing }
+PicoWebsite >> pages [
+	^ pages
+]
+
+{ #category : #constant }
 PicoWebsite >> scgpico [
 	^ FileLocator imageDirectory / 'pharo-local' / 'iceberg' / 'scgbern'
 		/ 'scgpico' / 'content'
