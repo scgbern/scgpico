@@ -12,6 +12,7 @@
 - [PetitParser composite grammars tutorial](https://www.lukas-renggli.ch/blog/petitparser-2)
 - [PetitParser slides](https://www.slideshare.net/slideshow/embed_code/7224303)
 - [Deep into Pharo](https://books.pharo.org/deep-into-pharo/index.html)
+- [PetitParser versions](https://source.lukas-renggli.ch/petit/) (static files)
 
 # PetitParser 2
 
