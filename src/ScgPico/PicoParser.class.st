@@ -2,48 +2,60 @@ Class {
 	#name : #PicoParser,
 	#superclass : #PP2CompositeNode,
 	#instVars : [
-		'separator',
 		'title',
+		'newline',
 		'header',
-		'noHeader',
+		'paragraph',
 		'body',
-		'picoFile'
+		'file'
 	],
 	#category : #'ScgPico-PP2'
 }
 
 { #category : #grammar }
 PicoParser >> body [
-	^ #any asPParser star flatten
+	^ (header optional ,
+		paragraph ,
+		(newline plus , paragraph) star ,
+		newline star)
+		==> [ :node | 
+			| paragraphs |
+			paragraphs := node third
+					ifEmpty: [ {node second} asOrderedCollection ]
+					ifNotEmpty: [ (node third collect: #second) asOrderedCollection
+							addFirst: node second;
+							yourself ].
+			{#title -> node first.
+				#body -> paragraphs} asDictionary ]
+]
+
+{ #category : #grammar }
+PicoParser >> file [
+	^ body end
 ]
 
 { #category : #grammar }
 PicoParser >> header [
-	^ (separator , title , separator) ==> #second
+	^ ('---' asPParser , newline , 'Title:' asPParser trim , title , newline
+		, '---' asPParser , newline) ==> #fourth
 ]
 
 { #category : #grammar }
-PicoParser >> noHeader [
-	^ separator not ==> [ :node | #untitled ]
+PicoParser >> newline [
+	^ #newline asPParser
 ]
 
 { #category : #grammar }
-PicoParser >> picoFile [
-	^ (header / noHeader , body) ==> [ :node | node first -> node second ]
-]
-
-{ #category : #grammar }
-PicoParser >> separator [
-	^ ('---' asPParser , #newline asPParser) flatten
+PicoParser >> paragraph [
+	^ (newline negate plus / (newline , newline not)) plus token
 ]
 
 { #category : #accessing }
 PicoParser >> start [
-	^ picoFile
+	^ file
 ]
 
 { #category : #grammar }
 PicoParser >> title [
-	^ ('Title: ' asPParser , #newline asPParser negate plus flatten
-		, #newline asPParser) ==> #second
+	^ #newline asPParser negate plus token
 ]

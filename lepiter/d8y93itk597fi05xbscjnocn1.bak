@@ -71,7 +71,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-02-28T17:52:10.925407+01:00"
+									"dateAndTimeString" : "2023-03-21T15:04:52.372681+01:00"
 								}
 							},
 							"uid" : {
@@ -81,7 +81,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "[[Parse the page headers and create the Page and Website classes]]"
+							"string" : "[[Parse page title and nody (first attempt)]]"
 						},
 						{
 							"__type" : "textSnippet",
@@ -97,7 +97,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-02-28T17:52:13.504135+01:00"
+									"dateAndTimeString" : "2023-03-21T15:45:38.214837+01:00"
 								}
 							},
 							"editEmail" : {
@@ -108,7 +108,44 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-02-28T17:52:13.504135+01:00"
+									"dateAndTimeString" : "2023-03-21T15:45:45.387457+01:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "dqIs1cuzDQCwRkDuDu3A2Q=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "[[Parsing Pico pages]] "
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-02-28T17:53:31.807519+01:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-02-28T17:53:32.64852+01:00"
 								}
 							},
 							"uid" : {
@@ -118,7 +155,44 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : ""
+							"string" : "[[Create Pico classes]] "
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-03-21T16:28:31.927147+01:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-03-21T16:28:34.779847+01:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "JCndbsyzDQC/nXhbDu3A2Q=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "[[Populating a lepiter database]] "
 						}
 					]
 				},
