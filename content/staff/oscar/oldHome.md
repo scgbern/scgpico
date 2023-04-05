@@ -4,9 +4,10 @@ Description: This a copy of my legacy SCG home page. The old one redirects to my
 ---
 #Oscar Nierstrasz
 
-[![/download/oscar/on-nov-2017-no-painting-very-small.jpg](%assets_url%/download/oscar/on-nov-2017-no-painting-very-small.jpg)](%base_url%/staff/oscar/oscar-free-picture)
+*NB:* This is an archival copy of my legacy SCG home page. 
+My old SCG staff page redirects to my [personal website](https://www.oscar.nierstrasz.org).
 
-*NB:* This is an archival copy of my legacy SCG home page. The old one redirects to my [personal website](https://www.oscar.nierstrasz.org).
+[![/download/oscar/on-nov-2017-no-painting-very-small.jpg](%assets_url%/download/oscar/on-nov-2017-no-painting-very-small.jpg)](%base_url%/staff/oscar/oscar-free-picture)
 
 Oscar Nierstrasz is Professor Emeritus of Computer Science at the [Institute of Computer Science ](http://www.inf.unibe.ch/index_eng.html/) (INF) in the [Faculty of Science](http://www.philnat.unibe.ch/index_eng.html) of the [University of Bern](http://www.unibe.ch/index_eng.html), where he founded the [Software Composition Group](%base_url%/) in 1994.
 He retired from the University of Bern at the end of 2021, and is currently working at [feenk.com](https://feenk.com/about/).
