@@ -1,6 +1,6 @@
 ---
 Title: Oscar Nierstrasz
-Description: This is my legacy SCG home page. It now redirects to https://www.oscar.nierstrasz.org
+Description: This a copy of my legacy SCG home page. The old one redirects to my newer personal website.
 ---
 #Oscar Nierstrasz
 [![/download/oscar/on-nov-2017-no-painting-very-small.jpg](%assets_url%/download/oscar/on-nov-2017-no-painting-very-small.jpg)](%base_url%/staff/oscar/oscar-free-picture)
