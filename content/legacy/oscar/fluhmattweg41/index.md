@@ -11,7 +11,7 @@ We live at [Fluhmattweg 41](http://map.search.ch/3122-kehrsatz/fluhmattweg-41.en
 - SWITZERLAND 
 - *Telephone:* \+41 31 961.7065 
 
-If you don't know where Kehrsatz is, first follow the [directions to Kehrsatz](%base_url%/staff/oscar/kehrsatz), then return to the instructions below.
+If you don't know where Kehrsatz is, first follow the [directions to Kehrsatz](%base_url%/legacy/oscar/kehrsatz), then return to the instructions below.
 
 <iframe width="650" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?hl=en&amp;ie=UTF8&amp;msa=0&amp;msid=110476830793224828628.00046cafd248d8a595b14&amp;ll=46.909856,7.469158&amp;spn=0.006926,0.013915&amp;output=embed"></iframe><br /><small>View <a href="http://maps.google.com/maps/ms?hl=en&amp;ie=UTF8&amp;msa=0&amp;msid=110476830793224828628.00046cafd248d8a595b14&amp;ll=46.909856,7.469158&amp;spn=0.006926,0.013915&amp;source=embed" style="color:#0000FF;text-align:left">Directions to our house</a> in a larger map</small>
 

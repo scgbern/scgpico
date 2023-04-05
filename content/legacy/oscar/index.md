@@ -7,7 +7,7 @@ Description: This a copy of my legacy SCG home page. The old one redirects to my
 *NB:* This is an archival copy of my legacy SCG home page. 
 My old SCG staff page redirects to my [personal website](https://www.oscar.nierstrasz.org).
 
-[![/download/oscar/on-nov-2017-no-painting-very-small.jpg](%assets_url%/download/oscar/on-nov-2017-no-painting-very-small.jpg)](%base_url%/staff/oscar/oscar-free-picture)
+[![/download/oscar/on-nov-2017-no-painting-very-small.jpg](%assets_url%/download/oscar/on-nov-2017-no-painting-very-small.jpg)](%base_url%/legacy/oscar/oscar-free-picture)
 
 Oscar Nierstrasz is Professor Emeritus of Computer Science at the [Institute of Computer Science ](http://www.inf.unibe.ch/index_eng.html/) (INF) in the [Faculty of Science](http://www.philnat.unibe.ch/index_eng.html) of the [University of Bern](http://www.unibe.ch/index_eng.html), where he founded the [Software Composition Group](%base_url%/) in 1994.
 He retired from the University of Bern at the end of 2021, and is currently working at [feenk.com](https://feenk.com/about/).
@@ -47,7 +47,7 @@ He is a citizen of Canada, Switzerland and Italy.
 
 - My h-index is [53](https://scholar.google.com/citations?user=Yi00hUYAAAAJ)
 - My [Erdös number](http://www.oakland.edu/enp/) is 3: [Oscar Nierstrasz &mdash; David M. Jackson &mdash; E. Rodney Canfield &mdash; Paul Erdös](%assets_url%/scgbib/?query=onerdos123&filter=Year)
-- [Dagstuhls I have attended](%base_url%/staff/oscar/dagstuhl)
+- [Dagstuhls I have attended](%base_url%/legacy/oscar/dagstuhl)
 - [This web page in 1999](http://web.archive.org/web/19990210095953/http://www.iam.unibe.ch/~oscar/) on the [Wayback machine](http://archive.org/web/web.php)
 
 ---

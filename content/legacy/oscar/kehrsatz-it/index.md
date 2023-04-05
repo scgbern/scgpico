@@ -23,7 +23,7 @@ Presumiamo che, se vivete a Berna, conosciate già come arrivare a Kehrsatz e no
 
 <iframe width="650" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?hl=en&amp;ie=UTF8&amp;source=embed&amp;msa=0&amp;msid=110476830793224828628.00046cb02d943d88ccaba&amp;ll=46.918145,7.474136&amp;spn=0.082076,0.22316&amp;z=12&amp;output=embed"></iframe><br /><small>View <a href="http://maps.google.com/maps/ms?hl=en&amp;ie=UTF8&amp;source=embed&amp;msa=0&amp;msid=110476830793224828628.00046cb02d943d88ccaba&amp;ll=46.918145,7.474136&amp;spn=0.082076,0.22316&amp;z=12" style="color:#0000FF;text-align:left">Driving to Kehrsatz</a> in a larger map</small>
 
-Ora siete pronti per seguire le [indicazioni su come raggiungere la nostra casa](%base_url%/staff/oscar/fluhmattweg41-it).
+Ora siete pronti per seguire le [indicazioni su come raggiungere la nostra casa](%base_url%/legacy/oscar/fluhmattweg41-it).
 
 #Alternativa per gli amici Italiani
 Se avete paura di passare in parte per le vie della città di Berna, anziché uscire a Bern/Bümpliz, potete continuare sull'autostrada in direzione di Thun/Interlaken, passare le varie uscite di Bern come pure quella di Muri e
@@ -33,6 +33,6 @@ Se avete paura di passare in parte per le vie della città di Berna, anziché us
 - prosegiute sempre diritto e subito dopo troverete alla vostra destra un piccolo distributore di benzina; andate ancora avanti per qualche centinaio di metri e prima del ponte prendete a destra l'uscita per Kehrsatz.
 - Superate il primo attraversamento dei binari della stazione, andate avanti sino alla fine della strada e al segnale di precedenza (di fronte a voi vedrete il ristorante Brunello) girate a sinistra e attraversate nuovamente i binari nel centro di Kehrsatz.
 
-Ora siete pronti per seguire le [indicazioni su come raggiungere la nostra casa](%base_url%/staff/oscar/fluhmattweg41-it).
+Ora siete pronti per seguire le [indicazioni su come raggiungere la nostra casa](%base_url%/legacy/oscar/fluhmattweg41-it).
 
 ---

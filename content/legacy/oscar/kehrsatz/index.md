@@ -23,7 +23,7 @@ I assume that if you live in Bern, then you already know how to get to Kehrsatz 
 
 <iframe width="650" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?hl=en&amp;ie=UTF8&amp;source=embed&amp;msa=0&amp;msid=110476830793224828628.00046cb02d943d88ccaba&amp;ll=46.918145,7.474136&amp;spn=0.082076,0.22316&amp;z=12&amp;output=embed"></iframe><br /><small>View <a href="http://maps.google.com/maps/ms?hl=en&amp;ie=UTF8&amp;source=embed&amp;msa=0&amp;msid=110476830793224828628.00046cb02d943d88ccaba&amp;ll=46.918145,7.474136&amp;spn=0.082076,0.22316&amp;z=12" style="color:#0000FF;text-align:left">Driving to Kehrsatz</a> in a larger map</small>
 
-Now you are ready to follow the [directions to our house](%base_url%/staff/oscar/fluhmattweg41). 
+Now you are ready to follow the [directions to our house](%base_url%/legacy/oscar/fluhmattweg41). 
 
 #Alternative route from the South
 If you are nervous about driving through Bern, instead of taking the Bern/Bümpliz exit, you can continue on the highway in the direction of Thun/Interlaken (or perhaps you are coming from that direction) and 
@@ -33,6 +33,6 @@ If you are nervous about driving through Bern, instead of taking the Bern/Bümpl
 - Continue straight, passing a small gas station, and take the Kehrsatz exit.
 - Cross the train tracks and continue straight on to a T intersection. (You will find the Brunello restaurant directly in front.). Turn left and cross the train tracks again.
 
-Now you are ready to follow the [directions to our house](%base_url%/staff/oscar/fluhmattweg41). 
+Now you are ready to follow the [directions to our house](%base_url%/legacy/oscar/fluhmattweg41). 
 
 ---
