@@ -58,3 +58,5 @@ DummyPlugin.enabled: false          # Force the plugin "DummyPlugin" to be disab
 # Custom
 #
 my_custom_setting: Hello World!     # You can access custom settings in themes using {{ config.my_custom_setting }}
+
+google_tracking_id: "G-1PY8TZMCDN"
