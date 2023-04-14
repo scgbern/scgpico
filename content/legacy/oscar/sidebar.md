@@ -14,7 +14,7 @@
 
 - *PC Member* of [SLE 2023](https://www.sleconf.org/2023/) (ACM SIGPLAN International Conference on Software Language Engineering &mdash; Cascais, Portugal, co-loacted with [SPLASH 2023](https://2023.splashcon.org) Oct. 22-27, 2023)
 
-*See also:* [past events](%base_url%/legacy/oscar/past)
+*See also:* [past events](https://www.oscar.nierstrasz.org/past/)
 
 <a class="twitter-timeline"  href="https://twitter.com/onierstrasz" data-widget-id="283887192156278784">Tweets by &#64;onierstrasz</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
