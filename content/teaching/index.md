@@ -13,9 +13,8 @@ Title: Teaching
 ##Masters
 
 - [CC: Compiler Construction](%base_url%/teaching/cc) (Masters); archived on [GitHub](https://github.com/onierstrasz/course-compiler-construction)
-- [CP: Concurrency: State Models and Design Patterns](%base_url%/teaching/cp) (Masters); archived on [GitHub](https://github.com/onierstrasz/course-concurrent-programming) and - [YouTube](https://www.youtube.com/playlist?list=PL0ojCViKdEqveZBlzEwggERYWWrKJb3vn)
-
-- [PL: Programming Languages](%base_url%/teaching/pl) (Masters); archived on [GitHub](https://github.com/onierstrasz/course-programming-languages) and - [YouTube](https://youtube.com/playlist?list=PL0ojCViKdEqu8tC7NtiqUMVbE1Xed7XeB)
+- [CP: Concurrency: State Models and Design Patterns](%base_url%/teaching/cp) (Masters); archived on [GitHub](https://github.com/onierstrasz/course-concurrent-programming) and [YouTube](https://www.youtube.com/playlist?list=PL0ojCViKdEqveZBlzEwggERYWWrKJb3vn)
+- [PL: Programming Languages](%base_url%/teaching/pl) (Masters); archived on [GitHub](https://github.com/onierstrasz/course-programming-languages) and [YouTube](https://youtube.com/playlist?list=PL0ojCViKdEqu8tC7NtiqUMVbE1Xed7XeB)
 - [SMA: Software Modeling and Analysis](%base_url%/teaching/sma) (Masters); partially archived on [GitHub](https://github.com/onierstrasz/course-software-modeling-and-analysis)
 
 #Past seminars
