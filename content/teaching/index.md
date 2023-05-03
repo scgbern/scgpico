@@ -6,16 +6,17 @@ Title: Teaching
 
 ##Bachelors
 
-- [EI: Einführung in die Informatik](%base_url%/teaching/ei) (Bachelors); partially archived on [github](https://github.com/onierstrasz/course-intro-cs)
-- [P2: Programming 2 &mdash; Object-Oriented Design](%base_url%/teaching/p2) (Bachelors); archived on [github](https://github.com/onierstrasz/course-p2-oo-design)
-- [ESE: Introduction to Software Engineering (Einführung in SE)](%base_url%/teaching/ese) (Bachelors); archived on [github](https://github.com/onierstrasz/course-intro-se)
+- [EI: Einführung in die Informatik](%base_url%/teaching/ei) (Bachelors); partially archived on [GitHub](https://github.com/onierstrasz/course-intro-cs)
+- [P2: Programming 2 &mdash; Object-Oriented Design](%base_url%/teaching/p2) (Bachelors); archived on [GitHub](https://github.com/onierstrasz/course-p2-oo-design)
+- [ESE: Introduction to Software Engineering (Einführung in SE)](%base_url%/teaching/ese) (Bachelors); archived on [GitHub](https://github.com/onierstrasz/course-intro-se)
 
 ##Masters
 
-- [CC: Compiler Construction](%base_url%/teaching/cc) (Masters); archived on [github](https://github.com/onierstrasz/course-compiler-construction)
-- [CP: Concurrency: State Models and Design Patterns](%base_url%/teaching/cp) (Masters); archived on [github](https://github.com/onierstrasz/course-concurrent-programming)
-- [PL: Programming Languages](%base_url%/teaching/pl) (Masters); archived on [github](https://github.com/onierstrasz/course-programming-languages)
-- [SMA: Software Modeling and Analysis](%base_url%/teaching/sma) (Masters); partially archived on [github](https://github.com/onierstrasz/course-software-modeling-and-analysis)
+- [CC: Compiler Construction](%base_url%/teaching/cc) (Masters); archived on [GitHub](https://github.com/onierstrasz/course-compiler-construction)
+- [CP: Concurrency: State Models and Design Patterns](%base_url%/teaching/cp) (Masters); archived on [GitHub](https://github.com/onierstrasz/course-concurrent-programming) and - [YouTube](https://www.youtube.com/playlist?list=PL0ojCViKdEqveZBlzEwggERYWWrKJb3vn)
+
+- [PL: Programming Languages](%base_url%/teaching/pl) (Masters); archived on [GitHub](https://github.com/onierstrasz/course-programming-languages) and - [YouTube](https://youtube.com/playlist?list=PL0ojCViKdEqu8tC7NtiqUMVbE1Xed7XeB)
+- [SMA: Software Modeling and Analysis](%base_url%/teaching/sma) (Masters); partially archived on [GitHub](https://github.com/onierstrasz/course-software-modeling-and-analysis)
 
 #Past seminars
 
