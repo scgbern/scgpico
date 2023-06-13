@@ -7,14 +7,18 @@ Most of our [SCG Publications](%assets_url%/scgbib/?query=scg-pub&filter=Year) a
 
 #Books
 [![/download/pharobyexample/pbe-small.jpg](%assets_url%/download/pharobyexample/pbe-small.jpg)](https://books.pharo.org/updated-pharo-by-example)
-[![/download/oorp/pictures/oorp-small.jpg](%assets_url%/download/oorp/pictures/oorp-small.jpg)](%assets_url%/download/oorp)
+[![/download/oorp/pictures/oorp-small.jpg](https://www.oscar.nierstrasz.org/files/oorp/oorp-small.jpg)](https://www.oscar.nierstrasz.org/oorp/)
 
 [Pharo by Example](https://books.pharo.org/updated-pharo-by-example/)  is an open-source book about the Pharo development environment for the classic Smalltalk-80 programming language. This book updates the earlier [Squeak by Example](http://SqueakByExample.org/) to the Pharo fork of Squeak, and adds new chapters on the Seaside web application development framework, and on practical use of reflection in Pharo.
 
-[Object-Oriented Reengineering Patterns](%assets_url%/download/oorp) is an open-source re-release of the book originally published by Morgan-Kaufmann and now out-of-print. This book collects and distills successful techniques in planning a reengineering project, reverse-engineering, problem detection, migration strategies and software redesign. The PDF can be downloaded freely, or you may purchase an inexpensive print-on-demand softcover volume.
+[Object-Oriented Reengineering Patterns](https://www.oscar.nierstrasz.org/oorp/) is an open-source re-release of the book originally published by Morgan-Kaufmann and now out-of-print. This book collects and distills successful techniques in planning a reengineering project, reverse-engineering, problem detection, migration strategies and software redesign. The PDF can be downloaded freely, or you may purchase an inexpensive print-on-demand softcover volume.
 
 #Awards
 The following SCG publications, theses and demos have received awards:
+
+##2023
+
+- AITO 
 
 ##2022
 
