@@ -18,7 +18,7 @@ The following SCG publications, theses and demos have received awards:
 
 ##2023
 
-- The [AITO 2023 Test of Time award](https://sites.google.com/aito.org/home/test-of-time-award/2023-tot-winners?pli=1) for [Traits: Composable Units of Behaviour](https://scg.unibe.ch/assets/scgbib/?query=Scha03a&filter=Year) by [Nathanael Schärli](https://www.linkedin.com/in/nathanael-schärli-118a3984/), [Stéphane Ducasse](http://stephane.ducasse.free.fr/), [Oscar Nierstrasz](https://www.oscar.nierstrasz.org), [Andrew P. Black](http://web.cecs.pdx.edu/~black/) (ECOOP 2003)
+- The [AITO 2023 Test of Time award](https://sites.google.com/aito.org/home/test-of-time-award/2023-tot-winners?pli=1) for [Traits: Composable Units of Behaviour](https://scg.unibe.ch/assets/scgbib/?query=Scha03a&filter=Year) (ECOOP 2003) by [Nathanael Schärli](https://www.linkedin.com/in/nathanael-schärli-118a3984/), [Stéphane Ducasse](http://stephane.ducasse.free.fr/), [Oscar Nierstrasz](https://www.oscar.nierstrasz.org), [Andrew P. Black](http://web.cecs.pdx.edu/~black/)
 
 ##2022
 
