@@ -490,7 +490,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-03-21T16:17:08.585548+01:00"
+									"dateAndTimeString" : "2023-03-21T16:17:29.580554+01:00"
 								}
 							},
 							"uid" : {
@@ -500,7 +500,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "This file has a separator `--"
+							"string" : "This file has a separator `---` in the middle, so we remove that constraint from the `paragraph` rule."
 						},
 						{
 							"__type" : "pharoSnippet",
@@ -535,6 +535,43 @@
 								"uidString" : "dJZOPsyzDQC2zvfODu3A2Q=="
 							},
 							"code" : "PicoParser parse: 'pharo-local/iceberg/scgbern/scgpico/content/research/vison.md' asFileReference contents ."
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-03-21T16:17:33.649005+01:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-03-21T16:17:37.249133+01:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "RqKgR8yzDQC5d2BhDu3A2Q=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "Now all files parse."
 						},
 						{
 							"__type" : "pharoSnippet",

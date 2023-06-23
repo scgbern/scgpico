@@ -29,7 +29,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-03-21T15:05:17.230649+01:00"
+						"dateAndTimeString" : "2023-06-23T09:21:05.257109+02:00"
 					}
 				},
 				"uid" : {
@@ -39,7 +39,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "See also [[Parse page title and nody (first attempt)]] "
+				"string" : "See also [[Parse page title and body (first attempt)]] "
 			},
 			{
 				"__type" : "textSnippet",

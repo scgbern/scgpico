@@ -59,7 +59,7 @@ PicoWebsite >> gtPagesFor: aView [
 PicoWebsite >> initialize [
 	self loadPages.
 	self addLepiterDB.
-	self addLepiterPages.
+	"self addLepiterPages."
 ]
 
 { #category : #accessing }
