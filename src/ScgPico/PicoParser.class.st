@@ -36,9 +36,10 @@ PicoParser >> file [
 
 { #category : #grammar }
 PicoParser >> header [
-	^ ('---' asPParser , newline , 
-		'Title:' asPParser trim , title , newline,
-		'---' asPParser , newline) ==> #fourth
+	^ ('---' asPParser , newline 
+		, ('---' asPParser not , #any asPParser) star
+		, '---' asPParser , newline) flatten
+		==> [ :node | (YAMLParser parse: node) object at: 'Title' ]
 ]
 
 { #category : #grammar }
