@@ -25,6 +25,11 @@ PicoPage >> body [
 	^ body
 ]
 
+{ #category : #accessing }
+PicoPage >> bodyText [
+	^ (String cr repeat: 2) join: self body
+]
+
 { #category : #constants }
 PicoPage >> contentPath [
 	^ 'scgpico/content/'
@@ -40,8 +45,8 @@ PicoPage >> file: aFileReference [
 	| dict |
 	file := aFileReference.
 	dict := PicoParser parse: self file contents.
-	title := dict at: #title.
-	body := dict at: #body.
+	title := (dict at: #title) ifNil: [ 'MISSING TITLE' ].
+	body := (dict at: #body) ifNil: [ 'MISSING BODY' ]
 ]
 
 { #category : #accessing }
@@ -56,7 +61,7 @@ PicoPage >> gtBodyTextFor: aView [
 		title: 'Text';
 		priority: 30;
 		aptitude: BrGlamorousRegularEditorAptitude;
-		text: [ ((String cr repeat: 2) join: self body) asRopedText ]
+		text: [ self bodyText asRopedText ]
 ]
 
 { #category : #accessing }

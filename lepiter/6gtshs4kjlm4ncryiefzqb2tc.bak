@@ -109,7 +109,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-03-21T15:04:52.375488+01:00"
+									"dateAndTimeString" : "2023-06-23T09:21:05.262977+02:00"
 								}
 							},
 							"uid" : {
@@ -119,7 +119,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "[[Parse page title and nody (first attempt)]] "
+							"string" : "[[Parse page title and body (first attempt)]] "
 						},
 						{
 							"__type" : "textSnippet",
@@ -172,7 +172,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-03-21T15:04:09.906969+01:00"
+									"dateAndTimeString" : "2023-06-23T09:20:53.016444+02:00"
 								}
 							},
 							"editEmail" : {
@@ -183,7 +183,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-03-21T15:04:09.906969+01:00"
+									"dateAndTimeString" : "2023-06-23T09:20:53.019249+02:00"
 								}
 							},
 							"uid" : {
@@ -193,7 +193,118 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : ""
+							"string" : "[[Create Pico classes]]"
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-06-23T09:20:56.415105+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-06-23T10:45:44.853081+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "doIGlCi7DQCpY2HgAw8aGA=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "[[Populating a lepiter database]]"
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-06-23T09:20:57.043505+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-06-23T10:46:20.272789+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "hk84lCi7DQCpglhEAw8aGA=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "[[Adding Spotter searches]] "
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-06-23T11:04:36.026707+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-06-23T11:04:45.422547+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "AHPmBiq7DQCT1AILAw8aGA=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "[[*** FIX the Missing title issue"
 						}
 					]
 				},
@@ -264,6 +375,192 @@
 					"__type" : "textStyle"
 				},
 				"string" : ""
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-06-23T10:55:13.614189+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-06-23T10:55:51.224704+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "rLpg5Sm7DQCwtOjrAw8aGA=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "Check the [issues](https://github.com/scgbern/scgpico/issues) in the [scgpico repo](https://github.com/scgbern/scgpico)."
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-06-23T10:53:55.685008+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-06-23T10:54:06.046865+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "bKC74Cm7DQCwJiylAw8aGA=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "Provide a tree view."
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-06-23T10:54:06.551986+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-06-23T10:56:15.825954+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "UXJh4Sm7DQCwk5mrAw8aGA=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "Find internal and external links on each page."
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-06-23T10:56:16.094371+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-06-23T11:03:27.278938+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "ORsa6Sm7DQCy/oj9Aw8aGA=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "Check for broken external links. See {{gtPage:How to check for broken links|db=cqvjoxfnf6zd764ibqa67pln6}}. "
+						}
+					]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-06-23T10:53:52.570581+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-06-23T10:53:54.911809+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "SRqM4Cm7DQCwCKUSAw8aGA=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "#Todo"
 			}
 		]
 	},

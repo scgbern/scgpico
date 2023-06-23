@@ -109,7 +109,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-03-21T15:04:52.372681+01:00"
+									"dateAndTimeString" : "2023-06-23T09:21:05.260034+02:00"
 								}
 							},
 							"uid" : {
@@ -119,7 +119,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "[[Parse page title and nody (first attempt)]]"
+							"string" : "[[Parse page title and body (first attempt)]]"
 						},
 						{
 							"__type" : "textSnippet",
@@ -220,7 +220,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-03-21T16:29:17.553525+01:00"
+									"dateAndTimeString" : "2023-06-23T10:45:44.850094+02:00"
 								}
 							},
 							"uid" : {
@@ -230,7 +230,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "[[*Populating a lepiter database]] "
+							"string" : "[[Populating a lepiter database]] "
 						}
 					]
 				},

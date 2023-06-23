@@ -18,7 +18,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-06-23T09:20:40.074009+02:00"
+						"dateAndTimeString" : "2023-06-23T10:46:21.672038+02:00"
 					}
 				},
 				"editEmail" : {
@@ -29,17 +29,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-06-23T09:21:34.193682+02:00"
+						"dateAndTimeString" : "2023-06-23T10:47:28.884778+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "xyIOkSi7DQCoxxXhAw8aGA=="
+					"uidString" : "f/KrxSm7DQC7c7PnAw8aGA=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "See [[SCG Pico TOC]]  and [[Create Pico classes]]"
+				"string" : "We add two searches to the pages view: {{gtMethod:name=PicoWebsite>>#gtSpotterForPagePathFor:}} and {{gtMethod:name=PicoWebsite>>#gtSpotterForPageTitlesFor:}}. "
 			},
 			{
 				"__type" : "textSnippet",
@@ -55,7 +55,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-06-23T09:50:30.106911+02:00"
+						"dateAndTimeString" : "2023-06-23T10:47:30.019508+02:00"
 					}
 				},
 				"editEmail" : {
@@ -66,17 +66,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-06-23T09:53:04.069358+02:00"
+						"dateAndTimeString" : "2023-06-23T10:47:40.279155+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "g4l4lii7DQCp0KRaAw8aGA=="
+					"uidString" : "eNa+ySm7DQC9GWcLAw8aGA=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Explore as follows (as SIngleton):"
+				"string" : "We can now search by title or path."
 			},
 			{
 				"__type" : "pharoSnippet",
@@ -92,7 +92,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-06-23T09:21:37.530805+02:00"
+						"dateAndTimeString" : "2023-06-23T10:46:51.950238+02:00"
 					}
 				},
 				"editEmail" : {
@@ -103,14 +103,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-06-23T09:52:54.530138+02:00"
+						"dateAndTimeString" : "2023-06-23T10:47:52.464667+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "Nxeilii7DQCp1TK+Aw8aGA=="
+					"uidString" : "E+55xym7DQC8X1tKAw8aGA=="
 				},
-				"code" : "PicoWebsite instance."
+				"code" : "PicoWebsite instance. "
 			},
 			{
 				"__type" : "textSnippet",
@@ -126,7 +126,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-06-23T09:52:48.026928+02:00"
+						"dateAndTimeString" : "2023-06-23T10:48:38.216354+02:00"
 					}
 				},
 				"editEmail" : {
@@ -137,20 +137,20 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-06-23T09:53:33.45918+02:00"
+						"dateAndTimeString" : "2023-06-23T10:50:46.948152+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "45ofBim7DQCRSXxuAw8aGA=="
+					"uidString" : "bnDPzSm7DQC95whpAw8aGA=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "To force a reload:"
+				"string" : "We also add the possibility to search in the body text. "
 			},
 			{
-				"__type" : "pharoSnippet",
+				"__type" : "textSnippet",
 				"children" : {
 					"__type" : "snippets",
 					"items" : [ ]
@@ -163,7 +163,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-06-23T09:53:21.292075+02:00"
+						"dateAndTimeString" : "2023-06-23T10:48:52.660437+02:00"
 					}
 				},
 				"editEmail" : {
@@ -174,14 +174,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-06-23T10:51:09.189167+02:00"
+						"dateAndTimeString" : "2023-06-23T10:48:52.660437+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "lSsbCCm7DQCScI8GAw8aGA=="
+					"uidString" : "Lderzim7DQC/RUFOAw8aGA=="
 				},
-				"code" : "[PicoWebsite renew] timeToRun"
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : ""
 			}
 		]
 	},
@@ -193,7 +196,7 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2023-06-23T09:20:03.920748+02:00"
+			"dateAndTimeString" : "2023-06-23T10:46:21.642968+02:00"
 		}
 	},
 	"editEmail" : {
@@ -204,15 +207,15 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2023-06-23T09:20:03.920748+02:00"
+			"dateAndTimeString" : "2023-06-23T10:46:21.642968+02:00"
 		}
 	},
 	"pageType" : {
 		"__type" : "namedPage",
-		"title" : "Instantiating and exploring the SCG Pico website"
+		"title" : "Adding Spotter searches"
 	},
 	"uid" : {
 		"__type" : "uuid",
-		"uuid" : "d3ba0d91-28bb-0d00-a8c6-a2c4030f1a18"
+		"uuid" : "7280abc5-29bb-0d00-bb72-5abf030f1a18"
 	}
 }

@@ -55,7 +55,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-06-23T09:21:34.807193+02:00"
+						"dateAndTimeString" : "2023-06-23T09:50:30.106911+02:00"
 					}
 				},
 				"editEmail" : {
@@ -66,7 +66,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-06-23T09:21:34.807193+02:00"
+						"dateAndTimeString" : "2023-06-23T09:53:04.069358+02:00"
 					}
 				},
 				"uid" : {
@@ -76,7 +76,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : ""
+				"string" : "Explore as follows (as SIngleton):"
 			},
 			{
 				"__type" : "pharoSnippet",
@@ -103,14 +103,85 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-06-23T09:21:38.03986+02:00"
+						"dateAndTimeString" : "2023-06-23T09:52:54.530138+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "Nxeilii7DQCp1TK+Aw8aGA=="
 				},
-				"code" : "scgweb := PicoWebsite new."
+				"code" : "PicoWebsite instance."
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-06-23T09:52:48.026928+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-06-23T09:53:33.45918+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "45ofBim7DQCRSXxuAw8aGA=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "To force a reload:"
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-06-23T09:53:21.292075+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-06-23T10:51:05.377684+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "lSsbCCm7DQCScI8GAw8aGA=="
+				},
+				"code" : "[PicoWebsite renew.] t"
 			}
 		]
 	},

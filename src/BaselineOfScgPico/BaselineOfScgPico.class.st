@@ -6,12 +6,16 @@ Class {
 
 { #category : #'lepiter-store' }
 BaselineOfScgPico class >> loadLepiter [
-	| currentProperties |
-	currentProperties := LeDatabasesRegistry defaultLogicalDatabase properties.
-	currentProperties
-		addRegisteredDirectory: FileLocator imageDirectory / 'pharo-local' / 'iceberg' / 'scgbern'
-				/ 'scgpico' / 'lepiter'.
-	LeDatabasesRegistry default defaultLogicalDatabase reload
+	IceRepository registry
+		detect: [ :aRepository | aRepository name = 'scgpico' ]
+		ifFound: [ :aRepository | 
+			| defaultDatabase currentProperties |
+			defaultDatabase := LeDatabasesRegistry defaultLogicalDatabase.
+			currentProperties := defaultDatabase properties.
+			currentProperties
+				addRegisteredDirectory: aRepository repositoryDirectory / 'lepiter'.
+			defaultDatabase reload ]
+		ifNone: [ self inform: 'Repository not found.' ]
 ]
 
 { #category : #baseline }
