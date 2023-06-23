@@ -66,7 +66,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-06-23T12:04:23.496286+02:00"
+						"dateAndTimeString" : "2023-06-23T12:04:43.406902+02:00"
 					}
 				},
 				"uid" : {
@@ -76,7 +76,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "This is now fixed by delegating the parsing of the YAML header to the {{gtClass:name=YAMLParser}} in th "
+				"string" : "This is now fixed by delegating the parsing of the YAML header to the {{gtClass:name=YAMLParser}} in the {{gtMethod:name=PicoParser>>#header}}. "
 			},
 			{
 				"__type" : "textSnippet",
@@ -769,12 +769,12 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2023-06-23T12:03:30.155362+02:00"
+			"dateAndTimeString" : "2023-06-23T18:22:11.298444+02:00"
 		}
 	},
 	"pageType" : {
 		"__type" : "namedPage",
-		"title" : "FIX the Missing title issue"
+		"title" : "Fixed the Missing title issue"
 	},
 	"uid" : {
 		"__type" : "uuid",
