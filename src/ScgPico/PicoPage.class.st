@@ -9,17 +9,17 @@ Class {
 		'title',
 		'body',
 		'path',
-		'db',
+		'website',
 		'lePage'
 	],
 	#category : #'ScgPico-Model'
 }
 
 { #category : #'instance creation' }
-PicoPage class >> forFile: aFileReference db: aLepiterDatabase [
+PicoPage class >> forFile: aFileReference website: aPicoWebsite [
 	^ self new
 		file: aFileReference;
-		db: aLepiterDatabase
+		website: aPicoWebsite
 
 ]
 
@@ -50,13 +50,7 @@ PicoPage >> createLePage [
 
 { #category : #accessing }
 PicoPage >> db [
-	^ db
-]
-
-{ #category : #accessing }
-PicoPage >> db: anObject [
-	db := anObject.
-	self createLePage.
+	^ self website db
 ]
 
 { #category : #accessing }
@@ -145,4 +139,15 @@ PicoPage >> title [
 { #category : #accessing }
 PicoPage >> urls [
 	^ (self links collect: #value) asSet asOrderedCollection
+]
+
+{ #category : #accessing }
+PicoPage >> website [
+	^ website
+]
+
+{ #category : #accessing }
+PicoPage >> website: anObject [
+	website := anObject.
+	self createLePage.
 ]

@@ -6,7 +6,8 @@ Class {
 	#superclass : #Object,
 	#instVars : [
 		'pages',
-		'db'
+		'db',
+		'urlDict'
 	],
 	#classInstVars : [
 		'instance'
@@ -108,11 +109,20 @@ PicoWebsite >> gtSpotterForPageTitlesFor: aSearch [
 { #category : #initialization }
 PicoWebsite >> initialize [
 	self loadPages.
+
 ]
 
-{ #category : #accessing }
-PicoWebsite >> links [
-	^ self pages flatCollect: #links
+{ #category : #initialization }
+PicoWebsite >> initializeUrlDict [
+	urlDict := Dictionary new.
+	self pages
+		do: [ :page | 
+			page links
+				do: [ :assoc | 
+					(urlDict at: assoc value ifAbsentPut: (PicoUrl forUrl: assoc value))
+						addLink: assoc key
+						inPage: page ] ].
+	^ urlDict
 ]
 
 { #category : #initialization }
@@ -123,8 +133,8 @@ PicoWebsite >> loadPages [
 		pages: ((mdFiles
 				collect: [ :each | 
 					each basenameWithoutExtension = 'sidebar'
-						ifTrue: [ SideBar forFile: each db: self db ]
-						ifFalse: [ PicoPage forFile: each db: self db ] ])
+						ifTrue: [ SideBar forFile: each website: self ]
+						ifFalse: [ PicoPage forFile: each website: self ] ])
 				sorted: [ :a :b | a path < b path ])
 ]
 
@@ -151,6 +161,11 @@ PicoWebsite >> repoDir [
 		detect: [ :aRepository | aRepository name = repoName ]
 		ifFound: [ :aRepository | aRepository repositoryDirectory ]
 		ifNone: [ self error: 'Repository not found.' ]
+]
+
+{ #category : #accessing }
+PicoWebsite >> urlDict [
+	^ urlDict ifNil: [ self initializeUrlDict ]
 ]
 
 { #category : #accessing }
