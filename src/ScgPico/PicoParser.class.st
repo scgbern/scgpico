@@ -14,10 +14,7 @@ Class {
 
 { #category : #grammar }
 PicoParser >> body [
-	^ (header optional ,
-		paragraph ,
-		(newline plus , paragraph) star ,
-		newline star)
+	^ (header optional , paragraph , (newline plus , paragraph) star , newline star)
 		==> [ :node | 
 			| paragraphs |
 			paragraphs := node third
@@ -49,7 +46,7 @@ PicoParser >> newline [
 
 { #category : #grammar }
 PicoParser >> paragraph [
-	^ (newline negate plus / (newline , newline not)) plus token
+	^ (newline negate plus / (newline , newline not)) plus token flatten
 ]
 
 { #category : #accessing }

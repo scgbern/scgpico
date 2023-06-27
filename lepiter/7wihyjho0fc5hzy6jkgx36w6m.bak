@@ -29,12 +29,49 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-06-23T18:23:39.923124+02:00"
+						"dateAndTimeString" : "2023-06-27T14:23:41.399408+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "0m4eKTC7DQCq4N2SDnF+hQ=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "We need a catalog of links for each PicoPage."
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-06-27T14:23:41.727699+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-06-27T14:23:41.727699+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "IOZIRn27DQCzfaUKCzpoog=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
@@ -66,14 +103,48 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-06-23T18:24:05.986853+02:00"
+						"dateAndTimeString" : "2023-06-27T14:25:35.355051+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "m0cuKjC7DQCt8MsVDnF+hQ=="
 				},
-				"code" : "PicoWebsite instance"
+				"code" : "PicoWebsite instance."
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-06-27T14:39:47.839195+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-06-27T14:39:50.675328+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "EJfef327DQCpNpI9Ai1t0Q=="
+				},
+				"code" : "PicoWebsite instance."
 			}
 		]
 	},
@@ -96,12 +167,12 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2023-06-23T18:23:39.628605+02:00"
+			"dateAndTimeString" : "2023-06-23T18:25:58.337948+02:00"
 		}
 	},
 	"pageType" : {
 		"__type" : "namedPage",
-		"title" : "Catalog links on each page"
+		"title" : "* Catalog links on each page"
 	},
 	"uid" : {
 		"__type" : "uuid",

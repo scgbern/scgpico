@@ -8,15 +8,18 @@ Class {
 		'file',
 		'title',
 		'body',
-		'path'
+		'path',
+		'db',
+		'lePage'
 	],
 	#category : #'ScgPico-Model'
 }
 
 { #category : #'instance creation' }
-PicoPage class >> forFile: aFileReference [
+PicoPage class >> forFile: aFileReference db: aLepiterDatabase [
 	^ self new
-		file: aFileReference
+		file: aFileReference;
+		db: aLepiterDatabase
 
 ]
 
@@ -33,6 +36,27 @@ PicoPage >> bodyText [
 { #category : #constants }
 PicoPage >> contentPath [
 	^ 'scgpico/content/'
+]
+
+{ #category : #initalization }
+PicoPage >> createLePage [
+	lePage := LePage named: self relativePath.
+	lePage addSnippet: (LeTextSnippet new string: '# ' , self title value).
+	self body
+		do: [ :paragraph | lePage addSnippet: (LeTextSnippet new string: paragraph value) ].
+	self db addPage: lePage.
+	^ lePage
+]
+
+{ #category : #accessing }
+PicoPage >> db [
+	^ db
+]
+
+{ #category : #accessing }
+PicoPage >> db: anObject [
+	db := anObject.
+	self createLePage.
 ]
 
 { #category : #accessing }
@@ -82,12 +106,7 @@ PicoPage >> isSidebar [
 
 { #category : #lepiter }
 PicoPage >> lePage [
-	| lePage |
-	lePage := LePage named: self relativePath.
-	lePage addSnippet: (LeTextSnippet new string: '# ' , self title value).
-	self body
-		do: [ :paragraph | lePage addSnippet: (LeTextSnippet new string: paragraph value) ].
-	^ lePage
+	^ lePage ifNil: [ self createLePage ]
 ]
 
 { #category : #accessing }

@@ -6,7 +6,7 @@ Class {
 	#superclass : #Object,
 	#instVars : [
 		'pages',
-		'lepiterDB'
+		'db'
 	],
 	#classInstVars : [
 		'instance'
@@ -25,14 +25,19 @@ PicoWebsite class >> renew [
 	^ self instance
 ]
 
-{ #category : #accessing }
-PicoWebsite >> addLepiterPages [
-	self pages do: [ :each | self lepiterDB addPage: each lePage ]
-]
-
 { #category : #constant }
 PicoWebsite >> contentDir [
 	^ self repoDir / 'content'
+]
+
+{ #category : #accessing }
+PicoWebsite >> db [
+	"Transient Lepiter database for the dynamically created pages."
+
+	^ db
+		ifNil: [ db := LeDatabase new.
+			db parent: LeDatabasesRegistry uniqueInstance defaultLogicalDatabase.
+			db ]
 ]
 
 { #category : #accessing }
@@ -41,8 +46,9 @@ PicoWebsite >> gtLepiterFor: aView [
 	^ aView forward
 		title: 'Lepiter DB';
 		priority: 20;
-		object: [ self lepiterDB ];
-		view: #gtLiveFor:
+		object: [ self db ];
+		view: #gtLiveFor:;
+		actionUpdateButton
 ]
 
 { #category : #view }
@@ -102,16 +108,6 @@ PicoWebsite >> gtSpotterForPageTitlesFor: aSearch [
 { #category : #initialization }
 PicoWebsite >> initialize [
 	self loadPages.
-	self addLepiterPages
-]
-
-{ #category : #accessing }
-PicoWebsite >> lepiterDB [
-	"Transient Lepiter database for the dynamically created pages."
-
-	^ lepiterDB
-		ifNil: [ lepiterDB := LeDatabase new.
-			lepiterDB parent: LeDatabasesRegistry uniqueInstance defaultLogicalDatabase ]
 ]
 
 { #category : #initialization }
@@ -122,8 +118,9 @@ PicoWebsite >> loadPages [
 		pages: ((mdFiles
 				collect: [ :each | 
 					each basenameWithoutExtension = 'sidebar'
-						ifTrue: [ SideBar forFile: each ]
-						ifFalse: [ PicoPage forFile: each ] ]) sorted: [ :a :b | a path < b path ])
+						ifTrue: [ SideBar forFile: each db: self db ]
+						ifFalse: [ PicoPage forFile: each db: self db ] ])
+				sorted: [ :a :b | a path < b path ])
 ]
 
 { #category : #accessing }
