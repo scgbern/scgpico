@@ -92,7 +92,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-02-08T15:52:06.076005+01:00"
+						"dateAndTimeString" : "2023-06-27T11:26:28.006615+02:00"
 					}
 				},
 				"editEmail" : {
@@ -103,17 +103,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-02-08T15:52:12.210767+01:00"
+						"dateAndTimeString" : "2023-06-27T11:26:52.703429+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "JTL5r5KwDQCz3xCUDL60xA=="
+					"uidString" : "uC93zHq7DQCM/NotDZyPFg=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Start with the [[Pico modeling]] page."
+				"string" : "Start with  [[Instantiating and exploring the SCG Pico website]] then go to [[Pico modeling]]. "
 			},
 			{
 				"__type" : "textSnippet",
