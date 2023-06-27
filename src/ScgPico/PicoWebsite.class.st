@@ -110,6 +110,11 @@ PicoWebsite >> initialize [
 	self loadPages.
 ]
 
+{ #category : #accessing }
+PicoWebsite >> links [
+	^ self pages flatCollect: #links
+]
+
 { #category : #initialization }
 PicoWebsite >> loadPages [
 	| mdFiles |
@@ -121,6 +126,11 @@ PicoWebsite >> loadPages [
 						ifTrue: [ SideBar forFile: each db: self db ]
 						ifFalse: [ PicoPage forFile: each db: self db ] ])
 				sorted: [ :a :b | a path < b path ])
+]
+
+{ #category : #accessing }
+PicoWebsite >> pageAtPath: aPath [
+	^ self pages detect: [ :p | p path = aPath ]
 ]
 
 { #category : #accessing }
@@ -141,4 +151,9 @@ PicoWebsite >> repoDir [
 		detect: [ :aRepository | aRepository name = repoName ]
 		ifFound: [ :aRepository | aRepository repositoryDirectory ]
 		ifNone: [ self error: 'Repository not found.' ]
+]
+
+{ #category : #accessing }
+PicoWebsite >> urls [
+	^ (self links collect: #value) asSet asSortedCollection
 ]

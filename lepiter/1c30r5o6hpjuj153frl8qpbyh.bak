@@ -34,7 +34,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-06-27T11:28:04.879167+02:00"
+									"dateAndTimeString" : "2023-06-27T14:58:02.925839+02:00"
 								}
 							},
 							"uid" : {
@@ -44,7 +44,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "Fix links in the markdown pages so we can have a map of the links."
+							"string" : "Normalize links in the markdown pages so we can have a map of the links."
 						},
 						{
 							"__type" : "textSnippet",
@@ -87,6 +87,43 @@
 											"__type" : "textStyle"
 										},
 										"string" : "Check for broken external links. See {{gtPage:How to check for broken links|db=cqvjoxfnf6zd764ibqa67pln6}}. "
+									},
+									{
+										"__type" : "textSnippet",
+										"children" : {
+											"__type" : "snippets",
+											"items" : [ ]
+										},
+										"createEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"createTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2023-06-27T14:58:20.025135+02:00"
+											}
+										},
+										"editEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"editTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2023-06-27T14:58:26.877995+02:00"
+											}
+										},
+										"uid" : {
+											"__type" : "uid",
+											"uidString" : "HjIpwn27DQCmHtcyA2dTeg=="
+										},
+										"paragraphStyle" : {
+											"__type" : "textStyle"
+										},
+										"string" : "Keep a registry of links in the "
 									}
 								]
 							},
@@ -220,7 +257,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-06-27T14:22:14.125338+02:00"
+									"dateAndTimeString" : "2023-06-27T14:22:54.120026+02:00"
 								}
 							},
 							"uid" : {
@@ -230,7 +267,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : ""
+							"string" : "Instead of a singleton, introduce a registry so each website is a singleton."
 						}
 					]
 				},

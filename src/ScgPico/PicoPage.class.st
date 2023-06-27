@@ -109,6 +109,20 @@ PicoPage >> lePage [
 	^ lePage ifNil: [ self createLePage ]
 ]
 
+{ #category : #parsing }
+PicoPage >> linkSeaParser [
+	| link |
+	link := ($[ asPParser , $] asPParser negate star flatten trim , '](' asPParser
+			, $) asPParser negate star flatten trim , $) asPParser)
+			==> [ :node | node second -> node fourth ].
+	^ (link sea ==> #second) star
+]
+
+{ #category : #accessing }
+PicoPage >> links [
+	^ self body flatCollect: [ :par | self linkSeaParser parse: par ]
+]
+
 { #category : #accessing }
 PicoPage >> path [
 	path
@@ -126,4 +140,9 @@ PicoPage >> relativePath [
 { #category : #accessing }
 PicoPage >> title [
 	^ title
+]
+
+{ #category : #accessing }
+PicoPage >> urls [
+	^ (self links collect: #value) asSet asOrderedCollection
 ]
