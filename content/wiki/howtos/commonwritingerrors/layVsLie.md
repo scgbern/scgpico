@@ -1,7 +1,7 @@
 ---
-Title: Don't lay an egg
+Title: Lay vs Lie
 ---
-# Don't lay an egg
+# "Lay" vs "Lie"
 
 “To lay” is transitive. 
 Don't confuse it with “to lie”.
