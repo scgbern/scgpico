@@ -2,6 +2,7 @@
 Title: Never say allows to again
 ---
 # Never say "allows to" again
+
 Never use the expressions "allows to", "helps to", "requires to" etc. Each of these expressions requires a direct object.
 
 **Wrong:** "This allows to easily spot errors."

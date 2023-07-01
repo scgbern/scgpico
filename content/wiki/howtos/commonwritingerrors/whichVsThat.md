@@ -2,6 +2,7 @@
 Title: Which vs. that
 ---
 # "Which" vs. "that"
+
 Use *that* for *restrictive clauses* (i.e., restricting what is referred to) and *which* for *non-restrictive clauses*.
 The acid test is: if you can remove the clause and it still makes sense, use *which*, otherwise use *that*.
 

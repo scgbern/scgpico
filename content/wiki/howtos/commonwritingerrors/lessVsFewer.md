@@ -2,6 +2,7 @@
 Title: Less vs. Fewer
 ---
 # "Less" vs. "Fewer"
+
 Use "less" for indiscrete quantities and "fewer for discrete quantities.
 
 **Right:** "Fewer people will consume less beer."
