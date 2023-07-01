@@ -241,7 +241,8 @@ For later todos, see the [scg web github project page](https://github.com/users/
 		- Update the template to find and load the sidebar
 		- Update the css to put it in the right place
 
-	- Need to get the id of the current page {{ current.id }}, change "index" to "sidebar", and then pass this to the content filter, eg {{ "teaching/pl/sidebar"|content }}
+	- Need to get the id of the current page {{ current.id }}, change "index" to "sidebar", and then pass this to the content filter, 
+	  eg {{ "teaching/pl/sidebar"|content }}
 	- Translation can be done by the replace filter:
 	    <div class="sidebar">
 	        {{ current_page.id|replace({'index':'sidebar'})|content }}
