@@ -1,10 +1,8 @@
 ---
 Title: A vs. an
 ---
-#A vs. an
+# "A" vs. "an"
 
----
-#"A" vs. "an"
 Use "a" if the first letter of the following word is pronounced as a consonant.
 
 **Wrong:** "A historical view of an UML diagram is better than a XML document."
@@ -16,3 +14,6 @@ Note the pronunciation, which is what counts:
 -  "a yoo-em-ell diagram"
 -  "an ex-em-ell document"
 
+---
+
+Back to [Common Writing Errors](/wiki/howtos/commonwritingerrors/).

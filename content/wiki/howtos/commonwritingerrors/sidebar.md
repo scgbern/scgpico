@@ -3,6 +3,7 @@
 - ["Which" vs. "that"](commonwritingerrors/whichVsThat)
 - [No comma before "that"](commonwritingerrors/noCommaBeforeThat)
 - [Don't join sentences with commas](commonwritingerrors/dontJoinSentencesWithCommas)
+- [Don't lay an egg](commonwritingerrors/dontLayAnEgg)
 - ["Amount" vs. "number"](commonwritingerrors/amountVsNumber)
 - ["Little" vs. "few"](commonwritingerrors/littleVsFew)
 - ["Its" vs. "it's"](commonwritingerrors/itsVsIts)

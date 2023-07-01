@@ -1,10 +1,7 @@
 ---
 Title: Which vs. that
 ---
-#Which vs. that
-
----
-#"Which" vs. "that"
+# "Which" vs. "that"
 Use *that* for *restrictive clauses* (i.e., restricting what is referred to) and *which* for *non-restrictive clauses*.
 The acid test is: if you can remove the clause and it still makes sense, use *which*, otherwise use *that*.
 
@@ -37,3 +34,7 @@ Both are grammatically correct, but the first states that writing any PhD thesis
 (Note the absence of the comma!) In many cases this will cause no confusion, but wherever it might (like here), it makes good sense to maintain a clear distinction and use "which" only for non-restrictive clauses.
 
 *See also:* [Which or That?](http://www.getitwriteonline.com/archive/103103WhichThat.htm)
+
+---
+
+Back to [Common Writing Errors](/wiki/howtos/commonwritingerrors/).
