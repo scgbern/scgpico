@@ -7,4 +7,9 @@ The markdown files can be found in the [content](content) folder. Pico configura
 **NB:** The downloads are not stored in this repo, but directly [on the server](http://scg.unibe.ch/assets/).
 
 There is a separate repository for the [SCG bibliography](https://github.com/scgbern/scgbib).
+# Loading into GT
+To explore the website in GT, load it as follows:
+```
+Metacello new	baseline: 'ScgPico';	repository: 'github://scgbern/scgpico:main/src';	load.#BaselineOfScgPico asClass loadLepiter.
+```
 

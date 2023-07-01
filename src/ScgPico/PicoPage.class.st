@@ -8,15 +8,18 @@ Class {
 		'file',
 		'title',
 		'body',
-		'path'
+		'path',
+		'website',
+		'lePage'
 	],
 	#category : #'ScgPico-Model'
 }
 
 { #category : #'instance creation' }
-PicoPage class >> forFile: aFileReference [
+PicoPage class >> forFile: aFileReference website: aPicoWebsite [
 	^ self new
-		file: aFileReference
+		file: aFileReference;
+		website: aPicoWebsite
 
 ]
 
@@ -25,9 +28,29 @@ PicoPage >> body [
 	^ body
 ]
 
+{ #category : #accessing }
+PicoPage >> bodyText [
+	^ (String cr repeat: 2) join: self body
+]
+
 { #category : #constants }
 PicoPage >> contentPath [
 	^ 'scgpico/content/'
+]
+
+{ #category : #initalization }
+PicoPage >> createLePage [
+	lePage := LePage named: self relativePath.
+	lePage addSnippet: (LeTextSnippet new string: '# ' , self title value).
+	self body
+		do: [ :paragraph | lePage addSnippet: (LeTextSnippet new string: paragraph value) ].
+	self db addPage: lePage.
+	^ lePage
+]
+
+{ #category : #accessing }
+PicoPage >> db [
+	^ self website db
 ]
 
 { #category : #accessing }
@@ -40,8 +63,8 @@ PicoPage >> file: aFileReference [
 	| dict |
 	file := aFileReference.
 	dict := PicoParser parse: self file contents.
-	title := dict at: #title.
-	body := dict at: #body.
+	title := (dict at: #title) ifNil: [ 'MISSING TITLE' ].
+	body := (dict at: #body) ifNil: [ 'MISSING BODY' ]
 ]
 
 { #category : #accessing }
@@ -56,7 +79,7 @@ PicoPage >> gtBodyTextFor: aView [
 		title: 'Text';
 		priority: 30;
 		aptitude: BrGlamorousRegularEditorAptitude;
-		text: [ ((String cr repeat: 2) join: self body) asRopedText ]
+		text: [ self bodyText asRopedText ]
 ]
 
 { #category : #accessing }
@@ -77,12 +100,21 @@ PicoPage >> isSidebar [
 
 { #category : #lepiter }
 PicoPage >> lePage [
-	| lePage |
-	lePage := LePage named: self relativePath.
-	lePage addSnippet: (LeTextSnippet new string: '# ' , self title value).
-	self body
-		do: [ :paragraph | lePage addSnippet: (LeTextSnippet new string: paragraph value) ].
-	^ lePage
+	^ lePage ifNil: [ self createLePage ]
+]
+
+{ #category : #parsing }
+PicoPage >> linkSeaParser [
+	| link |
+	link := ($[ asPParser , $] asPParser negate star flatten trim , '](' asPParser
+			, $) asPParser negate star flatten trim , $) asPParser)
+			==> [ :node | node second -> node fourth ].
+	^ (link sea ==> #second) star
+]
+
+{ #category : #accessing }
+PicoPage >> links [
+	^ self body flatCollect: [ :par | self linkSeaParser parse: par ]
 ]
 
 { #category : #accessing }
@@ -102,4 +134,20 @@ PicoPage >> relativePath [
 { #category : #accessing }
 PicoPage >> title [
 	^ title
+]
+
+{ #category : #accessing }
+PicoPage >> urls [
+	^ (self links collect: #value) asSet asOrderedCollection
+]
+
+{ #category : #accessing }
+PicoPage >> website [
+	^ website
+]
+
+{ #category : #accessing }
+PicoPage >> website: anObject [
+	website := anObject.
+	self createLePage.
 ]

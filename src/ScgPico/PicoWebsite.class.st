@@ -6,25 +6,39 @@ Class {
 	#superclass : #Object,
 	#instVars : [
 		'pages',
-		'lepiterDB'
+		'db',
+		'urlDict'
+	],
+	#classInstVars : [
+		'instance'
 	],
 	#category : #'ScgPico-Model'
 }
 
 { #category : #accessing }
-PicoWebsite >> addLepiterDB [
-	<todo: 'Check that it doesn''t exist already'>
-	| dbDir |
-	dbDir := self lepiterDir.
-	dbDir ensureCreateDirectory.
-	LeDatabasesRegistry defaultLogicalDatabase properties
-		addRegisteredDirectory: dbDir.
-	LeDatabasesRegistry defaultLogicalDatabase reload
+PicoWebsite class >> instance [
+	^ instance ifNil: [ instance := self new ]
 ]
 
 { #category : #accessing }
-PicoWebsite >> addLepiterPages [
-	self pages do: [ :each | self lepiterDB addPage: each lePage ]
+PicoWebsite class >> renew [
+	instance := nil.
+	^ self instance
+]
+
+{ #category : #constant }
+PicoWebsite >> contentDir [
+	^ self repoDir / 'content'
+]
+
+{ #category : #accessing }
+PicoWebsite >> db [
+	"Transient Lepiter database for the dynamically created pages."
+
+	^ db
+		ifNil: [ db := LeDatabase new.
+			db parent: LeDatabasesRegistry uniqueInstance defaultLogicalDatabase.
+			db ]
 ]
 
 { #category : #accessing }
@@ -33,8 +47,9 @@ PicoWebsite >> gtLepiterFor: aView [
 	^ aView forward
 		title: 'Lepiter DB';
 		priority: 20;
-		object: [ self lepiterDB ];
-		view: #gtLiveFor:
+		object: [ self db ];
+		view: #gtLiveFor:;
+		actionUpdateButton
 ]
 
 { #category : #view }
@@ -43,7 +58,7 @@ PicoWebsite >> gtPagesFor: aView [
 	^ aView columnedList
 		title: 'Pages';
 		priority: 10;
-		items: [ pages ];
+		items: [ self pages ];
 		actionUpdateButtonTooltip: 'Update item list';
 		column: 'Index' 
 			text: [ :eachItem :eachIndex | 
@@ -55,35 +70,77 @@ PicoWebsite >> gtPagesFor: aView [
 			text: [ :page | page title value ].
 ]
 
-{ #category : #initialization }
-PicoWebsite >> initialize [
-	self loadPages.
-	self addLepiterDB.
-	self addLepiterPages.
+{ #category : #accessing }
+PicoWebsite >> gtSpotterForPageBodyFor: aSearch [
+	<gtSearch>
+	^ aSearch list
+				priority: 30;
+				items: [ self pages ];
+				title: 'Body';
+				itemsLimit: Float infinity;
+				itemName: #bodyText;
+				filterBySubstring 
 ]
 
 { #category : #accessing }
-PicoWebsite >> lepiterDB [
-	lepiterDB
-		ifNil: [ lepiterDB := LeDatabasesRegistry defaultLogicalDatabase databases
-					detect: [ :db | db monitor localRoot = self lepiterDir ] ].
-	^ lepiterDB
+PicoWebsite >> gtSpotterForPagePathFor: aSearch [
+	<gtSearch>
+	^ aSearch list
+				priority: 20;
+				items: [ self pages ];
+				title: 'Path';
+				itemsLimit: Float infinity;
+				itemName: #path;
+				filterBySubstring 
 ]
 
-{ #category : #constant }
-PicoWebsite >> lepiterDir [
-	^ FileLocator imageDirectory / 'picoLepiter'
+{ #category : #accessing }
+PicoWebsite >> gtSpotterForPageTitlesFor: aSearch [
+	<gtSearch>
+	^ aSearch list
+				priority: 10;
+				items: [ self pages ];
+				title: 'Title';
+				itemsLimit: Float infinity;
+				itemName: #title;
+				filterBySubstring 
+]
+
+{ #category : #initialization }
+PicoWebsite >> initialize [
+	self loadPages.
+
+]
+
+{ #category : #initialization }
+PicoWebsite >> initializeUrlDict [
+	urlDict := Dictionary new.
+	self pages
+		do: [ :page | 
+			page links
+				do: [ :assoc | 
+					(urlDict at: assoc value ifAbsentPut: (PicoUrl forUrl: assoc value))
+						addLink: assoc key
+						inPage: page ] ].
+	^ urlDict
 ]
 
 { #category : #initialization }
 PicoWebsite >> loadPages [
 	| mdFiles |
-	mdFiles := self scgpico allChildrenMatching: '*.md'.
-	pages := (mdFiles
-			collect: [ :each | 
-				each basenameWithoutExtension = 'sidebar'
-					ifTrue: [ SideBar forFile: each ]
-					ifFalse: [ PicoPage forFile: each ] ]) sorted: [ :a :b | a path < b path ]
+	mdFiles := self contentDir allChildrenMatching: '*.md'.
+	self
+		pages: ((mdFiles
+				collect: [ :each | 
+					each basenameWithoutExtension = 'sidebar'
+						ifTrue: [ SideBar forFile: each website: self ]
+						ifFalse: [ PicoPage forFile: each website: self ] ])
+				sorted: [ :a :b | a path < b path ])
+]
+
+{ #category : #accessing }
+PicoWebsite >> pageAtPath: aPath [
+	^ self pages detect: [ :p | p path = aPath ]
 ]
 
 { #category : #accessing }
@@ -91,8 +148,27 @@ PicoWebsite >> pages [
 	^ pages
 ]
 
+{ #category : #accessing }
+PicoWebsite >> pages: anObject [
+	pages := anObject
+]
+
 { #category : #constant }
-PicoWebsite >> scgpico [
-	^ FileLocator imageDirectory / 'pharo-local' / 'iceberg' / 'scgbern'
-		/ 'scgpico' / 'content'
+PicoWebsite >> repoDir [
+	| repoName |
+	repoName := 'scgpico'.
+	^ IceRepository registry
+		detect: [ :aRepository | aRepository name = repoName ]
+		ifFound: [ :aRepository | aRepository repositoryDirectory ]
+		ifNone: [ self error: 'Repository not found.' ]
+]
+
+{ #category : #accessing }
+PicoWebsite >> urlDict [
+	^ urlDict ifNil: [ self initializeUrlDict ]
+]
+
+{ #category : #accessing }
+PicoWebsite >> urls [
+	^ (self links collect: #value) asSet asSortedCollection
 ]

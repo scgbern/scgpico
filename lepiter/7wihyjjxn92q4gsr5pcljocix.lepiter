@@ -18,7 +18,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-03-21T16:29:43.094741+01:00"
+						"dateAndTimeString" : "2023-06-23T18:26:28.208868+02:00"
 					}
 				},
 				"editEmail" : {
@@ -29,17 +29,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-03-21T16:29:44.376097+01:00"
+						"dateAndTimeString" : "2023-06-23T18:27:29.663265+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "XQgpb8yzDQC/wfECDu3A2Q=="
+					"uidString" : "AkUmMzC7DQCe8T4ODnF+hQ=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "See {{gtPage:How to programatically create and populate lepiter databases|db=cqvjoxfnf6zd764ibqa67pln6}}"
+				"string" : "Currently the lepiter page is generated on the fly for each PicoPage."
 			},
 			{
 				"__type" : "textSnippet",
@@ -55,7 +55,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-06-23T09:18:57.890236+02:00"
+						"dateAndTimeString" : "2023-06-23T18:27:30.506393+02:00"
 					}
 				},
 				"editEmail" : {
@@ -66,17 +66,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-06-23T10:45:53.687637+02:00"
+						"dateAndTimeString" : "2023-06-23T18:27:55.031722+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "yywejSi7DQCl+Uz6Aw8aGA=="
+					"uidString" : "PdjcNjC7DQCrZDFlDnF+hQ=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "This should be a new virtual database, like those in the {{gtClass:name=PrioritySlideshow}}."
+				"string" : "Instead the page should be linked to the lepiter database of the PicoWebsite object."
 			},
 			{
 				"__type" : "textSnippet",
@@ -92,7 +92,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-06-23T10:04:39.423609+02:00"
+						"dateAndTimeString" : "2023-06-23T18:27:55.68302+02:00"
 					}
 				},
 				"editEmail" : {
@@ -103,17 +103,54 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-06-23T10:04:44.207951+02:00"
+						"dateAndTimeString" : "2023-06-27T14:21:46.947944+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "v6iGMCm7DQCBuHuDAw8aGA=="
+					"uidString" : "qgJdODC7DQCtF+AcDnF+hQ=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "We lazily define {{gtMethod:name=PicoWebsite>>#lepiterDB}}. "
+				"string" : "We fix this in {{gtMethod:name=PicoWebsite>>#initialize}}. "
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-06-23T18:29:12.428929+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-06-27T13:59:27.157944+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "8Q7wPDC7DQCuAgQfDnF+hQ=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Instead of having the PicoWebsite object create the pages and populating the database, each PicoPage and Sidebar object should be instantiated with the lepiterDb and add its LePage to that database."
 			},
 			{
 				"__type" : "pharoSnippet",
@@ -129,7 +166,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-06-23T10:03:13.238076+02:00"
+						"dateAndTimeString" : "2023-06-23T18:28:02.276853+02:00"
 					}
 				},
 				"editEmail" : {
@@ -140,14 +177,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-06-23T10:03:23.735491+02:00"
+						"dateAndTimeString" : "2023-06-27T14:04:02.82616+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "wZBjKym7DQCAvGl5Aw8aGA=="
+					"uidString" : "Xp7BODC7DQCtHERmDnF+hQ=="
 				},
-				"code" : "PicoWebsite instance"
+				"code" : "PicoWebsite instance."
 			},
 			{
 				"__type" : "pharoSnippet",
@@ -163,7 +200,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-06-23T10:03:34.266816+02:00"
+						"dateAndTimeString" : "2023-06-27T14:04:06.649343+02:00"
 					}
 				},
 				"editEmail" : {
@@ -174,89 +211,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-06-23T10:03:41.769982+02:00"
+						"dateAndTimeString" : "2023-06-27T14:04:29.298559+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "XXKkLCm7DQCA87YwAw8aGA=="
+					"uidString" : "rKA+AH27DQCi9953Czpoog=="
 				},
-				"code" : "PicoWebsite renew"
-			},
-			{
-				"__type" : "textSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-03-21T17:27:49.066304+01:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-03-21T17:28:11.520849+01:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "qsriQs2zDQCcvwtEA8VQ8g=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : "First we introduce a {{gtClass:name=SideBar}} class."
-						}
-					]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-03-21T16:29:45.389309+01:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-03-21T17:19:02.177613+01:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "lho+c8yzDQCAcy30Du3A2Q=="
-				},
-				"paragraphStyle" : {
-					"__type" : "textStyle"
-				},
-				"string" : "We start by building the model entities."
+				"code" : "PicoWebsite renew ."
 			},
 			{
 				"__type" : "textSnippet",
@@ -272,7 +234,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-06-23T10:00:09.000502+02:00"
+						"dateAndTimeString" : "2023-06-27T14:17:44.535713+02:00"
 					}
 				},
 				"editEmail" : {
@@ -283,51 +245,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-06-23T10:07:53.978929+02:00"
+						"dateAndTimeString" : "2023-06-27T14:20:26.288394+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "L1NoICm7DQCAiDbeAw8aGA=="
+					"uidString" : "RJT+MH27DQC1vdidCzpoog=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Adding all the pages:"
-			},
-			{
-				"__type" : "pharoSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-06-23T10:05:35.077396+02:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-06-23T10:31:39.240966+02:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "X9zXMym7DQCCUniEAw8aGA=="
-				},
-				"code" : "time := [PicoWebsite instance addLepiterPages] timeToRun."
+				"string" : "We remove `PicoWebsite>>#addLepiterPages` and instead inject the website db into each page with {{gtMethod:name=PicoPage class>>#forFile:db:}}. We initialize a `lePage` slot in {{gtMethod:name=PicoPage>>#createLePage}} and invoke it in {{gtMethod:name=PicoPage>>#db:}}. "
 			},
 			{
 				"__type" : "textSnippet",
@@ -343,7 +271,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-06-23T10:00:09.237643+02:00"
+						"dateAndTimeString" : "2023-06-27T14:20:00.681355+02:00"
 					}
 				},
 				"editEmail" : {
@@ -354,17 +282,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-06-23T10:32:32.619117+02:00"
+						"dateAndTimeString" : "2023-06-27T14:20:00.681355+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "2vFrICm7DQCAjUhYAw8aGA=="
+					"uidString" : "Pf8bOX27DQCCqaOwCzpoog=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "This takes about 3s as we are not creating any files on disk."
+				"string" : ""
 			}
 		]
 	},
@@ -376,7 +304,7 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2023-03-21T16:28:36.865511+01:00"
+			"dateAndTimeString" : "2023-06-23T18:26:27.912011+02:00"
 		}
 	},
 	"editEmail" : {
@@ -387,15 +315,15 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2023-06-23T10:45:44.842472+02:00"
+			"dateAndTimeString" : "2023-06-27T14:20:34.828353+02:00"
 		}
 	},
 	"pageType" : {
 		"__type" : "namedPage",
-		"title" : "Populating a lepiter database"
+		"title" : "Tie PicoPages to the Lepiter db pages"
 	},
 	"uid" : {
 		"__type" : "uuid",
-		"uuid" : "8185286f-ccb3-0d00-bfc0-f9c10eedc0d9"
+		"uuid" : "69bc2133-30bb-0d00-9e26-d5da0e717e85"
 	}
 }

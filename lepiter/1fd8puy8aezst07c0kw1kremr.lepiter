@@ -18,7 +18,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-02-08T15:52:28.503184+01:00"
+						"dateAndTimeString" : "2023-06-23T09:20:40.074009+02:00"
 					}
 				},
 				"editEmail" : {
@@ -29,17 +29,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-06-23T10:55:04.817195+02:00"
+						"dateAndTimeString" : "2023-06-23T09:21:34.193682+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "+/gWJpOwDQCORC2TBSDJ3w=="
+					"uidString" : "xyIOkSi7DQCoxxXhAw8aGA=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "[This repo](https://github.com/scgbern/scgpico) holds the SCG website implemented in Pico."
+				"string" : "See [[SCG Pico TOC]]  and [[Create Pico classes]]"
 			},
 			{
 				"__type" : "textSnippet",
@@ -55,7 +55,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-02-08T15:53:02.47794+01:00"
+						"dateAndTimeString" : "2023-06-23T09:50:30.106911+02:00"
 					}
 				},
 				"editEmail" : {
@@ -66,17 +66,51 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-02-08T15:53:28.21309+01:00"
+						"dateAndTimeString" : "2023-06-27T11:27:02.803998+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "laVTKJOwDQCPW6pRBSDJ3w=="
+					"uidString" : "g4l4lii7DQCp0KRaAw8aGA=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "The GT (src) part of this repo is dedicated to modeling and analyzing the website contents."
+				"string" : "Explore as follows (as Singleton):"
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-06-23T09:21:37.530805+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-06-23T09:52:54.530138+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "Nxeilii7DQCp1TK+Aw8aGA=="
+				},
+				"code" : "PicoWebsite instance."
 			},
 			{
 				"__type" : "textSnippet",
@@ -92,7 +126,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-06-27T11:26:28.006615+02:00"
+						"dateAndTimeString" : "2023-06-23T09:52:48.026928+02:00"
 					}
 				},
 				"editEmail" : {
@@ -103,20 +137,20 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-06-27T11:26:52.703429+02:00"
+						"dateAndTimeString" : "2023-06-23T09:53:33.45918+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "uC93zHq7DQCM/NotDZyPFg=="
+					"uidString" : "45ofBim7DQCRSXxuAw8aGA=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Start with  [[Instantiating and exploring the SCG Pico website]] then go to [[Pico modeling]]. "
+				"string" : "To force a reload:"
 			},
 			{
-				"__type" : "textSnippet",
+				"__type" : "pharoSnippet",
 				"children" : {
 					"__type" : "snippets",
 					"items" : [ ]
@@ -129,7 +163,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-02-08T15:52:12.495184+01:00"
+						"dateAndTimeString" : "2023-06-23T09:53:21.292075+02:00"
 					}
 				},
 				"editEmail" : {
@@ -140,54 +174,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-02-08T15:52:12.495184+01:00"
+						"dateAndTimeString" : "2023-06-23T10:51:09.189167+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "Qkt3JZOwDQCOPthQBSDJ3w=="
+					"uidString" : "lSsbCCm7DQCScI8GAw8aGA=="
 				},
-				"paragraphStyle" : {
-					"__type" : "textStyle"
-				},
-				"string" : ""
-			},
-			{
-				"__type" : "textSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-02-08T15:19:12.79969+01:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-02-08T15:19:12.79969+01:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "54t3r5KwDQCz3i6IDL60xA=="
-				},
-				"paragraphStyle" : {
-					"__type" : "textStyle"
-				},
-				"string" : ""
+				"code" : "[PicoWebsite renew] timeToRun"
 			}
 		]
 	},
@@ -199,7 +193,7 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2023-02-08T15:19:12.742369+01:00"
+			"dateAndTimeString" : "2023-06-23T09:20:03.920748+02:00"
 		}
 	},
 	"editEmail" : {
@@ -210,15 +204,15 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2023-02-08T15:19:21.285349+01:00"
+			"dateAndTimeString" : "2023-06-23T09:20:03.920748+02:00"
 		}
 	},
 	"pageType" : {
 		"__type" : "namedPage",
-		"title" : "SCG Pico Overview"
+		"title" : "Instantiating and exploring the SCG Pico website"
 	},
 	"uid" : {
 		"__type" : "uuid",
-		"uuid" : "61a376af-92b0-0d00-b3dd-86120cbeb4c4"
+		"uuid" : "d3ba0d91-28bb-0d00-a8c6-a2c4030f1a18"
 	}
 }

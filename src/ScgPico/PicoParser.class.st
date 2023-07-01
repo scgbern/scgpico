@@ -14,10 +14,7 @@ Class {
 
 { #category : #grammar }
 PicoParser >> body [
-	^ (header optional ,
-		paragraph ,
-		(newline plus , paragraph) star ,
-		newline star)
+	^ (header optional , paragraph , (newline plus , paragraph) star , newline star)
 		==> [ :node | 
 			| paragraphs |
 			paragraphs := node third
@@ -36,8 +33,10 @@ PicoParser >> file [
 
 { #category : #grammar }
 PicoParser >> header [
-	^ ('---' asPParser , newline , 'Title:' asPParser trim , title , newline
-		, '---' asPParser , newline) ==> #fourth
+	^ ('---' asPParser , newline 
+		, ('---' asPParser not , #any asPParser) star
+		, '---' asPParser , newline) flatten
+		==> [ :node | (YAMLParser parse: node) object at: 'Title' ]
 ]
 
 { #category : #grammar }
@@ -47,7 +46,7 @@ PicoParser >> newline [
 
 { #category : #grammar }
 PicoParser >> paragraph [
-	^ (newline negate plus / (newline , newline not)) plus token
+	^ (newline negate plus / (newline , newline not)) plus token flatten
 ]
 
 { #category : #accessing }
@@ -57,5 +56,5 @@ PicoParser >> start [
 
 { #category : #grammar }
 PicoParser >> title [
-	^ #newline asPParser negate plus token
+	^ newline negate plus token
 ]
