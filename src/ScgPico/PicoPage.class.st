@@ -129,11 +129,15 @@ PicoPage >> lePage [
 
 { #category : #initalization }
 PicoPage >> linkForText: aText andUrl: anUrl [
+	"Problem: links don't seem to work until you update the snippet. Not sure why this is."
+
 	| url |
 	url := self normalize: anUrl.
 	^ (url beginsWith: 'http')
 		ifTrue: [ '[' , aText , '](' , url , ')' ]
-		ifFalse: [ '{{gtPage:' , url , '|label=' , aText , '}}' ]
+		ifFalse: [ (url endsWith: '.md') ifFalse: [ url := url , '/index.md' ].
+			'{{gtPage:' , url , '|label=' , aText , '}}' 
+				", ' [[' , url , ']]'" ]
 ]
 
 { #category : #accessing }
