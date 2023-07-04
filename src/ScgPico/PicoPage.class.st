@@ -26,6 +26,11 @@ PicoPage class >> forFile: aFileReference website: aPicoWebsite [
 ]
 
 { #category : #accessing }
+PicoPage >> assertsUrl [
+	^ PicoWebsite assetsUrl
+]
+
+{ #category : #accessing }
 PicoPage >> body [
 	^ body
 ]
@@ -37,15 +42,20 @@ PicoPage >> bodyText [
 
 { #category : #constants }
 PicoPage >> contentPath [
-	^ 'scgpico/content/'
+	"This is where the root of the website starts for the markdown pages."
+
+	^ 'scgpico/content'
 ]
 
 { #category : #initalization }
 PicoPage >> createLePage [
-	lePage := LePage named: self relativePath.
+	<todo: 'normalize the links'>
+	lePage := LePage named: self path.
 	lePage addSnippet: (LeTextSnippet new string: '# ' , self title value).
 	self body
-		do: [ :paragraph | lePage addSnippet: (LeTextSnippet new string: paragraph value) ].
+		do: [ :paragraph | 
+			lePage
+				addSnippet: (LeTextSnippet new string: (self normalizeLinks: paragraph value)) ].
 	self db addPage: lePage.
 	^ lePage
 ]
@@ -73,6 +83,8 @@ PicoPage >> file: aFileReference [
 
 { #category : #accessing }
 PicoPage >> fullPath [
+	"Full path of the underlying file."
+
 	^ self file fullName
 ]
 
@@ -110,21 +122,78 @@ PicoPage >> isSidebar [
 
 { #category : #lepiter }
 PicoPage >> lePage [
+	"Create these lazily."
+
 	^ lePage ifNil: [ self createLePage ]
+]
+
+{ #category : #initalization }
+PicoPage >> linkForText: aText andUrl: anUrl [
+	| url |
+	url := self normalize: anUrl.
+	^ (url beginsWith: 'http')
+		ifTrue: [ '[' , aText , '](' , url , ')' ]
+		ifFalse: [ '{{gtPage:' , url , '|label=' , aText , '}}' ]
 ]
 
 { #category : #accessing }
 PicoPage >> links [
-	^ self body flatCollect: [ :par | LinkSeaParser new parse: par ]
+	"The parser returns a collection of text -> url associations.
+	NB: These are the raw, not normalized urls."
+
+	^ self body
+		flatCollect: [ :par | 
+			(LinkSeaParser new parse: par)
+				collect: [ :node | node second second -> node second fourth ] ]
+]
+
+{ #category : #accessing }
+PicoPage >> normalize: anUrl [
+	(anUrl beginsWith: 'http') ifTrue: [ ^ anUrl ].
+
+	(anUrl beginsWith: '%assets_url%/')
+		ifTrue: [ ^ anUrl copyWithRegex: '%assets_url%/' matchesReplacedWith: self assertsUrl ].
+
+	(anUrl beginsWith: '/') ifTrue: [ ^ anUrl ].
+	(anUrl beginsWith: '%base_url%/')
+		ifTrue: [ ^ anUrl copyWithRegex: '%base_url%/' matchesReplacedWith: '/' ].
+
+	^ self pathPrefix , '/' , anUrl
+]
+
+{ #category : #initalization }
+PicoPage >> normalizeLinks: aString [
+	"Need to find all the [text](URL) links.
+	If the normalized URL is http, then keep it as is.
+	If it starts with '/', convert it to {{gtPage:URL|label=text}}.
+	"
+
+	| parse |
+	parse := LinkSeaParser parse: aString.
+	^ ''
+		join: (parse
+				collect: [ :each | 
+					''
+						join: {'' join: each first.
+								self linkForText: each second second andUrl: each second fourth.
+								'' join: each third} ])
 ]
 
 { #category : #accessing }
 PicoPage >> path [
+	"Path from the root of the website"
 	path
 		ifNil: [ path := self fullPath
 					copyFrom: (self fullPath findString: self contentPath) + self contentPath size
 					to: self fullPath size ].
 	^ path
+]
+
+{ #category : #accessing }
+PicoPage >> pathPrefix [
+	"Path up to my parent"
+
+	^ self path copyUpToLast: $/
 ]
 
 { #category : #accessing }
@@ -140,17 +209,16 @@ PicoPage >> printOn: aStream [
 
 { #category : #initalization }
 PicoPage >> registerUrls [
+	"Register each URL in the urlDict of the website, and also log it in a local dictionary with all the text values used in the links."
+
 	self assert: self file notNil.
 	self assert: self website notNil.
 	self links
 		do: [ :assoc | 
-			(self urlFor: assoc value) addPage: self.
-			(self urlDict at: assoc value ifAbsentPut: [ Set new ]) add: assoc key ]
-]
-
-{ #category : #accessing }
-PicoPage >> relativePath [
-	^ self path
+			| url |
+			url := self normalize: assoc value.
+			(self urlFor: url) addPage: self.
+			(self urlDict at: url ifAbsentPut: [ Set new ]) add: assoc key ]
 ]
 
 { #category : #accessing }

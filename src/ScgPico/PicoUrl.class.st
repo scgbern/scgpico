@@ -20,6 +20,11 @@ PicoUrl class >> forUrl: aURL [
 ]
 
 { #category : #accessing }
+PicoUrl >> <= aPicoUrl [
+	^ self url <= aPicoUrl url
+]
+
+{ #category : #accessing }
 PicoUrl >> addPage: aPage [
 	self pages add: aPage
 ]
@@ -27,6 +32,16 @@ PicoUrl >> addPage: aPage [
 { #category : #accessing }
 PicoUrl >> addUrl: aLinkName inPage: aPage [
 	(self urlDict at: aLinkName ifAbsentPut: OrderedCollection new) add: aPage.
+]
+
+{ #category : #accessing }
+PicoUrl >> gtPagesFor: aView [
+	<gtView>
+	^ aView list
+		title: 'Pages';
+		priority: 30;
+		items: [ self pages asOrderedCollection ];
+		actionUpdateButtonTooltip: 'Update item list'
 ]
 
 { #category : #accessing }
@@ -38,6 +53,11 @@ PicoUrl >> initialize [
 { #category : #accessing }
 PicoUrl >> pages [
 	^ pages
+]
+
+{ #category : #accessing }
+PicoUrl >> printOn: aStream [
+	aStream << self url
 ]
 
 { #category : #accessing }

@@ -17,6 +17,11 @@ Class {
 }
 
 { #category : #accessing }
+PicoWebsite class >> assetsUrl [
+	^ 'https://scg.unibe.ch/'
+]
+
+{ #category : #accessing }
 PicoWebsite class >> instance [
 	^ instance ifNil: [ instance := self new ]
 ]
@@ -24,7 +29,7 @@ PicoWebsite class >> instance [
 { #category : #accessing }
 PicoWebsite class >> renew [
 	instance := nil.
-	^ self instance
+	^ [ self instance ] timeToRun
 ]
 
 { #category : #constant }
@@ -66,7 +71,7 @@ PicoWebsite >> gtPagesFor: aView [
 				eachIndex asRopedText foreground: Color gray ]
 			width: 45;
 		column: 'Page' 
-			text: [ :page | page relativePath ];
+			text: [ :page | page path ];
 		column: 'Title' 
 			text: [ :page | page title value ].
 ]
@@ -105,6 +110,26 @@ PicoWebsite >> gtSpotterForPageTitlesFor: aSearch [
 				itemsLimit: Float infinity;
 				itemName: #title;
 				filterBySubstring 
+]
+
+{ #category : #view }
+PicoWebsite >> gtUrlsFor: aView [
+	<gtView>
+	^ aView columnedList
+		title: 'URLs';
+		priority: 30;
+		items: [ self urls ];
+		actionUpdateButtonTooltip: 'Update item list';
+		column: 'Index' 
+			text: [ :eachItem :eachIndex | 
+				eachIndex asRopedText foreground: Color gray ]
+			width: 45;
+		column: 'Url' 
+			text: [ :picoUrl | picoUrl url ]
+			width: 400;
+		column: '# pages' 
+			text: [ :picoUrl | picoUrl pages size ]
+			width: 60
 ]
 
 { #category : #initialization }
@@ -163,5 +188,5 @@ PicoWebsite >> urlFor: anURL [
 
 { #category : #accessing }
 PicoWebsite >> urls [
-	^ (self links collect: #value) asSet asSortedCollection
+	^ self urlDict values sorted
 ]
