@@ -7,7 +7,7 @@ Class {
 	#superclass : #Object,
 	#instVars : [
 		'url',
-		'linkDict'
+		'pages'
 	],
 	#category : #'ScgPico-Model'
 }
@@ -20,34 +20,29 @@ PicoUrl class >> forUrl: aURL [
 ]
 
 { #category : #accessing }
-PicoUrl >> addLink: aLinkName inPage: aPage [
-	(self linkDict at: aLinkName ifAbsentPut: OrderedCollection new) add: aPage.
+PicoUrl >> addPage: aPage [
+	self pages add: aPage
+]
+
+{ #category : #accessing }
+PicoUrl >> addUrl: aLinkName inPage: aPage [
+	(self urlDict at: aLinkName ifAbsentPut: OrderedCollection new) add: aPage.
 ]
 
 { #category : #accessing }
 PicoUrl >> initialize [
 	super initialize.
-	linkDict := Dictionary new.
-]
-
-{ #category : #accessing }
-PicoUrl >> linkDict [
-	^ linkDict
-]
-
-{ #category : #accessing }
-PicoUrl >> linkDict: anObject [
-	linkDict := anObject
-]
-
-{ #category : #accessing }
-PicoUrl >> linkNames [
-	^ self linkDict keys
+	pages := Set new.
 ]
 
 { #category : #accessing }
 PicoUrl >> pages [
-	^ self linkDict values flatten
+	^ pages
+]
+
+{ #category : #accessing }
+PicoUrl >> url [
+	^ url
 ]
 
 { #category : #initialization }

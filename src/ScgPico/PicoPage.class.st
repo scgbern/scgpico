@@ -10,7 +10,8 @@ Class {
 		'body',
 		'path',
 		'website',
-		'lePage'
+		'lePage',
+		'urlDict'
 	],
 	#category : #'ScgPico-Model'
 }
@@ -19,8 +20,9 @@ Class {
 PicoPage class >> forFile: aFileReference website: aPicoWebsite [
 	^ self new
 		file: aFileReference;
-		website: aPicoWebsite
-
+		website: aPicoWebsite;
+		registerUrls;
+		yourself
 ]
 
 { #category : #accessing }
@@ -60,11 +62,13 @@ PicoPage >> file [
 
 { #category : #initalization }
 PicoPage >> file: aFileReference [
+	"Can only initialize this when we get the file reference."
+
 	| dict |
 	file := aFileReference.
 	dict := PicoParser parse: self file contents.
 	title := (dict at: #title) ifNil: [ 'MISSING TITLE' ].
-	body := (dict at: #body) ifNil: [ 'MISSING BODY' ]
+	body := (dict at: #body) ifNil: [ 'MISSING BODY' ].
 ]
 
 { #category : #accessing }
@@ -93,6 +97,12 @@ PicoPage >> gtLePageFor: aView [
 		view: #gtLiveFor:
 ]
 
+{ #category : #initalization }
+PicoPage >> initialize [
+	super initialize.
+	urlDict := Dictionary new
+]
+
 { #category : #testing }
 PicoPage >> isSidebar [
 	^ false
@@ -103,18 +113,9 @@ PicoPage >> lePage [
 	^ lePage ifNil: [ self createLePage ]
 ]
 
-{ #category : #parsing }
-PicoPage >> linkSeaParser [
-	| link |
-	link := ($[ asPParser , $] asPParser negate star flatten trim , '](' asPParser
-			, $) asPParser negate star flatten trim , $) asPParser)
-			==> [ :node | node second -> node fourth ].
-	^ (link sea ==> #second) star
-]
-
 { #category : #accessing }
 PicoPage >> links [
-	^ self body flatCollect: [ :par | self linkSeaParser parse: par ]
+	^ self body flatCollect: [ :par | LinkSeaParser new parse: par ]
 ]
 
 { #category : #accessing }
@@ -127,6 +128,27 @@ PicoPage >> path [
 ]
 
 { #category : #accessing }
+PicoPage >> printOn: aStream [
+	super printOn: aStream.
+	aStream
+		<< ': (';
+		<< self title;
+		<< ')[';
+		<< self path;
+		<< ']'
+]
+
+{ #category : #initalization }
+PicoPage >> registerUrls [
+	self assert: self file notNil.
+	self assert: self website notNil.
+	self links
+		do: [ :assoc | 
+			(self urlFor: assoc value) addPage: self.
+			(self urlDict at: assoc value ifAbsentPut: [ Set new ]) add: assoc key ]
+]
+
+{ #category : #accessing }
 PicoPage >> relativePath [
 	^ self path
 ]
@@ -134,6 +156,16 @@ PicoPage >> relativePath [
 { #category : #accessing }
 PicoPage >> title [
 	^ title
+]
+
+{ #category : #initalization }
+PicoPage >> urlDict [
+	^ urlDict
+]
+
+{ #category : #initalization }
+PicoPage >> urlFor: anUrl [
+	^ self website urlFor: anUrl
 ]
 
 { #category : #accessing }

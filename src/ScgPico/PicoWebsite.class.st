@@ -1,5 +1,6 @@
 "
 I am a collection of PicoPage objects.
+I also hold an urlDict dictionary of urls to PicoUrl objects.
 "
 Class {
 	#name : #PicoWebsite,
@@ -108,21 +109,8 @@ PicoWebsite >> gtSpotterForPageTitlesFor: aSearch [
 
 { #category : #initialization }
 PicoWebsite >> initialize [
-	self loadPages.
-
-]
-
-{ #category : #initialization }
-PicoWebsite >> initializeUrlDict [
 	urlDict := Dictionary new.
-	self pages
-		do: [ :page | 
-			page links
-				do: [ :assoc | 
-					(urlDict at: assoc value ifAbsentPut: (PicoUrl forUrl: assoc value))
-						addLink: assoc key
-						inPage: page ] ].
-	^ urlDict
+	self loadPages.
 ]
 
 { #category : #initialization }
@@ -165,7 +153,12 @@ PicoWebsite >> repoDir [
 
 { #category : #accessing }
 PicoWebsite >> urlDict [
-	^ urlDict ifNil: [ self initializeUrlDict ]
+	^ urlDict
+]
+
+{ #category : #accessing }
+PicoWebsite >> urlFor: anURL [
+	^ self urlDict at: anURL ifAbsentPut: [ PicoUrl forUrl: anURL ]
 ]
 
 { #category : #accessing }

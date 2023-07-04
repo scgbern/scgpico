@@ -1,3 +1,7 @@
+"
+I am a simple PP parser for Pico Files.
+I just recognize the YAML header and the body, and I extract the title from the header using the YAMLParser.
+"
 Class {
 	#name : #PicoParser,
 	#superclass : #PP2CompositeNode,
