@@ -5,7 +5,7 @@
 		"__type" : "snippets",
 		"items" : [
 			{
-				"__type" : "textSnippet",
+				"__type" : "pharoSnippet",
 				"children" : {
 					"__type" : "snippets",
 					"items" : [ ]
@@ -18,7 +18,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-06-27T14:24:53.8602+02:00"
+						"dateAndTimeString" : "2023-07-04T14:48:18.344323+02:00"
 					}
 				},
 				"editEmail" : {
@@ -29,17 +29,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-06-27T14:59:35.48099+02:00"
+						"dateAndTimeString" : "2023-07-04T15:12:05.434111+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "CYuVSn27DQCvYpAbCzpoog=="
+					"uidString" : "/uQvbwq8DQCP0F9EBrNOLw=="
 				},
-				"paragraphStyle" : {
-					"__type" : "textStyle"
-				},
-				"string" : "We have various kinds of URLs that need to be normalized."
+				"code" : "PicoWebsite renew."
 			},
 			{
 				"__type" : "pharoSnippet",
@@ -76,7 +73,7 @@
 				"code" : "PicoWebsite instance."
 			},
 			{
-				"__type" : "pharoSnippet",
+				"__type" : "textSnippet",
 				"children" : {
 					"__type" : "snippets",
 					"items" : [ ]
@@ -89,7 +86,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-07-04T14:48:18.344323+02:00"
+						"dateAndTimeString" : "2023-06-27T14:24:53.8602+02:00"
 					}
 				},
 				"editEmail" : {
@@ -100,14 +97,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-07-04T15:12:05.434111+02:00"
+						"dateAndTimeString" : "2023-06-27T14:59:35.48099+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "/uQvbwq8DQCP0F9EBrNOLw=="
+					"uidString" : "CYuVSn27DQCvYpAbCzpoog=="
 				},
-				"code" : "PicoWebsite renew."
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "We have various kinds of URLs that need to be normalized."
 			},
 			{
 				"__type" : "textSnippet",
@@ -213,7 +213,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-07-04T15:40:55.496544+02:00"
+									"dateAndTimeString" : "2023-07-04T16:04:31.193774+02:00"
 								}
 							},
 							"uid" : {
@@ -223,7 +223,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "We need tonormalize the URLs and then egenerate either a `[]()` link or a `gtPage` link."
+							"string" : "We need to normalize the URLs and then egenerate either a `[]()` link or a `gtPage` link."
 						},
 						{
 							"__type" : "textSnippet",
@@ -250,7 +250,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-07-04T15:54:17.531355+02:00"
+									"dateAndTimeString" : "2023-07-04T16:05:06.292346+02:00"
 								}
 							},
 							"uid" : {
@@ -260,7 +260,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : ""
+							"string" : "See {{gtMethod:name=PicoPage>>#createLePage}}. "
 						},
 						{
 							"__type" : "textSnippet",
@@ -287,7 +287,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-07-04T15:54:36.678521+02:00"
+									"dateAndTimeString" : "2023-07-04T16:27:02.965494+02:00"
 								}
 							},
 							"uid" : {
@@ -297,7 +297,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "***PROBLEM*** the gtPage links are not working insidde a transient database."
+							"string" : "***PROBLEM*** the links don't work until you update the snippet. Why?!"
 						},
 						{
 							"__type" : "textSnippet",
@@ -313,7 +313,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-07-04T15:54:18.543586+02:00"
+									"dateAndTimeString" : "2023-07-04T16:27:05.618025+02:00"
 								}
 							},
 							"editEmail" : {
@@ -324,7 +324,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-07-04T15:54:18.543586+02:00"
+									"dateAndTimeString" : "2023-07-04T16:27:05.618025+02:00"
 								}
 							},
 							"uid" : {
@@ -337,7 +337,7 @@
 							"string" : ""
 						},
 						{
-							"__type" : "pharoSnippet",
+							"__type" : "textSnippet",
 							"children" : {
 								"__type" : "snippets",
 								"items" : [ ]
@@ -350,7 +350,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-07-04T15:40:16.04504+02:00"
+									"dateAndTimeString" : "2023-07-04T16:06:02.988978+02:00"
 								}
 							},
 							"editEmail" : {
@@ -361,48 +361,17 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-07-04T15:40:16.528177+02:00"
+									"dateAndTimeString" : "2023-07-04T16:06:02.988978+02:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
-								"uidString" : "jTwEKQu8DQCxLWpxDLTU4A=="
+								"uidString" : "sTs9fwu8DQCimnvzA26uGw=="
 							},
-							"code" : "parse := LinkSeaParser parse: 'This web site provides access to the [Research](%base_url%/research), [Publications](%base_url%/publications) and [Teaching](%base_url%/teaching) material produced by the SCG to the end of 2021.'"
-						},
-						{
-							"__type" : "pharoSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
+							"paragraphStyle" : {
+								"__type" : "textStyle"
 							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-07-04T15:40:17.303028+02:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-07-04T15:40:22.603022+02:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "tnAXKQu8DQCxN0ntDLTU4A=="
-							},
-							"code" : "parse\r\tcollect: [ :each | '' join:\r\t\t{'' join: each first.\r\t\t\teach second second.\r\t\t\teach second fourth.\r\t\t\t'' join: each third} ]"
+							"string" : ""
 						}
 					]
 				},
@@ -516,6 +485,43 @@
 				"children" : {
 					"__type" : "snippets",
 					"items" : [
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-07-04T16:32:00.613391+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-07-04T16:33:07.162315+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "CB3O4Qu8DQCVGGW6BkPlpA=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "Strip off `index.md` from page titles (but leave the trailing `/`)."
+						},
 						{
 							"__type" : "textSnippet",
 							"children" : {
