@@ -217,7 +217,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-07-18T15:18:58.611521+02:00"
+									"dateAndTimeString" : "2023-07-18T15:19:06.756968+02:00"
 								}
 							},
 							"uid" : {
@@ -227,44 +227,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "LinkSeaParser is missing — forgot to push? See [[* Catalog links on each page]]"
-						},
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-07-18T15:17:12.081656+02:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-07-18T15:17:12.081656+02:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "vONNeCS9DQCTjcecBRfX8w=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : ""
+							"string" : "LinkSeaParser is missing — forgot to push? See [[* Catalog links on each page]]. "
 						},
 						{
 							"__type" : "pharoSnippet",

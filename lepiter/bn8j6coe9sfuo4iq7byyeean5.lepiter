@@ -230,7 +230,7 @@
 							"string" : "LinkSeaParser is missing — forgot to push? See [[* Catalog links on each page]]. "
 						},
 						{
-							"__type" : "pharoSnippet",
+							"__type" : "textSnippet",
 							"children" : {
 								"__type" : "snippets",
 								"items" : [ ]
@@ -243,7 +243,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-07-18T15:17:14.840812+02:00"
+									"dateAndTimeString" : "2023-07-18T16:16:42.922078+02:00"
 								}
 							},
 							"editEmail" : {
@@ -254,14 +254,17 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-07-18T15:17:19.35371+02:00"
+									"dateAndTimeString" : "2023-07-18T16:16:42.922078+02:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
-								"uidString" : "D/h3eCS9DQCTksYGBRfX8w=="
+								"uidString" : "KZYkTSW9DQCUXpv3BRfX8w=="
 							},
-							"code" : "#sea gtSenders "
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : ""
 						}
 					]
 				},
