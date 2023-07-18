@@ -8,7 +8,42 @@
 				"__type" : "textSnippet",
 				"children" : {
 					"__type" : "snippets",
-					"items" : [ ]
+					"items" : [
+						{
+							"__type" : "pharoSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-07-18T16:19:21.564561+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-07-18T16:19:29.931387+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "VEaZViW9DQChRrA7Bq+FSw=="
+							},
+							"code" : "GtGitPhlowTool new repository: (GtGitRepository forRepoNamed: 'ScgPico')"
+						}
+					]
 				},
 				"createEmail" : {
 					"__type" : "email",
@@ -29,7 +64,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-06-23T10:55:04.817195+02:00"
+						"dateAndTimeString" : "2023-07-18T16:19:26.084441+02:00"
 					}
 				},
 				"uid" : {
@@ -39,7 +74,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "[This repo](https://github.com/scgbern/scgpico) holds the SCG website implemented in Pico."
+				"string" : "[This repo](https://github.com/scgbern/scgpico) holds the SCG website implemented in Pico"
 			},
 			{
 				"__type" : "textSnippet",
@@ -206,7 +241,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-02-08T15:19:12.79969+01:00"
+									"dateAndTimeString" : "2023-07-18T16:18:12.908177+02:00"
 								}
 							},
 							"editEmail" : {
@@ -217,20 +252,20 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-07-18T15:19:06.756968+02:00"
+									"dateAndTimeString" : "2023-07-18T16:18:27.184225+02:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
-								"uidString" : "54t3r5KwDQCz3i6IDL60xA=="
+								"uidString" : "xKmBUiW9DQCXz/lLBRfX8w=="
 							},
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "LinkSeaParser is missing — forgot to push? See [[* Catalog links on each page]]. "
+							"string" : "Make the initialization more lazy. Takes 24 seconds to load now."
 						},
 						{
-							"__type" : "pharoSnippet",
+							"__type" : "textSnippet",
 							"children" : {
 								"__type" : "snippets",
 								"items" : [ ]
@@ -243,7 +278,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-07-18T15:17:14.840812+02:00"
+									"dateAndTimeString" : "2023-07-18T16:17:45.922742+02:00"
 								}
 							},
 							"editEmail" : {
@@ -254,14 +289,91 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-07-18T15:17:19.35371+02:00"
+									"dateAndTimeString" : "2023-07-18T16:17:46.119815+02:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
-								"uidString" : "D/h3eCS9DQCTksYGBRfX8w=="
+								"uidString" : "54t3r5KwDQCz3i6IDL60xA=="
 							},
-							"code" : "#sea gtSenders "
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "[[* Catalog links on each page]]"
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-07-18T16:17:56.991718+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-07-18T16:17:58.375682+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "nkDzUCW9DQCVxsSRBRfX8w=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "[[* Normalize links]] "
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-07-18T16:16:42.922078+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-07-18T16:16:42.922078+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "KZYkTSW9DQCUXpv3BRfX8w=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : ""
 						}
 					]
 				},
