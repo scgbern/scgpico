@@ -145,10 +145,7 @@ PicoPage >> links [
 	"The parser returns a collection of text -> url associations.
 	NB: These are the raw, not normalized urls."
 
-	^ self body
-		flatCollect: [ :par | 
-			(LinkSeaParser new parse: par)
-				collect: [ :node | node second second -> node second fourth ] ]
+	^ self body flatCollect: [ :par | LinkExtractor new parse: par ]
 ]
 
 { #category : #accessing }

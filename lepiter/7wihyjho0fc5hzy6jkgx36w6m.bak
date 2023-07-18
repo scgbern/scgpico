@@ -113,6 +113,43 @@
 				"__type" : "textSnippet",
 				"children" : {
 					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-07-04T12:11:18.463731+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-07-04T12:11:26.22557+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "2u63PQi8DQCOqibJAPdOwA=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Takes about 12 seconds to load."
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
 					"items" : [
 						{
 							"__type" : "textSnippet",
@@ -398,7 +435,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-07-04T11:30:53.291324+02:00"
+									"dateAndTimeString" : "2023-07-18T15:31:44.531976+02:00"
 								}
 							},
 							"uid" : {
@@ -408,7 +445,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "So not only the wesbite should have a catalog, but also each page."
+							"string" : "So not only the website should have a catalog, but also each page."
 						}
 					]
 				},
@@ -452,7 +489,45 @@
 							"__type" : "textSnippet",
 							"children" : {
 								"__type" : "snippets",
-								"items" : [ ]
+								"items" : [
+									{
+										"__type" : "textSnippet",
+										"children" : {
+											"__type" : "snippets",
+											"items" : [ ]
+										},
+										"createEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"createTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2023-07-18T15:23:03.50898+02:00"
+											}
+										},
+										"editEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"editTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2023-07-18T15:32:06.278377+02:00"
+											}
+										},
+										"uid" : {
+											"__type" : "uid",
+											"uidString" : "DztAjSS9DQCUyhJSBRfX8w=="
+										},
+										"paragraphStyle" : {
+											"__type" : "textStyle"
+										},
+										"string" : "Somehow we lost the LinkSeaParser. Need to reconstruct it. Used in {{gtMethod:name=PicoPage>>#normalizeLinks:}} and {{gtMethod:name=PicoPage>>#links}}.  Temporarily comment these out."
+									}
+								]
 							},
 							"createEmail" : {
 								"__type" : "email",
@@ -462,7 +537,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-06-27T14:50:52.364572+02:00"
+									"dateAndTimeString" : "2023-07-18T15:22:53.371874+02:00"
 								}
 							},
 							"editEmail" : {
@@ -473,17 +548,196 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-07-04T10:35:33.757433+02:00"
+									"dateAndTimeString" : "2023-07-18T15:23:02.535776+02:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
-								"uidString" : "+G16p327DQCc7ILEA2dTeg=="
+								"uidString" : "/I6ljCS9DQCUP1N2BRfX8w=="
 							},
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "We write a simple island parser {{gtClass:name=LinkSeaParser}} for links and use it in {{gtMethod:name=PicoPage>>#links}}."
+							"string" : "# *** Repair island parser"
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-07-18T15:30:42.513509+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-07-18T15:31:34.262258+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "cBecqCS9DQCIVy03BRfX8w=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "We want to recognize links of the form `[text](url)` and extract a collection of `text -> url` associations."
+						},
+						{
+							"__type" : "pharoSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-07-18T15:36:16.680326+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-07-18T16:06:57.332141+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "DxSHvCS9DQCM2Ep2BRfX8w=="
+							},
+							"code" : "link := ($[ asPParser , \r\t'](' asPParser negate star flatten trim , '](' asPParser,\r\t$) asPParser negate star flatten trim , $) asPParser)\r\t\t==> [ :node | node second -> node fourth ].\rlinkSea := (link sea ==> #second) star.\r\rlinkSea parse: PicoWebsiteExamples new rootPage bodyText."
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-07-18T15:43:11.171508+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-07-18T15:46:09.973108+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "FLU71SS9DQCQzgjQBRfX8w=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "We extract it as a class."
+						},
+						{
+							"__type" : "pharoSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-07-18T15:41:57.420277+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-07-18T16:07:07.036234+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "k1vW0CS9DQCQL9viBRfX8w=="
+							},
+							"code" : "LinkSeaParser parse: PicoWebsiteExamples new rootPage bodyText."
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-07-18T16:12:21.304535+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-07-18T16:13:47.736715+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "RZ6MPSW9DQCVtOODBRfX8w=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "We make two versions of the parser. {{gtClass:name=LinkSeaParser}} returns the full parse, and {{gtClass:name=LinkExtractor}} returns just the links. The former is used in  {{gtMethod:name=PicoPage>>#normalizeLinks:}} and the latter in {{gtMethod:name=PicoPage>>#links}}.  "
 						},
 						{
 							"__type" : "pharoSnippet",
@@ -510,14 +764,14 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-07-04T10:35:38.447464+02:00"
+									"dateAndTimeString" : "2023-07-18T16:14:02.891698+02:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
 								"uidString" : "kb64qn27DQCiGYdFA2dTeg=="
 							},
-							"code" : "(PicoWebsite instance pageAtPath: 'index.md') links "
+							"code" : "PicoWebsiteExamples new rootPage links "
 						}
 					]
 				},
@@ -838,7 +1092,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-07-04T12:10:03.205201+02:00"
+						"dateAndTimeString" : "2023-07-04T12:10:52.704002+02:00"
 					}
 				},
 				"uid" : {
@@ -848,7 +1102,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "#Add views"
+				"string" : "# *** Add views"
 			},
 			{
 				"__type" : "textSnippet",
