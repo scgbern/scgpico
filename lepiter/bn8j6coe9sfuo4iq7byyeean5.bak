@@ -175,7 +175,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-08-23T15:51:41.101681+02:00"
+						"dateAndTimeString" : "2023-08-23T15:51:46.32083+02:00"
 					}
 				},
 				"uid" : {
@@ -185,7 +185,44 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "After building Web explorer for the ESUG website (see {{gtClass:name=EsugWebsite}}), we generalized it to work for GitHub pages websites. Now we want to"
+				"string" : "After building Web explorer for the ESUG website (see {{gtClass:name=EsugWebsite}}), we generalized it to work for GitHub pages websites. Now we want to specialize it for Pico sites."
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-08-23T15:51:47.197383+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-08-23T15:51:51.856385+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "VSRHJvm/DQCcH0NRDtqgUA=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "See [[Pico modeling with the Markdown Web Explorer]]."
 			},
 			{
 				"__type" : "textSnippet",
