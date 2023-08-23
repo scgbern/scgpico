@@ -31,7 +31,7 @@ PicoWebsiteRedux class >> scg [
 	webUrl := 'https://scg.unibe.ch'.
 	repoUrl := 'https://github.com/scgbern/scgpico'.
 	repoDir := (FileLocator imageDirectory / 'pharo-local' / 'iceberg' / 'scgbern'
-			/ 'scgpico') asFileReference.
+			/ 'scgpico' / 'content') asFileReference.
 	navMenuLinks := {'/research'.
 			'/teaching'.
 			'/publications'.
@@ -44,4 +44,9 @@ PicoWebsiteRedux class >> scg [
 				repoDir: repoDir;
 				url: webUrl;
 				navigationMenuLinks: navMenuLinks ]
+]
+
+{ #category : #constant }
+PicoWebsiteRedux >> webPageClass [
+	^ PicoWebPage
 ]
