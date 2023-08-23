@@ -34,14 +34,14 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-07-18T16:19:29.931387+02:00"
+									"dateAndTimeString" : "2023-07-18T16:19:55.908139+02:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
 								"uidString" : "VEaZViW9DQChRrA7Bq+FSw=="
 							},
-							"code" : "GtGitPhlowTool new repository: (GtGitRepository forRepoNamed: 'ScgPico')"
+							"code" : "GtGitPhlowTool new repository: (GtGitRepository forRepoNamed: 'scgpico')"
 						}
 					]
 				},
@@ -127,7 +127,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-06-27T11:26:28.006615+02:00"
+						"dateAndTimeString" : "2023-08-23T15:47:07.001104+02:00"
 					}
 				},
 				"editEmail" : {
@@ -138,7 +138,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-06-27T11:26:52.703429+02:00"
+						"dateAndTimeString" : "2023-08-23T15:50:03.654061+02:00"
 					}
 				},
 				"uid" : {
@@ -148,48 +148,13 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Start with  [[Instantiating and exploring the SCG Pico website]] then go to [[Pico modeling]]. "
+				"string" : "The first attempt to model a Pico website is reported in [[Pico modeling (take 1)]]."
 			},
 			{
 				"__type" : "textSnippet",
 				"children" : {
 					"__type" : "snippets",
-					"items" : [
-						{
-							"__type" : "pharoSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-07-18T15:15:19.476897+02:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-07-18T15:15:20.11717+02:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "iqqXcSS9DQCSbAaWBRfX8w=="
-							},
-							"code" : "PicoWebsite instance."
-						}
-					]
+					"items" : [ ]
 				},
 				"createEmail" : {
 					"__type" : "email",
@@ -199,7 +164,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-07-18T15:15:21.690332+02:00"
+						"dateAndTimeString" : "2023-08-23T15:50:56.428662+02:00"
 					}
 				},
 				"editEmail" : {
@@ -210,172 +175,23 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-07-18T15:15:24.4602+02:00"
+						"dateAndTimeString" : "2023-08-23T15:51:41.101681+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "+nG5cSS9DQCSdsFjBRfX8w=="
+					"uidString" : "qnhAI/m/DQCZ3fWcDtqgUA=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "#Explore"
+				"string" : "After building Web explorer for the ESUG website (see {{gtClass:name=EsugWebsite}}), we generalized it to work for GitHub pages websites. Now we want to"
 			},
 			{
 				"__type" : "textSnippet",
 				"children" : {
 					"__type" : "snippets",
-					"items" : [
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-07-18T16:18:12.908177+02:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-07-18T16:18:27.184225+02:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "xKmBUiW9DQCXz/lLBRfX8w=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : "Make the initialization more lazy. Takes 24 seconds to load now."
-						},
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-07-18T16:17:45.922742+02:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-07-18T16:17:46.119815+02:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "54t3r5KwDQCz3i6IDL60xA=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : "[[* Catalog links on each page]]"
-						},
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-07-18T16:17:56.991718+02:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-07-18T16:17:58.375682+02:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "nkDzUCW9DQCVxsSRBRfX8w=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : "[[* Normalize links]] "
-						},
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-07-18T16:16:42.922078+02:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-07-18T16:16:42.922078+02:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "KZYkTSW9DQCUXpv3BRfX8w=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : ""
-						}
-					]
+					"items" : [ ]
 				},
 				"createEmail" : {
 					"__type" : "email",
@@ -385,7 +201,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-02-08T15:52:12.495184+01:00"
+						"dateAndTimeString" : "2023-08-23T15:48:01.438839+02:00"
 					}
 				},
 				"editEmail" : {
@@ -396,7 +212,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-07-18T15:15:00.149396+02:00"
+						"dateAndTimeString" : "2023-08-23T15:48:01.438839+02:00"
 					}
 				},
 				"uid" : {
@@ -406,7 +222,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "# To do next"
+				"string" : ""
 			}
 		]
 	},

@@ -34,6 +34,7 @@ PicoWebsite class >> renew [
 
 { #category : #constant }
 PicoWebsite >> contentDir [
+	<gtExample>
 	^ self repoDir / 'content'
 ]
 

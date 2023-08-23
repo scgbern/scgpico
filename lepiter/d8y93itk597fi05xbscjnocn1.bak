@@ -83,6 +83,43 @@
 				"__type" : "textSnippet",
 				"children" : {
 					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-08-23T15:46:16.849734+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-08-23T15:46:39.272873+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "am6WEvm/DQCTH7WzDtqgUA=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "[[Pico modeling with the Markdown Web Explorer]]"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
 					"items" : [
 						{
 							"__type" : "textSnippet",
@@ -368,7 +405,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-06-27T14:57:21.916213+02:00"
+									"dateAndTimeString" : "2023-06-27T15:00:14.138165+02:00"
 								}
 							},
 							"uid" : {
@@ -378,7 +415,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "[[Catalog links on each page]]"
+							"string" : "[[* Catalog links on each page]]"
 						},
 						{
 							"__type" : "textSnippet",
@@ -438,7 +475,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-02-08T15:51:30.275232+01:00"
+						"dateAndTimeString" : "2023-08-23T15:45:54.738742+02:00"
 					}
 				},
 				"uid" : {
@@ -448,7 +485,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "[[Pico modeling]] "
+				"string" : "[[Pico modeling (take 1)]] "
 			},
 			{
 				"__type" : "textSnippet",
