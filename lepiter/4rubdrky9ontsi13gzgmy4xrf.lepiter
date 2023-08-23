@@ -664,6 +664,40 @@
 							"code" : "PicoWebsiteRedux scg"
 						},
 						{
+							"__type" : "pharoSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-08-23T18:54:40.806243+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-08-23T18:54:58.884228+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "1B9btPu/DQC2qtXeCALWmg=="
+							},
+							"code" : "PicoWebsiteRedux initialize \"clear the cache\""
+						},
+						{
 							"__type" : "textSnippet",
 							"children" : {
 								"__type" : "snippets",
@@ -725,7 +759,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-08-23T17:01:52.428722+02:00"
+									"dateAndTimeString" : "2023-08-23T18:08:56.536028+02:00"
 								}
 							},
 							"uid" : {
@@ -735,7 +769,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : ""
+							"string" : "We need to distinguish the repoDir and the contentDir. We push this to the main project so we can adapt it here. We add {{gtMethod:name=PicoWebsiteRedux>>#contentDir}}. "
 						},
 						{
 							"__type" : "textSnippet",
@@ -762,7 +796,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-08-23T17:24:45.168537+02:00"
+									"dateAndTimeString" : "2023-08-23T18:25:44.853762+02:00"
 								}
 							},
 							"uid" : {
@@ -772,7 +806,81 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : ""
+							"string" : "We introduce {{gtMethod:name=PicoWebLink>>#rewritePath:}}.  "
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-08-23T18:37:31.789134+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-08-23T18:37:44.693866+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "i5AFd/u/DQC2CKSsCALWmg=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "Added an Overview view."
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-08-23T18:56:02.535198+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-08-23T18:58:50.473177+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "JDQ6ufu/DQC3Y8VUCALWmg=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "Fixed the permalinks, but now there are an enormous number of missing links and unreachable pages, which is not possible. Need to figure this out ..."
 						}
 					]
 				},
@@ -826,7 +934,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-08-23T17:16:05.085108+02:00"
+									"dateAndTimeString" : "2023-08-23T17:17:15.180968+02:00"
 								}
 							},
 							"editEmail" : {
@@ -837,54 +945,17 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-08-23T17:16:34.188074+02:00"
+									"dateAndTimeString" : "2023-08-23T17:17:18.378154+02:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
-								"uidString" : "M2LAU/q/DQCwDJXcDHFwIg=="
+								"uidString" : "OPbtV/q/DQCxsXqlDHFwIg=="
 							},
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "Expanding `%base_url%` and `%assets_url%`."
-						},
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-08-23T17:16:34.907558+02:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-08-23T17:17:06.386413+02:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "OXCHVfq/DQCxDW3vDHFwIg=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : "Nested links for images"
+							"string" : "Reachable pages"
 						},
 						{
 							"__type" : "textSnippet",
@@ -937,7 +1008,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-08-23T17:17:15.180968+02:00"
+									"dateAndTimeString" : "2023-08-23T17:16:34.907558+02:00"
 								}
 							},
 							"editEmail" : {
@@ -948,17 +1019,17 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-08-23T17:17:18.378154+02:00"
+									"dateAndTimeString" : "2023-08-23T18:59:12.441958+02:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
-								"uidString" : "OPbtV/q/DQCxsXqlDHFwIg=="
+								"uidString" : "OXCHVfq/DQCxDW3vDHFwIg=="
 							},
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "Reachable pages"
+							"string" : "Nested links for images? "
 						}
 					]
 				},
@@ -992,6 +1063,115 @@
 					"__type" : "textStyle"
 				},
 				"string" : "# Stuff to check"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-08-23T18:12:42.946862+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-08-23T18:13:19.067702+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "YaNHHvu/DQCw84dnCALWmg=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "We'd like to parse the config file but we can't, so we have to hardcode the config parameters."
+						},
+						{
+							"__type" : "pharoSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-08-23T18:13:20.57676+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-08-23T18:14:21.358996+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "WNGFIPu/DQCy5JPdCALWmg=="
+							},
+							"code" : "YAMLParser\r\tparse: 'pharo-local/iceberg/scgbern/scgpico/PicoConfig/config/config.yml'\r\t\t\tasFileReference contents"
+						}
+					]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-08-23T18:12:31.39228+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-08-23T18:12:42.596554+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "MVOXHfu/DQCwhoorCALWmg=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "# YAML parsing error"
 			}
 		]
 	},

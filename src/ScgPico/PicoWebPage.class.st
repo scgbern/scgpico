@@ -13,6 +13,13 @@ PicoWebPage >> markdownLinks [
 ]
 
 { #category : #accessing }
+PicoWebPage >> permalink [
+	"No permalinks in the YAML headers here."
+
+	^ ((self path removeSuffix: '.md') removeSuffix: 'index') removeSuffix: '/'
+]
+
+{ #category : #accessing }
 PicoWebPage >> title [
 	^ title
 		ifNil: [ self yaml

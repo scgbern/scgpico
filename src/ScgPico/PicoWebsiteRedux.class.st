@@ -31,7 +31,7 @@ PicoWebsiteRedux class >> scg [
 	webUrl := 'https://scg.unibe.ch'.
 	repoUrl := 'https://github.com/scgbern/scgpico'.
 	repoDir := (FileLocator imageDirectory / 'pharo-local' / 'iceberg' / 'scgbern'
-			/ 'scgpico' / 'content') asFileReference.
+			/ 'scgpico') asFileReference.
 	navMenuLinks := {'/research'.
 			'/teaching'.
 			'/publications'.
@@ -44,6 +44,74 @@ PicoWebsiteRedux class >> scg [
 				repoDir: repoDir;
 				url: webUrl;
 				navigationMenuLinks: navMenuLinks ]
+]
+
+{ #category : #accessing }
+PicoWebsiteRedux >> contentDir [
+	^ self repoDir / 'content'
+]
+
+{ #category : #view }
+PicoWebsiteRedux >> gtInternalLinksFor: aView [
+	<gtView>
+	self links ifEmpty: [ ^ aView empty ].
+	^ aView columnedList
+		title: 'Internal links';
+		priority: 32;
+		items: [ self internalLinks ];
+		column: 'Index'
+			text: [ :eachItem :eachIndex | eachIndex asRopedText foreground: Color gray ]
+			width: 45;
+		column: 'Link'
+			text: [ :item | item path ]
+			width: 200;
+		column: '# Pages'
+			text: [ :item | item pages size ]
+			width: 60;
+		column: 'Status' text: [ :item | item status ];
+		actionUpdateButton;
+		actionButtonIcon: BrGlamorousVectorIcons inspect
+			tooltip: 'Inspect  value'
+			action: [ :aButton :aTab | aButton phlow spawnObject: (WebLinkGroup withAll: self links) ];
+		updateWhen: WebLinkStatusUpdated in: self announcer
+]
+
+{ #category : #view }
+PicoWebsiteRedux >> gtOverviewFor: aView [
+	<gtView>
+	^ aView columnedList
+		title: 'Overview';
+		priority: 5;
+		items: [ self overview ];
+		column: 'Attribute'
+			text: [ :item | item key ]
+			width: 200;
+		column: 'Value'
+			text: [ :item | item value ]
+			width: 400;
+		actionUpdateButton
+]
+
+{ #category : #accessing }
+PicoWebsiteRedux >> internalLinks [
+	^ self links select: #isInternal
+]
+
+{ #category : #accessing }
+PicoWebsiteRedux >> overview [
+	^ {'# Pages' -> self pages size.
+		'# Links' -> self links size.
+		'# External (HTTP) links' -> self httpLinks size.
+		'# Internal links' -> self internalLinks size.
+		'# Email links' -> (self links select: #isEmail) size.
+		'# Missing links' -> self missingLinks size.
+		'# Reachable pages' -> ([ self reachable size ] onErrorDo: [ '?' ]).
+		'# Unreachable pages' -> ([ self unreachable size ] onErrorDo: [ '?' ])}
+]
+
+{ #category : #constant }
+PicoWebsiteRedux >> webLinkClass [
+	^ PicoWebLink
 ]
 
 { #category : #constant }
