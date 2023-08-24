@@ -76,37 +76,17 @@ PicoWebsiteRedux >> gtInternalLinksFor: aView [
 		updateWhen: WebLinkStatusUpdated in: self announcer
 ]
 
-{ #category : #view }
-PicoWebsiteRedux >> gtOverviewFor: aView [
-	<gtView>
-	^ aView columnedList
-		title: 'Overview';
-		priority: 5;
-		items: [ self overview ];
-		column: 'Attribute'
-			text: [ :item | item key ]
-			width: 200;
-		column: 'Value'
-			text: [ :item | item value ]
-			width: 400;
-		actionUpdateButton
-]
-
-{ #category : #accessing }
-PicoWebsiteRedux >> internalLinks [
-	^ self links select: #isInternal
-]
-
 { #category : #accessing }
 PicoWebsiteRedux >> overview [
-	^ {'# Pages' -> self pages size.
+	"^ {'# Pages' -> self pages size.
 		'# Links' -> self links size.
 		'# External (HTTP) links' -> self httpLinks size.
 		'# Internal links' -> self internalLinks size.
 		'# Email links' -> (self links select: #isEmail) size.
 		'# Missing links' -> self missingLinks size.
 		'# Reachable pages' -> ([ self reachable size ] onErrorDo: [ '?' ]).
-		'# Unreachable pages' -> ([ self unreachable size ] onErrorDo: [ '?' ])}
+		'# Unreachable pages' -> ([ self unreachable size ] onErrorDo: [ '?' ])}"
+		^ super overview
 ]
 
 { #category : #constant }
