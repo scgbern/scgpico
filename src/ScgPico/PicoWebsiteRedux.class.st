@@ -72,7 +72,7 @@ PicoWebsiteRedux >> gtInternalLinksFor: aView [
 		actionUpdateButton;
 		actionButtonIcon: BrGlamorousVectorIcons inspect
 			tooltip: 'Inspect  value'
-			action: [ :aButton :aTab | aButton phlow spawnObject: (WebLinkGroup withAll: self links) ];
+			action: [ :aButton :aTab | aButton phlow spawnObject: self internalLinks ];
 		updateWhen: WebLinkStatusUpdated in: self announcer
 ]
 
