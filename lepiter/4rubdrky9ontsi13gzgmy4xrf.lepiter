@@ -1626,7 +1626,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-08-23T18:14:21.358996+02:00"
+									"dateAndTimeString" : "2023-10-18T14:54:44.118589+02:00"
 								}
 							},
 							"uid" : {
@@ -1634,40 +1634,6 @@
 								"uidString" : "WNGFIPu/DQCy5JPdCALWmg=="
 							},
 							"code" : "YAMLParser\r\tparse: 'pharo-local/iceberg/scgbern/scgpico/PicoConfig/config/config.yml'\r\t\t\tasFileReference contents"
-						},
-						{
-							"__type" : "pharoSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-10-18T14:44:48.219782+02:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-10-18T14:44:59.781436+02:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "T2XXvV7EDQCaO28CAYljSw=="
-							},
-							"code" : "'pharo-local/iceberg/scgbern/scgpico/PicoConfig/config/config.yml' asFileReference"
 						}
 					]
 				},

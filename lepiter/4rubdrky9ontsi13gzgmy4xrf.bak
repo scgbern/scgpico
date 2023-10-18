@@ -1589,7 +1589,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-10-18T14:52:30.163527+02:00"
+									"dateAndTimeString" : "2023-10-18T14:52:52.141292+02:00"
 								}
 							},
 							"uid" : {
@@ -1599,7 +1599,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "We'd like to parse the config file but there is a YAML "
+							"string" : "We'd like to parse the config file but there is a YAML error on the `date_format` line, so we comment that out."
 						},
 						{
 							"__type" : "pharoSnippet",
