@@ -103,7 +103,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-06-23T10:04:44.207951+02:00"
+						"dateAndTimeString" : "2023-10-18T14:38:30.278916+02:00"
 					}
 				},
 				"uid" : {
@@ -113,7 +113,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "We lazily define {{gtMethod:name=PicoWebsite>>#lepiterDB}}. "
+				"string" : "We lazily define {{gtMethod:name=PicoWebsiteOld>>#db}}. "
 			},
 			{
 				"__type" : "pharoSnippet",
@@ -140,14 +140,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-06-23T10:03:23.735491+02:00"
+						"dateAndTimeString" : "2023-10-18T14:38:02.110706+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "wZBjKym7DQCAvGl5Aw8aGA=="
 				},
-				"code" : "PicoWebsite instance"
+				"code" : "PicoWebsiteOld instance"
 			},
 			{
 				"__type" : "pharoSnippet",
@@ -174,14 +174,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-06-23T10:03:41.769982+02:00"
+						"dateAndTimeString" : "2023-10-18T14:38:03.761734+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "XXKkLCm7DQCA87YwAw8aGA=="
 				},
-				"code" : "PicoWebsite renew"
+				"code" : "PicoWebsiteOld renew"
 			},
 			{
 				"__type" : "textSnippet",
@@ -320,14 +320,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-06-23T10:31:39.240966+02:00"
+						"dateAndTimeString" : "2023-10-18T14:38:54.533545+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "X9zXMym7DQCCUniEAw8aGA=="
 				},
-				"code" : "time := [PicoWebsite instance addLepiterPages] timeToRun."
+				"code" : "time := [PicoWebsiteOld instance loadPages] timeToRun."
 			},
 			{
 				"__type" : "textSnippet",

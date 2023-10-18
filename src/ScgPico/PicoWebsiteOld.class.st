@@ -3,7 +3,7 @@ I am a collection of PicoPage objects.
 I also hold an urlDict dictionary of urls to PicoUrl objects.
 "
 Class {
-	#name : #PicoWebsite,
+	#name : #PicoWebsiteOld,
 	#superclass : #Object,
 	#instVars : [
 		'pages',
@@ -17,29 +17,29 @@ Class {
 }
 
 { #category : #accessing }
-PicoWebsite class >> assetsUrl [
+PicoWebsiteOld class >> assetsUrl [
 	^ 'https://scg.unibe.ch/'
 ]
 
 { #category : #accessing }
-PicoWebsite class >> instance [
+PicoWebsiteOld class >> instance [
 	^ instance ifNil: [ instance := self new ]
 ]
 
 { #category : #accessing }
-PicoWebsite class >> renew [
+PicoWebsiteOld class >> renew [
 	instance := nil.
 	^ [ self instance ] timeToRun
 ]
 
 { #category : #constant }
-PicoWebsite >> contentDir [
+PicoWebsiteOld >> contentDir [
 	<gtExample>
 	^ self repoDir / 'content'
 ]
 
 { #category : #accessing }
-PicoWebsite >> db [
+PicoWebsiteOld >> db [
 	"Transient Lepiter database for the dynamically created pages."
 
 	^ db
@@ -49,7 +49,7 @@ PicoWebsite >> db [
 ]
 
 { #category : #accessing }
-PicoWebsite >> gtLepiterFor: aView [
+PicoWebsiteOld >> gtLepiterFor: aView [
 	<gtView>
 	^ aView forward
 		title: 'Lepiter DB';
@@ -60,7 +60,7 @@ PicoWebsite >> gtLepiterFor: aView [
 ]
 
 { #category : #view }
-PicoWebsite >> gtPagesFor: aView [
+PicoWebsiteOld >> gtPagesFor: aView [
 	<gtView>
 	^ aView columnedList
 		title: 'Pages';
@@ -78,7 +78,7 @@ PicoWebsite >> gtPagesFor: aView [
 ]
 
 { #category : #accessing }
-PicoWebsite >> gtSpotterForPageBodyFor: aSearch [
+PicoWebsiteOld >> gtSpotterForPageBodyFor: aSearch [
 	<gtSearch>
 	^ aSearch list
 				priority: 30;
@@ -90,7 +90,7 @@ PicoWebsite >> gtSpotterForPageBodyFor: aSearch [
 ]
 
 { #category : #accessing }
-PicoWebsite >> gtSpotterForPagePathFor: aSearch [
+PicoWebsiteOld >> gtSpotterForPagePathFor: aSearch [
 	<gtSearch>
 	^ aSearch list
 				priority: 20;
@@ -102,7 +102,7 @@ PicoWebsite >> gtSpotterForPagePathFor: aSearch [
 ]
 
 { #category : #accessing }
-PicoWebsite >> gtSpotterForPageTitlesFor: aSearch [
+PicoWebsiteOld >> gtSpotterForPageTitlesFor: aSearch [
 	<gtSearch>
 	^ aSearch list
 				priority: 10;
@@ -114,7 +114,7 @@ PicoWebsite >> gtSpotterForPageTitlesFor: aSearch [
 ]
 
 { #category : #view }
-PicoWebsite >> gtUrlsFor: aView [
+PicoWebsiteOld >> gtUrlsFor: aView [
 	<gtView>
 	^ aView columnedList
 		title: 'URLs';
@@ -134,13 +134,13 @@ PicoWebsite >> gtUrlsFor: aView [
 ]
 
 { #category : #initialization }
-PicoWebsite >> initialize [
+PicoWebsiteOld >> initialize [
 	urlDict := Dictionary new.
 	self loadPages.
 ]
 
 { #category : #initialization }
-PicoWebsite >> loadPages [
+PicoWebsiteOld >> loadPages [
 	| mdFiles |
 	mdFiles := self contentDir allChildrenMatching: '*.md'.
 	self
@@ -153,22 +153,22 @@ PicoWebsite >> loadPages [
 ]
 
 { #category : #accessing }
-PicoWebsite >> pageAtPath: aPath [
+PicoWebsiteOld >> pageAtPath: aPath [
 	^ self pages detect: [ :p | p path = aPath ]
 ]
 
 { #category : #accessing }
-PicoWebsite >> pages [
+PicoWebsiteOld >> pages [
 	^ pages
 ]
 
 { #category : #accessing }
-PicoWebsite >> pages: anObject [
+PicoWebsiteOld >> pages: anObject [
 	pages := anObject
 ]
 
 { #category : #constant }
-PicoWebsite >> repoDir [
+PicoWebsiteOld >> repoDir [
 	| repoName |
 	repoName := 'scgpico'.
 	^ IceRepository registry
@@ -178,16 +178,16 @@ PicoWebsite >> repoDir [
 ]
 
 { #category : #accessing }
-PicoWebsite >> urlDict [
+PicoWebsiteOld >> urlDict [
 	^ urlDict
 ]
 
 { #category : #accessing }
-PicoWebsite >> urlFor: anURL [
+PicoWebsiteOld >> urlFor: anURL [
 	^ self urlDict at: anURL ifAbsentPut: [ PicoUrl forUrl: anURL ]
 ]
 
 { #category : #accessing }
-PicoWebsite >> urls [
+PicoWebsiteOld >> urls [
 	^ self urlDict values sorted
 ]

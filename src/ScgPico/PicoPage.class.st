@@ -27,7 +27,7 @@ PicoPage class >> forFile: aFileReference website: aPicoWebsite [
 
 { #category : #accessing }
 PicoPage >> assertsUrl [
-	^ PicoWebsite assetsUrl
+	^ PicoWebsiteOld assetsUrl
 ]
 
 { #category : #accessing }

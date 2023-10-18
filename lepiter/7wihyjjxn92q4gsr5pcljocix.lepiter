@@ -103,7 +103,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-06-27T14:21:46.947944+02:00"
+						"dateAndTimeString" : "2023-10-18T14:39:06.271655+02:00"
 					}
 				},
 				"uid" : {
@@ -113,7 +113,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "We fix this in {{gtMethod:name=PicoWebsite>>#initialize}}. "
+				"string" : "We fix this in {{gtMethod:name=PicoWebsiteOld>>#initialize}}. "
 			},
 			{
 				"__type" : "textSnippet",
@@ -177,14 +177,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-06-27T14:04:02.82616+02:00"
+						"dateAndTimeString" : "2023-10-18T14:39:02.372803+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "Xp7BODC7DQCtHERmDnF+hQ=="
 				},
-				"code" : "PicoWebsite instance."
+				"code" : "PicoWebsiteOld instance."
 			},
 			{
 				"__type" : "pharoSnippet",
@@ -211,14 +211,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-06-27T14:04:29.298559+02:00"
+						"dateAndTimeString" : "2023-10-18T14:39:04.229959+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "rKA+AH27DQCi9953Czpoog=="
 				},
-				"code" : "PicoWebsite renew ."
+				"code" : "PicoWebsiteOld renew ."
 			},
 			{
 				"__type" : "textSnippet",

@@ -34,7 +34,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-08-23T15:53:26.566318+02:00"
+									"dateAndTimeString" : "2023-10-18T14:39:53.602273+02:00"
 								}
 							},
 							"uid" : {
@@ -44,7 +44,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "We first implemented {{gtClass:name=PicoWebsite}} to model this wesbite. Then we built another web explorer for Pillar websites, in particular {{gtClass:name=EsugWebsite}}. "
+							"string" : "We first implemented {{gtClass:name=PicoWebsiteOld}} to model this website. Then we built another web explorer for Pillar websites, in particular {{gtClass:name=EsugWebsite}}. "
 						},
 						{
 							"__type" : "textSnippet",
@@ -146,7 +146,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-08-23T15:55:16.57664+02:00"
+									"dateAndTimeString" : "2023-10-18T12:09:48.000069+02:00"
 								}
 							},
 							"uid" : {
@@ -156,7 +156,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "This is the first version:"
+							"string" : "This is the first version, made just for Pico websites:"
 						},
 						{
 							"__type" : "pharoSnippet",
@@ -183,14 +183,48 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-08-23T15:55:07.612906+02:00"
+									"dateAndTimeString" : "2023-10-18T14:39:47.648269+02:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
 								"uidString" : "PGBIMfm/DQCjU7AdDtqgUA=="
 							},
-							"code" : "PicoWebsite instance"
+							"code" : "[ PicoWebsiteOld instance ] timeToRun."
+						},
+						{
+							"__type" : "pharoSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-10-18T14:34:14.851943+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-10-18T14:39:49.286113+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "/PMWmF7EDQCXwqmAAYljSw=="
+							},
+							"code" : "PicoWebsiteOld instance"
 						},
 						{
 							"__type" : "textSnippet",
@@ -254,7 +288,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-08-23T16:58:42.198874+02:00"
+									"dateAndTimeString" : "2023-10-18T14:35:17.838329+02:00"
 								}
 							},
 							"uid" : {
@@ -264,7 +298,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "The first time"
+							"string" : "The version based on {{gtClass:name=MarkdownWebsite}}: "
 						},
 						{
 							"__type" : "pharoSnippet",
@@ -291,17 +325,17 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-08-23T16:58:38.288769+02:00"
+									"dateAndTimeString" : "2023-10-18T14:34:34.190441+02:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
 								"uidString" : "CLogFfq/DQClBW+eDHFwIg=="
 							},
-							"code" : "PicoWebsiteRedux scg"
+							"code" : "[PicoWebsiteRedux scg] timeToRun"
 						},
 						{
-							"__type" : "textSnippet",
+							"__type" : "pharoSnippet",
 							"children" : {
 								"__type" : "snippets",
 								"items" : [ ]
@@ -314,7 +348,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-08-23T16:35:29.679973+02:00"
+									"dateAndTimeString" : "2023-10-18T14:34:28.179888+02:00"
 								}
 							},
 							"editEmail" : {
@@ -325,17 +359,14 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-08-23T16:35:55.903559+02:00"
+									"dateAndTimeString" : "2023-10-18T14:34:28.76989+02:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
-								"uidString" : "/QuXwvm/DQCgLXauCXMROg=="
+								"uidString" : "lFjimF7EDQCX0AqFAYljSw=="
 							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : "The markdown parser does not link links starting with `%` and tries to character decode them."
+							"code" : "PicoWebsiteRedux scg"
 						}
 					]
 				},
@@ -375,6 +406,43 @@
 				"children" : {
 					"__type" : "snippets",
 					"items" : [
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-08-23T16:35:29.679973+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-10-18T12:10:03.066836+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "/QuXwvm/DQCgLXauCXMROg=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "The markdown parser does not recognize links starting with `%` and tries to character decode them."
+						},
 						{
 							"__type" : "textSnippet",
 							"children" : {
@@ -541,7 +609,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-08-23T16:39:09.746405+02:00"
+						"dateAndTimeString" : "2023-10-18T14:41:43.305447+02:00"
 					}
 				},
 				"uid" : {
@@ -551,7 +619,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "#Debugging the link parser"
+				"string" : "#Debugging the link parser (fixed)"
 			},
 			{
 				"__type" : "textSnippet",
@@ -1324,6 +1392,43 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-10-18T14:52:02.972707+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-10-18T14:52:14.401983+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "+i7B117EDQCaauQxAYljSw=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "Lazily load pages to make the system more reactive."
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
 									"dateAndTimeString" : "2023-08-23T17:17:15.180968+02:00"
 								}
 							},
@@ -1335,7 +1440,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-08-23T17:17:18.378154+02:00"
+									"dateAndTimeString" : "2023-10-18T14:52:17.514275+02:00"
 								}
 							},
 							"uid" : {
@@ -1345,7 +1450,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "Reachable pages"
+							"string" : "Reachable pages."
 						},
 						{
 							"__type" : "textSnippet",
@@ -1484,7 +1589,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-08-23T18:13:19.067702+02:00"
+									"dateAndTimeString" : "2023-10-18T14:52:52.141292+02:00"
 								}
 							},
 							"uid" : {
@@ -1494,7 +1599,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "We'd like to parse the config file but we can't, so we have to hardcode the config parameters."
+							"string" : "We'd like to parse the config file but there is a YAML error on the `date_format` line, so we comment that out."
 						},
 						{
 							"__type" : "pharoSnippet",
@@ -1529,6 +1634,40 @@
 								"uidString" : "WNGFIPu/DQCy5JPdCALWmg=="
 							},
 							"code" : "YAMLParser\r\tparse: 'pharo-local/iceberg/scgbern/scgpico/PicoConfig/config/config.yml'\r\t\t\tasFileReference contents"
+						},
+						{
+							"__type" : "pharoSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-10-18T14:44:48.219782+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-10-18T14:44:59.781436+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "T2XXvV7EDQCaO28CAYljSw=="
+							},
+							"code" : "'pharo-local/iceberg/scgbern/scgpico/PicoConfig/config/config.yml' asFileReference"
 						}
 					]
 				},

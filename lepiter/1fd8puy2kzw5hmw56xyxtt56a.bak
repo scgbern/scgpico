@@ -29,7 +29,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-06-23T10:47:28.884778+02:00"
+						"dateAndTimeString" : "2023-10-18T14:37:31.641144+02:00"
 					}
 				},
 				"uid" : {
@@ -39,7 +39,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "We add two searches to the pages view: {{gtMethod:name=PicoWebsite>>#gtSpotterForPagePathFor:}} and {{gtMethod:name=PicoWebsite>>#gtSpotterForPageTitlesFor:}}. "
+				"string" : "We add two searches to the pages view: {{gtMethod:name=PicoWebsiteOld>>#gtSpotterForPagePathFor:}} and {{gtMethod:name=PicoWebsite>>#gtSpotterForPageTitlesFor:}}. "
 			},
 			{
 				"__type" : "textSnippet",
@@ -103,14 +103,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-06-23T10:47:52.464667+02:00"
+						"dateAndTimeString" : "2023-10-18T14:37:29.929923+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "E+55xym7DQC8X1tKAw8aGA=="
 				},
-				"code" : "PicoWebsite instance. "
+				"code" : "PicoWePicoWebsiteOldbsite instance. "
 			},
 			{
 				"__type" : "textSnippet",
@@ -137,7 +137,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-06-23T10:48:51.904014+02:00"
+						"dateAndTimeString" : "2023-06-23T10:50:46.948152+02:00"
 					}
 				},
 				"uid" : {
@@ -147,7 +147,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "We also add the possibility to search in the body text. (cost?)"
+				"string" : "We also add the possibility to search in the body text. "
 			},
 			{
 				"__type" : "textSnippet",

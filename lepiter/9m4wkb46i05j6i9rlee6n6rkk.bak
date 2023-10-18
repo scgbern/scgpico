@@ -510,7 +510,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-07-04T16:32:15.9936+02:00"
+									"dateAndTimeString" : "2023-07-04T16:33:07.162315+02:00"
 								}
 							},
 							"uid" : {
@@ -520,7 +520,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "Strip off `/index.md` from page titles."
+							"string" : "Strip off `index.md` from page titles (but leave the trailing `/`)."
 						},
 						{
 							"__type" : "textSnippet",

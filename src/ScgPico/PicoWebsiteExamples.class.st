@@ -7,7 +7,7 @@ Class {
 { #category : #accessing }
 PicoWebsiteExamples >> rootPage [
 	<gtExample>
-	^ PicoWebsite instance pageAtPath: '/index.md'
+	^ PicoWebsiteOld instance pageAtPath: '/index.md'
 ]
 
 { #category : #accessing }

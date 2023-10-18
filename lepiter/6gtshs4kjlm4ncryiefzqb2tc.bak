@@ -23,7 +23,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-02-07T15:55:38.453552+01:00"
+									"dateAndTimeString" : "2023-08-23T15:48:48.054968+02:00"
 								}
 							},
 							"editEmail" : {
@@ -34,54 +34,17 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-02-07T15:55:38.453552+01:00"
+									"dateAndTimeString" : "2023-08-23T15:48:57.833668+02:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
-								"uidString" : "QZrmE3+wDQCUf0CaAiE+bQ=="
+								"uidString" : "xKOZG/m/DQCWHZ2sDtqgUA=="
 							},
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "Model and analyze the SCG Pico website."
-						},
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-08-23T15:48:18.683+02:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-08-23T15:48:27.356377+02:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "nnXZGfm/DQCVd6VZDtqgUA=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : "To explore an instanm"
+							"string" : "This was the first attempt to model and analyze the SCG Pico website."
 						},
 						{
 							"__type" : "pharoSnippet",
@@ -108,14 +71,14 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-08-23T15:48:35.300539+02:00"
+									"dateAndTimeString" : "2023-08-23T15:48:43.937914+02:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
 								"uidString" : "ckenGvm/DQCV+fwQDtqgUA=="
 							},
-							"code" : ""
+							"code" : "PicoWebsite instance"
 						}
 					]
 				},
