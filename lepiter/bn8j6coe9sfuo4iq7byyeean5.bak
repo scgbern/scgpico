@@ -212,7 +212,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-08-23T15:51:51.856385+02:00"
+						"dateAndTimeString" : "2023-08-23T17:27:48.004979+02:00"
 					}
 				},
 				"uid" : {
@@ -222,7 +222,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "See [[Pico modeling with the Markdown Web Explorer]]."
+				"string" : "See [[*** Pico modeling with the Markdown Web Explorer]]."
 			},
 			{
 				"__type" : "textSnippet",

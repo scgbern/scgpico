@@ -64,7 +64,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-07-18T16:19:26.084441+02:00"
+						"dateAndTimeString" : "2024-07-31T13:18:48.679557+02:00"
 					}
 				},
 				"uid" : {
@@ -74,7 +74,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "[This repo](https://github.com/scgbern/scgpico) holds the SCG website implemented in Pico"
+				"string" : " [This repo](https://github.com/scgbern/scgpico) holds the SCG website implemented in Pico"
 			},
 			{
 				"__type" : "textSnippet",
