@@ -1,5 +1,5 @@
 ---
-Title: P2: Programming 2 (F13)
+Title: 'P2: Programming 2 (F13)'
 ---
 #P2: Programming 2 (F13)
 #Overview

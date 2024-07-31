@@ -1,5 +1,5 @@
 ---
-Title: Android: Investigating the quantity and quality of localizations
+Title: 'Android: Investigating the quantity and quality of localizations'
 ---
 #Android: Investigating the quantity and quality of localizations
 #Introduction

@@ -1,5 +1,5 @@
 ---
-Title: SVC: The Software Visualization Corpus
+Title: 'SVC: The Software Visualization Corpus'
 ---
 #SVC: The Software Visualization Corpus
 #Abstract

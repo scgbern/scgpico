@@ -1,5 +1,5 @@
 ---
-Title: Recast: Evolution of Object-Oriented Applications
+Title: 'Recast: Evolution of Object-Oriented Applications'
 ---
 #Recast: Evolution of Object-Oriented Applications
 #Overview

@@ -1,5 +1,5 @@
 ---
-Title: VISON: Software Visualization Ontology
+Title: 'VISON: Software Visualization Ontology'
 ---
 #VISON: Software Visualization Ontology
 #Problem

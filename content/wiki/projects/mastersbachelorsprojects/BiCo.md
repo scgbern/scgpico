@@ -1,5 +1,5 @@
 ---
-Title: BiCo: Big Commit Analysis
+Title: 'BiCo: Big Commit Analysis'
 ---
 #BiCo: Big Commit Analysis
 #Project Idea

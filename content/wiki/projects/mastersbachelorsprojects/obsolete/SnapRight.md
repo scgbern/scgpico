@@ -1,5 +1,5 @@
 ---
-Title: SnapRight: Taking Snapshots at The Right Commits
+Title: 'SnapRight: Taking Snapshots at The Right Commits'
 ---
 #SnapRight: Taking Snapshots at The Right Commits
 #Project Idea

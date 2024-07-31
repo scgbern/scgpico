@@ -1,5 +1,5 @@
 ---
-Title: Android: Bypassing HTTPS certificate pinning
+Title: 'Android: Bypassing HTTPS certificate pinning'
 ---
 #Android: Bypassing HTTPS certificate pinning
 #<font style="color:red;">This project is unavailable since it already has been assigned to a seminar student.</font>

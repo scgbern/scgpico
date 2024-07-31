@@ -1,5 +1,5 @@
 ---
-Title: P2: Programming 2 &mdash; Object-Oriented Design
+Title: 'P2: Programming 2 &mdash; Object-Oriented Design'
 ---
 #P2: Programming 2 &mdash; Object-Oriented Design
 #Overview

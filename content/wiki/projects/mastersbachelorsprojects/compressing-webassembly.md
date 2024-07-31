@@ -1,5 +1,5 @@
 ---
-Title: Compressing Webassembly: Efficient Stack Usage in a Stack-Based Bytecode
+Title: 'Compressing Webassembly: Efficient Stack Usage in a Stack-Based Bytecode'
 ---
 #Compressing Webassembly: Efficient Stack Usage in a Stack-Based Bytecode
 WebAssembly (wasm) is a simple code format, that was introduced as a compile target for the web. The idea is to support arbitrary high-level programming languages in the browser, by exposing a low-level instruction set for compiler writers.

@@ -1,5 +1,5 @@
 ---
-Title: CommunityExplorer: A Framework for Visualizing Collaboration Networks
+Title: 'CommunityExplorer: A Framework for Visualizing Collaboration Networks'
 ---
 #CommunityExplorer: A Framework for Visualizing Collaboration Networks
 #Abstract

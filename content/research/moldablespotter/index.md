@@ -1,5 +1,5 @@
 ---
-Title: Moldable Spotter: a unified search interface for IDEs
+Title: 'Moldable Spotter: a unified search interface for IDEs'
 ---
 #Moldable Spotter: a unified search interface for IDEs
 Program comprehension requires developers to reason about many kinds of highly interconnected software entities. Dealing with this reality prompts developers to continuously intertwine searching and navigation. Nevertheless, current integrated development environments (IDEs) address searching by means of many independent and disconnected search tools. This not only impedes developers from reusing search results produced by one search tool as input for another search tool, but it also makes it difficult to find appropriate search tools, in the multitude of other tools provided by an IDE.

@@ -1,5 +1,5 @@
 ---
-Title: CC: Compiler Construction (FS11)
+Title: 'CC: Compiler Construction (FS11)'
 ---
 #CC: Compiler Construction (FS11)
 ![St George](%assets_url%/files/42/p0a3amfjqbkvygyyz64y4bxp0pkud2/stgeorge.png)

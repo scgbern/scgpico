@@ -1,5 +1,5 @@
 ---
-Title: EI: Einführung in die Informatik
+Title: 'EI: Einführung in die Informatik'
 ---
 #EI: Einführung in die Informatik
 

@@ -1,5 +1,5 @@
 ---
-Title: P2: Programming 2 (FS12)
+Title: 'P2: Programming 2 (FS12)'
 ---
 #P2: Programming 2 (FS12)
 #Overview

@@ -1,5 +1,5 @@
 ---
-Title: PuRE: Pull Request Evolution
+Title: 'PuRE: Pull Request Evolution'
 ---
 #PuRE: Pull Request Evolution
 #Project Idea

@@ -1,5 +1,5 @@
 ---
-Title: CC: Compiler Construction
+Title: 'CC: Compiler Construction'
 ---
 #CC: Compiler Construction
 

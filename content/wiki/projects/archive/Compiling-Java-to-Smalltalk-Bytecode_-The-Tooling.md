@@ -1,5 +1,5 @@
 ---
-Title: Compiling Java to Smalltalk Bytecode: The Tooling
+Title: 'Compiling Java to Smalltalk Bytecode: The Tooling'
 ---
 #Compiling Java to Smalltalk Bytecode: The Tooling
 The idea of compiling Java source code to Smalltalk bytecode comes from a compiler construction course. The tools for building compilers in Java (and other languages) hardly care about the development experience of a compiler developer. While sometimes we are forced to use a certain toolset, for teaching we can choose a technology that fits the use case best.

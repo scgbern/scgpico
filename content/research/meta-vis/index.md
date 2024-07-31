@@ -1,5 +1,5 @@
 ---
-Title: MetaVis: Exploring Actionable Visualization
+Title: 'MetaVis: Exploring Actionable Visualization'
 ---
 #MetaVis: Exploring Actionable Visualization
 Software visualization can be very useful for answering complex questions that arise in the software development process.

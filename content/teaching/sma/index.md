@@ -1,5 +1,5 @@
 ---
-Title: SMA: Software Modeling and Analysis
+Title: 'SMA: Software Modeling and Analysis'
 ---
 #SMA: Software Modeling and Analysis
 ![SDE web image](%assets_url%/files/5d/x6asdk42eywwaescaa9so1ipx598bl/sde-web.jpg)

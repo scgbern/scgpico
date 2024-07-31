@@ -1,5 +1,5 @@
 ---
-Title: CiteWise: The Citation Search Engine
+Title: 'CiteWise: The Citation Search Engine'
 ---
 #CiteWise: The Citation Search Engine
 #Project Idea:

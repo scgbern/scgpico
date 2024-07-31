@@ -1,5 +1,5 @@
 ---
-Title: SDE: Software Design and Evolution
+Title: 'SDE: Software Design and Evolution'
 ---
 #SDE: Software Design and Evolution
 ![SDE web image](%assets_url%/files/5d/x6asdk42eywwaescaa9so1ipx598bl/sde-web.jpg)

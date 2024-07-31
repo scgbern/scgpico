@@ -1,5 +1,5 @@
 ---
-Title: ESE: Introduction to Software Engineering (Einführung in SE)
+Title: 'ESE: Introduction to Software Engineering (Einführung in SE)'
 ---
 #ESE: Introduction to Software Engineering (Einführung in SE)
 #Schedule 2021

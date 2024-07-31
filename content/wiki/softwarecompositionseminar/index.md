@@ -1,5 +1,5 @@
 ---
-Title: SC: Software Composition Seminar
+Title: 'SC: Software Composition Seminar'
 ---
 #SC: Software Composition Seminar
 ![ScgLego](%assets_url%/files/65/h39oak36qzoz5bnfry16mlrdxr84ev/scg-lego.gif)
