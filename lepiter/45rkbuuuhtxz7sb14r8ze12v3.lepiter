@@ -245,14 +245,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-07-31T14:09:30.604227+02:00"
+						"dateAndTimeString" : "2024-07-31T14:14:16.720974+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "XqQwruvaDQCoc4ypBCNFRg=="
 				},
-				"code" : "colonPages\r\tcollect: [ :p | \r\t\ttitleRegex\r\t\t\tcopy: p contents\r\t\t\ttranslatingMatchesUsing: [ :each | 'Title: ''' , (titleRegex subexpression: 2) , '''' ] ]"
+				"code" : "colonPages\r\tcollect: [ :p | \r\t\ttitleRegex\r\t\t\tcopy: p contents\r\t\t\ttranslatingMatchesUsing: [ :each | 'Title: ''' , (titleRegex subexpression: 2) , '''' ] ]."
 			},
 			{
 				"__type" : "textSnippet",
@@ -279,7 +279,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-07-31T14:10:12.722599+02:00"
+						"dateAndTimeString" : "2024-07-31T14:17:09.880252+02:00"
 					}
 				},
 				"uid" : {
@@ -289,7 +289,41 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Now to write the results to the page files."
+				"string" : "Now to write the results to the page files. Test a single case:"
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-07-31T14:14:17.384588+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-07-31T14:16:36.738143+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "FrMrxevaDQC4N9uDA2F8lA=="
+				},
+				"code" : "aPage := colonPages first.\rnewContents := titleRegex\r\t\t\tcopy: aPage contents\r\t\t\ttranslatingMatchesUsing: [ :each | 'Title: ''' , (titleRegex subexpression: 2) , '''' ] .\raPage webPageFile writeStreamDo: [ :aStream | \r\taStream nextPutAll: newContents ].\raPage webPageFile."
 			},
 			{
 				"__type" : "textSnippet",
@@ -316,7 +350,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-07-31T14:10:13.287743+02:00"
+						"dateAndTimeString" : "2024-07-31T14:17:15.754194+02:00"
 					}
 				},
 				"uid" : {
@@ -326,7 +360,41 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : ""
+				"string" : "Now do all the files."
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-07-31T14:17:17.058705+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-07-31T14:17:55.782821+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "vT/hz+vaDQC8C+vhA2F8lA=="
+				},
+				"code" : "colonPages\r\tdo: [ :aPage | \r\t\t| newContents |\r\t\tnewContents := titleRegex\r\t\t\t\tcopy: aPage contents\r\t\t\t\ttranslatingMatchesUsing: [ :each | 'Title: ''' , (titleRegex subexpression: 2) , '''' ].\r\t\taPage webPageFile\r\t\t\twriteStreamDo: [ :aStream | aStream nextPutAll: newContents ].\r\t\taPage webPageFile ].\rcolonPages."
 			},
 			{
 				"__type" : "textSnippet",
